@@ -415,14 +415,25 @@ def extra_stores(paths, seen_links):
 
 
 LINK_CHECK = ROOT / "data" / "link_check.json"
+SOLD_OUT = ROOT / "data" / "sold_out.txt"
 
 
 def apply_link_check(products):
     """Drop products that scripts/check_links.py marked as not a product page or sold out."""
-    if not LINK_CHECK.exists():
-        return products, 0
-    status = json.loads(LINK_CHECK.read_text(encoding="utf-8"))
-    keep = [p for p in products if status.get(p.get("link") or "", {}).get("ok", True)]
+    status = json.loads(LINK_CHECK.read_text(encoding="utf-8")) if LINK_CHECK.exists() else {}
+    # data/sold_out.txt: one link per line, for pages seen as sold / out of stock by hand.
+    sold = set()
+    if SOLD_OUT.exists():
+        sold = {l.strip().rstrip("/").lower() for l in SOLD_OUT.read_text(encoding="utf-8").splitlines()
+                if l.strip() and not l.startswith("#")}
+    keep = [p for p in products
+            if status.get(p.get("link") or "", {}).get("ok", True)
+            and (p.get("link") or "").rstrip("/").lower() not in sold]
+    # Use the price read from the store's product page when the checker found one.
+    for p in keep:
+        site_price = status.get(p.get("link") or "", {}).get("price")
+        if site_price:
+            p["price"] = site_price
     return keep, len(products) - len(keep)
 
 
@@ -438,7 +449,7 @@ def main():
     products += extra_stores(EXTRA_CSVS, seen)
     products, dropped = apply_link_check(products)
     if dropped:
-        print(f"Left out {dropped} listings whose link failed scripts/check_links.py")
+        print(f"Left out {dropped} listings that are sold / out of stock or failed the link check")
     notes = []
     if "Read me" in wb.sheetnames:
         notes = [str(r[0]).strip() for r in wb["Read me"].iter_rows(values_only=True) if r and r[0]]

@@ -9,7 +9,9 @@ A link fails when:
     a search page or a different product),
   - the page says the product is sold, sold out or out of stock.
 
-Results go to data/link_check.json as {link: {"ok": bool, "reason": str}}.
+It also reads the price shown on each product page.
+
+Results go to data/link_check.json as {link: {"ok": bool, "reason": str, "price": float|None}}.
 build_data.py leaves out every link with "ok": false. Links that could not
 be reached at all are recorded as "unreachable" and also left out, so run
 this from a network that can open the store sites.
@@ -47,6 +49,28 @@ def page_title(html):
     return re.sub(r"\s+", " ", m.group(1)).strip() if m else ""
 
 
+PRICE_PATTERNS = [
+    r'"price"\s*:\s*"?([\d.,]+)"?',                                    # JSON-LD offers
+    r'property="(?:product:price:amount|og:price:amount)"\s+content="([\d.,]+)"',
+    r'itemprop="price"\s+content="([\d.,]+)"',
+    r'woocommerce-Price-amount[^>]*>\s*<bdi>\s*(?:<span[^>]*>[^<]*</span>)?\s*([\d.,]+)',
+    r'class="[^"]*price[^"]*"[^>]*>\s*\$\s*([\d.,]+)',
+]
+
+
+def find_price(html):
+    """Price in USD as shown on the product page, or None."""
+    for pat in PRICE_PATTERNS:
+        for m in re.finditer(pat, html, re.I):
+            try:
+                v = float(m.group(1).replace(",", ""))
+            except ValueError:
+                continue
+            if 50 <= v <= 20000:  # a laptop price, not a rating or an id
+                return v
+    return None
+
+
 def check(link):
     try:
         req = urllib.request.Request(link, headers={"User-Agent": UA, "Accept-Language": "en"})
@@ -81,7 +105,7 @@ def check(link):
             if pat.startswith(r"\b") and re.search(r'InStock"|in stock</|add to cart', html, re.I):
                 continue
             return {"ok": False, "reason": "sold / out of stock"}
-    return {"ok": True, "reason": "product page, available"}
+    return {"ok": True, "reason": "product page, available", "price": find_price(html)}
 
 
 def main():
