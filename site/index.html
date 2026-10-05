@@ -1,0 +1,162 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Specs.lb</title>
+<meta name="description" content="Compare laptops and desktop PCs sold in Lebanon by processor, graphics card, RAM, storage and price.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,700;12..96,800&family=IBM+Plex+Mono:wght@400;500;600;700&family=IBM+Plex+Sans:wght@400;500;600&display=swap">
+<link rel="stylesheet" href="app.css">
+</head>
+<body>
+<!--BODY-START-->
+<header class="masthead">
+  <div class="wrap">
+    <h1 class="logo">Specs<span>.lb</span></h1>
+    <span class="stamp" id="stamp">Prices as of 5 Oct 2026</span>
+    <label class="search" for="q">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"></circle><path d="m20 20-3.5-3.5"></path></svg>
+      <input id="q" type="search" placeholder="Search model, CPU or GPU, e.g. “RTX 5070” or “ThinkPad”" autocomplete="off" aria-label="Search">
+    </label>
+  </div>
+</header>
+
+<main class="wrap">
+  <section class="intro">
+    <h2>Laptops and PCs on sale in Lebanon, by spec</h2>
+    <p id="intro-text">Every listing shows its processor, graphics card, memory, storage and screen, with the store price in US dollars.</p>
+  </section>
+
+  <nav class="tabs" id="tabs" aria-label="Device type"></nav>
+
+  <div class="layout">
+    <aside class="filters" id="filters" aria-label="Filters">
+      <div class="drawer-head"><button class="btn" id="close-filters" type="button">Done</button></div>
+      <div class="filters-head">
+        <h3>Filters</h3>
+        <button class="linkbtn" id="reset" type="button">Clear all</button>
+      </div>
+
+      <details class="fgroup" open>
+        <summary>Price (USD)</summary>
+        <div class="pricebox">
+          <input id="pmin" type="number" inputmode="numeric" min="0" step="50" placeholder="Min" aria-label="Minimum price">
+          <span class="dim">to</span>
+          <input id="pmax" type="number" inputmode="numeric" min="0" step="50" placeholder="Max" aria-label="Maximum price">
+        </div>
+        <label class="check" style="margin-top:8px"><input type="checkbox" id="priced"><span class="lbl">Only listings with a price</span></label>
+      </details>
+
+      <details class="fgroup" open>
+        <summary>Graphics (GPU)</summary>
+        <div class="seg" id="gpukind"></div>
+        <div class="fbody" id="f-gpu"></div>
+      </details>
+
+      <details class="fgroup" open>
+        <summary>Processor (CPU)</summary>
+        <div class="fbody" id="f-cpu"></div>
+      </details>
+
+      <details class="fgroup" open>
+        <summary>Memory (RAM)</summary>
+        <div class="seg" id="ram"></div>
+      </details>
+
+      <details class="fgroup">
+        <summary>Storage</summary>
+        <div class="seg" id="storage"></div>
+      </details>
+
+      <details class="fgroup">
+        <summary>Screen size</summary>
+        <div class="seg" id="screen"></div>
+      </details>
+
+      <details class="fgroup" open>
+        <summary>Brand</summary>
+        <div class="fbody" id="f-brand"></div>
+      </details>
+
+      <details class="fgroup">
+        <summary>Use</summary>
+        <div class="fbody" id="f-use"></div>
+      </details>
+
+      <details class="fgroup" open>
+        <summary>Store</summary>
+        <div class="fbody" id="f-store"></div>
+      </details>
+
+      <details class="fgroup">
+        <summary>Condition</summary>
+        <div class="fbody" id="f-cond"></div>
+      </details>
+    </aside>
+
+    <section aria-label="Results" style="min-width:0">
+      <div class="toolbar">
+        <p class="summary" id="summary" aria-live="polite"></p>
+        <div class="tools">
+          <button class="btn only-mobile" id="open-filters" type="button">Filters</button>
+          <label for="sort" class="dim">Sort</label>
+          <select id="sort">
+            <option value="price-asc">Price: low to high</option>
+            <option value="price-desc">Price: high to low</option>
+            <option value="gpu">Graphics power</option>
+            <option value="ram">Most RAM</option>
+            <option value="storage">Most storage</option>
+            <option value="name">Name A–Z</option>
+          </select>
+          <div class="viewtoggle" role="group" aria-label="View">
+            <button type="button" id="v-cards" aria-pressed="true">Cards</button>
+            <button type="button" id="v-table" aria-pressed="false">Table</button>
+          </div>
+        </div>
+      </div>
+      <div class="active-chips" id="chips"></div>
+      <div id="results"></div>
+    </section>
+  </div>
+
+  <section class="about" id="about">
+    <div>
+      <h3>Where the data comes from</h3>
+      <p id="stores-line"></p>
+      <ul id="notes"></ul>
+    </div>
+    <div>
+      <h3>Reading the specs</h3>
+      <ul>
+        <li><b>Processor</b> shows the exact chip (e.g. Core Ultra 9 275HX) when the store gave it, otherwise the family from the product title (e.g. Core i7).</li>
+        <li><b>Graphics</b> marked “integrated” means the laptop or PC has no separate graphics card. Gaming, 3D and video editing work best with a dedicated card such as an RTX or Radeon RX.</li>
+        <li><b>Graphics power</b> sorting uses a rough ranking from RTX 5080 at the top down to integrated graphics. It is a guide, not a benchmark.</li>
+        <li>Barebone mini PCs come without RAM or storage; budget for those separately.</li>
+      </ul>
+    </div>
+  </section>
+</main>
+
+<div class="tray" id="tray" hidden>
+  <div class="wrap">
+    <strong>Compare</strong>
+    <div class="slots" id="slots"></div>
+    <button class="btn" id="cmp-clear" type="button">Clear</button>
+    <button class="btn primary" id="cmp-open" type="button">Compare side by side</button>
+  </div>
+</div>
+
+<dialog id="cmp-dialog" aria-labelledby="cmp-title">
+  <div class="dlg-head">
+    <h3 id="cmp-title">Side-by-side specs</h3>
+    <button class="btn" id="cmp-close" type="button">Close</button>
+  </div>
+  <div class="dlg-body" id="cmp-body"></div>
+</dialog>
+<!--BODY-END-->
+<script src="data.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
