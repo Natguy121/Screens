@@ -17,7 +17,7 @@ import openpyxl
 
 ROOT = Path(__file__).resolve().parent.parent
 DEFAULT_XLSX = ROOT / "data" / "Lebanon_Laptops_and_PCs_Oct2026.xlsx"
-EXTRA_CSV = ROOT / "data" / "more_stores_Oct2026.csv"
+EXTRA_CSVS = sorted((ROOT / "data").glob("more_stores*.csv"))
 OUT = ROOT / "site" / "data.js"
 SNAPSHOT = "2026-10-05"
 
@@ -25,6 +25,9 @@ KNOWN_BRANDS = ["Apple", "Lenovo", "HP", "Dell", "ASUS", "Acer", "MSI", "Gigabyt
 
 # Rough ranking used for the "Graphics power" sort. Higher is faster.
 GPU_RANK = {
+    "RTX 4090": 105, "RTX 3080 Ti": 78, "RTX 3080": 74, "RTX 3070 Ti": 68, "RTX 3070": 66,
+    "RTX 3060": 46, "RTX 2060": 36, "RTX 2050": 24, "RX 6700": 62, "RX 6550": 32,
+    "GTX 1050": 14, "MX550": 17, "MX330": 12, "RTX A3000": 60,
     "RTX 5090": 110, "RTX 4080": 85, "RTX 4070": 72, "RTX 3050 Ti": 40, "MX450": 16,
     "RTX 5080": 100, "RTX 5070 Ti": 90, "RX 9070 XT": 88, "RTX 5070": 80,
     "RTX 3070": 66, "RTX 2080 Super": 62, "RTX 5060 Ti": 70, "RTX 5060": 64,
@@ -363,13 +366,20 @@ def olx(ws):
     return out
 
 
-def extra_stores(path):
-    """Laptops from other Lebanese stores, collected into a CSV."""
+def extra_stores(paths, seen_links):
+    """Laptops from other Lebanese stores, collected into CSVs. Skips links already listed."""
     out = []
-    if not path.exists():
-        return out
-    with open(path, newline="", encoding="utf-8") as fh:
-        for i, r in enumerate(csv.DictReader(fh)):
+    rows = []
+    for path in paths:
+        with open(path, newline="", encoding="utf-8") as fh:
+            rows += list(csv.DictReader(fh))
+    for i, r in enumerate(rows):
+            link = (r["link"] or "").strip()
+            if r["link_is_product"].strip() == "1":
+                key = link.rstrip("/").lower()
+                if key in seen_links:
+                    continue
+                seen_links.add(key)
             screen = clean(r["screen"])
             price = clean(r["price"])
             p = {
@@ -408,14 +418,15 @@ def main():
         laptops(wb["Laptops (PCandParts)"])
         + desktops(wb["Desktops (PCandParts)"])
         + olx(wb["OLX Lebanon"])
-        + extra_stores(EXTRA_CSV)
     )
+    seen = {(p["link"] or "").rstrip("/").lower() for p in products if p.get("link")}
+    products += extra_stores(EXTRA_CSVS, seen)
     notes = []
     if "Read me" in wb.sheetnames:
         notes = [str(r[0]).strip() for r in wb["Read me"].iter_rows(values_only=True) if r and r[0]]
         notes = [n for n in notes if not n.startswith("OLX listings may already")]
     notes += [
-        "Jak Computer, 961souq, Ayoub Computers, Mojitech, Mediatech, DSLR Zone, Laptops King and Mobileleb rows (data/more_stores_Oct2026.csv) were collected on 5 Oct 2026 from web-search listings of those stores' pages, since the store sites could not be opened directly. Some prices may be out of date and some specs (RAM, storage) were not shown; check the store before buying.",
+        "Jak Computer, 961souq, Ayoub Computers, Mojitech, Mediatech, DSLR Zone, Laptops King and Mobileleb rows, and the extra PCandParts laptops (data/more_stores_*.csv), were collected on 5 Oct 2026 from web-search listings of those stores' pages, since the store sites could not be opened directly. Some prices may be out of date and some specs (RAM, storage) were not shown; check the store before buying.",
         "OLX listings may already be sold or repriced.",
     ]
     payload = {"snapshot": SNAPSHOT, "currency": "USD", "notes": notes, "products": products}
