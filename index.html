@@ -7,7 +7,7 @@
 <meta name="description" content="Compare laptops and desktop PCs sold in Lebanon by processor, graphics card, RAM, storage and price.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,700;12..96,800&family=IBM+Plex+Mono:wght@400;500;600;700&family=IBM+Plex+Sans:wght@400;500;600&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@100..125,600..900&family=Figtree:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600;700&display=swap">
 <link rel="stylesheet" href="app.css">
 </head>
 <body>
@@ -16,17 +16,22 @@
   <div class="wrap">
     <h1 class="logo">Specs<span>.lb</span></h1>
     <span class="stamp" id="stamp">Prices as of 5 Oct 2026</span>
-    <label class="search" for="q">
-      <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"></circle><path d="m20 20-3.5-3.5"></path></svg>
-      <input id="q" type="search" placeholder="Search model, CPU or GPU, e.g. “RTX 5070” or “ThinkPad”" autocomplete="off" aria-label="Search">
-    </label>
+    <form class="search" id="search-form" role="search">
+      <label class="field" for="q">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"></circle><path d="m20 20-3.5-3.5"></path></svg>
+        <input id="q" type="search" placeholder="Search model, CPU, GPU or store, e.g. “RTX 5070”" autocomplete="off" aria-label="Search laptops and PCs">
+      </label>
+      <button class="search-btn" type="submit"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"></circle><path d="m20 20-3.5-3.5"></path></svg><span>Search</span></button>
+    </form>
   </div>
 </header>
 
 <main class="wrap">
   <section class="intro">
-    <h2>Laptops and PCs on sale in Lebanon, by spec</h2>
+    <p class="kicker">Lebanon · Laptops &amp; PCs · USD</p>
+    <h2>Find your next machine <em>by spec</em>, across Lebanese stores</h2>
     <p id="intro-text">Every listing shows its processor, graphics card, memory, storage and screen, with the store price in US dollars.</p>
+    <div class="storestrip" id="storestrip"></div>
   </section>
 
   <nav class="tabs" id="tabs" aria-label="Device type"></nav>
