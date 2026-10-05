@@ -2,11 +2,11 @@
 
 A searchable spec sheet of laptops and desktop PCs on sale in Lebanon, built from the
 `data/Lebanon_Laptops_and_PCs_Oct2026.xlsx` snapshot plus `data/more_stores_Oct2026.csv` (both 5 Oct 2026). Stores covered:
-PCandParts (laptops, gaming PCs, all-in-ones, office and mini PCs), OLX Lebanon, Jak Computer, 961souq,
+PCandParts (laptops, gaming PCs, all-in-ones, office and mini PCs), Jak Computer, 961souq,
 Ayoub Computers, Mojitech, Mediatech, DSLR Zone, Laptops King and Mobileleb.
 
-The extra-store CSV was collected from web-search listings of each store's pages. Some rows link to a
-category page instead of the product, and some prices or specs may be out of date.
+The extra-store CSVs were collected from web-search listings of each store's pages. Only listings that link
+to the product's own page are shown; category-page links, OLX ads and anything marked sold are left out.
 
 Filter by processor family, graphics card, RAM, storage, screen size, brand, store, condition
 and price; switch between cards and a sortable table; tick up to four items to compare side by side.
@@ -31,7 +31,16 @@ python3 -m http.server -d site 8000
    python3 scripts/build_data.py            # or: python3 scripts/build_data.py path/to/new.xlsx
    ```
 
-3. Optional: `python3 scripts/build_single.py` writes `dist/specs-lb.html`, a single-file
+3. Check every link and drop the ones that are not a product page or are sold / out of stock:
+
+   ```sh
+   python3 scripts/check_links.py   # writes data/link_check.json
+   python3 scripts/build_data.py    # rebuild without the failed links
+   ```
+
+   This has to run from a network that can open the store sites.
+
+4. Optional: `python3 scripts/build_single.py` writes `dist/specs-lb.html`, a single-file
    version with the CSS, data and script inlined.
 
 Update `SNAPSHOT` in `scripts/build_data.py` when the prices come from a new date.

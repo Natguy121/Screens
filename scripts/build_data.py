@@ -375,11 +375,14 @@ def extra_stores(paths, seen_links):
             rows += list(csv.DictReader(fh))
     for i, r in enumerate(rows):
             link = (r["link"] or "").strip()
-            if r["link_is_product"].strip() == "1":
-                key = link.rstrip("/").lower()
-                if key in seen_links:
-                    continue
-                seen_links.add(key)
+            # Only rows whose link opens the product itself; category pages and
+            # hidden products (?showHidden) are left out.
+            if r["link_is_product"].strip() != "1" or "showhidden" in link.lower():
+                continue
+            key = link.rstrip("/").lower()
+            if key in seen_links:
+                continue
+            seen_links.add(key)
             screen = clean(r["screen"])
             price = clean(r["price"])
             p = {
@@ -411,24 +414,40 @@ def extra_stores(paths, seen_links):
     return out
 
 
+LINK_CHECK = ROOT / "data" / "link_check.json"
+
+
+def apply_link_check(products):
+    """Drop products that scripts/check_links.py marked as not a product page or sold out."""
+    if not LINK_CHECK.exists():
+        return products, 0
+    status = json.loads(LINK_CHECK.read_text(encoding="utf-8"))
+    keep = [p for p in products if status.get(p.get("link") or "", {}).get("ok", True)]
+    return keep, len(products) - len(keep)
+
+
 def main():
     xlsx = Path(sys.argv[1]) if len(sys.argv) > 1 else DEFAULT_XLSX
     wb = openpyxl.load_workbook(xlsx, data_only=True)
     products = (
         laptops(wb["Laptops (PCandParts)"])
         + desktops(wb["Desktops (PCandParts)"])
-        + olx(wb["OLX Lebanon"])
     )
+    # OLX rows are left out: their links open an OLX search page, not the ad itself.
     seen = {(p["link"] or "").rstrip("/").lower() for p in products if p.get("link")}
     products += extra_stores(EXTRA_CSVS, seen)
+    products, dropped = apply_link_check(products)
+    if dropped:
+        print(f"Left out {dropped} listings whose link failed scripts/check_links.py")
     notes = []
     if "Read me" in wb.sheetnames:
         notes = [str(r[0]).strip() for r in wb["Read me"].iter_rows(values_only=True) if r and r[0]]
         notes = [n for n in notes if not n.startswith("OLX listings may already")]
     notes += [
         "Jak Computer, 961souq, Ayoub Computers, Mojitech, Mediatech, DSLR Zone, Laptops King and Mobileleb rows, and the extra PCandParts laptops (data/more_stores_*.csv), were collected on 5 Oct 2026 from web-search listings of those stores' pages, since the store sites could not be opened directly. Some prices may be out of date and some specs (RAM, storage) were not shown; check the store before buying.",
-        "OLX listings may already be sold or repriced.",
     ]
+    notes = [n for n in notes if not n.startswith("OLX rows:")]
+    notes.append("Every listing links to the product's own page. Listings that only linked to a category or search page (including all OLX ads) and products marked sold or out of stock are left out.")
     payload = {"snapshot": SNAPSHOT, "currency": "USD", "notes": notes, "products": products}
     OUT.parent.mkdir(parents=True, exist_ok=True)
     OUT.write_text(
