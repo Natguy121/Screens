@@ -431,9 +431,11 @@ def apply_link_check(products):
             and (p.get("link") or "").rstrip("/").lower() not in sold]
     # Use the price read from the store's product page when the checker found one.
     for p in keep:
-        site_price = status.get(p.get("link") or "", {}).get("price")
-        if site_price:
-            p["price"] = site_price
+        st = status.get(p.get("link") or "", {})
+        if st.get("price"):
+            p["price"] = st["price"]
+        if st.get("final"):  # same laptop, moved to a new address
+            p["link"] = st["final"]
     return keep, len(products) - len(keep)
 
 
