@@ -139,7 +139,7 @@
     renderChecks($("f-cond"), S.conds, CONDS, count(forFacet("cond"), "condition"));
 
     const cpuCounts = count(forFacet("cpu"), "cpuFamily");
-    const groups = ["Intel", "AMD", "Qualcomm"];
+    const groups = ["Intel", "AMD", "Apple", "Qualcomm", "Other"];
     $("f-cpu").innerHTML = "";
     groups.forEach((g) => {
       const fams = CPUS.filter((f) => (ALL.find((p) => p.cpuFamily === f) || {}).cpuVendor === g);
@@ -189,7 +189,7 @@
 
   function linkHTML(p) {
     if (!p.link) return "";
-    const label = p.linkIsListing ? `View at ${p.store}` : "Open OLX search";
+    const label = p.linkIsListing ? `View at ${p.store}` : p.store === "OLX Lebanon" ? "Open OLX search" : `Find at ${p.store}`;
     return `<a href="${esc(p.link)}" target="_blank" rel="noopener noreferrer">${esc(label)} ↗</a>`;
   }
 
@@ -369,6 +369,15 @@
   bindSeg("screen", (v) => { S.screen = v; });
   bindSeg("tabs", (v) => { S.form = v; });
 
+  $("search-form").addEventListener("submit", (e) => {
+    e.preventDefault();
+    clearTimeout(qTimer);
+    S.q = $("q").value.trim();
+    render();
+    $("q").blur();
+    const top = $("tabs").getBoundingClientRect().top + window.scrollY - 80;
+    window.scrollTo({ top, behavior: matchMedia("(prefers-reduced-motion: reduce)").matches ? "auto" : "smooth" });
+  });
   let qTimer;
   $("q").addEventListener("input", (e) => {
     clearTimeout(qTimer);
@@ -424,7 +433,8 @@
     const when = isNaN(d) ? DATA.snapshot : d.toLocaleDateString("en-GB", { day: "numeric", month: "short", year: "numeric" });
     $("stamp").textContent = `Prices as of ${when}`;
     const byStore = count(ALL, "store");
-    $("intro-text").textContent = `${ALL.length} laptops and desktop PCs from Lebanese stores and marketplace sellers. Every listing shows its processor, graphics card, memory, storage and screen, with the price in US dollars as listed on ${when}.`;
+    $("intro-text").textContent = `${ALL.length} laptops and desktop PCs from ${byStore.size} Lebanese stores and marketplaces. Compare processor, graphics card, memory, storage, screen and price in US dollars, as listed on ${when}.`;
+    $("storestrip").innerHTML = [...byStore].sort((a, b) => b[1] - a[1]).map(([s, n]) => `<span>${esc(s)} <b>${n}</b></span>`).join("");
     $("stores-line").textContent = [...byStore].map(([s, n]) => `${s}: ${n} listings`).join(" · ");
     $("notes").innerHTML = (DATA.notes || []).map((n) => `<li>${esc(n)}</li>`).join("");
   })();

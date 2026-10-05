@@ -1,8 +1,12 @@
 # Specs.lb
 
 A searchable spec sheet of laptops and desktop PCs on sale in Lebanon, built from the
-`data/Lebanon_Laptops_and_PCs_Oct2026.xlsx` snapshot (5 Oct 2026). Stores covered:
-PCandParts (laptops, gaming PCs, all-in-ones, office and mini PCs) and OLX Lebanon listings.
+`data/Lebanon_Laptops_and_PCs_Oct2026.xlsx` snapshot plus `data/more_stores_Oct2026.csv` (both 5 Oct 2026). Stores covered:
+PCandParts (laptops, gaming PCs, all-in-ones, office and mini PCs), OLX Lebanon, Jak Computer, 961souq,
+Ayoub Computers, Mojitech, Mediatech, DSLR Zone, Laptops King and Mobileleb.
+
+The extra-store CSV was collected from web-search listings of each store's pages. Some rows link to a
+category page instead of the product, and some prices or specs may be out of date.
 
 Filter by processor family, graphics card, RAM, storage, screen size, brand, store, condition
 and price; switch between cards and a sortable table; tick up to four items to compare side by side.
@@ -18,7 +22,8 @@ python3 -m http.server -d site 8000
 
 ## Update the data
 
-1. Replace the workbook in `data/` (same sheet names and columns).
+1. Replace the workbook in `data/` (same sheet names and columns), and/or add rows to
+   `data/more_stores_Oct2026.csv` (one laptop per row; `link_is_product` is 1 for a product page, 0 for a category page).
 2. Regenerate `site/data.js`:
 
    ```sh

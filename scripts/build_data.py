@@ -7,6 +7,7 @@ Reads the "Laptops (PCandParts)", "Desktops (PCandParts)" and "OLX Lebanon"
 sheets, normalises every row into one product shape (CPU family, GPU model,
 RAM/storage in GB, price as a number) and writes window.SPECS_DATA.
 """
+import csv
 import json
 import re
 import sys
@@ -16,13 +17,15 @@ import openpyxl
 
 ROOT = Path(__file__).resolve().parent.parent
 DEFAULT_XLSX = ROOT / "data" / "Lebanon_Laptops_and_PCs_Oct2026.xlsx"
+EXTRA_CSV = ROOT / "data" / "more_stores_Oct2026.csv"
 OUT = ROOT / "site" / "data.js"
 SNAPSHOT = "2026-10-05"
 
-KNOWN_BRANDS = ["Lenovo", "HP", "Dell", "ASUS", "Acer", "MSI", "Gigabyte", "Alienware", "Intel"]
+KNOWN_BRANDS = ["Apple", "Lenovo", "HP", "Dell", "ASUS", "Acer", "MSI", "Gigabyte", "Alienware", "Intel"]
 
 # Rough ranking used for the "Graphics power" sort. Higher is faster.
 GPU_RANK = {
+    "RTX 5090": 110, "RTX 4080": 85, "RTX 4070": 72, "RTX 3050 Ti": 40, "MX450": 16,
     "RTX 5080": 100, "RTX 5070 Ti": 90, "RX 9070 XT": 88, "RTX 5070": 80,
     "RTX 3070": 66, "RTX 2080 Super": 62, "RTX 5060 Ti": 70, "RTX 5060": 64,
     "RTX 4060": 60, "RTX 5050": 55, "RTX 2070": 52, "RTX 4050": 50,
@@ -75,6 +78,11 @@ def cpu_info(raw):
     s = raw.strip()
     s = re.sub(r"^(Intel|AMD)\s+", "", s)
     up = s.upper()
+    if not s:
+        return "Other", "Not listed", None
+    m = re.match(r"Apple (M\d)", s)
+    if m:
+        return "Apple", f"Apple {m.group(1)}", None
     if up.startswith("SNAPDRAGON"):
         return "Qualcomm", "Snapdragon X", None
     if up.startswith("CELERON"):
@@ -110,6 +118,8 @@ def cpu_display(raw, vendor):
     """Full processor name as the store wrote it, with the vendor in front."""
     s = re.sub(r"^(Intel|AMD)\s+", "", raw.strip())
     s = re.sub(r"^Ultra\b", "Core Ultra", s)
+    if not s:
+        return "Not listed"
     if vendor in ("Intel", "AMD") and not s.startswith(("Snapdragon",)):
         s = f"{vendor} {s}"
     if vendor == "Qualcomm":
@@ -131,6 +141,10 @@ def gpu_info(raw, cpu_vendor):
         if "Adreno" in rest:
             return "Integrated", "Qualcomm", "Adreno", "Qualcomm Adreno (integrated)"
         return "Integrated", cpu_vendor, None, f"{cpu_vendor} integrated graphics"
+    if s.startswith("Apple"):
+        return "Integrated", "Apple", "Apple GPU", f"{s} (integrated)"
+    if re.search(r"RTX 40 series", s, re.I):
+        return "Dedicated", "NVIDIA", "RTX 40 series", "NVIDIA GeForce RTX 40 series (model not listed)"
     if re.search(r"dedicated", s, re.I):
         return "Dedicated", None, None, s.replace("dedicated", "dedicated card")
     vram = re.search(r"(\d+)\s*GB", s)
@@ -349,6 +363,44 @@ def olx(ws):
     return out
 
 
+def extra_stores(path):
+    """Laptops from other Lebanese stores, collected into a CSV."""
+    out = []
+    if not path.exists():
+        return out
+    with open(path, newline="", encoding="utf-8") as fh:
+        for i, r in enumerate(csv.DictReader(fh)):
+            screen = clean(r["screen"])
+            price = clean(r["price"])
+            p = {
+                "id": "ext-" + str(i + 1),
+                "form": "Laptop",
+                "use": None,
+                "brand": r["brand"].strip(),
+                "name": r["model"].strip(),
+                "cpu_raw": clean(r["cpu"]) or "",
+                "gpu_raw": clean(r["gpu"]),
+                "ram": clean(r["ram"]),
+                "storage": clean(r["storage"]),
+                "screen": screen,
+                "screenIn": inches(screen),
+                "touch": "touch" in (screen or "").lower(),
+                "oled": "oled" in (screen or "").lower(),
+                "extras": None,
+                "price": float(price) if price else None,
+                "store": r["store"].strip(),
+                "seller": r["store"].strip(),
+                "condition": r["condition"].strip() or "New",
+                "link": clean(r["link"]),
+                "linkIsListing": r["link_is_product"].strip() == "1",
+                "note": None if r["link_is_product"].strip() == "1" else "Link opens the store's category page; search the model name there.",
+            }
+            p = finish(p)
+            p["use"] = "Gaming" if p["gpuKind"] == "Dedicated" and p["gpuRank"] >= 38 else "Everyday & Business"
+            out.append(p)
+    return out
+
+
 def main():
     xlsx = Path(sys.argv[1]) if len(sys.argv) > 1 else DEFAULT_XLSX
     wb = openpyxl.load_workbook(xlsx, data_only=True)
@@ -356,10 +408,16 @@ def main():
         laptops(wb["Laptops (PCandParts)"])
         + desktops(wb["Desktops (PCandParts)"])
         + olx(wb["OLX Lebanon"])
+        + extra_stores(EXTRA_CSV)
     )
     notes = []
     if "Read me" in wb.sheetnames:
         notes = [str(r[0]).strip() for r in wb["Read me"].iter_rows(values_only=True) if r and r[0]]
+        notes = [n for n in notes if not n.startswith("OLX listings may already")]
+    notes += [
+        "Jak Computer, 961souq, Ayoub Computers, Mojitech, Mediatech, DSLR Zone, Laptops King and Mobileleb rows (data/more_stores_Oct2026.csv) were collected on 5 Oct 2026 from web-search listings of those stores' pages, since the store sites could not be opened directly. Some prices may be out of date and some specs (RAM, storage) were not shown; check the store before buying.",
+        "OLX listings may already be sold or repriced.",
+    ]
     payload = {"snapshot": SNAPSHOT, "currency": "USD", "notes": notes, "products": products}
     OUT.parent.mkdir(parents=True, exist_ok=True)
     OUT.write_text(
