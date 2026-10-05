@@ -416,18 +416,26 @@ def extra_stores(paths, seen_links):
 
 LINK_CHECK = ROOT / "data" / "link_check.json"
 SOLD_OUT = ROOT / "data" / "sold_out.txt"
+TO_CHECK = ROOT / "data" / "links_to_check.txt"
 
 
 def apply_link_check(products):
     """Drop products that scripts/check_links.py marked as not a product page or sold out."""
     status = json.loads(LINK_CHECK.read_text(encoding="utf-8")) if LINK_CHECK.exists() else {}
+    # Every candidate link goes to data/links_to_check.txt for scripts/check_links.py.
+    TO_CHECK.write_text("\n".join(sorted({p["link"] for p in products if p.get("link")})) + "\n", encoding="utf-8")
     # data/sold_out.txt: one link per line, for pages seen as sold / out of stock by hand.
     sold = set()
     if SOLD_OUT.exists():
         sold = {l.strip().rstrip("/").lower() for l in SOLD_OUT.read_text(encoding="utf-8").splitlines()
                 if l.strip() and not l.startswith("#")}
+    # Once a link check exists, only links it confirmed are shown; new ones wait for the next check.
+    waiting = [p for p in products if status and (p.get("link") or "") not in status]
+    if waiting:
+        print(f"{len(waiting)} new listings are waiting for scripts/check_links.py and are not shown yet")
     keep = [p for p in products
-            if status.get(p.get("link") or "", {}).get("ok", True)
+            if (not status or (p.get("link") or "") in status)
+            and status.get(p.get("link") or "", {}).get("ok", True)
             and (p.get("link") or "").rstrip("/").lower() not in sold]
     # Use the price read from the store's product page when the checker found one.
     for p in keep:
@@ -436,7 +444,7 @@ def apply_link_check(products):
             p["price"] = st["price"]
         if st.get("final"):  # same laptop, moved to a new address
             p["link"] = st["final"]
-    return keep, len(products) - len(keep)
+    return keep, len(products) - len(keep) - len(waiting)
 
 
 def main():

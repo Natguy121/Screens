@@ -155,8 +155,12 @@ def check(link):
 
 
 def main():
-    data = json.loads(DATA.read_text(encoding="utf-8").split("=", 1)[1].rstrip().rstrip(";"))
-    links = sorted({p["link"] for p in data["products"] if p.get("link")})
+    to_check = ROOT / "data" / "links_to_check.txt"
+    if to_check.exists():  # written by build_data.py: every candidate, including ones not shown yet
+        links = sorted({l.strip() for l in to_check.read_text(encoding="utf-8").splitlines() if l.strip()})
+    else:
+        data = json.loads(DATA.read_text(encoding="utf-8").split("=", 1)[1].rstrip().rstrip(";"))
+        links = sorted({p["link"] for p in data["products"] if p.get("link")})
     print(f"Checking {len(links)} links...", file=sys.stderr)
     results = {}
     with ThreadPoolExecutor(max_workers=8) as pool:
