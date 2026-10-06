@@ -40979,5 +40979,1029 @@
   "ok": true,
   "reason": "product page (no stock data; assumed available)",
   "price": null
+ },
+ "https://laptopsking.com/products/acer-aspire-14-ai-a14-52m-72fh-laptop-core-ultra-7-256v-16gb-ddr5-onboard-1tb-nvme-14-inch-fhd": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 880.0
+ },
+ "https://laptopsking.com/products/acer-aspire-14-ai-a14-52mt-94h5-laptop-core-ultra-9-288v-32gb-ddr5-onboard-1tb-nvme-14-inch-fhd-touchscreen": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1275.0
+ },
+ "https://laptopsking.com/products/acer-nitro-v-15-gaming-laptop-intel-core-i9-13900h-nvidia-geforce-rtx-5050-8gb-gddr6-15-6-fhd-144hz-ips-new": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1255.0
+ },
+ "https://laptopsking.com/products/acer-nitro-v-16s-anv16s-71-97be-core-9-270h-rtx-5070-16gb-ram-1tb-ssd-qhd-180hz-gaming-laptop-16-new": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1769.0
+ },
+ "https://laptopsking.com/products/acer-predator-helios-neo-16-ai-phn16-73-92x1-gaming-laptop-core-ultra-9-rtx-5070-ti-16-inch-240hz-new": {
+  "ok": false,
+  "reason": "out of stock (OutOfStock)"
+ },
+ "https://laptopsking.com/products/acer-predator-helios-neo-16s-ai-phn16s-71-91aw-gaming-laptop-core-ultra-9-275hx-16gb-ddr5-1tb-nvme-16-inch-oled-2560x1600-240hz-rtx-5060-8gb": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1925.0
+ },
+ "https://laptopsking.com/products/acer-predator-helios-neo-16s-ai-phn16s-71-98rf-core-ultra-9-275hx-rtx-5070-ti-12gb-32gb-ddr5-1tb-nvme-16-inch-oled-240hz-gaming-laptop": {
+  "ok": false,
+  "reason": "out of stock (OutOfStock)"
+ },
+ "https://laptopsking.com/products/acer-travelmate-p6-laptop-core-i5-10th-gen-14-inch-fhd-ips": {
+  "ok": false,
+  "reason": "out of stock (OutOfStock)"
+ },
+ "https://laptopsking.com/products/alienware-aurora-16-core-7-240h-rtx-5050-8gb-16-qhd-240hz-gaming-laptop-brand-new-1yr-warranty": {
+  "ok": false,
+  "reason": "out of stock (OutOfStock)"
+ },
+ "https://laptopsking.com/products/alienware-aurora-16x-lac16250-7568blu-pus-core-7-240h-rtx-5060-16-qhd-120hz-gaming-laptop-brand-new-1yr-warranty": {
+  "ok": false,
+  "reason": "out of stock (OutOfStock)"
+ },
+ "https://laptopsking.com/products/apple-macbook-air-13-6-inch-m5-16gb-1tb-ssd-midnight": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1725.0
+ },
+ "https://laptopsking.com/products/apple-macbook-air-13-6-inch-m5-16gb-1tb-ssd-silver": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1725.0
+ },
+ "https://laptopsking.com/products/apple-macbook-air-13-6-inch-m5-16gb-1tb-ssd-sky-blue": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1725.0
+ },
+ "https://laptopsking.com/products/apple-macbook-air-13-6-inch-m5-16gb-1tb-ssd-starlight": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1725.0
+ },
+ "https://laptopsking.com/products/apple-macbook-air-13-6-inch-m5-16gb-512gb-ssd-midnight": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1605.0
+ },
+ "https://laptopsking.com/products/apple-macbook-air-13-6-inch-m5-16gb-512gb-ssd-silver": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1605.0
+ },
+ "https://laptopsking.com/products/apple-macbook-air-13-6-inch-m5-16gb-512gb-ssd-sky-blue": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1605.0
+ },
+ "https://laptopsking.com/products/apple-macbook-air-13-6-inch-m5-16gb-512gb-ssd-starlight": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1605.0
+ },
+ "https://laptopsking.com/products/apple-macbook-air-13-6-inch-m5-24gb-1t-ssd-midnight-new": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1999.0
+ },
+ "https://laptopsking.com/products/apple-macbook-air-13-6-inch-m5-24gb-1t-ssd-silver-new": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1999.0
+ },
+ "https://laptopsking.com/products/apple-macbook-air-15-3-inch-m5-16gb-1tb-ssd-midnight": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1999.0
+ },
+ "https://laptopsking.com/products/apple-macbook-air-15-3-inch-m5-16gb-1tb-ssd-silver": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1999.0
+ },
+ "https://laptopsking.com/products/apple-macbook-air-15-3-inch-m5-16gb-512gb-ssd-silver": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1775.0
+ },
+ "https://laptopsking.com/products/apple-macbook-air-15-3-inch-m5-16gb-512gb-ssd-sky-blue": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1749.0
+ },
+ "https://laptopsking.com/products/apple-macbook-air-15-3-inch-m5-16gb-512gb-ssd-starlight-mdvd4ll-a": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1749.0
+ },
+ "https://laptopsking.com/products/apple-macbook-air-15-3-inch-m5-24gb-1tb-ssd-midnight": {
+  "ok": false,
+  "reason": "out of stock (OutOfStock)"
+ },
+ "https://laptopsking.com/products/apple-macbook-air-15-3-inch-m5-24gb-1tb-ssd-silver": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 2255.0
+ },
+ "https://laptopsking.com/products/apple-macbook-air-15-3-inch-m5-24gb-1tb-ssd-sky-blue": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 2255.0
+ },
+ "https://laptopsking.com/products/apple-macbook-air-15-3-inch-m5-24gb-1tb-ssd-starlight-new": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 2255.0
+ },
+ "https://laptopsking.com/products/apple-macbook-air-m3-2024-13-inch-laptop-brand-new": {
+  "ok": false,
+  "reason": "out of stock (OutOfStock)"
+ },
+ "https://laptopsking.com/products/apple-macbook-pro-14-inch-m5-16gb-1tb-ssd-silvernew": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 2099.0
+ },
+ "https://laptopsking.com/products/apple-macbook-pro-14-inch-m5-16gb-1tb-ssd-space-black-new": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 2099.0
+ },
+ "https://laptopsking.com/products/apple-macbook-pro-14-inch-m5-24gb-1tb-ssd-space-black": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 2305.0
+ },
+ "https://laptopsking.com/products/apple-macbook-pro-14-inch-m5-32gb-1tb-ssd-silver-new": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 2599.0
+ },
+ "https://laptopsking.com/products/apple-macbook-pro-14-inch-m5-32gb-1tb-ssd-space-black-new": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 2605.0
+ },
+ "https://laptopsking.com/products/apple-macbook-pro-14-inch-m5-max-36gb-2tb-ssd-silver-mgdq4ll-a": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 4099.0
+ },
+ "https://laptopsking.com/products/apple-macbook-pro-14-inch-m5-pro-24gb-1tb-ssd-silver-mgdn4ll-a": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 2650.0
+ },
+ "https://laptopsking.com/products/apple-macbook-pro-14-inch-m5-pro-24gb-1tb-ssd-space-black": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 2625.0
+ },
+ "https://laptopsking.com/products/apple-macbook-pro-14-inch-m5-pro-24gb-2tb-ssd-space-black": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 2875.0
+ },
+ "https://laptopsking.com/products/apple-macbook-pro-16-inch-m5-max-36gb-2tb-ssd-space-black": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 4175.0
+ },
+ "https://laptopsking.com/products/apple-macbook-pro-16-inch-m5-max-48gb-2tb-ssd-space-black": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 5049.0
+ },
+ "https://laptopsking.com/products/apple-macbook-pro-16-inch-m5-pro-24gb-1tb-ssd-space-black-mgea4ll-a": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 3025.0
+ },
+ "https://laptopsking.com/products/apple-macbook-pro-16-inch-m5-pro-48gb-1tb-ssd-space-black-mgec4ll-a": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 3655.0
+ },
+ "https://laptopsking.com/products/apple-macbook-pro-m1-13-inch-touchbar-laptop": {
+  "ok": false,
+  "reason": "out of stock (OutOfStock)"
+ },
+ "https://laptopsking.com/products/asus-a18-fa808um-is74-amd-ryzen-7-260-rtx-5060-8gb-16gb-ddr5-1tb-nvme-18-inch-wuxga-144hz-gaming-laptop": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1655.0
+ },
+ "https://laptopsking.com/products/asus-proart-pz13-ht5306qa-pz13-x1p1tb-snapdragon-x-plus-x1p-42-100-3-4-ghz-qualcomm-snapdragon-x-elite-adreno-16gb-ddr5-on-board-1tb-nvme-13-inch-oled-gaming-laptop": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1255.0
+ },
+ "https://laptopsking.com/products/asus-rog-strix-g16-g614pp-wh94-amd-ryzen-9-8940hx-rtx-5070-8gb-16gb-ddr5-1tb-nvme-16-inch-wuxga-165hz-gaming-laptop": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 2025.35
+ },
+ "https://laptopsking.com/products/asus-rog-strix-g16-gaming-laptop-amd-ryzen-9-9955hx-rtx-5060-8gb-gddr7-1tb-ssd-16-wuxga-165hznew-ob": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1499.0
+ },
+ "https://laptopsking.com/products/asus-rog-strix-g18-g814fp-gaming-laptop-amd-ryzen-9-9955hx-rtx-5070-8gb-gddr7-1tb-ssd-18-2-5k-240hz-new-ob": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1899.0
+ },
+ "https://laptopsking.com/products/asus-rog-strix-g18-gaming-laptop-intel-core-ultra-9-275hx-rtx-5060-8gb-gddr7-1tb-ssd-18-2-5k-240hz-new-ob": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1855.0
+ },
+ "https://laptopsking.com/products/asus-rog-strix-scar-g16-core-ultra-9-275hx-rtx-5090-16-2-5k-screen-240hz": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 4199.0
+ },
+ "https://laptopsking.com/products/asus-rog-trix-g815lm-is96-core-ultra-9-275hx-rtx-5060-8gb-32gb-ddr5-1tb-nvme-18-inch-wqxga-2-5k-240hz-gaming-laptop": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 2299.0
+ },
+ "https://laptopsking.com/products/asus-rog-zephyrus-g16-laptop-intel-core-ultra-9-285h-nvidia-geforce-rtx-5070-8gb-16gb-ram-1tb-nvme-16-2-5k-oled-new": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1999.0
+ },
+ "https://laptopsking.com/products/asus-vivobook-14-x1404vap-v14-c58256-laptop-core-5-120u-8gb-ddr4-256gb-nvme-14-inch-fhd": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 625.0
+ },
+ "https://laptopsking.com/products/asus-vivobook-s16-tp3604va-ws51t-core-i5-1335u-16-ips-fhd-flip-touch-creator-laptops-new-ob": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 455.0
+ },
+ "https://laptopsking.com/products/dell-16-dc16250-core-7-150u-16gb-ram-1tb-ssd-touch-laptop-16-inch-new": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1055.0
+ },
+ "https://laptopsking.com/products/dell-inspiron-15-3535-ryzen-7-7730u-vga-radeon-15-6-fhd-touchscreen-laptop-open-box": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 555.0
+ },
+ "https://laptopsking.com/products/dell-inspiron-15-7567-core-i7-7700hq-gtx-1050-ti-15-6-4k-gaming-edition-laptop-open-box-with-warranty": {
+  "ok": false,
+  "reason": "out of stock (OutOfStock)"
+ },
+ "https://laptopsking.com/products/dell-inspiron-15-ldc15250-5434blk-pus-laptop-intel-core-i5-1334u-intel-graphics-8gb-ram-512gb-nvme-15-6-fhd-touchscreen-new": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 699.0
+ },
+ "https://laptopsking.com/products/dell-inspiron-i7440-5647blu-pus-laptop-core-5-120u-16gb-ddr5-onboard-512gb-nvme-14-inch-2k-x360-touchscreen": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 955.0
+ },
+ "https://laptopsking.com/products/dell-latitude-14-5400-rugged-series-core-i5-14-laptops-used-very-clean": {
+  "ok": false,
+  "reason": "out of stock (OutOfStock)"
+ },
+ "https://laptopsking.com/products/dell-latitude-3300-core-i3-gen-7-14-laptops-open-box-with-warranty": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 155.0
+ },
+ "https://laptopsking.com/products/dell-latitude-3310-2-in-1-core-i3-8th-gen-8gb-ram-256gb-ssd-touch-laptop-13-3-used": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 199.0
+ },
+ "https://laptopsking.com/products/dell-latitude-5320-2-in-1-core-i5-11th-gen-16gb-ram-256gb-ssd-touch-laptop": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 355.0
+ },
+ "https://laptopsking.com/products/dell-latitude-5320-2-in-1-core-i7-11th-gen-32gb-ram-512gb-ssd-touch-laptop": {
+  "ok": false,
+  "reason": "out of stock (OutOfStock)"
+ },
+ "https://laptopsking.com/products/dell-latitude-5400-core-i5-8635u-14-fhd-touchscreen-laptop": {
+  "ok": false,
+  "reason": "out of stock (OutOfStock)"
+ },
+ "https://laptopsking.com/products/dell-latitude-5420-core-i7-11th-gen-16gb-ram-256gb-ssd-business-laptop-14-1-open-box": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 355.0
+ },
+ "https://laptopsking.com/products/dell-latitude-5440-core-i5-14-laptop-used-very-clean": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 149.0
+ },
+ "https://laptopsking.com/products/dell-latitude-5470-laptop-core-i7-6th-gen-14-inch": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 199.0
+ },
+ "https://laptopsking.com/products/dell-latitude-5500-15-6-business-laptop-i7-used": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 299.0
+ },
+ "https://laptopsking.com/products/dell-latitude-5500-business-laptop-used": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 199.0
+ },
+ "https://laptopsking.com/products/dell-latitude-5520-core-i7-1185g7-vga-mx450-2gb-up-to-8gb-15-6-fhd-touchscreen": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 555.0
+ },
+ "https://laptopsking.com/products/dell-latitude-5530-intel-core-i7-12th-gen-16gb-ram-256gb-ssd-laptop-new-ob": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 755.0
+ },
+ "https://laptopsking.com/products/dell-latitude-5570-core-i5-6th-gen-8gb-ram-256gb-ssd-laptop-15-6": {
+  "ok": false,
+  "reason": "out of stock (OutOfStock)"
+ },
+ "https://laptopsking.com/products/dell-latitude-5580-laptop-intel-core-i5-7th-gen-integrated-intel-hd-graphics-620-15-6-fhd-used": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 199.0
+ },
+ "https://laptopsking.com/products/dell-latitude-7310-core-i7-10th-gen-16gb-ram-512gb-ssd-laptop-13-3": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 399.0
+ },
+ "https://laptopsking.com/products/dell-latitude-7350-2-in-1-touchscreen-intel-core-ultra-5-16gb-ram-256gb-nvme-ssd-laptop-new-ob": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 555.0
+ },
+ "https://laptopsking.com/products/dell-latitude-7420-core-i7-1185g7-32gb-ram-intel-iris-xe-up-to-8gb-14-fhd-laptop-new-ob-1yr-warranty": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 455.0
+ },
+ "https://laptopsking.com/products/dell-latitude-9330-core-i5-16gb-ram-256gb-ssd-2k-touch-2-in-1-laptop-13-3-new": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 499.0
+ },
+ "https://laptopsking.com/products/dell-latitude-9420-14-fhd-touchscreen-business-laptop-intel-core-i7-11th-gen-new": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 399.0
+ },
+ "https://laptopsking.com/products/dell-plus-ld15260-7140blk-pus-laptop-core-ultra-7-255u-16gb-ddr5-onboard-1tb-nvme-15-6-inch-fhd-touchscreen": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 999.0
+ },
+ "https://laptopsking.com/products/dell-plus-ldb04250-7137blu-pus-laptop-core-ultra-7-256v-16gb-ddr5-onboard-1tb-nvme-14-inch-fhd-touchscreen-x360": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1199.0
+ },
+ "https://laptopsking.com/products/dell-precision-3570-mobile-workstation-laptop-intel-core-i5-1235u-nvidia-t550-4gb-gddr6-16gb-ram-512gb-nvme-15-6-fhd-new-ob": {
+  "ok": false,
+  "reason": "out of stock (OutOfStock)"
+ },
+ "https://laptopsking.com/products/dell-precision-5560-5570-core-i7-t1200-rtx-a2000-4k-touch-workstation-laptop-15-6-inchnew-ob": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 599.0
+ },
+ "https://laptopsking.com/products/dell-precision-5560-core-i7-11850h-t1200-4gb-16gb-ram-512gb-ssd-touch-4k-laptop-15-6": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 599.0
+ },
+ "https://laptopsking.com/products/dell-precision-5570-core-i7-rtx-2000-4k-touch-workstation-laptop-15-6": {
+  "ok": false,
+  "reason": "out of stock (OutOfStock)"
+ },
+ "https://laptopsking.com/products/gigabyte-a16-ga6h-gaming-laptop-13th-gen-rtx-4050-6gb-16gb-ddr5-512gb-ssd-16-new": {
+  "ok": false,
+  "reason": "out of stock (OutOfStock)"
+ },
+ "https://laptopsking.com/products/hp-14-ep2035cl-laptop-core-3-n355-16gb-ddr4-512gb-nvme-14-inch-fhd": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 575.0
+ },
+ "https://laptopsking.com/products/hp-15-15-fd2050wm-laptop-intel-core-ultra-5-225u-intel-graphics-8gb-ram-512gb-nvme-15-6-fhd-touchscreen-new": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 705.0
+ },
+ "https://laptopsking.com/products/hp-15-fc0307dx-laptop-ryzen-7-5825u-15-6-inch-fhd-1tb-ssd-new": {
+  "ok": false,
+  "reason": "out of stock (OutOfStock)"
+ },
+ "https://laptopsking.com/products/hp-15-fd0130wm-laptop-core-i3-n305-8gb-ddr4-256gb-nvme-15-6-inch-fhd-touchscreen": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 575.0
+ },
+ "https://laptopsking.com/products/hp-15-fd0133wm-laptop-core-i3-n305-8gb-ddr4-256gb-nvme-15-6-inch-fhd": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 539.0
+ },
+ "https://laptopsking.com/products/hp-15-fd0153dx-laptop-core-i3-1315u-8gb-ddr4-256gb-nvme-15-6-inch-1366-x-768-touchscreen": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 575.0
+ },
+ "https://laptopsking.com/products/hp-17-b3er6av-core-ultra-5-225u-8gb-ram-256gb-ssd-laptop-17-3-inch-new": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 825.0
+ },
+ "https://laptopsking.com/products/hp-17-cn3-core-i5-1335u-iris-xe-17-inch-laptop-offers-new-ob": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 499.0
+ },
+ "https://laptopsking.com/products/hp-17-cp2025dx-laptop-amd-ryzen-5-7520u-8gb-ddr5-onboard-512gb-nvme-17-3-inch-fhd": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 675.0
+ },
+ "https://laptopsking.com/products/hp-17t-cn500-core-ultra-5-16gb-ram-256gb-ssd-laptop-17-3-new": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 555.0
+ },
+ "https://laptopsking.com/products/hp-250r-g9-b39zcat-laptop-core-5-120u-8gb-ddr4-512gb-nvme-15-6-inch-fhd": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 655.0
+ },
+ "https://laptopsking.com/products/hp-640-core-i5-11th-gen-16gb-32gb-ram-256gb-512gb-1tb-ssd-business-laptop-new-ob": {
+  "ok": false,
+  "reason": "out of stock (OutOfStock)"
+ },
+ "https://laptopsking.com/products/hp-elitebook-650-g9-core-i7-12th-32gb-ram-1tb-ssd-laptop-15-6-new": {
+  "ok": false,
+  "reason": "out of stock (OutOfStock)"
+ },
+ "https://laptopsking.com/products/hp-elitebook-830-g8-core-i5-11th-16gb-ram-256gb-ssd-flip-touch-laptop-13-4": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 399.0
+ },
+ "https://laptopsking.com/products/hp-elitebook-840-14-display-intel-core-i5-10th-gen-16gb-ram-laptop-used": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 355.0
+ },
+ "https://laptopsking.com/products/hp-elitebook-840-g7-laptop-core-i5-10th-gen-14-inch-fhd-touchscreen-open-box": {
+  "ok": false,
+  "reason": "out of stock (OutOfStock)"
+ },
+ "https://laptopsking.com/products/hp-elitebook-850-g3-core-i5-6th-gen-8gb-16gb-ram-256gb-512gb-ssd-laptop-15-6-inch": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 199.0
+ },
+ "https://laptopsking.com/products/hp-envy-17t-da000-core-ultra-7-16gb-ram-512gb-ssd-fhd-touch-laptop-17-3": {
+  "ok": false,
+  "reason": "out of stock (OutOfStock)"
+ },
+ "https://laptopsking.com/products/hp-omen-16-16-am0300ca-gaming-laptop-intel-core-7-32gb-ddr5-1tb-ssd-nvme-rtx-5070-8gb-gddr7-16-wuxga-240hz-new-ob": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1699.0
+ },
+ "https://laptopsking.com/products/hp-omen-16-am0030ca-laptop-intel-core-7-nvidia-geforce-rtx-5070-8gb-gddr7-32gb-ram-1tb-nvme-16-wuxga-165hz-new-ob": {
+  "ok": false,
+  "reason": "out of stock (OutOfStock)"
+ },
+ "https://laptopsking.com/products/hp-omen-16-ap0008ca-laptop-amd-ryzen-ai-7-350-nvidia-geforce-rtx-5070-8gb-gddr7-32gb-ram-1tb-nvme-16-wuxga-165hz-new-ob": {
+  "ok": false,
+  "reason": "out of stock (OutOfStock)"
+ },
+ "https://laptopsking.com/products/hp-omen-17-db1095cl-amd-ryzen-9-365-rtx-5060-8gb-32gb-ddr5-1tb-nvme-17-3-inch-144hz-gaming-laptop": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1925.0
+ },
+ "https://laptopsking.com/products/hp-omen-max-16-16-ak0098-gaming-laptop-amd-ryzen-ai-9-hx-375-rtx-5080-16gb-gddr7-1tb-ssd-16-wqxga-240hz-new-ob": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 2199.0
+ },
+ "https://laptopsking.com/products/hp-omen-max-16-16t-ah000-gaming-laptop-intel-core-ultra-9-275hx-rtx-5090-24gb-gddr7-64gb-ram-1tb-ssd-16-2k-oled-240hz-new-ob": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 3199.0
+ },
+ "https://laptopsking.com/products/hp-omen-transcend-14-fb0013-gaming-laptop-intel-core-ultra-7-155h-rtx-4060-8gb-gddr6-16gb-ram-1tb-ssd-14-2-8k-oled-120hz-new-ob": {
+  "ok": false,
+  "reason": "out of stock (OutOfStock)"
+ },
+ "https://laptopsking.com/products/hp-omnibook-5-16-af1017wm-laptop-core-ultra-7-255u-16gb-ddr5-onboard-1tb-nvme-16-inch-fhd-touchscreen": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1055.0
+ },
+ "https://laptopsking.com/products/hp-omnibook-5-16-af1037nr-core-ultra-7-255u-16gb-ram-512gb-ssd-touch-laptop-16-inch-new": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1025.0
+ },
+ "https://laptopsking.com/products/hp-omnibook-5-16-af1055cl-laptop-core-ultra-5-225u-16gb-ddr5-onboard-1tb-nvme-16-inch-2k-touchscreen": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 955.0
+ },
+ "https://laptopsking.com/products/hp-omnibook-5-16-af1173cl-core-ultra-7-32gb-ram-1tb-ssd-2k-touch-laptop-16-new": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1399.0
+ },
+ "https://laptopsking.com/products/hp-omnibook-5-16-ag1075cl-laptop-amd-ryzen-ai-7-350-32gb-ddr5-onboard-1tb-nvme-16-inch-2k-touchscreen": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1255.0
+ },
+ "https://laptopsking.com/products/hp-omnibook-7-17-17-dc0095-laptop-intel-core-ultra-9-288v-rtx-4050-6gb-gddr6-32gb-ram-2tb-ssd-17-3-fhd-touchscreen-new-ob": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1599.0
+ },
+ "https://laptopsking.com/products/hp-omnibook-7-17-17-dc0097-laptop-intel-core-ultra-7-258v-rtx-4050-6gb-gddr6-32gb-ram-2tb-ssd-17-3-fhd-touchscreen-new-ob": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1399.0
+ },
+ "https://laptopsking.com/products/hp-omnibook-7-17t-dc000-core-ultra-7-258v-32gb-ram-512gb-ssd-touch-laptop-17-inch-new": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1399.0
+ },
+ "https://laptopsking.com/products/hp-omnibook-7-ai-core-ultra-7-255h-32gb-ram-1tb-ssd-2k-oled-touch-laptop-16": {
+  "ok": false,
+  "reason": "out of stock (OutOfStock)"
+ },
+ "https://laptopsking.com/products/hp-omnibook-ultra-flip-14-kc0013dx-2-in-1-laptop-amd-ryzen-ai-5-430-amd-radeon-840m-16gb-ram-512gb-nvme-14-2k-oled-touchscreen-x360-new": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 999.0
+ },
+ "https://laptopsking.com/products/hp-omnibook-ultra-flip-16-be0005cl-2-in-1-laptop-amd-ryzen-ai-5-220-amd-radeon-740m-8gb-ram-512gb-nvme-16-2k-touchscreen-x360-new": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 775.0
+ },
+ "https://laptopsking.com/products/hp-omnibook-x-flip-14-ak4z4av-1-core-ultra-7-2-in-1-touch-laptop-14-inch-new": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1455.0
+ },
+ "https://laptopsking.com/products/hp-omnibook-x-flip-14-kp0023dx-core-ultra-7-2-in-1-touch-laptop-14-inch-new": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1255.0
+ },
+ "https://laptopsking.com/products/hp-omnibook-x-flip-16-as0023dx-core-ultra-7-2k-2-in-1-touch-laptop-16-inch-new": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1129.0
+ },
+ "https://laptopsking.com/products/hp-omnibook-x-ngai-17-dd0047nr-laptop-core-ultra-7-256v-16gb-ddr5-onboard-512gb-nvme-17-inch-fhd-touchscreen": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1175.0
+ },
+ "https://laptopsking.com/products/hp-probook-4-g1i-16-at7k5av-laptop-core-ultra-7-255u-16gb-ddr5-512gb-nvme-16-inch-wuxga": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1099.0
+ },
+ "https://laptopsking.com/products/hp-victus-15-fb3093dx-ryzen-7-rtx-4050-gaming-laptop-15-6-inch-new": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1175.0
+ },
+ "https://laptopsking.com/products/hp-victus-15-gaming-laptop-13th-gen-rtx-5060-8gb-16gb-ddr5-512gb-ssd-new": {
+  "ok": false,
+  "reason": "out of stock (OutOfStock)"
+ },
+ "https://laptopsking.com/products/hp-victus-gaming-15-fa2082wm-laptop-intel-core-i5-13420h-nvidia-geforce-rtx-4050-6gb-gddr6-15-6-fhd-ips-144hz-new-ob": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 899.0
+ },
+ "https://laptopsking.com/products/hp-zbook-firefly-14-g8-core-i5-1135g7-iris-xe-up-to-8gb-14-fhd-screen-laptop-open-box-with-warranty": {
+  "ok": false,
+  "reason": "out of stock (OutOfStock)"
+ },
+ "https://laptopsking.com/products/hp-zbook-firefly-15-g8-core-i7-1185g7-vga-t500-4gb-15-6-fhd-screen-mobile-workstation-laptop-open-box-with-warranty-1": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 499.0
+ },
+ "https://laptopsking.com/products/lenovo-ideapad-1-15iru7-83b40008us-laptop-intel-core-i5-1335u-integrated-intel-iris-xe-graphics-16gb-ram-256gb-nvme-15-6-fhd-new": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 599.0
+ },
+ "https://laptopsking.com/products/lenovo-ideapad-5-2-in-1-14agp11-83uh0001us-laptop-amd-ryzen-ai-5-430-integrated-amd-radeon-840m-graphics-16gb-ram-512gb-nvme-14-wuxga-touchscreen-x360-new": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1049.0
+ },
+ "https://laptopsking.com/products/lenovo-ideapad-5-2-in-1-16-83ks001bus-core-ultra-7-255u-32gb-ram-1tb-ssd-wuxga-touch-2-in-1-laptop-16": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1475.0
+ },
+ "https://laptopsking.com/products/lenovo-ideapad-laptop-core-i5-13th-gen-16gb-256gb-15-6-inch-fhd-new": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 599.0
+ },
+ "https://laptopsking.com/products/lenovo-ideapad-laptop-core-i5-13th-gen-8gb-256gb-15-6-inch-fhd-touchscreen-new": {
+  "ok": false,
+  "reason": "out of stock (OutOfStock)"
+ },
+ "https://laptopsking.com/products/lenovo-ideapad-slim-3-15iph11-83ur0042dp-core-ultra-7-355-16gb-ram-512gb-ssd-wuxga-laptop-15-3": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 875.0
+ },
+ "https://laptopsking.com/products/lenovo-ideapad-slim-3-15iph11-83ur007rdp-core-ultra-5-322-16gb-ram-512gb-ssd-wuxga-laptop-15-3": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 775.0
+ },
+ "https://laptopsking.com/products/lenovo-ideapad-slim-3-15irh10-83k100c1dp-core-i5-13420h-16gb-ram-512gb-ssd-wuxga-laptop-15-3": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 725.0
+ },
+ "https://laptopsking.com/products/lenovo-ideapad-slim-3-15irh10-83k100e7dp-core-i7-13620h-16gb-ram-512gb-ssd-fhd-laptop-15-3": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 799.0
+ },
+ "https://laptopsking.com/products/lenovo-ideapad-slim-3-15irh10-83k100e9ax-core-i5-13420h-8gb-ram-512gb-ssd-wuxga-laptop-15-3": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 605.0
+ },
+ "https://laptopsking.com/products/lenovo-ideapad-slim-3-15iru8-82x700dfdp-core-i3-1315u-8gb-ram-512gb-ssd-fhd-laptop-15-6": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 535.0
+ },
+ "https://laptopsking.com/products/lenovo-ideapad-slim-3-touchscreen": {
+  "ok": false,
+  "reason": "out of stock (OutOfStock)"
+ },
+ "https://laptopsking.com/products/lenovo-ip1-15amn7-82vg00wxus-amd-ryzen-5-7520u-8gb-ram-256gb-ssd-fhd-laptop-15-6": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 535.0
+ },
+ "https://laptopsking.com/products/lenovo-legion-5-gaming-laptop-amd-ryzen-ai-7-350-rtx-5070-8gb-1tb-ssd-15-1-2-5k-oled-165hz-new-ob": {
+  "ok": false,
+  "reason": "out of stock (OutOfStock)"
+ },
+ "https://laptopsking.com/products/lenovo-legion-5i-15irx10-gaming-laptop-i9-14900hx-rtx-5070-15-1-inch-oled-new": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1999.0
+ },
+ "https://laptopsking.com/products/lenovo-legion-pro-7-core-i9-rtx-4090-32gb-ram-2tb-ssd-240hz-gaming-laptop-16-new-ob": {
+  "ok": false,
+  "reason": "out of stock (OutOfStock)"
+ },
+ "https://laptopsking.com/products/lenovo-loq-15iax9e-83lk00cvus-pf5v1b1d-core-i5-12450hx-rtx-3050-6gb-gaming-laptops-brand-new-1yr-warranty": {
+  "ok": false,
+  "reason": "out of stock (OutOfStock)"
+ },
+ "https://laptopsking.com/products/lenovo-loq-15iax9e-core-i7-12650hx-rtx-4050-15-6-fhd-144hz-gaming-laptop-brand-new-1yr-warranty-1": {
+  "ok": false,
+  "reason": "out of stock (OutOfStock)"
+ },
+ "https://laptopsking.com/products/lenovo-loq-15irx10-83je00u1ax-core-i7-14700hx-rtx-5060-8gb-16gb-ddr5-512gb-nvme-15-6-inch-fhd-144hz-gaming-laptop": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1599.0
+ },
+ "https://laptopsking.com/products/lenovo-loq-15irx9-83dv000eax-core-i7-13650hx-rtx-3050-6gb-16gb-ddr5-512gb-nvme-15-6-inch-fhd-144hz-gaming-laptop": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1299.0
+ },
+ "https://laptopsking.com/products/lenovo-loq-15irx9-83dv01bcax-core-i5-13450hx-rtx-3050-6gb-16gb-ddr5-512gb-nvme-15-6-inch-fhd-144hz-gaming-laptop": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1125.0
+ },
+ "https://laptopsking.com/products/lenovo-loq-17irx10-83jh00b1dp-core-i7-13650hx-rtx-5050-8gb-16gb-ddr5-512gb-nvme-17-3-inch-fhd-165hz-gaming-laptop": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1299.0
+ },
+ "https://laptopsking.com/products/lenovo-loq-17irx10-83jh00d1dp-gaming-laptop-core-i7-13650hx-32gb-ddr5-512gb-nvme-17-3-inch-fhd-165hz-rtx-5060-8gb": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1729.0
+ },
+ "https://laptopsking.com/products/lenovo-thinkbook-14-g8-ial-21sj0001gq-core-ultra-7-255h-8gb-ram-512gb-ssd-wuxga-laptop-14": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 999.0
+ },
+ "https://laptopsking.com/products/lenovo-thinkbook-16-g8-ial-21sk0027gp-core-ultra-5-225u-16gb-ram-512gb-ssd-wuxga-laptop-16": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://laptopsking.com/products/lenovo-thinkbook-16-g8-ial-21sk0030gp-core-ultra-7-255h-16gb-ram-512gb-ssd-wuxga-laptop-16": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://laptopsking.com/products/lenovo-thinkbook-16-g9-irl-21us002xed-core-5-210h-16gb-ram-512gb-ssd-wuxga-laptop-16": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://laptopsking.com/products/lenovo-thinkbook-21mw000ped-ryzen-5-7535hs-16-inch": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://laptopsking.com/products/lenovo-thinkbook-arp-21mw002ced-ryzen-7-7735hs-16-inch": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://laptopsking.com/products/lenovo-thinkpad-21m50001ed-ryzen-5-7535u-16-inch": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://laptopsking.com/products/lenovo-thinkpad-e14-core-i5-10th-gen-16gb-ram-256gb-ssd-laptop-14": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://laptopsking.com/products/lenovo-thinkpad-e14-gen-7-21t0001aed-laptop-amd-ryzen-7-250-integrated-amd-radeon-780m-graphics-16gb-ram-512gb-nvme-14-wuxga-new": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://laptopsking.com/products/lenovo-thinkpad-e14-gen-7-core-ultra-5-225h-8gb-ram-512gb-ssd-wuxga-laptop-14": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://laptopsking.com/products/lenovo-thinkpad-e14-gen-8-21y60025gr-core-ultra-7-355-16gb-ram-512gb-ssd-wuxga-laptop-14": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://laptopsking.com/products/lenovo-thinkpad-e16-gen-3-21st0014ed-amd-ryzen-7-250-16gb-ram-512gb-ssd-wuxga-laptop-16": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://laptopsking.com/products/lenovo-thinkpad-e16-gen-3-21tf0056ed-laptop-intel-core-7-240h-integrated-intel-graphics-16gb-ram-1tb-nvme-16-wuxga-new": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://laptopsking.com/products/lenovo-thinkpad-e16-gen-3-21tf005bed-core-5-210h-16gb-ram-512gb-ssd-wuxga-laptop-16": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://laptopsking.com/products/lenovo-thinkpad-e16-gen-3-22ay0000ed-laptop-intel-core-ultra-5-226v-integrated-intel-arc-graphics-130v-16gb-ram-512gb-nvme-16-wuxga-new": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://laptopsking.com/products/lenovo-thinkpad-e16-gen-3-core-ultra-5-225h-8gb-ram-512gb-ssd-wuxga-laptop-16": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://laptopsking.com/products/lenovo-thinkpad-e16-gen-3-core-ultra-7-255h-32gb-ram-1tb-ssd-wuxga-laptop-16": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://laptopsking.com/products/lenovo-thinkpad-e16-gen-4-21yc0021gr-core-ultra-7-355-16gb-ram-512gb-ssd-wuxga-laptop-16": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://laptopsking.com/products/lenovo-thinkpad-e16-gen2-21m5001ced-ryzen-7-7735hs-16-inch": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://laptopsking.com/products/lenovo-thinkpad-e16-gen2-21m5003ed-ryzen-7-7735u-16-inch": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://laptopsking.com/products/lenovo-thinkpad-e475-amd-a10-8gb-ram-128gb-ssd-laptop-used": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://laptopsking.com/products/lenovo-thinkpad-e595-laptop-amd-ryzen-5-integrated-amd-radeon-vega-graphics-15-6-fhd-new-ob": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://laptopsking.com/products/lenovo-thinkpad-l14-gen-6-21s6003pus-core-ultra-7-255u-16gb-ram-512gb-ssd-wuxga-touch-laptop-14": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://laptopsking.com/products/lenovo-thinkpad-p14s-core-i7-1260p-nvidia-t550-4gb-16gb-32gb-ram-ssd-workstation-laptop-14-inch": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://laptopsking.com/products/lenovo-thinkpad-t14-core-i5-10th-gen-16gb-ram-256gb-ssd-business-laptop-14": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://laptopsking.com/products/lenovo-thinkpad-t480-core-i5-8th-8gb-ram-256gb-ssd-laptop-14": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://laptopsking.com/products/lenovo-thinkpad-x1-carbon-core-i7-10610u-14-fhd-laptop-open-box-with-warranty": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://laptopsking.com/products/lenovo-thinkpad-x1-yoga-gen-3-2-in-1-laptop-core-i7-8th-gen-14-inch-fhd-touchscreen-new-ob": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://laptopsking.com/products/lenovo-thinkpad-x13-core-i7-1185g7-14-fhd-screen-laptop-open-box-with-warranty": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://laptopsking.com/products/lenovo-thinkpad-x13-yoga-core-i7-10610u-13-3-flip-touchscreen-laptop-open-box-with-warranty": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://laptopsking.com/products/lenovo-thinkpad-x9-14-gen-1-aura-edition-21qa0036us-core-ultra-7-268v-vpro-32gb-ram-1tb-ssd-2-8k-oled-touch-laptop-14": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://laptopsking.com/products/lenovo-thinkpad-x9-15-gen-1-aura-edition-21q6006rus-core-ultra-7-258v-32gb-ram-512gb-ssd-2-8k-oled-touch-laptop-15-3": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://laptopsking.com/products/lenovo-v15-g4-iru-83a1011jak-laptop-intel-core-i3-1315u-integrated-intel-uhd-graphics-8gb-ram-256gb-nvme-15-6-fhd-new": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://laptopsking.com/products/lenovo-v15-g5-irl-83gw006aeq-core-i5-13420h-8gb-ram-512gb-ssd-fhd-business-laptop-15-6": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://laptopsking.com/products/lenovo-v15-g5-irl-83gw0076gp-core-i3-1315u-8gb-ram-256gb-ssd-fhd-business-laptop-15-6": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://laptopsking.com/products/lenovo-v15-g5-irl-83gw0076ue-core-i3-1315u-8gb-ram-256gb-ssd-fhd-business-laptop-15-6": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://laptopsking.com/products/lenovo-v15-g5-irl-83hf00e6ig-laptop-intel-core-i5-13420h-integrated-intel-uhd-graphics-8gb-ram-512gb-nvme-15-6-fhd-new": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://laptopsking.com/products/lenovo-v15-g5-irl-83hf00jgus-core-i7-13620h-16gb-ram-512gb-ssd-laptop-15-6-inc%D8%A7-new": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://laptopsking.com/products/lenovo-v15-g5-irl-83hfa08gus-core-7-240h-16gb-ram-1tb-ssd-fhd-business-laptop-15-6": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://laptopsking.com/products/lenovo-yoga-7-14iph11-83tc0003us-laptop-intel-core-ultra-5-322-integrated-intel-graphics-16gb-ram-512gb-nvme-14-wuxga-oled-touchscreen-x360-new": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://laptopsking.com/products/lenovo-yoga-7-16ahp9-83dm0006us-amd-ryzen-7-8840hs-16gb-ram-512gb-ssd-wuxga-touch-2-in-1-2-in-1-laptop-16": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://laptopsking.com/products/lenovo-yoga-7-16ill10-83jt0047us-core-ultra-7-intel-arc-2-in-1-laptop-16-inch-new": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://laptopsking.com/products/microsoft-surface-pro-7-core-i5-1035g4-12-3-pixelsense-touch-open-box-with-warranty": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://laptopsking.com/products/msi-claw-aim-229us-gaming-handheld-core-ultra-7-155u-16gb-1tb-ssd-7-inch-fhd-120hz-touchscreen-intel-arc": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://laptopsking.com/products/msi-crosshair-gaming-laptop-18-hx-ai-a2xwgkg-intel-core-ultra-9-275hx-rtx-5070-8gb-ram-1tb-ssd-18-qhd-240hz-new-ob": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://laptopsking.com/products/msi-cyborg-15-gaming-laptop-15th-gen-rtx-5060-8gb-16gb-ddr5-512gb-ssd-144hz-new": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://laptopsking.com/products/msi-cyborg-15-gaming-laptop-intel-core-7-240h-nvidia-geforce-rtx-5070-8gb-gddr7-15-6-fhd-144hz-new": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://laptopsking.com/products/msi-katana-15-hx-b14wek-001us-core-i7-14650hx-rtx-5050-gddr7-8gb-16gb-ddr5-512gb-nvme-15-6-inch-fhd-144hz-gaming-laptop": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://laptopsking.com/products/msi-katana-15-hx-b14wfk-605xpl-15-6-fhd-144hz-core-i7-14650hx-16gb-ddr5-512gb-ssd-rtx-5060-8gb-laptop-new": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://laptopsking.com/products/msi-katana-15-hx-b14wfk-605xpl-gaming-laptop-core-i7-14650hx-16gb-ddr5-512gb-nvme-15-6-inch-fhd-144hz-rtx-5060-gddr7-8gb": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://laptopsking.com/products/msi-raider-18-hx-ai-gaming-laptop-core-ultra-9-rtx-5090-18-inch-qhd-240hz-new": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://laptopsking.com/products/msi-raider-18-hx-ai-msi-a2xwhg-437us-core-ultra-9-285hx-rtx-5070-ti-gddr7-12gb-32gb-ddr5-1tb-nvme-18-inch-qhd-qhd-240hz-gaming-laptop": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://laptopsking.com/products/msi-stealth-gs66-12ugs-core-i7-12700h-rtx-3070-ti-8gb-16gb-ram-512gb-ssd-240hz-gaming-laptop-15-6-inch": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://laptopsking.com/products/msi-stealth-venturepro-15-a2rwfg-808xlb-core-7-240h-rtx-5060-15-6-144hz-gaming-laptops-brand-new-2yrs-warranty": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://laptopsking.com/products/msi-vector-16-a2xwhg-275us-gaming-laptop-intel-core-ultra-7-255hx-nvidia-geforce-rtx-5070-ti-12gb-16-wuxga-144hz": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://laptopsking.com/products/nbsp-alienware-m17-core-i7-9750h-rtx-2060-6gb-17-3-2k-120hz-screen-gaming-laptops-new-ob-1yr-warranty": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://laptopsking.com/products/nec-versa-pro-intel-dc-11-6-flip-touch-screen-laptop-brand-new-1yr-warranty-1": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://laptopsking.com/products/soon-asus-rog-flow-z13-gz302ea-ru056w-gaming-laptop-amd-ryzen-ai-max-395-32gb-ddr5-on-board-1tb-nvme-13-4-inch-2-5k-2560-x-1600-180hz-touchscreen-amd-radeon-8060s": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://laptopsking.com/products/soon-asus-rog-strix-g16-g614fr-rv008-gaming-laptop-amd-ryzen-9-9955hx-16gb-ddr5-1tb-nvme-16-inch-wuxga-165hz-rtx-5070-ti-12gb": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://laptopsking.com/products/soon-asus-rog-strix-g16-g615lw-s5153-gaming-laptop-core-ultra-9-275hx-32gb-ddr5-1tb-nvme-16-inch-qhd-2560x1600-240hz-rtx-5080-16gb": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://laptopsking.com/products/soon-asus-rog-strix-scar-edition-g16-g635lx-s5200-gaming-laptop-core-ultra-9-275hx-64gb-ddr5-2tb-nvme-16-inch-wqxga-2560-x-1600-240hz-rtx-5090-24gb": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://laptopsking.com/products/soon-asus-rog-trix-18-g815lr-s9227-gaming-laptop-core-ultra-9-275hx-32gb-ddr5-2tb-nvme-18-inch-2-5k-wqxga-2560-x-1600-240hz-rtx-5070-ti-12gb": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://laptopsking.com/products/soon-asus-rog-zephyrus-g16-gu605cx-qr099-gaming-laptop-core-ultra-9-285h-64gb-ddr5-on-board-1tb-nvme-16-inch-2560-x-1600-oled-240hz-rtx-5090-24gb": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://laptopsking.com/products/toshiba-a40-c-core-i3-6th-8gb-ram-128gb-ssd-laptop-14used": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://laptopsking.com/products/toshiba-a40-c-core-i3-6th-8gb-ram-256gb-ssd-laptop-14-used-copy": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://laptopsking.com/products/toshiba-satellite-pro-a40-c-6th-gen-core-i3-i5-8gb-ram-ssd-laptop-14-inch-used": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://laptopsking.com/products/toshiba-z40-a-core-i5-6th-gen-8gb-ram-256gb-ssd-business-laptop-13-3-used": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://laptopsking.com/products/wooden-laptop-table-with-2-cooling-fans": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://laptopsking.com/products/wooden-laptop-table-with-2-cooling-fans-dark-brown": {
+  "ok": false,
+  "reason": "HTTP 429"
  }
 }
