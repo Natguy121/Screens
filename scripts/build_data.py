@@ -19,7 +19,7 @@ ROOT = Path(__file__).resolve().parent.parent
 DEFAULT_XLSX = ROOT / "data" / "Lebanon_Laptops_and_PCs_Oct2026.xlsx"
 EXTRA_CSVS = sorted((ROOT / "data").glob("more_stores*.csv"))
 OUT = ROOT / "site" / "data.js"
-SNAPSHOT = "2026-10-05"
+SNAPSHOT = "2026-10-06"
 
 KNOWN_BRANDS = ["Apple", "Lenovo", "HP", "Dell", "ASUS", "Acer", "MSI", "Gigabyte", "Alienware", "Intel"]
 
@@ -469,7 +469,7 @@ def main():
     ]
     notes = [n for n in notes if not n.startswith("OLX rows:")]
     if LINK_CHECK.exists():
-        notes.append("Every link was opened on 5 Oct 2026 with scripts/check_links.py: pages that were gone, redirected elsewhere, or showed the product as out of stock or sold were removed, and prices were taken from the product page where it listed one.")
+        notes.append("Every link was opened on 6 Oct 2026 with scripts/check_links.py: pages that were gone, redirected elsewhere, or showed the product as out of stock or sold were removed, and prices were taken from the product page where it listed one.")
     notes.append("Every listing links to the product's own page. Listings that only linked to a category or search page (including all OLX ads) and products marked sold or out of stock are left out.")
     payload = {"snapshot": SNAPSHOT, "currency": "USD", "notes": notes, "products": products}
     OUT.parent.mkdir(parents=True, exist_ok=True)

@@ -83,12 +83,6 @@
   "ok": false,
   "reason": "HTTP 404"
  },
- "https://ayoubcomputers.com/asus-vivobook-15-x1504va-nj379-15-6-fhd-laptop-intel-core-i7-1355u-ram-8gb-ssd-512gb-intel-iris-xe-x1504va-nj379/": {
-  "final": "https://ayoubcomputers.com/asus-vivobook-15-15-6-fhd-laptop-intel-core-i7-1355u-ram-8gb-ssd-512gb-intel-iris-xe-x1504va-nj379/",
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 599.0
- },
  "https://ayoubcomputers.com/gigabyte-aero-16-xe4-16-amoled-gaming-laptop-intel-core-i7-12700h-ram-16gb-ssd-2tb-nvidia-rtx-3070ti-xe4-73us918hp/": {
   "ok": false,
   "reason": "HTTP 404"
@@ -96,12 +90,6 @@
  "https://ayoubcomputers.com/hp-omnibook-x-flip-2-in-1-copilot-pc-14-2k-touch-screen-laptop-intel-core-ultra-7-256v-ram-16gb-ssd-1tb-intel-arc-14-fm0023dx/": {
   "ok": false,
   "reason": "out of stock (OutOfStock)"
- },
- "https://ayoubcomputers.com/hp-victus-15-6-gaming-laptop-intel-core-i5-13420h-ram-8gb-ssd-512gb-nvidia-geforce-rtx-3050-windows-11-15-fa2013dx/": {
-  "final": "https://ayoubcomputers.com/hp-victus-15-fa2013dx-gaming-laptop-15-6-fhd-ips-144hz-intel-core-i5-13420h-ram-8gb-ssd-512gb-nvidia-geforce-rtx-3050-6gb-15-fa2013dx/",
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 799.0
  },
  "https://ayoubcomputers.com/lenovo-ideapad-1-15alc7-touch-screen-15-6-fhd-laptop-amd-ryzen-7-5700u-ram-12gb-ssd-512gb-amd-radeon-82r4002pus/": {
   "ok": false,
@@ -327,21 +315,9 @@
   "ok": false,
   "reason": "HTTP 404"
  },
- "https://mediatechlb.com/product/asus-rog-strix-g16-g614fm-ws94-amd-ryzen-9-9955hx-16gb-1tb-nvme-16-wuxda-165hz-nvidiartx-5060-8gb-gaming-laptop-lebanon/": {
-  "final": "https://mediatechlb.com/product/asus-rog-strix-g16-g614fm-ws94-amd-ryzen-9/",
-  "ok": true,
-  "reason": "product page (no stock data; assumed available)",
-  "price": 1599.0
- },
  "https://mediatechlb.com/product/lenovo-5-15itl05-82fg00q4us-corei7-1165g7-2-8ghz-12gb-512gb-ssd-15-6%E2%80%B3-fhd-touchscreen": {
   "ok": false,
   "reason": "HTTP 404"
- },
- "https://mediatechlb.com/product/lenovo-legion-pro-5-83lt000eus-ryzen-9-8945hx-1tb-ssd-16gb-ddr5-16-0-inch-nvidia-geforce-rtx-5060-8gb-w11h-black-1-year-warranty-laptops-in-lebanon/": {
-  "final": "https://mediatechlb.com/product/lenovo-legion-pro-5-83lt000eus/",
-  "ok": true,
-  "reason": "product page (no stock data; assumed available)",
-  "price": null
  },
  "https://mobileleb.com/products/asus-vivobook-tp412fa-ec403t-laptop": {
   "ok": false,
@@ -355,31 +331,9 @@
   "ok": false,
   "reason": "redirected to a listing page: https://mobileleb.com/collections/hp-laptops"
  },
- "https://mobileleb.com/products/microsoft-surface-book-2-13-5-detachable-touch-screen-intel-core-i7-8gb-ram-256gb-ssd-geforce-gtx-1050-2gb-win10-pro": {
-  "ok": true,
-  "reason": "product page (no stock data; assumed available)",
-  "price": null
- },
- "https://mobileleb.com/products/msi-sword-gaming-laptop-15-6-full-hd-display-intel-core-i7-11800h-processor-8gb-ram-512gb-ssd-nvidia-geforce-rtx-3050-ti": {
-  "ok": true,
-  "reason": "product page (no stock data; assumed available)",
-  "price": 1040.0
- },
  "https://mojitech.net/shop/apple-products/apple-notebooks/macbook-pro-mxk52ll-a-in-lebanon-i5-8gb-512gb-13-3/": {
   "ok": false,
   "reason": "redirected to the home page"
- },
- "https://mojitech.net/shop/brands/lenovo-brands/lenovo-loq-83gs002k2fe/": {
-  "final": "https://mojitech.net/shop/laptops/lenovo-loq-83gs002k2fe/",
-  "ok": true,
-  "reason": "product page (no stock data; assumed available)",
-  "price": null
- },
- "https://mojitech.net/shop/laptops/acer-predator-helios-neo-16s-phn16s-71-98rf-nh-u0kaa-001-ultra-9-275hx-5070ti-12gb-32gb-1tb-nvme-16-2560x1600-oled-240hz-2-years-warranty/": {
-  "final": "https://mojitech.net/shop/brands/acer-brands/acer-predator-helios-neo-16s-ultra-9-275hx-rtx-5070ti-12-gb-32gb-ddr5-1tb-ssd-16-1-year-warranty/",
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 2039.0
  },
  "https://mojitech.net/shop/laptops/hp-omen-16-core-i7-16gb-ddr5-1tb-nvme16-1144hz-rtx-4050-6gb/": {
   "ok": false,
@@ -405,149 +359,9 @@
   "ok": false,
   "reason": "redirected to the home page"
  },
- "https://pcandparts.com/product/acer-aspire-14-ai-a14-52m-72fh-ultra-7-16gb-1tb-ssd-arc-14-touch-win11-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 919.0
- },
- "https://pcandparts.com/product/acer-aspire-14-ai-a14-52mt-94h5-ultra-9-32gb-1tb-ssd-arc-14-touch-win11-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 1199.0
- },
- "https://pcandparts.com/product/acer-nitro-5-anv15-52-70sq-core-7-16gb-512gb-ssd-rtx-4050-15-6-win11-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 975.0
- },
- "https://pcandparts.com/product/acer-nitro-5-anv15-52-778v-i7-16gb-512gb-ssd-rtx-5050-15-6-win11-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 1179.0
- },
- "https://pcandparts.com/product/acer-nitro-lite-nl16-71g-790d-i7-16gb-512gb-ssd-rtx-3050-16-win11-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 975.0
- },
- "https://pcandparts.com/product/acer-nitro-v-16s-anv16s-71-97be-core-9-16gb-1tb-ssd-rtx-5070-16-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 1518.0
- },
- "https://pcandparts.com/product/acer-nitro-v15-anv15-51-77dq-i7-32gb-512gb-ssd-rtx-4060-15-6-win11-tax-included/": {
-  "ok": true,
-  "reason": "product page (no stock data; assumed available)",
-  "price": null
- },
- "https://pcandparts.com/product/acer-nitro-v15-anv15-52-90ds-i9-16gb-512gb-ssd-rtx-5060-15-6-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 1399.0
- },
- "https://pcandparts.com/product/acer-nitro-v15-anv15-a31-r7h1-ryzen-7-16gb-1tb-ssd-rtx-5060-15-6-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 1149.0
- },
- "https://pcandparts.com/product/acer-nitro-v16-anv16-72-7809-core-7-32gb-512gb-ssd-rtx-5060-16-win11-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 1365.0
- },
  "https://pcandparts.com/product/acer-predator-triton-neo-16-ultra-9-32gb-1tb-ssd-rtx-4070-win11-tax-included/": {
   "ok": false,
   "reason": "HTTP 404"
- },
- "https://pcandparts.com/product/acer-veriton-vs2720g-i7-14th-gen-8gb-512gb-ssd-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 799.0
- },
- "https://pcandparts.com/product/amd-beast-pc-complete-custom-desktop-ryzen-9-32gb-rtx-5080-1tb-gen5-ssd-x870-nzxt-case-2/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 4069.0
- },
- "https://pcandparts.com/product/amd-gaming-pc-super-ryzen-5-16gb-rtx-5050-500gb-ssd-b550-aerocool-case/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 949.0
- },
- "https://pcandparts.com/product/arcane-iii-pc-i7-k-14th-gen-32gb-rtx-5070-1tb-ssd-b760-rgb-case/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 2129.0
- },
- "https://pcandparts.com/product/asus-nuc-14-pro-ai-mini-pc-nuc14lnku9-ultra-9-32gb-1tb-ssd-win11-tax-included-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 1525.0
- },
- "https://pcandparts.com/product/asus-nuc-14pro-mini-pc-nuc14rvhu5-mini-booksize-barebone-pc-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 569.0
- },
- "https://pcandparts.com/product/asus-nuc-14pro-mini-pc-nuc14rvki3-mini-booksize-barebone-pc-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 425.0
- },
- "https://pcandparts.com/product/asus-nuc-15-pro-nuc15crkc5-core-5-mini-booksize-barebone-pc-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 595.0
- },
- "https://pcandparts.com/product/asus-nuc-15-pro-nuc15crki3-core-3-mini-booksize-barebone-pc-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 519.0
- },
- "https://pcandparts.com/product/asus-nuc-15-pro-nuc15crki3-core-7-mini-booksize-barebone-pc-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 769.0
- },
- "https://pcandparts.com/product/asus-rog-flow-z13-gz302-ryzen-ai-max-64gb-1tb-ssd-13-4-oled-win11-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 2547.0
- },
- "https://pcandparts.com/product/asus-rog-strix-g16-g614pr-ryzen-9-16gb-1tb-ssd-rtx-5070ti-16-win11-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 2128.0
- },
- "https://pcandparts.com/product/asus-rog-strix-g18-g1815lp-ultra-9-32gb-2tb-ssd-rtx-5070-18-win11-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 2595.0
- },
- "https://pcandparts.com/product/asus-rog-strix-g18-ultra-9-32gb-2tb-ssd-rtx-5070ti-18-win11-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 2729.0
- },
- "https://pcandparts.com/product/asus-rog-zephyrus-g14-ga403-ryzen-9-32gb-2tb-ssd-rtx-5080-14-oled-win11-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 3033.0
- },
- "https://pcandparts.com/product/asus-tuf-a16-fa608uh-r7165w-ryzen-7-16gb-512gb-ssd-rtx-5050-16-win11-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 1219.0
- },
- "https://pcandparts.com/product/asus-tuf-a16-fa608up-a16-r95070-ryzen-9-32gb-1tb-ssd-rtx-5070-16-win11-tax-included/": {
-  "ok": true,
-  "reason": "product page (no stock data; assumed available)",
-  "price": null
- },
- "https://pcandparts.com/product/asus-tuf-gaming-a18-fa808um-ryzen-7-16gb-1tb-ssd-rtx-5060-18-win11-tax-included/": {
-  "ok": true,
-  "reason": "product page (no stock data; assumed available)",
-  "price": null
  },
  "https://pcandparts.com/product/asus-tuf-gaming-f15-fx507vv-lp177-i7-16gb-ram-512gb-ssd-rtx-4060-15-6/": {
   "ok": false,
@@ -557,34 +371,9 @@
   "ok": false,
   "reason": "HTTP 404"
  },
- "https://pcandparts.com/product/asus-vivobook-15-f1504za-wh52-i5-8gb-256gb-ssd-15-6-win11-tax-included/": {
-  "ok": true,
-  "reason": "product page (no stock data; assumed available)",
-  "price": null
- },
- "https://pcandparts.com/product/asus-vivobook-16-f1605va-ws96-i9-16gb-1tb-ssd-16-win11-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 943.0
- },
  "https://pcandparts.com/product/asus-vivobook-16x-k3605vv-n1111-i7-16gb-1tb-ssd-rtx-4060-16-tax-included/": {
   "ok": false,
   "reason": "HTTP 404"
- },
- "https://pcandparts.com/product/asus-vivobook-18-m1807ha-ryzen-7-32gb-1tb-ssd-18-radeon-win11-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 1219.0
- },
- "https://pcandparts.com/product/asus-vivobook-tp3407sa-ds74t-ultra-7-16gb-1tb-ssd-14-touch-arc-win11-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 1049.0
- },
- "https://pcandparts.com/product/asus-vivobook-x1404vap-v14-c58256-blue-core-5-8gb-ram-256gb-ssd-14-win11-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 539.0
  },
  "https://pcandparts.com/product/asus-zenbook-14-oled-q415ma-u5512-ultra-5-8gb-512gb-ssd-14-touch-win11-tax-included/": {
   "ok": false,
@@ -594,238 +383,17 @@
   "ok": false,
   "reason": "HTTP 404"
  },
- "https://pcandparts.com/product/asus-zenbook-14-oled-ux3405ca-u9321tb-ultra-9-32gb-1tb-ssd-14-touch-win11-tax-included/": {
-  "ok": true,
-  "reason": "product page (no stock data; assumed available)",
-  "price": null
- },
- "https://pcandparts.com/product/asus-zenbook-s16-um5606wa-s16-r3651tb-ryzen-ai-9-24gb-1tb-ssd-radeon-16-win11-tax-included/": {
-  "ok": true,
-  "reason": "product page (no stock data; assumed available)",
-  "price": null
- },
- "https://pcandparts.com/product/cod-gaming-pc-super-ultra-5-32gb-rtx-5070-1tb-ssd-b860-gaming-case/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 1989.0
- },
- "https://pcandparts.com/product/dell-15-dc15250-i5-8gb-512gb-ssd-15-6-touch-win11-tax-included-2/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 609.0
- },
- "https://pcandparts.com/product/dell-15-dc15250-i5-8gb-512gb-ssd-15-6-touch-win11-tax-included/": {
-  "final": "https://pcandparts.com/product/dell-15-dc15250-i5-8gb-512gb-ssd-15-6-touch-win11-tax-included-2/",
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 609.0
- },
- "https://pcandparts.com/product/dell-16-dc16250-core-7-16gb-1tb-ssd-16-touch-win11-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 969.0
- },
- "https://pcandparts.com/product/dell-16-dc16250-ultra-9-32gb-1tb-ssd-16-touch-arc-win11-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 1455.0
- },
- "https://pcandparts.com/product/dell-alienware-aurora-16-lac16251-core-9-32gb-2tb-ssd-rtx-5070-16-win11-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 2275.0
- },
- "https://pcandparts.com/product/dell-gaming-g15-g5530-7527blk-pus-i7-8gb-1tb-ssd-rtx-4050-15-6-win11-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 1109.0
- },
- "https://pcandparts.com/product/dell-inspiron-14-i7441-sx10838blu-pus-snapdragon-16gb-512gb-ssd-14-touch-win11-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 826.0
- },
- "https://pcandparts.com/product/dell-inspiron-16-i5640-7609blu-pu-core-7-32gb-1tb-ssd-16-touch-win11-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 1125.0
- },
- "https://pcandparts.com/product/dell-latitude-5450-ultra-5-16gb-512gb-ssd-14-touch-win11-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 1099.0
- },
- "https://pcandparts.com/product/dell-latitude-5540-210-bgbj-i5-i5-8gb-512gb-ssd-15-6/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 567.0
- },
- "https://pcandparts.com/product/dell-latitude-5540-210-bgbj-i7-i7-16gb-512gb-ssd-15-6/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 1222.0
- },
- "https://pcandparts.com/product/extreme-gaming-luxury-pcii-rgb-ryzen-7-1tb-ssd-32gb-rtx-5070-b850/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 2189.0
- },
- "https://pcandparts.com/product/extreme-gaming-pc-super-i5-k-16gb-rtx-5060ti-16gb-512gb-ssd-b760-rgb-case/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 1619.0
- },
- "https://pcandparts.com/product/gigabyte-a16-i7-16gb-1tb-ssd-rtx-5050-16-win11-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 1178.0
- },
- "https://pcandparts.com/product/hp-15-fd0133wm-15-fd1031wm-i3-8gb-256gb-ssd-15-6-win11-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 449.0
- },
- "https://pcandparts.com/product/hp-15-fd0143ne-i7-8gb-512gb-ssd-15-6-mx570-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 655.0
- },
  "https://pcandparts.com/product/hp-15-fd0149ne-i5-8gb-512gb-ssd-15-6-tax-included/": {
   "ok": false,
   "reason": "HTTP 404"
- },
- "https://pcandparts.com/product/hp-15-fd0250wm-i5-8gb-512gb-ssd-15-6-win11-tax-included-2/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 559.0
- },
- "https://pcandparts.com/product/hp-15-fd0371nia-i7-8gb-512gb-ssd-mx570-15-6-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 664.0
- },
- "https://pcandparts.com/product/hp-15-fd1899nr-core-7-16gb-512gb-ssd-15-6-win11-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 714.0
- },
- "https://pcandparts.com/product/hp-15-fd2002ne-ultra-7-16gb-512gb-ssd-15-6-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 867.0
- },
- "https://pcandparts.com/product/hp-15-fd2003ne-ultra-5-16gb-512gb-ssd-15-6-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 699.0
- },
- "https://pcandparts.com/product/hp-17-cn4071cl-core-7-16gb-ram-512gb-ssd-17-3-win11-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 799.0
- },
- "https://pcandparts.com/product/hp-250-g10-i5-8gb-512gb-ssd-15-6-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 569.0
- },
- "https://pcandparts.com/product/hp-250-g9-6s6v4ea-i7-8gb-512gb-ssd-15-6/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 595.0
- },
- "https://pcandparts.com/product/hp-all-in-one-24-cr2040ne-pc-ultra-7-8gb-512gb-ssd-27-touch-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 1175.0
- },
- "https://pcandparts.com/product/hp-all-in-one-24-cr2043ne-pc-ultra-7-8gb-512gb-ssd-24-touch-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 1125.0
- },
- "https://pcandparts.com/product/hp-elitebook-660-g11-ultra-7-16gb-512gb-ssd-16-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 1169.0
- },
- "https://pcandparts.com/product/hp-elitebook-8-g1i-ultra-5-16gb-512gb-ssd-14-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 965.0
- },
- "https://pcandparts.com/product/hp-elitebook-8-g1i-ultra-7-16gb-512gb-ssd-14-tax-included/": {
-  "ok": true,
-  "reason": "product page (no stock data; assumed available)",
-  "price": null
- },
- "https://pcandparts.com/product/hp-elitebook-840-g11-ultra-5-16gb-256gb-ssd-14-touch-win11-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 983.0
  },
  "https://pcandparts.com/product/hp-laptop-15-fd0005dx-i5-8gb-512gb-ssd-15-6-touch-win11-tax-included/": {
   "ok": false,
   "reason": "HTTP 404"
  },
- "https://pcandparts.com/product/hp-laptop-15-fd0127dx-i7-16gb-512gb-ssd-15-6-touch-win11-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 779.0
- },
- "https://pcandparts.com/product/hp-laptop-gaming-omen-16-am0005ne-i9-16gb-1tb-ssd-rtx-5070-16-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 1878.0
- },
- "https://pcandparts.com/product/hp-laptop-gaming-omen-16-an0075cl-ultra-9-32gb-1tb-ssd-rtx-5070-16-win11-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": null
- },
- "https://pcandparts.com/product/hp-laptop-gaming-omen-16-ap0053dx-ryzen-9-32gb-1tb-ssd-rtx-5060-16-win11-tax-included/": {
-  "ok": true,
-  "reason": "product page (no stock data; assumed available)",
-  "price": null
- },
  "https://pcandparts.com/product/hp-laptop-gaming-omen-16t-wf000-i7-16gb-512gb-ssd-rtx-4070-16-win11-tax-included/": {
   "ok": false,
   "reason": "HTTP 404"
- },
- "https://pcandparts.com/product/hp-laptop-omen-league-of-legends-limited-edition-i7-32gb-1tb-ssd-rtx-5060-win11-tax-included/": {
-  "ok": true,
-  "reason": "product page (no stock data; assumed available)",
-  "price": null
- },
- "https://pcandparts.com/product/hp-laptop-victus-15-fa2000ne-core-7-8gb-512gb-ssd-rtx-5050-15-6/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 1186.0
- },
- "https://pcandparts.com/product/hp-laptop-victus-15-fa2013dx-i5-8gb-512gb-ssd-rtx-3050-15-6-win11-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 985.0
- },
- "https://pcandparts.com/product/hp-laptop-victus-15-fb3001nr-ryzen-ai-7-16gb-1tb-ssd-rtx-5060-15-6-win11-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 1323.0
- },
- "https://pcandparts.com/product/hp-laptop-victus-15-fb3025ne-ryzen-7-16gb-512gb-ssd-rtx-3050-15-6-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 952.0
- },
- "https://pcandparts.com/product/hp-omen-16-ultra-7-16gb-512gb-ssd-16-rtx-5070/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 1499.0
- },
- "https://pcandparts.com/product/hp-omen-17-ryzen-7-32gb-1tb-ssd-17-rtx-5060-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 1499.0
  },
  "https://pcandparts.com/product/hp-omen-max-16-ryzen-ai-7-h-350-16gb-512gb-ssd-rtx-5070ti-16-win11-tax-included/": {
   "ok": false,
@@ -835,406 +403,21 @@
   "ok": false,
   "reason": "HTTP 404"
  },
- "https://pcandparts.com/product/hp-omnibook-3-16-bu0170wm-laptop-ultra-7-16gb-1tb-ssd-16-win11-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 909.0
- },
- "https://pcandparts.com/product/hp-omnibook-3-16-bu0305dx-ultra-5-8gb-512gb-16-touch-win11-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 685.0
- },
- "https://pcandparts.com/product/hp-omnibook-3-16-cd0070wm-laptop-ultra-7-16gb-1tb-ssd-16-touch-win11-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 1025.0
- },
- "https://pcandparts.com/product/hp-omnibook-5-16-af1017wm-ultra-7-16gb-1tb-ssd-16-touch-win11-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 959.0
- },
- "https://pcandparts.com/product/hp-omnibook-5-16-ag1075cl-ryzen-7-32gb-1tb-ssd-16-touch-radeon-win11-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 1169.0
- },
- "https://pcandparts.com/product/hp-omnibook-5-16-cd0107st-laptop-ultra-7-16gb-512gb-ssd-16-win11-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 899.0
- },
- "https://pcandparts.com/product/hp-omnibook-x-flip-14-fm0013dx-ultra-5-16gb-512gb-ssd-14-touch-arc-win11-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 879.0
- },
- "https://pcandparts.com/product/hp-omnibook-x-flip-16-as0023dx-ultra-7-16gb-1tb-ssd-16-touch-win11-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 948.0
- },
- "https://pcandparts.com/product/hp-omnibook-x-flip-16-as0043dx-ultra-9-32gb-1tb-ssd-16-touch-arc-win11-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 1489.0
- },
- "https://pcandparts.com/product/hp-omnibook-x-flip-16-as0053-ultra-9-32gb-1tb-ssd-16-touch-arc-win11-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 1829.0
- },
- "https://pcandparts.com/product/hp-pro-tower-290-g9-i7-8gb-512gb-ssd-dvdrw-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 909.0
- },
- "https://pcandparts.com/product/hp-pro-tower-290-g9-i7-8gb-512gb-ssd-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 875.0
- },
- "https://pcandparts.com/product/hp-probook-4-g1i-ultra-7-16gb-512gb-ssd-14-tax-included-2/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 1044.0
- },
- "https://pcandparts.com/product/hp-probook-4-g1i-ultra-7-16gb-512gb-ssd-14-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": null
- },
- "https://pcandparts.com/product/hp-probook-4-g1i-ultra-7-16gb-512gb-ssd-16-tax-included-2/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 973.0
- },
- "https://pcandparts.com/product/hp-probook-4-g1i-ultra-7-16gb-512gb-ssd-16-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 986.0
- },
  "https://pcandparts.com/product/hp-probook-4-g1i-ultra-7-24gb-1tb-ssd-16/": {
   "ok": false,
   "reason": "HTTP 404"
- },
- "https://pcandparts.com/product/hp-prodesk-400-g7-i5-10500/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 625.0
- },
- "https://pcandparts.com/product/hyperx-omen-15-gaming-laptop-ultra-9-16gb-1tb-ssd-rtx-5060-win11-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 1685.0
- },
- "https://pcandparts.com/product/hyperx-omen-15-gaming-laptop-ultra-9-32gb-1tb-ssd-rtx-5070-win11-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 2589.0
- },
- "https://pcandparts.com/product/intel-beast-pcii-complete-custom-desktop-white-ultra-9-64gb-rtx-5080-1tb-gen-5-ssd-z890-nzxt-case/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 4665.0
- },
- "https://pcandparts.com/product/intel-budget-beast-pc-i5-16gb-ddr5-rtx-5060-500gb-ssd-b760-gaming-case/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 1249.0
- },
- "https://pcandparts.com/product/intel-budget-ultimate-pc-fb-super-i5-16gb-rtx-5060-250gb-ssd-h610-case/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 1055.0
- },
- "https://pcandparts.com/product/intel-diablo-pc-ultra-7-32gb-rtx-5070ti-1tb-gen-5-ssd-z890-cooler-master-case-2/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 2799.0
- },
- "https://pcandparts.com/product/intel-entry-gaming-pc-super-i5-8gb-rtx-5050-500gb-ssd-h610-aerocool-case/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 859.0
- },
- "https://pcandparts.com/product/intel-halo-pc-ultra-9-32gb-rtx-5070ti-1tb-ssd-z890-noctua-cooler-nzxt-case/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 2999.0
- },
- "https://pcandparts.com/product/intel-nuc-12-pro-kit-nuc12wshi7-mini-booksize-barebone-pc-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 579.0
- },
- "https://pcandparts.com/product/intel-snow-steep-white-pc-i7-32gb-rtx-5070-1tb-ssd-b760-cooler-master-case/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 2129.0
- },
- "https://pcandparts.com/product/lenovo-ideapad-1-15ijl7-82lx00gsad-bag-celeron-8gb-256gb-ssd-15-6-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 345.0
- },
- "https://pcandparts.com/product/lenovo-ideapad-1-82vg00wxus-ryzen-5-8gb-256gb-ssd-15-6-610m-win11-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 455.0
- },
- "https://pcandparts.com/product/lenovo-ideapad-1i-83b40008us-i5-16gb-ram-256gb-ssd-15-6-win11-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 565.0
- },
- "https://pcandparts.com/product/lenovo-ideapad-3-81w1014gax-ryzen-3-4gb-1tb-hdd-15-6-2/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 317.0
- },
- "https://pcandparts.com/product/lenovo-ideapad-5-83ul0004us-2-in-1-ultra-7-16gb-1tb-ssd-15-3-touch-win11-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 1249.0
  },
  "https://pcandparts.com/product/lenovo-ideapad-slim-3-82x60062in-bag-i3-8gb-256gb-ssd-15-6-tax-included/": {
   "ok": false,
   "reason": "HTTP 404"
  },
- "https://pcandparts.com/product/lenovo-ideapad-slim-3-82x700dfdp-bag-i3-8gb-512gb-ssd-15-6-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 469.0
- },
- "https://pcandparts.com/product/lenovo-ideapad-slim-3-82x700hrax-i3-8gb-256gb-ssd-15-6-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 447.0
- },
- "https://pcandparts.com/product/lenovo-ideapad-slim-3-82x700huus-i7-16gb-1tb-ssd-15-6-touch-win11tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 805.0
- },
- "https://pcandparts.com/product/lenovo-ideapad-slim-3-83k100c1dp-i5-16gb-512gb-ssd-15-3-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 607.0
- },
- "https://pcandparts.com/product/lenovo-ideapad-slim-3-83k100e7dp-i7-16gb-512gb-ssd-15-3-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 732.0
- },
- "https://pcandparts.com/product/lenovo-ideapad-slim-3-83k100e9ax-i5-8gb-512gb-ssd-15-3-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 540.0
- },
- "https://pcandparts.com/product/lenovo-ideapad-slim-3-83k100ytfu-i7-16gb-512gb-ssd-15-3-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 696.0
- },
- "https://pcandparts.com/product/lenovo-ideapad-slim-3-83ur0042dp-ultra-7-16gb-512gb-ssd-15-3-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 815.0
- },
- "https://pcandparts.com/product/lenovo-legion-5-15iax10-83ly00mups-i7-16gb-1tb-ssd-rtx-5060-15-3-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 1511.0
- },
- "https://pcandparts.com/product/lenovo-legion-pro-5-82wk0083us-i9-32gb-1tb-ssd-rtx-4070-16-win11-tax-included/": {
-  "ok": true,
-  "reason": "product page (no stock data; assumed available)",
-  "price": null
- },
- "https://pcandparts.com/product/lenovo-legion-pro-7-83f50012us-ultra-9-32gb-1tb-ssd-rtx-5080-16-oled-win11-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 3285.0
- },
- "https://pcandparts.com/product/lenovo-legion-pro-7-83f5008nax-ultra-9-32gb-2tb-ssd-rtx-5070ti-16-win11-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 3173.0
- },
- "https://pcandparts.com/product/lenovo-loq-15irx9-83dv01bcax-i5-16gb-512gb-ssd-rtx-3050-15-6-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 999.0
- },
- "https://pcandparts.com/product/lenovo-loq-17irx10-83jh00btax-i7-16gb-512gb-ssd-rtx-5060-17-3-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 1460.0
- },
- "https://pcandparts.com/product/lenovo-loq-83dv00uqps-i5-24gb-512gb-ssd-rtx-3050-15-6-tax-included-2/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 1045.0
- },
- "https://pcandparts.com/product/lenovo-loq-83dv01hpsa-i7-16gb-512gb-ssd-rtx-4050-15-6-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 1185.0
- },
- "https://pcandparts.com/product/lenovo-loq-83dv01hrps-i7-16gb-512gb-ssd-rtx-4050-15-6-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 1159.0
- },
  "https://pcandparts.com/product/lenovo-loq-83je002kus-i5-16gb-512gb-ssd-rtx-5050-15-6-win11/": {
   "ok": false,
   "reason": "HTTP 404"
  },
- "https://pcandparts.com/product/lenovo-loq-83je00xvue-i7-16gb-512gb-ssd-rtx-5060-15-6-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 1408.0
- },
- "https://pcandparts.com/product/lenovo-loq-83je0114ax-i7-16gb-512gb-ssd-rtx-5050-15-6-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 1304.0
- },
- "https://pcandparts.com/product/lenovo-loq-83jg003epb-ryzen-7-16gb-512gb-ssd-rtx-5050-15-6-win11-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 1195.0
- },
- "https://pcandparts.com/product/lenovo-loq-83lk003tps-i7-16gb-512gb-ssd-rtx-4050-15-6-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 1027.0
- },
- "https://pcandparts.com/product/lenovo-loq-83lk00cvus-i5-16gb-512gb-ssd-rtx-3050-15-6-win11tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 892.0
- },
- "https://pcandparts.com/product/lenovo-loq-e-83s00000us-ryzen-7-16gb-512gb-ssd-rtx-4050-win11-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 1029.0
- },
- "https://pcandparts.com/product/lenovo-loq-e-83sc007wfe-i7-16gb-512gb-ssd-rtx-4050-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 1237.0
- },
- "https://pcandparts.com/product/lenovo-loq-e-83va000xpb-ryzen-7-16gb-512gb-ssd-rtx-5060-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 1289.0
- },
- "https://pcandparts.com/product/lenovo-loq-e-83va001pus-ryzen-7-16gb-512gb-ssd-rtx-5050-win11-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 1339.0
- },
- "https://pcandparts.com/product/lenovo-neo-30s-i3-8gb-512gb-ssd/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 515.0
- },
- "https://pcandparts.com/product/lenovo-neo-50t-i3-8gb-512gb-ssd-tax-included-3/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 575.0
- },
- "https://pcandparts.com/product/lenovo-neo-50t-i5-8gb-512gb-ssd-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 725.0
- },
- "https://pcandparts.com/product/lenovo-neo-50t-i7-8gb-512gb-ssd-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 939.0
- },
- "https://pcandparts.com/product/lenovo-neo-50t-ultra-3-8gb-512gb-ssd-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 609.0
- },
- "https://pcandparts.com/product/lenovo-neo-50t-ultra-5-8gb-512gb-ssd/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 695.0
- },
- "https://pcandparts.com/product/lenovo-neo-50t-ultra-7-16gb-512gb-ssd-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 1145.0
- },
- "https://pcandparts.com/product/lenovo-neo-m70t-12u60046gp-i7-8gb-512gb-ssd-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 875.0
- },
- "https://pcandparts.com/product/lenovo-neo-m70t-12yh000pgp-ultra-7-16gb-512gb-ssd-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 1125.0
- },
- "https://pcandparts.com/product/lenovo-thinkbook-16-ultra-7-16gb-512gb-ssd-arc-16-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 959.0
- },
  "https://pcandparts.com/product/lenovo-thinkbook-21ms000ngq-ultra-7-8gb-512gb-ssd-arc-16-tax-included/": {
   "ok": false,
   "reason": "HTTP 404"
- },
- "https://pcandparts.com/product/lenovo-thinkcenter-neo-50q-ultra-7-16gb-512gb-ssd-arc/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 949.0
- },
- "https://pcandparts.com/product/lenovo-thinkcentre-neo-50a-24-gen-5-core-5-16gb-512gb-ssd-24-touch/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 925.0
- },
- "https://pcandparts.com/product/lenovo-thinkcentre-neo-50a-24-gen-5-core-7-16gb-512gb-ssd-24-aio-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 1079.0
- },
- "https://pcandparts.com/product/lenovo-thinkcentre-neo-50a-24-gen-5-core-7-8gb-512gb-ssd-24-aio-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 969.0
- },
- "https://pcandparts.com/product/lenovo-thinkcentre-neo-50a-24-gen-6-i7-16gb-512gb-ssd-24-touch-arc/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 1085.0
- },
- "https://pcandparts.com/product/lenovo-thinkcentre-neo-50a-24-gen-6-ultra-5-16gb-512gb-ssd-24-touch-arc/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 975.0
- },
- "https://pcandparts.com/product/lenovo-thinkpad-e14-21sys6d300-ultra-7-16gb-512gb-ssd-14-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 1129.0
- },
- "https://pcandparts.com/product/lenovo-thinkpad-e14-21u20032gr-bag-ultra-7-32gb-512gb-ssd-14-arc-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 1319.0
- },
- "https://pcandparts.com/product/lenovo-thinkpad-e14-21u2005sed-bag-ultra-7-16gb-512gb-ssd-14-arc-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 1065.0
  },
  "https://pcandparts.com/product/lenovo-thinkpad-e14-g7-21sx001tgp-bag-ultra-7-16gb-512gb-ssd-arc-14-tax-included/": {
   "ok": false,
@@ -1244,84 +427,9 @@
   "ok": false,
   "reason": "HTTP 404"
  },
- "https://pcandparts.com/product/lenovo-thinkpad-e14-g7-21t9004ved-bag-ultra-5-8gb-512gb-ssd-14/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 817.0
- },
  "https://pcandparts.com/product/lenovo-thinkpad-e16-21sr0017gr-utra-7-16gb-512gb-ssd-arc-16-tax-included/": {
   "ok": false,
   "reason": "HTTP 404"
- },
- "https://pcandparts.com/product/lenovo-thinkpad-e16-21sr005ced-bag-ultra-5-8gb-512gb-ssd-16/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 835.0
- },
- "https://pcandparts.com/product/lenovo-thinkpad-e16-21sss72200-ultra-7-16gb-512gb-ssd-16-arc-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 1145.0
- },
- "https://pcandparts.com/product/lenovo-thinkpad-e16-21yc0030gq-bag-ultra-7-16gb-512gb-ssd-16-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 1225.0
- },
- "https://pcandparts.com/product/lenovo-thinkpad-e16-22ay001ged-bag-ultra-7-16gb-512gb-ssd-16-arc-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 1069.0
- },
- "https://pcandparts.com/product/lenovo-thinkpad-x9-14-21qa008nus-ultra-7-32gb-512gb-ssd-14-oled-touch-arc-win11-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 1897.0
- },
- "https://pcandparts.com/product/lenovo-v14-g4-iru-83a000g8us-i7-16gb-512gb-ssd-14-win11-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 711.0
- },
- "https://pcandparts.com/product/lenovo-v15-g4-amn-82yu00yyrm-ryzen-5-8gb-512gb-ssd-radeon-15-6-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 499.0
- },
- "https://pcandparts.com/product/lenovo-v15-g5-irl-83gw006aeq-bag-i5-8gb-512gb-ssd-15-6-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 599.0
- },
- "https://pcandparts.com/product/lenovo-v15-g5-irl-83gw006ved-bag-i7-8gb-512gb-ssd-15-6-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 632.0
- },
- "https://pcandparts.com/product/lenovo-v15-g5-irl-83gw0076gp-i3-8gb-256gb-ssd-15-6-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 468.0
- },
- "https://pcandparts.com/product/lenovo-v15-g5-irl-83hf00e6ig-i5-8gb-512gb-ssd-15-6-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 569.0
- },
- "https://pcandparts.com/product/lenovo-yoga-7-83ju0003us-ryzen-ai-7-16gb-1tb-ssd-16-touch-radeon-win11-tax-included/": {
-  "ok": true,
-  "reason": "product page (no stock data; assumed available)",
-  "price": null
- },
- "https://pcandparts.com/product/lenovo-yoga-slim-9-83cx0005us-ultra-7-32gb-1tb-ssd-14-4k-oled-touch-win11-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 1833.0
- },
- "https://pcandparts.com/product/msi-crosshair-16-hx-e14wgk-038us-i9-16gb-512gb-ssd-rtx-5070-16-win11-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 1699.0
  },
  "https://pcandparts.com/product/msi-cyborg-14-a13v-i7-16gb-512gb-ssd-rtx-4060-14-win11-tax-included/": {
   "ok": false,
@@ -1331,84 +439,9 @@
   "ok": false,
   "reason": "HTTP 404"
  },
- "https://pcandparts.com/product/msi-cyborg-15-a13uc-i7-16gb-512gb-ssd-rtx-3050-15-6-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 1003.0
- },
- "https://pcandparts.com/product/msi-cyborg-15-b13wekg-i7-16gb-1tb-ssd-rtx-5050-15-6-win11-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 1239.0
- },
- "https://pcandparts.com/product/msi-cyborg-15-b13wfkg-i7-16gb-1tb-ssd-rtx-5060-15-6-win11-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 1349.0
- },
- "https://pcandparts.com/product/msi-cyborg-15-b2rw-core-7-16gb-1tb-ssd-rtx-5070-15-6-win11-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 1445.0
- },
- "https://pcandparts.com/product/msi-cyborg-15-b2rwfkg-core-9-16gb-512gb-ssd-rtx-5060-15-6-win11-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 1445.0
- },
  "https://pcandparts.com/product/msi-katana-15-b13vgk-484us-i7-16gb-1tb-ssd-rtx-4070-15-6-win11-tax-included/": {
   "ok": false,
   "reason": "HTTP 404"
- },
- "https://pcandparts.com/product/msi-katana-15-hx-b14wgk-293us-i7-16gb-1tb-ssd-rtx-5070-15-6-win11-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 1575.0
- },
- "https://pcandparts.com/product/msi-katana-15hx-b14wfk-i7-16gb-1tb-ssd-rtx-5070-15-6-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 1619.0
- },
- "https://pcandparts.com/product/msi-katana-15hx-b14wfk-i9-16gb-1tb-ssd-rtx-5060-15-6-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 1495.0
- },
- "https://pcandparts.com/product/msi-katana-15hx-b14wgk-i9-16gb-1tb-ssd-rtx-5070-15-6-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 1655.0
- },
- "https://pcandparts.com/product/msi-raider-18-hx-ai-a2xwig-ultra-9-32gb-1tb-ssd-rtx-5080-18-win11-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 2994.0
- },
- "https://pcandparts.com/product/msi-sword-15-i7-16gb-ram-512gb-ssd-rtx-4050-win11-tax-included/": {
-  "ok": true,
-  "reason": "product page (no stock data; assumed available)",
-  "price": null
- },
- "https://pcandparts.com/product/msi-vector-16-ai-16-a8whg-ryzen-9-16gb-ram-1tb-ssd-rtx-5070-16-win11-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 1975.0
- },
- "https://pcandparts.com/product/msi-vector-16-hx-ai-ultra-7-16gb-1tb-ssd-rtx-5070ti-16-win11-tax-included/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 1919.0
- },
- "https://pcandparts.com/product/rgb-gaming-pc-ultra-9-k-32gb-rtx-5070-1tb-ssd-b860-fish-tank-case/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 2389.0
- },
- "https://pcandparts.com/product/wz-ghost-pc-super-ryzen-7-7800x3d-32gb-ddr5-9070xt-1tb-ssd-b850-rgb-case/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 2219.0
  },
  "https://www.dslr-zone.com/product/acer-nitro/": {
   "ok": false,
@@ -1509,56 +542,6 @@
  "https://www.dslr-zone.com/product/msi-katana-15-2/": {
   "ok": false,
   "reason": "HTTP 404"
- },
- "https://961souq.com/products/apple-macbook-air-13-6-m5-chip-10-core-cpu-8-core-gpu-16gb-ram-512gb-ssd": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 1450.0
- },
- "https://961souq.com/products/apple-macbook-air-13-m4-chip-10-core-cpu-10-core-gpu-24gb-ram-512gb-ssd": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": null
- },
- "https://961souq.com/products/apple-macbook-air-13-m4-chip-10-core-cpu-10-core-gpu-32gb-ram-1tb-ssd": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": null
- },
- "https://961souq.com/products/apple-macbook-air-13-m4-chip-10-core-cpu-8-core-gpu-16gb-ram-256gb-ssd": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": null
- },
- "https://961souq.com/products/apple-macbook-pro-14-m4-chip-10-core-cpu-16gb-ram-512gb-ssd-10-core-gpu": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": null
- },
- "https://961souq.com/products/asus-rog-strix-g18-2025-g815-g815lm-is96": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 2027.0
- },
- "https://961souq.com/products/dell-16-plus-2-in-1-laptop-ldb06250-9182blu-pus": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 1891.0
- },
- "https://961souq.com/products/hp-laptop-15-fd0153dx": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 495.0
- },
- "https://961souq.com/products/hp-omen-16-ap0097nr": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 1846.0
- },
- "https://961souq.com/products/msi-stealth-16-ai-studio-a1vgg-036us-16-core-ultra9-185h-64gb-ram-1tb-ssd-rtx-4070-8gb": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 1801.0
  },
  "https://ayoubcomputers.com/acer-aspire-3-a315-58-15-6-laptop-intel-core-i3-1115g4-ram-4gb-ssd-256gb-a315-58-34x1/": {
   "ok": false,
@@ -1816,11 +799,6 @@
   "ok": false,
   "reason": "out of stock (OutOfStock)"
  },
- "https://ayoubcomputers.com/hp-omnibook-3-core-ultra-5-225u-8gb-ram-512gb-ssd-16-2k-ips-touchscreen-laptop-mica-silver-16-bu0305dx/": {
-  "ok": true,
-  "reason": "available (InStock)",
-  "price": 570.0
- },
  "https://ayoubcomputers.com/hp-omnibook-7-16-2k-oled-touchscreen-laptop-intel-core-ultra-9-270h-ram-32gb-1tb-ssd-16-az0595cl/": {
   "ok": false,
   "reason": "out of stock (OutOfStock)"
@@ -2037,6 +1015,81 @@
   "ok": false,
   "reason": "out of stock (OutOfStock)"
  },
+ "https://laptopsking.com/products/alienware-aurora-16x-lac16251-9582blu-pus-ultra-9-275hx-rtx-5070-16-2k-240hz-brand-new-1yr-warranty": {
+  "ok": false,
+  "reason": "out of stock (OutOfStock)"
+ },
+ "https://961souq.com/products/apple-macbook-air-13-6-m5-chip-10-core-cpu-8-core-gpu-16gb-ram-512gb-ssd": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1450.0
+ },
+ "https://961souq.com/products/apple-macbook-air-13-m4-chip-10-core-cpu-10-core-gpu-24gb-ram-512gb-ssd": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": null
+ },
+ "https://961souq.com/products/apple-macbook-air-13-m4-chip-10-core-cpu-10-core-gpu-32gb-ram-1tb-ssd": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": null
+ },
+ "https://961souq.com/products/apple-macbook-air-13-m4-chip-10-core-cpu-8-core-gpu-16gb-ram-256gb-ssd": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": null
+ },
+ "https://961souq.com/products/apple-macbook-pro-14-m4-chip-10-core-cpu-16gb-ram-512gb-ssd-10-core-gpu": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": null
+ },
+ "https://961souq.com/products/asus-rog-strix-g18-2025-g815-g815lm-is96": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 2027.0
+ },
+ "https://961souq.com/products/dell-16-plus-2-in-1-laptop-ldb06250-9182blu-pus": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1891.0
+ },
+ "https://961souq.com/products/hp-laptop-15-fd0153dx": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 495.0
+ },
+ "https://961souq.com/products/hp-omen-16-ap0097nr": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1846.0
+ },
+ "https://961souq.com/products/msi-stealth-16-ai-studio-a1vgg-036us-16-core-ultra9-185h-64gb-ram-1tb-ssd-rtx-4070-8gb": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1801.0
+ },
+ "https://ayoubcomputers.com/acer-predator-triton-300-se-14-144hz-laptop-intel-11th-gen-i7-nvidia-geforce-rtx-3050ti-16gb-ddr4-512gb-ssd-pt314-51s-76qn/": {
+  "ok": false,
+  "reason": "out of stock (OutOfStock)"
+ },
+ "https://ayoubcomputers.com/asus-vivobook-15-x1504va-nj379-15-6-fhd-laptop-intel-core-i7-1355u-ram-8gb-ssd-512gb-intel-iris-xe-x1504va-nj379/": {
+  "final": "https://ayoubcomputers.com/asus-vivobook-15-15-6-fhd-laptop-intel-core-i7-1355u-ram-8gb-ssd-512gb-intel-iris-xe-x1504va-nj379/",
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 599.0
+ },
+ "https://ayoubcomputers.com/hp-omnibook-3-core-ultra-5-225u-8gb-ram-512gb-ssd-16-2k-ips-touchscreen-laptop-mica-silver-16-bu0305dx/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 570.0
+ },
+ "https://ayoubcomputers.com/hp-victus-15-6-gaming-laptop-intel-core-i5-13420h-ram-8gb-ssd-512gb-nvidia-geforce-rtx-3050-windows-11-15-fa2013dx/": {
+  "final": "https://ayoubcomputers.com/hp-victus-15-fa2013dx-gaming-laptop-15-6-fhd-ips-144hz-intel-core-i5-13420h-ram-8gb-ssd-512gb-nvidia-geforce-rtx-3050-6gb-15-fa2013dx/",
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 799.0
+ },
  "https://jakcomputer.com/products/asus-proart-pz13-detachable-laptop": {
   "ok": true,
   "reason": "available (InStock)",
@@ -2062,14 +1115,19 @@
   "reason": "available (InStock)",
   "price": 3694.0
  },
+ "https://jakcomputer.com/shop/laptops/graphic-laptop/lenovo-legion-5-15irx10/": {
+  "ok": false,
+  "reason": "out of stock (OutOfStock)"
+ },
  "https://laptopsking.com/products/acer-nitro-v-15-gaming-laptop-i9-13900h-rtx-5060-15-6-inch-165hz-new": {
   "ok": true,
   "reason": "available (InStock)",
   "price": 1499.0
  },
- "https://laptopsking.com/products/alienware-aurora-16x-lac16251-9582blu-pus-ultra-9-275hx-rtx-5070-16-2k-240hz-brand-new-1yr-warranty": {
-  "ok": false,
-  "reason": "out of stock (OutOfStock)"
+ "https://mediatechlb.com/product/acer-laptop-nitro-intel-core-i9-13900h-32gb-ram1tb-ssd-rtx4050-6gb/": {
+  "ok": true,
+  "reason": "product page (no stock data; assumed available)",
+  "price": null
  },
  "https://mediatechlb.com/product/acer-nitro-v-anv15-51-55ut-gaming-laptop-15-6-intel-core-i5-13420h-16g-512-rtx-2050-in-lebanon/": {
   "ok": true,
@@ -2080,6 +1138,12 @@
   "ok": true,
   "reason": "product page (no stock data; assumed available)",
   "price": 2700.0
+ },
+ "https://mediatechlb.com/product/asus-rog-strix-g16-g614fm-ws94-amd-ryzen-9-9955hx-16gb-1tb-nvme-16-wuxda-165hz-nvidiartx-5060-8gb-gaming-laptop-lebanon/": {
+  "final": "https://mediatechlb.com/product/asus-rog-strix-g16-g614fm-ws94-amd-ryzen-9/",
+  "ok": true,
+  "reason": "product page (no stock data; assumed available)",
+  "price": 1599.0
  },
  "https://mediatechlb.com/product/asus-rog-strix-g16-g614ji-ss74-gaming-core-i7-13650hx-16g-1tb-16-inch-fhd-rtx-4070-8gb-gaming-laptop-lebanon/": {
   "ok": true,
@@ -2231,6 +1295,12 @@
   "reason": "product page (no stock data; assumed available)",
   "price": null
  },
+ "https://mediatechlb.com/product/lenovo-legion-pro-5-83lt000eus-ryzen-9-8945hx-1tb-ssd-16gb-ddr5-16-0-inch-nvidia-geforce-rtx-5060-8gb-w11h-black-1-year-warranty-laptops-in-lebanon/": {
+  "final": "https://mediatechlb.com/product/lenovo-legion-pro-5-83lt000eus/",
+  "ok": true,
+  "reason": "product page (no stock data; assumed available)",
+  "price": null
+ },
  "https://mediatechlb.com/product/lenovo-legion-pro-5-83lt000mus/": {
   "ok": true,
   "reason": "product page (no stock data; assumed available)",
@@ -2281,6 +1351,11 @@
   "reason": "product page (no stock data; assumed available)",
   "price": null
  },
+ "https://mediatechlb.com/product/macbook-pro-apple-mxe03ll-a-m3-8-core-cpu-16gb-ddr5-1tb-ssd-14-2-inch-10-core-space-gray-business-laptopn-1-year-warinty/": {
+  "ok": true,
+  "reason": "product page (no stock data; assumed available)",
+  "price": null
+ },
  "https://mediatechlb.com/product/msi-raider-ge78hx-14vig-600us-intel-core-i9-14900hx-2tb-ssd-64gb-17-0-inch-2560-x-1600-nvidia-geforce-rtx-4090-16gb-w11h-black-laptop-in-lebanon/": {
   "ok": true,
   "reason": "product page (no stock data; assumed available)",
@@ -2310,6 +1385,16 @@
   "ok": true,
   "reason": "product page (no stock data; assumed available)",
   "price": null
+ },
+ "https://mobileleb.com/products/microsoft-surface-book-2-13-5-detachable-touch-screen-intel-core-i7-8gb-ram-256gb-ssd-geforce-gtx-1050-2gb-win10-pro": {
+  "ok": true,
+  "reason": "product page (no stock data; assumed available)",
+  "price": null
+ },
+ "https://mobileleb.com/products/msi-sword-gaming-laptop-15-6-full-hd-display-intel-core-i7-11800h-processor-8gb-ram-512gb-ssd-nvidia-geforce-rtx-3050-ti": {
+  "ok": true,
+  "reason": "product page (no stock data; assumed available)",
+  "price": 1040.0
  },
  "https://mojitech.net/shop/brands/acer-brands/acer-predator-helios-18-ph18-73-962w-rtx-5090/": {
   "ok": true,
@@ -2347,6 +1432,12 @@
   "price": 3289.0
  },
  "https://mojitech.net/shop/brands/lenovo-brands/lenovo-loq-15irx10-gaming-laptop-i7-rtx-5060/": {
+  "ok": true,
+  "reason": "product page (no stock data; assumed available)",
+  "price": null
+ },
+ "https://mojitech.net/shop/brands/lenovo-brands/lenovo-loq-83gs002k2fe/": {
+  "final": "https://mojitech.net/shop/laptops/lenovo-loq-83gs002k2fe/",
   "ok": true,
   "reason": "product page (no stock data; assumed available)",
   "price": null
@@ -2426,6 +1517,12 @@
   "reason": "available (InStock)",
   "price": 1765.0
  },
+ "https://mojitech.net/shop/laptops/acer-predator-helios-neo-16s-phn16s-71-98rf-nh-u0kaa-001-ultra-9-275hx-5070ti-12gb-32gb-1tb-nvme-16-2560x1600-oled-240hz-2-years-warranty/": {
+  "final": "https://mojitech.net/shop/brands/acer-brands/acer-predator-helios-neo-16s-ultra-9-275hx-rtx-5070ti-12-gb-32gb-ddr5-1tb-ssd-16-1-year-warranty/",
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 2039.0
+ },
  "https://mojitech.net/shop/laptops/acer-travelmate-p2-nx-vpqem-008-core-i7/": {
   "ok": true,
   "reason": "available (InStock)",
@@ -2501,10 +1598,1170 @@
   "reason": "product page (no stock data; assumed available)",
   "price": null
  },
+ "https://optionsmegastore.com/gaming-laptops/2157-msi-katana-15-b12vfk-291-rtx-4060-i7-12650h": {
+  "ok": false,
+  "reason": "out of stock (OutOfStock)"
+ },
+ "https://optionsmegastore.com/gaming-laptops/2174-hp-16t-ah000-omen-max-rtx-5070ti-ulra-7-255hx": {
+  "ok": false,
+  "reason": "out of stock (OutOfStock)"
+ },
+ "https://optionsmegastore.com/gaming-laptops/2227-lenovo-legion-pro-5-16iax10h-gaming-laptop-ultra9-rtx5070ti": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 2299.0
+ },
+ "https://optionsmegastore.com/gaming-laptops/2247-lenovo-loq-15-i7-13700hx-rtx5050-24gb": {
+  "ok": false,
+  "reason": "out of stock (OutOfStock)"
+ },
+ "https://optionsmegastore.com/gaming-laptops/2275-asus-rog-zephyrus-g14-rtx-5080-ryzen-ai-9": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 3199.0
+ },
+ "https://optionsmegastore.com/gaming-laptops/2336-lenovo-loq-i7-14700hx-rtx-5060": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1700.0
+ },
+ "https://optionsmegastore.com/gaming-laptops/2446-lenovo-loq-i7-13650hx-rtx-5050": {
+  "ok": false,
+  "reason": "out of stock (OutOfStock)"
+ },
+ "https://optionsmegastore.com/laptops/1472-hp-15-dy5003-core-i5-1235u": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 645.0
+ },
+ "https://optionsmegastore.com/laptops/1731-lenovo-loq-15": {
+  "ok": false,
+  "reason": "out of stock (OutOfStock)"
+ },
+ "https://optionsmegastore.com/laptops/1744-lenovo-legion-5-83dg00agus": {
+  "ok": false,
+  "reason": "out of stock (OutOfStock)"
+ },
+ "https://pcandparts.com/product/acer-aspire-14-ai-a14-52m-72fh-ultra-7-16gb-1tb-ssd-arc-14-touch-win11-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 919.0
+ },
+ "https://pcandparts.com/product/acer-aspire-14-ai-a14-52mt-94h5-ultra-9-32gb-1tb-ssd-arc-14-touch-win11-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1199.0
+ },
+ "https://pcandparts.com/product/acer-nitro-5-anv15-52-70sq-core-7-16gb-512gb-ssd-rtx-4050-15-6-win11-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 975.0
+ },
+ "https://pcandparts.com/product/acer-nitro-5-anv15-52-778v-i7-16gb-512gb-ssd-rtx-5050-15-6-win11-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1179.0
+ },
+ "https://pcandparts.com/product/acer-nitro-lite-nl16-71g-790d-i7-16gb-512gb-ssd-rtx-3050-16-win11-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 975.0
+ },
+ "https://pcandparts.com/product/acer-nitro-v-15-anv15-51-914j-i9-16gb-512gb-ssd-rtx-4050-15-6-win11-tax-included/": {
+  "ok": true,
+  "reason": "product page (no stock data; assumed available)",
+  "price": null
+ },
+ "https://pcandparts.com/product/acer-nitro-v-16s-anv16s-71-97be-core-9-16gb-1tb-ssd-rtx-5070-16-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1518.0
+ },
+ "https://pcandparts.com/product/acer-nitro-v15-anv15-51-77dq-i7-32gb-512gb-ssd-rtx-4060-15-6-win11-tax-included/": {
+  "ok": true,
+  "reason": "product page (no stock data; assumed available)",
+  "price": null
+ },
+ "https://pcandparts.com/product/acer-nitro-v15-anv15-52-90ds-i9-16gb-512gb-ssd-rtx-5060-15-6-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1399.0
+ },
+ "https://pcandparts.com/product/acer-nitro-v15-anv15-a31-r7h1-ryzen-7-16gb-1tb-ssd-rtx-5060-15-6-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1149.0
+ },
+ "https://pcandparts.com/product/acer-nitro-v16-anv16-72-7809-core-7-32gb-512gb-ssd-rtx-5060-16-win11-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1365.0
+ },
+ "https://pcandparts.com/product/acer-predator-helios-neo-14-phn14-51-98b1-ultra-9-32gb-1tb-ssd-rtx-4070-win11-tax-included/": {
+  "ok": true,
+  "reason": "product page (no stock data; assumed available)",
+  "price": null
+ },
+ "https://pcandparts.com/product/acer-predator-helios-neo-16s-phn16s-71-91aw-ultra-9-16gb-1tb-ssd-rtx-5060-16-win11-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": null
+ },
+ "https://pcandparts.com/product/acer-veriton-vs2720g-i7-14th-gen-8gb-512gb-ssd-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 799.0
+ },
+ "https://pcandparts.com/product/amd-beast-pc-complete-custom-desktop-ryzen-9-32gb-rtx-5080-1tb-gen5-ssd-x870-nzxt-case-2/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 4069.0
+ },
+ "https://pcandparts.com/product/amd-gaming-pc-super-ryzen-5-16gb-rtx-5050-500gb-ssd-b550-aerocool-case/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 949.0
+ },
+ "https://pcandparts.com/product/arcane-iii-pc-i7-k-14th-gen-32gb-rtx-5070-1tb-ssd-b760-rgb-case/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 2129.0
+ },
+ "https://pcandparts.com/product/asus-nuc-14-pro-ai-mini-pc-nuc14lnku9-ultra-9-32gb-1tb-ssd-win11-tax-included-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1525.0
+ },
+ "https://pcandparts.com/product/asus-nuc-14pro-mini-pc-nuc14rvhu5-mini-booksize-barebone-pc-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 569.0
+ },
+ "https://pcandparts.com/product/asus-nuc-14pro-mini-pc-nuc14rvki3-mini-booksize-barebone-pc-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 425.0
+ },
+ "https://pcandparts.com/product/asus-nuc-15-pro-nuc15crkc5-core-5-mini-booksize-barebone-pc-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 595.0
+ },
+ "https://pcandparts.com/product/asus-nuc-15-pro-nuc15crki3-core-3-mini-booksize-barebone-pc-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 519.0
+ },
+ "https://pcandparts.com/product/asus-nuc-15-pro-nuc15crki3-core-7-mini-booksize-barebone-pc-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 769.0
+ },
+ "https://pcandparts.com/product/asus-rog-flow-z13-gz302-ryzen-ai-max-64gb-1tb-ssd-13-4-oled-win11-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 2547.0
+ },
+ "https://pcandparts.com/product/asus-rog-strix-g16-g614pr-ryzen-9-16gb-1tb-ssd-rtx-5070ti-16-win11-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 2128.0
+ },
+ "https://pcandparts.com/product/asus-rog-strix-g18-g1815lp-ultra-9-32gb-2tb-ssd-rtx-5070-18-win11-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 2595.0
+ },
+ "https://pcandparts.com/product/asus-rog-strix-g18-ultra-9-32gb-2tb-ssd-rtx-5070ti-18-win11-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 2729.0
+ },
+ "https://pcandparts.com/product/asus-rog-zephyrus-g14-ga403-ryzen-9-32gb-2tb-ssd-rtx-5080-14-oled-win11-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 3033.0
+ },
+ "https://pcandparts.com/product/asus-tuf-a16-fa608uh-r7165w-ryzen-7-16gb-512gb-ssd-rtx-5050-16-win11-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1219.0
+ },
+ "https://pcandparts.com/product/asus-tuf-a16-fa608up-a16-r95070-ryzen-9-32gb-1tb-ssd-rtx-5070-16-win11-tax-included/": {
+  "ok": true,
+  "reason": "product page (no stock data; assumed available)",
+  "price": null
+ },
+ "https://pcandparts.com/product/asus-tuf-gaming-a18-fa808um-ryzen-7-16gb-1tb-ssd-rtx-5060-18-win11-tax-included/": {
+  "ok": true,
+  "reason": "product page (no stock data; assumed available)",
+  "price": null
+ },
+ "https://pcandparts.com/product/asus-vivobook-15-f1504za-wh52-i5-8gb-256gb-ssd-15-6-win11-tax-included/": {
+  "ok": true,
+  "reason": "product page (no stock data; assumed available)",
+  "price": null
+ },
+ "https://pcandparts.com/product/asus-vivobook-16-f1605va-ws96-i9-16gb-1tb-ssd-16-win11-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 943.0
+ },
+ "https://pcandparts.com/product/asus-vivobook-18-m1807ha-ryzen-7-32gb-1tb-ssd-18-radeon-win11-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1219.0
+ },
+ "https://pcandparts.com/product/asus-vivobook-tp3407sa-ds74t-ultra-7-16gb-1tb-ssd-14-touch-arc-win11-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1049.0
+ },
+ "https://pcandparts.com/product/asus-vivobook-x1404vap-v14-c58256-blue-core-5-8gb-ram-256gb-ssd-14-win11-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 539.0
+ },
+ "https://pcandparts.com/product/asus-zenbook-14-oled-ux3405ca-u9321tb-ultra-9-32gb-1tb-ssd-14-touch-win11-tax-included/": {
+  "ok": true,
+  "reason": "product page (no stock data; assumed available)",
+  "price": null
+ },
+ "https://pcandparts.com/product/asus-zenbook-s16-um5606wa-s16-r3651tb-ryzen-ai-9-24gb-1tb-ssd-radeon-16-win11-tax-included/": {
+  "ok": true,
+  "reason": "product page (no stock data; assumed available)",
+  "price": null
+ },
+ "https://pcandparts.com/product/cod-gaming-pc-super-ultra-5-32gb-rtx-5070-1tb-ssd-b860-gaming-case/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1989.0
+ },
+ "https://pcandparts.com/product/dell-15-dc15250-i5-8gb-512gb-ssd-15-6-touch-win11-tax-included-2/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 609.0
+ },
+ "https://pcandparts.com/product/dell-15-dc15250-i5-8gb-512gb-ssd-15-6-touch-win11-tax-included/": {
+  "final": "https://pcandparts.com/product/dell-15-dc15250-i5-8gb-512gb-ssd-15-6-touch-win11-tax-included-2/",
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 609.0
+ },
+ "https://pcandparts.com/product/dell-16-dc16250-core-7-16gb-1tb-ssd-16-touch-win11-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 969.0
+ },
+ "https://pcandparts.com/product/dell-16-dc16250-ultra-9-32gb-1tb-ssd-16-touch-arc-win11-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1455.0
+ },
+ "https://pcandparts.com/product/dell-alienware-aurora-16-lac16251-core-9-32gb-2tb-ssd-rtx-5070-16-win11-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 2275.0
+ },
+ "https://pcandparts.com/product/dell-gaming-g15-g5530-7527blk-pus-i7-8gb-1tb-ssd-rtx-4050-15-6-win11-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1109.0
+ },
+ "https://pcandparts.com/product/dell-inspiron-14-2-in-1-ryzen-5-8gb-512gb-ssd-14-touch-win11-tax-included/": {
+  "ok": false,
+  "reason": "HTTP 404"
+ },
+ "https://pcandparts.com/product/dell-inspiron-14-i7441-sx10838blu-pus-snapdragon-16gb-512gb-ssd-14-touch-win11-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 826.0
+ },
+ "https://pcandparts.com/product/dell-inspiron-16-i5640-7609blu-pu-core-7-32gb-1tb-ssd-16-touch-win11-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1125.0
+ },
+ "https://pcandparts.com/product/dell-latitude-5450-ultra-5-16gb-512gb-ssd-14-touch-win11-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1099.0
+ },
+ "https://pcandparts.com/product/dell-latitude-5540-210-bfzv-i7-i7-16gb-512gb-ssd-14/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1211.0
+ },
+ "https://pcandparts.com/product/dell-latitude-5540-210-bgbj-i5-i5-8gb-512gb-ssd-15-6/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 567.0
+ },
+ "https://pcandparts.com/product/dell-latitude-5540-210-bgbj-i7-i7-16gb-512gb-ssd-15-6/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1222.0
+ },
+ "https://pcandparts.com/product/extreme-gaming-luxury-pcii-rgb-ryzen-7-1tb-ssd-32gb-rtx-5070-b850/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 2189.0
+ },
+ "https://pcandparts.com/product/extreme-gaming-pc-super-i5-k-16gb-rtx-5060ti-16gb-512gb-ssd-b760-rgb-case/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1619.0
+ },
+ "https://pcandparts.com/product/gigabyte-a16-i7-16gb-1tb-ssd-rtx-5050-16-win11-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1178.0
+ },
+ "https://pcandparts.com/product/hp-15-fd0133wm-15-fd1031wm-i3-8gb-256gb-ssd-15-6-win11-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 449.0
+ },
+ "https://pcandparts.com/product/hp-15-fd0143ne-i7-8gb-512gb-ssd-15-6-mx570-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 655.0
+ },
+ "https://pcandparts.com/product/hp-15-fd0250wm-i5-8gb-512gb-ssd-15-6-win11-tax-included-2/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 559.0
+ },
+ "https://pcandparts.com/product/hp-15-fd0371nia-i7-8gb-512gb-ssd-mx570-15-6-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 664.0
+ },
+ "https://pcandparts.com/product/hp-15-fd1899nr-core-7-16gb-512gb-ssd-15-6-win11-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 714.0
+ },
+ "https://pcandparts.com/product/hp-15-fd2002ne-ultra-7-16gb-512gb-ssd-15-6-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 867.0
+ },
+ "https://pcandparts.com/product/hp-15-fd2003ne-ultra-5-16gb-512gb-ssd-15-6-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 699.0
+ },
+ "https://pcandparts.com/product/hp-17-cn4071cl-core-7-16gb-ram-512gb-ssd-17-3-win11-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 799.0
+ },
+ "https://pcandparts.com/product/hp-250-g10-i5-8gb-512gb-ssd-15-6-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 569.0
+ },
+ "https://pcandparts.com/product/hp-250-g9-6s6v4ea-i7-8gb-512gb-ssd-15-6/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 595.0
+ },
+ "https://pcandparts.com/product/hp-all-in-one-24-cr2040ne-pc-ultra-7-8gb-512gb-ssd-27-touch-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1175.0
+ },
+ "https://pcandparts.com/product/hp-all-in-one-24-cr2043ne-pc-ultra-7-8gb-512gb-ssd-24-touch-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1125.0
+ },
+ "https://pcandparts.com/product/hp-elitebook-660-g11-ultra-7-16gb-512gb-ssd-16-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1169.0
+ },
+ "https://pcandparts.com/product/hp-elitebook-8-g1i-ultra-5-16gb-512gb-ssd-14-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 965.0
+ },
+ "https://pcandparts.com/product/hp-elitebook-8-g1i-ultra-7-16gb-512gb-ssd-14-tax-included/": {
+  "ok": true,
+  "reason": "product page (no stock data; assumed available)",
+  "price": null
+ },
+ "https://pcandparts.com/product/hp-elitebook-840-g11-ultra-5-16gb-256gb-ssd-14-touch-win11-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 983.0
+ },
+ "https://pcandparts.com/product/hp-laptop-15-fd0127dx-i7-16gb-512gb-ssd-15-6-touch-win11-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 779.0
+ },
+ "https://pcandparts.com/product/hp-laptop-gaming-omen-16-am0005ne-i9-16gb-1tb-ssd-rtx-5070-16-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1878.0
+ },
+ "https://pcandparts.com/product/hp-laptop-gaming-omen-16-an0075cl-ultra-9-32gb-1tb-ssd-rtx-5070-16-win11-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": null
+ },
+ "https://pcandparts.com/product/hp-laptop-gaming-omen-16-ap0053dx-ryzen-9-32gb-1tb-ssd-rtx-5060-16-win11-tax-included/": {
+  "ok": true,
+  "reason": "product page (no stock data; assumed available)",
+  "price": null
+ },
+ "https://pcandparts.com/product/hp-laptop-omen-league-of-legends-limited-edition-i7-32gb-1tb-ssd-rtx-5060-win11-tax-included/": {
+  "ok": true,
+  "reason": "product page (no stock data; assumed available)",
+  "price": null
+ },
+ "https://pcandparts.com/product/hp-laptop-pavilion-15-eg3045cl-i7-16gb-ram-512gb-ssd-15-6-touch-mx550-win11-tax-included/": {
+  "ok": true,
+  "reason": "product page (no stock data; assumed available)",
+  "price": null
+ },
+ "https://pcandparts.com/product/hp-laptop-victus-15-fa2000ne-core-7-8gb-512gb-ssd-rtx-5050-15-6/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1186.0
+ },
+ "https://pcandparts.com/product/hp-laptop-victus-15-fa2013dx-i5-8gb-512gb-ssd-rtx-3050-15-6-win11-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 985.0
+ },
+ "https://pcandparts.com/product/hp-laptop-victus-15-fb3001nr-ryzen-ai-7-16gb-1tb-ssd-rtx-5060-15-6-win11-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1323.0
+ },
+ "https://pcandparts.com/product/hp-laptop-victus-15-fb3025ne-ryzen-7-16gb-512gb-ssd-rtx-3050-15-6-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 952.0
+ },
+ "https://pcandparts.com/product/hp-omen-16-ultra-7-16gb-512gb-ssd-16-rtx-5070/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1499.0
+ },
+ "https://pcandparts.com/product/hp-omen-17-ryzen-7-32gb-1tb-ssd-17-rtx-5060-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1499.0
+ },
+ "https://pcandparts.com/product/hp-omnibook-3-16-bu0170wm-laptop-ultra-7-16gb-1tb-ssd-16-win11-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 909.0
+ },
+ "https://pcandparts.com/product/hp-omnibook-3-16-bu0305dx-ultra-5-8gb-512gb-16-touch-win11-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 685.0
+ },
+ "https://pcandparts.com/product/hp-omnibook-3-16-cd0070wm-laptop-ultra-7-16gb-1tb-ssd-16-touch-win11-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1025.0
+ },
+ "https://pcandparts.com/product/hp-omnibook-5-16-af1017wm-ultra-7-16gb-1tb-ssd-16-touch-win11-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 959.0
+ },
+ "https://pcandparts.com/product/hp-omnibook-5-16-ag1075cl-ryzen-7-32gb-1tb-ssd-16-touch-radeon-win11-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1169.0
+ },
+ "https://pcandparts.com/product/hp-omnibook-5-16-cd0107st-laptop-ultra-7-16gb-512gb-ssd-16-win11-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 899.0
+ },
+ "https://pcandparts.com/product/hp-omnibook-x-flip-14-fm0013dx-ultra-5-16gb-512gb-ssd-14-touch-arc-win11-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 879.0
+ },
+ "https://pcandparts.com/product/hp-omnibook-x-flip-16-as0023dx-ultra-7-16gb-1tb-ssd-16-touch-win11-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 948.0
+ },
+ "https://pcandparts.com/product/hp-omnibook-x-flip-16-as0043dx-ultra-9-32gb-1tb-ssd-16-touch-arc-win11-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1489.0
+ },
+ "https://pcandparts.com/product/hp-omnibook-x-flip-16-as0053-ultra-9-32gb-1tb-ssd-16-touch-arc-win11-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1829.0
+ },
+ "https://pcandparts.com/product/hp-pro-tower-290-g9-i7-8gb-512gb-ssd-dvdrw-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 909.0
+ },
+ "https://pcandparts.com/product/hp-pro-tower-290-g9-i7-8gb-512gb-ssd-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 875.0
+ },
+ "https://pcandparts.com/product/hp-probook-4-g1i-ultra-7-16gb-512gb-ssd-14-tax-included-2/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1044.0
+ },
+ "https://pcandparts.com/product/hp-probook-4-g1i-ultra-7-16gb-512gb-ssd-14-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": null
+ },
+ "https://pcandparts.com/product/hp-probook-4-g1i-ultra-7-16gb-512gb-ssd-16-tax-included-2/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 973.0
+ },
+ "https://pcandparts.com/product/hp-probook-4-g1i-ultra-7-16gb-512gb-ssd-16-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 986.0
+ },
+ "https://pcandparts.com/product/hp-probook-460-g11-bag-ultra-7-8gb-512gb-ssd-16/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 764.0
+ },
+ "https://pcandparts.com/product/hp-prodesk-400-g7-i5-10500/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 625.0
+ },
+ "https://pcandparts.com/product/hyperx-omen-15-gaming-laptop-ultra-9-16gb-1tb-ssd-rtx-5060-win11-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1685.0
+ },
+ "https://pcandparts.com/product/hyperx-omen-15-gaming-laptop-ultra-9-32gb-1tb-ssd-rtx-5070-win11-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 2589.0
+ },
+ "https://pcandparts.com/product/intel-beast-pcii-complete-custom-desktop-white-ultra-9-64gb-rtx-5080-1tb-gen-5-ssd-z890-nzxt-case/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 4665.0
+ },
+ "https://pcandparts.com/product/intel-budget-beast-pc-i5-16gb-ddr5-rtx-5060-500gb-ssd-b760-gaming-case/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1249.0
+ },
+ "https://pcandparts.com/product/intel-budget-ultimate-pc-fb-super-i5-16gb-rtx-5060-250gb-ssd-h610-case/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1055.0
+ },
+ "https://pcandparts.com/product/intel-diablo-pc-ultra-7-32gb-rtx-5070ti-1tb-gen-5-ssd-z890-cooler-master-case-2/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 2799.0
+ },
+ "https://pcandparts.com/product/intel-entry-gaming-pc-super-i5-8gb-rtx-5050-500gb-ssd-h610-aerocool-case/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 859.0
+ },
+ "https://pcandparts.com/product/intel-halo-pc-ultra-9-32gb-rtx-5070ti-1tb-ssd-z890-noctua-cooler-nzxt-case/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 2999.0
+ },
+ "https://pcandparts.com/product/intel-nuc-12-pro-kit-nuc12wshi7-mini-booksize-barebone-pc-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 579.0
+ },
+ "https://pcandparts.com/product/intel-snow-steep-white-pc-i7-32gb-rtx-5070-1tb-ssd-b760-cooler-master-case/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 2129.0
+ },
+ "https://pcandparts.com/product/lenovo-ideapad-1-15ijl7-82lx00gsad-bag-celeron-8gb-256gb-ssd-15-6-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 345.0
+ },
+ "https://pcandparts.com/product/lenovo-ideapad-1-82v700fydp-celeron-4gb-ram-256gb-ssd-15-6-tax-included/": {
+  "ok": true,
+  "reason": "product page (no stock data; assumed available)",
+  "price": null
+ },
+ "https://pcandparts.com/product/lenovo-ideapad-1-82vg00wxus-ryzen-5-8gb-256gb-ssd-15-6-610m-win11-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 455.0
+ },
+ "https://pcandparts.com/product/lenovo-ideapad-1i-83b40008us-i5-16gb-ram-256gb-ssd-15-6-win11-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 565.0
+ },
+ "https://pcandparts.com/product/lenovo-ideapad-3-81w1014gax-ryzen-3-4gb-1tb-hdd-15-6-2/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 317.0
+ },
+ "https://pcandparts.com/product/lenovo-ideapad-5-83ul0004us-2-in-1-ultra-7-16gb-1tb-ssd-15-3-touch-win11-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1249.0
+ },
+ "https://pcandparts.com/product/lenovo-ideapad-slim-3-82x700dfdp-bag-i3-8gb-512gb-ssd-15-6-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 469.0
+ },
+ "https://pcandparts.com/product/lenovo-ideapad-slim-3-82x700hrax-i3-8gb-256gb-ssd-15-6-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 447.0
+ },
+ "https://pcandparts.com/product/lenovo-ideapad-slim-3-82x700huus-i7-16gb-1tb-ssd-15-6-touch-win11tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 805.0
+ },
+ "https://pcandparts.com/product/lenovo-ideapad-slim-3-83k100c1dp-i5-16gb-512gb-ssd-15-3-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 607.0
+ },
+ "https://pcandparts.com/product/lenovo-ideapad-slim-3-83k100e7dp-i7-16gb-512gb-ssd-15-3-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 732.0
+ },
+ "https://pcandparts.com/product/lenovo-ideapad-slim-3-83k100e9ax-i5-8gb-512gb-ssd-15-3-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 540.0
+ },
+ "https://pcandparts.com/product/lenovo-ideapad-slim-3-83k100ytfu-i7-16gb-512gb-ssd-15-3-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 696.0
+ },
+ "https://pcandparts.com/product/lenovo-ideapad-slim-3-83ur0042dp-ultra-7-16gb-512gb-ssd-15-3-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 815.0
+ },
+ "https://pcandparts.com/product/lenovo-legion-5-15iax10-83ly00mups-i7-16gb-1tb-ssd-rtx-5060-15-3-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1511.0
+ },
+ "https://pcandparts.com/product/lenovo-legion-5-83ef0002us-ryzen-7-16gb-512gb-ssd-rtx-4060-15-6-win11-tax-included/": {
+  "ok": true,
+  "reason": "product page (no stock data; assumed available)",
+  "price": null
+ },
+ "https://pcandparts.com/product/lenovo-legion-pro-5-82wk0083us-i9-32gb-1tb-ssd-rtx-4070-16-win11-tax-included/": {
+  "ok": true,
+  "reason": "product page (no stock data; assumed available)",
+  "price": null
+ },
+ "https://pcandparts.com/product/lenovo-legion-pro-5-83nn0039us-i7-16gb-1tb-ssd-rtx-5060-16-win11-tax-included/": {
+  "ok": true,
+  "reason": "product page (no stock data; assumed available)",
+  "price": null
+ },
+ "https://pcandparts.com/product/lenovo-legion-pro-7-83f50012us-ultra-9-32gb-1tb-ssd-rtx-5080-16-oled-win11-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 3285.0
+ },
+ "https://pcandparts.com/product/lenovo-legion-pro-7-83f5008nax-ultra-9-32gb-2tb-ssd-rtx-5070ti-16-win11-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 3173.0
+ },
+ "https://pcandparts.com/product/lenovo-loq-15irx9-83dv01bcax-i5-16gb-512gb-ssd-rtx-3050-15-6-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 999.0
+ },
+ "https://pcandparts.com/product/lenovo-loq-17irx10-83jh00btax-i7-16gb-512gb-ssd-rtx-5060-17-3-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1460.0
+ },
  "https://pcandparts.com/product/lenovo-loq-83dv0072ps-i7-16gb-512gb-ssd-rtx-3050-15-6-tax-included/": {
   "ok": true,
   "reason": "available (InStock)",
   "price": 1082.0
+ },
+ "https://pcandparts.com/product/lenovo-loq-83dv00uqps-i5-24gb-512gb-ssd-rtx-3050-15-6-tax-included-2/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1045.0
+ },
+ "https://pcandparts.com/product/lenovo-loq-83dv01hpsa-i7-16gb-512gb-ssd-rtx-4050-15-6-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1185.0
+ },
+ "https://pcandparts.com/product/lenovo-loq-83dv01hrps-i7-16gb-512gb-ssd-rtx-4050-15-6-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1159.0
+ },
+ "https://pcandparts.com/product/lenovo-loq-83je00xedp-i7-32gb-1tb-ssd-rtx-5070-15-6-tax-included/": {
+  "ok": false,
+  "reason": "HTTP 404"
+ },
+ "https://pcandparts.com/product/lenovo-loq-83je00xvue-i7-16gb-512gb-ssd-rtx-5060-15-6-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1408.0
+ },
+ "https://pcandparts.com/product/lenovo-loq-83je0114ax-i7-16gb-512gb-ssd-rtx-5050-15-6-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1304.0
+ },
+ "https://pcandparts.com/product/lenovo-loq-83jg003epb-ryzen-7-16gb-512gb-ssd-rtx-5050-15-6-win11-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1195.0
+ },
+ "https://pcandparts.com/product/lenovo-loq-83lk003tps-i7-16gb-512gb-ssd-rtx-4050-15-6-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1027.0
+ },
+ "https://pcandparts.com/product/lenovo-loq-83lk00cvus-i5-16gb-512gb-ssd-rtx-3050-15-6-win11tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 892.0
+ },
+ "https://pcandparts.com/product/lenovo-loq-e-83s00000us-ryzen-7-16gb-512gb-ssd-rtx-4050-win11-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1029.0
+ },
+ "https://pcandparts.com/product/lenovo-loq-e-83sc007wfe-i7-16gb-512gb-ssd-rtx-4050-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1237.0
+ },
+ "https://pcandparts.com/product/lenovo-loq-e-83va000xpb-ryzen-7-16gb-512gb-ssd-rtx-5060-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1289.0
+ },
+ "https://pcandparts.com/product/lenovo-loq-e-83va001pus-ryzen-7-16gb-512gb-ssd-rtx-5050-win11-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1339.0
+ },
+ "https://pcandparts.com/product/lenovo-neo-30s-i3-8gb-512gb-ssd/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 515.0
+ },
+ "https://pcandparts.com/product/lenovo-neo-50t-i3-8gb-512gb-ssd-tax-included-3/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 575.0
+ },
+ "https://pcandparts.com/product/lenovo-neo-50t-i5-8gb-512gb-ssd-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 725.0
+ },
+ "https://pcandparts.com/product/lenovo-neo-50t-i7-8gb-512gb-ssd-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 939.0
+ },
+ "https://pcandparts.com/product/lenovo-neo-50t-ultra-3-8gb-512gb-ssd-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 609.0
+ },
+ "https://pcandparts.com/product/lenovo-neo-50t-ultra-5-8gb-512gb-ssd/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 695.0
+ },
+ "https://pcandparts.com/product/lenovo-neo-50t-ultra-7-16gb-512gb-ssd-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1145.0
+ },
+ "https://pcandparts.com/product/lenovo-neo-m70t-12u60046gp-i7-8gb-512gb-ssd-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 875.0
+ },
+ "https://pcandparts.com/product/lenovo-neo-m70t-12yh000pgp-ultra-7-16gb-512gb-ssd-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1125.0
+ },
+ "https://pcandparts.com/product/lenovo-slim-pro-9i-16irp8-83c00003us-i9-32gb-1tb-ssd-16-touch-rtx-4050-win11-tax-included/": {
+  "ok": true,
+  "reason": "product page (no stock data; assumed available)",
+  "price": null
+ },
+ "https://pcandparts.com/product/lenovo-thinkbook-16-ultra-7-16gb-512gb-ssd-arc-16-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 959.0
+ },
+ "https://pcandparts.com/product/lenovo-thinkcenter-neo-50q-ultra-7-16gb-512gb-ssd-arc/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 949.0
+ },
+ "https://pcandparts.com/product/lenovo-thinkcentre-neo-50a-24-gen-5-core-5-16gb-512gb-ssd-24-touch/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 925.0
+ },
+ "https://pcandparts.com/product/lenovo-thinkcentre-neo-50a-24-gen-5-core-7-16gb-512gb-ssd-24-aio-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1079.0
+ },
+ "https://pcandparts.com/product/lenovo-thinkcentre-neo-50a-24-gen-5-core-7-8gb-512gb-ssd-24-aio-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 969.0
+ },
+ "https://pcandparts.com/product/lenovo-thinkcentre-neo-50a-24-gen-6-i7-16gb-512gb-ssd-24-touch-arc/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1085.0
+ },
+ "https://pcandparts.com/product/lenovo-thinkcentre-neo-50a-24-gen-6-ultra-5-16gb-512gb-ssd-24-touch-arc/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 975.0
+ },
+ "https://pcandparts.com/product/lenovo-thinkpad-e14-21sys6d300-ultra-7-16gb-512gb-ssd-14-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1129.0
+ },
+ "https://pcandparts.com/product/lenovo-thinkpad-e14-21u20032gr-bag-ultra-7-32gb-512gb-ssd-14-arc-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1319.0
+ },
+ "https://pcandparts.com/product/lenovo-thinkpad-e14-21u2005sed-bag-ultra-7-16gb-512gb-ssd-14-arc-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1065.0
+ },
+ "https://pcandparts.com/product/lenovo-thinkpad-e14-g7-21t9004ved-bag-ultra-5-8gb-512gb-ssd-14/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 817.0
+ },
+ "https://pcandparts.com/product/lenovo-thinkpad-e16-21sr005ced-bag-ultra-5-8gb-512gb-ssd-16/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 835.0
+ },
+ "https://pcandparts.com/product/lenovo-thinkpad-e16-21sss72200-ultra-7-16gb-512gb-ssd-16-arc-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1145.0
+ },
+ "https://pcandparts.com/product/lenovo-thinkpad-e16-21yc0030gq-bag-ultra-7-16gb-512gb-ssd-16-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1225.0
+ },
+ "https://pcandparts.com/product/lenovo-thinkpad-e16-22ay001ged-bag-ultra-7-16gb-512gb-ssd-16-arc-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1069.0
+ },
+ "https://pcandparts.com/product/lenovo-thinkpad-x9-14-21qa008nus-ultra-7-32gb-512gb-ssd-14-oled-touch-arc-win11-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1897.0
+ },
+ "https://pcandparts.com/product/lenovo-v14-g4-iru-83a000g8us-i7-16gb-512gb-ssd-14-win11-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 711.0
+ },
+ "https://pcandparts.com/product/lenovo-v15-g4-amn-82yu00yyrm-ryzen-5-8gb-512gb-ssd-radeon-15-6-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 499.0
+ },
+ "https://pcandparts.com/product/lenovo-v15-g5-irl-83gw006aeq-bag-i5-8gb-512gb-ssd-15-6-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 599.0
+ },
+ "https://pcandparts.com/product/lenovo-v15-g5-irl-83gw006ved-bag-i7-8gb-512gb-ssd-15-6-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 632.0
+ },
+ "https://pcandparts.com/product/lenovo-v15-g5-irl-83gw0076gp-i3-8gb-256gb-ssd-15-6-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 468.0
+ },
+ "https://pcandparts.com/product/lenovo-v15-g5-irl-83hf00e6ig-i5-8gb-512gb-ssd-15-6-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 569.0
+ },
+ "https://pcandparts.com/product/lenovo-yoga-7-83ju0003us-ryzen-ai-7-16gb-1tb-ssd-16-touch-radeon-win11-tax-included/": {
+  "ok": true,
+  "reason": "product page (no stock data; assumed available)",
+  "price": null
+ },
+ "https://pcandparts.com/product/lenovo-yoga-slim-9-83cx0005us-ultra-7-32gb-1tb-ssd-14-4k-oled-touch-win11-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1833.0
+ },
+ "https://pcandparts.com/product/msi-crosshair-16-hx-e14wgk-038us-i9-16gb-512gb-ssd-rtx-5070-16-win11-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1699.0
+ },
+ "https://pcandparts.com/product/msi-cyborg-15-a13uc-i7-16gb-512gb-ssd-rtx-3050-15-6-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1003.0
+ },
+ "https://pcandparts.com/product/msi-cyborg-15-b13wekg-i7-16gb-1tb-ssd-rtx-5050-15-6-win11-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1239.0
+ },
+ "https://pcandparts.com/product/msi-cyborg-15-b13wfkg-i7-16gb-1tb-ssd-rtx-5060-15-6-win11-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1349.0
+ },
+ "https://pcandparts.com/product/msi-cyborg-15-b2rw-core-7-16gb-1tb-ssd-rtx-5070-15-6-win11-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1445.0
+ },
+ "https://pcandparts.com/product/msi-cyborg-15-b2rwfkg-core-9-16gb-512gb-ssd-rtx-5060-15-6-win11-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1445.0
+ },
+ "https://pcandparts.com/product/msi-katana-15-hx-b14wgk-293us-i7-16gb-1tb-ssd-rtx-5070-15-6-win11-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1575.0
+ },
+ "https://pcandparts.com/product/msi-katana-15hx-b14wfk-i7-16gb-1tb-ssd-rtx-5070-15-6-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1619.0
+ },
+ "https://pcandparts.com/product/msi-katana-15hx-b14wfk-i9-16gb-1tb-ssd-rtx-5060-15-6-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1495.0
+ },
+ "https://pcandparts.com/product/msi-katana-15hx-b14wgk-i9-16gb-1tb-ssd-rtx-5070-15-6-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1655.0
+ },
+ "https://pcandparts.com/product/msi-raider-18-hx-ai-a2xwig-ultra-9-32gb-1tb-ssd-rtx-5080-18-win11-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 2994.0
+ },
+ "https://pcandparts.com/product/msi-sword-15-i7-16gb-ram-512gb-ssd-rtx-4050-win11-tax-included/": {
+  "ok": true,
+  "reason": "product page (no stock data; assumed available)",
+  "price": null
+ },
+ "https://pcandparts.com/product/msi-vector-16-ai-16-a8whg-ryzen-9-16gb-ram-1tb-ssd-rtx-5070-16-win11-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1975.0
+ },
+ "https://pcandparts.com/product/msi-vector-16-hx-ai-ultra-7-16gb-1tb-ssd-rtx-5070ti-16-win11-tax-included/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1919.0
+ },
+ "https://pcandparts.com/product/rgb-gaming-pc-ultra-9-k-32gb-rtx-5070-1tb-ssd-b860-fish-tank-case/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 2389.0
+ },
+ "https://pcandparts.com/product/wz-ghost-pc-super-ryzen-7-7800x3d-32gb-ddr5-9070xt-1tb-ssd-b850-rgb-case/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 2219.0
+ },
+ "https://technomediatrade.com/product/asus-rog-strix-g16-g614jv-is96-i9-13980hx-32gb-1tb-16-inch-fhd-165hz-rtx4060-8gb-windows-11/": {
+  "ok": false,
+  "reason": "HTTP 404"
+ },
+ "https://technomediatrade.com/product/asus-rog-strix-g16-g615lp-ms96-ultra-9-275hx-32gb-1tb-16-inch-2k-240hz-rtx5070-8gb-windows-11/": {
+  "ok": false,
+  "reason": "HTTP 404"
+ },
+ "https://technomediatrade.com/product/asus-vivobook-14-x1404va-core-5-120u-8gb-256gb-nvme-14-inch-fhd-windows-11/": {
+  "ok": false,
+  "reason": "redirected to a different product: https://technomediatrade.com/product/asus-vivobook-14-core-5-256gb-laptop-lebanon/"
+ },
+ "https://technomediatrade.com/product/asus-vivobook-s15-s5506ma-ws76-ultra-7-155h-16gb-ob-1tb-nvme-15-6-inch-3k-oled-120hz-intel-arc-4gb-windows-11/": {
+  "ok": false,
+  "reason": "out of stock (OutOfStock)"
+ },
+ "https://technomediatrade.com/product/hp-laptop-14t-ep100-core-3-100u-8gb-256gb-nvme-14-inch-hd-windows-11/": {
+  "ok": false,
+  "reason": "out of stock (OutOfStock)"
+ },
+ "https://technomediatrade.com/product/hp-omen-17t-ck000-i7-11800h-17-3-inch-165hz-16gb-512gb-nvme-rtx3070-windows-11/": {
+  "ok": false,
+  "reason": "HTTP 404"
+ },
+ "https://technomediatrade.com/product/lenovo-ideapad-1-15iru7-83b40006us-i5-1335u-8gb-ob-256gb-nvme-15-6-inch-fhd-touchscreen-windows-11/": {
+  "ok": false,
+  "reason": "redirected to a different product: https://technomediatrade.com/product/lenovo-ideapad-1-i5-touchscreen-laptop-lebanon/"
+ },
+ "https://technomediatrade.com/product/lenovo-ideapad-5-14akp10-83kt001yus-ryzen-ai-7-350-16gb-ob-1tb-nvme-14-inch-fhd-x360-touchscreen-windows-11/": {
+  "final": "https://technomediatrade.com/product/lenovo-ideapad-5-14akp10-ryzen-ai-7-lebanon/",
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 825.0
+ },
+ "https://technomediatrade.com/product/lenovo-ideapad-5-16ial10-83ks001bus-ultra-7-255u-32gb-ob-1tb-nvme-16-inch-wuxga-touchscreen-windows-11/": {
+  "ok": false,
+  "reason": "redirected to a different product: https://technomediatrade.com/product/lenovo-ideapad-5-ultra-7-laptop-lebanon/"
+ },
+ "https://technomediatrade.com/product/lenovo-ideapad-slim-3-15q8x10-83n30010us-sd-x1-26-100-16gb-ob-1tb-nvme-15-3-inch-fhd-touchscreen-windows-11/": {
+  "ok": false,
+  "reason": "redirected to a different product: https://technomediatrade.com/product/lenovo-ideapad-slim-3-snapdragon-touchscreen-lebanon/"
+ },
+ "https://technomediatrade.com/product/lenovo-legion-5-16irx9-83dg005wus-i9-14900hx-32gb-1tb-nvme-16-inch-2k-165hz-rtx-4070-8gb-windows-11/": {
+  "ok": false,
+  "reason": "HTTP 404"
+ },
+ "https://technomediatrade.com/product/lenovo-legion-5-pro-16arx8-ryzen-7-7745hx-16gb-1tb-nvme-16-inch-2k-165hz-rtx-4070-8gb-windows-11/": {
+  "ok": false,
+  "reason": "HTTP 404"
+ },
+ "https://technomediatrade.com/product/lenovo-legion-5-pro-i7-12700h-16-0-inch-16gb-512gb-nvme-rtx3050ti-windows-11/": {
+  "ok": false,
+  "reason": "HTTP 404"
+ },
+ "https://technomediatrade.com/product/lenovo-legion-5i-16iax10-83nx0000us-ultra-9-275hx-32gb-1tb-nvme-16-inch-2k-240hz-rtx5060-8gb-windows-11/": {
+  "ok": false,
+  "reason": "out of stock (OutOfStock)"
+ },
+ "https://technomediatrade.com/product/lenovo-legion-5i-16irx9-83dg004jus-i9-14900hx-32gb-1tb-nvme-16-inch-2k-165hz-rtx-4060-8gb-windows-11/": {
+  "ok": false,
+  "reason": "HTTP 404"
+ },
+ "https://technomediatrade.com/product/lenovo-legion-pro-7i-16iaax10h-83f5006gus-ultra-9-275hx-64gb-2tb-nvme-16-inch-wqxga-oled-240hz-rtx5090-24gb-windows-11/": {
+  "ok": false,
+  "reason": "HTTP 404"
+ },
+ "https://technomediatrade.com/product/lenovo-legion-slim-5-16arp9-ryzen-7-7435hs-16gb-1tb-nvme-16-inch-2k-165hz-rtx-4070-8gb-windows-11/": {
+  "ok": false,
+  "reason": "HTTP 404"
+ },
+ "https://technomediatrade.com/product/lenovo-loq-15arp9-83jc0001us-ryzen-5-7235hs-12gb-512gb-nvme-15-6-inch-fhd-144hz-rtx3050-6gb-windows-11/": {
+  "ok": false,
+  "reason": "HTTP 404"
+ },
+ "https://technomediatrade.com/product/lenovo-thinkbook-14-2-in-1-g4-iml-21mx000hca-ultra-7-155u-16gb-512gb-nvme-14-inch-fhd-touchscreen-windows-11/": {
+  "ok": false,
+  "reason": "HTTP 404"
+ },
+ "https://technomediatrade.com/product/lenovo-thinkbook-14-g6-irl-21kg000fus-i7-1335u-16gb-512gb-nvme-14-inch-fhd-touchscreen-indows-11/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 850.0
+ },
+ "https://technomediatrade.com/product/msi-raider-18-hx-a14vhg-251us-i9-14900hx-32gb-up-to-192gb-1tb-nvme-18-inch-qhd-240hz-rtx-4080-12gb-windows-11/": {
+  "ok": false,
+  "reason": "out of stock (OutOfStock)"
+ },
+ "https://technomediatrade.com/product/rog-strix-g18-rtx-5060-gaming-laptop-lebanon/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 2050.0
+ },
+ "https://www.basselcomputers.com/acer-gaming-laptop-aspire-5-intel-core-i7-1355u-rtx-2050-brand-new-laptop-lebanon": {
+  "ok": true,
+  "reason": "product page (no stock data; assumed available)",
+  "price": null
+ },
+ "https://www.basselcomputers.com/hp-omen-gaming-laptop-ultra7-geforce-rtx-4060-rgb-white-16gb-portable-thin-14inch-120hz": {
+  "ok": true,
+  "reason": "product page (no stock data; assumed available)",
+  "price": null
+ },
+ "https://www.basselcomputers.com/hp-spectre-360-x360-120hz-smooth-ultra7-32gb-512gb-backlit-business-laptop-black-flip-touch": {
+  "ok": true,
+  "reason": "product page (no stock data; assumed available)",
+  "price": null
+ },
+ "https://www.basselcomputers.com/lenovo-i7-16gb-ram-512gb-ssd-144hz-backlit-gaming-loq-rtx4050-3050-laptop-gen12-hx-grey": {
+  "ok": true,
+  "reason": "product page (no stock data; assumed available)",
+  "price": null
+ },
+ "https://www.basselcomputers.com/lenovo-legion-5-amd-ryzen-7-260-rtx-5060-2560x1600-baklit-gaming-laptop-lebanon": {
+  "ok": true,
+  "reason": "product page (no stock data; assumed available)",
+  "price": null
+ },
+ "https://www.basselcomputers.com/lenovo-legion-5-i7-512gbssd-16gbram-rtx4060-gaming-engineer-laptop-price": {
+  "ok": true,
+  "reason": "product page (no stock data; assumed available)",
+  "price": null
+ },
+ "https://www.basselcomputers.com/lenovo-loq-i7-13th-gen-rtx-5060-brand-new-1-year-warranty-gaming-computer-lebanon-price": {
+  "ok": true,
+  "reason": "product page (no stock data; assumed available)",
+  "price": null
+ },
+ "https://www.basselcomputers.com/microsoft-surface-laptop-go-i5-8gb-128gb-12.4-business-lightweight-laptop-openbox": {
+  "ok": true,
+  "reason": "product page (no stock data; assumed available)",
+  "price": null
+ },
+ "https://www.basselcomputers.com/msi-raider-18-gaming-laptop-super-powerful-i9-14th-gen-nvidia-rtx-4080-new-price": {
+  "ok": true,
+  "reason": "product page (no stock data; assumed available)",
+  "price": null
  },
  "https://www.dslr-zone.com/product/hp-victus-15-fa2082wm-core-i5-13420h-16gb-ram-512gb-ssd-rtx-4050-6gb/": {
   "ok": true,
@@ -2515,5 +2772,186 @@
   "ok": true,
   "reason": "available (InStock)",
   "price": 699.0
+ },
+ "https://www.gomicrocity.com/product/83DV0072PS": {
+  "ok": false,
+  "reason": "pre-order only (not in stock)",
+  "price": 1243.0
+ },
+ "https://www.gomicrocity.com/product/cpu-core-i7-1165g7-ram-16gb-dd/N8062VN3510": {
+  "ok": false,
+  "reason": "HTTP 404"
+ },
+ "https://www.gomicrocity.com/product/cpu-core-i7-13700h-ram-16gb-dd/9U360UA": {
+  "ok": false,
+  "reason": "HTTP 404"
+ },
+ "https://www.gomicrocity.com/product/lenovo-ideapad-gaming3-ryzen-7/82K2020BAX": {
+  "ok": false,
+  "reason": "HTTP 404"
+ },
+ "https://www.gomicrocity.com/product/lenovo-laptop-v15-i7-1255u-16g/notlenv15i7-82ttaoaain": {
+  "ok": false,
+  "reason": "HTTP 404"
+ },
+ "https://www.gomicrocity.com/product/lenovo-yoga-7-16iml9-83dl0002u/83DL0002US": {
+  "ok": false,
+  "reason": "HTTP 404"
+ },
+ "https://www.gomicrocity.com/product/processor-core-ultra-7-155h-ra/UX3405MA-PZ193W": {
+  "ok": false,
+  "reason": "HTTP 404"
+ },
+ "https://www.gomicrocity.com/product/u7-155h-16-gb-ddr5-1-tb-ssd-m/21M7001UED": {
+  "ok": false,
+  "reason": "HTTP 404"
+ },
+ "https://www.m2.com.lb/shop/laptops/business/acer-aspire-14-ai-a14%E2%80%9152mt/": {
+  "ok": false,
+  "reason": "redirected to a different product: https://www.m2.com.lb/shop/laptops/business/acer-aspire-14-ai-a14-52mt/"
+ },
+ "https://www.m2.com.lb/shop/laptops/business/acer-aspire-14-ai-ultra-9-288v-arc-graphics-140v-32-gb-ram-1tb-nvme-windows-11-home/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1250.0
+ },
+ "https://www.m2.com.lb/shop/laptops/business/dell-plus-14-inch-fhd/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1195.0
+ },
+ "https://www.m2.com.lb/shop/laptops/business/lenovo-thinkpad-e14-gen-7-21t9004led-core-7-240h-16gbram-1-tb-ssd-nvme-14-in/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1250.0
+ },
+ "https://www.m2.com.lb/shop/laptops/consumer/hp-15-fd0133wm-15-6-inch-i3-n305-8gb-ram-256gb-ssd/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 445.0
+ },
+ "https://www.m2.com.lb/shop/laptops/gaming-notebooks/alienware-16x-aurora-intel-core-ultra-9-275hx-2tb-ssd-32gb-ddr5-16-0-inch-nvidia-geforce-rtx-5070-8gb-windows-11/": {
+  "ok": false,
+  "reason": "out of stock (OutOfStock)"
+ },
+ "https://www.m2.com.lb/shop/laptops/gaming-notebooks/gigabyte-gaming-a16/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 975.0
+ },
+ "https://www.m2.com.lb/shop/laptops/gaming-notebooks/hp-omen-16-2k/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1800.0
+ },
+ "https://www.m2.com.lb/shop/laptops/gaming-notebooks/hp-victus-15-fb2063dx/": {
+  "ok": false,
+  "reason": "out of stock (OutOfStock)"
+ },
+ "https://www.m2.com.lb/shop/laptops/gaming-notebooks/lenovo-laptop-legion-pro-5-16irx8-16-165hz/": {
+  "ok": false,
+  "reason": "out of stock (OutOfStock)"
+ },
+ "https://www.m2.com.lb/shop/laptops/gaming-notebooks/lenovo-legion-5-15irx10-i7-13650hx/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1305.0
+ },
+ "https://www.m2.com.lb/shop/laptops/gaming-notebooks/lenovo-legion-5-16iax10/": {
+  "ok": false,
+  "reason": "out of stock (OutOfStock)"
+ },
+ "https://www.m2.com.lb/shop/laptops/gaming-notebooks/lenovo-loq-15irx-24gb-512gb-ssd-rtx-5060-15-6-inch-fhd-dos-lenovo-loq-15irx/": {
+  "ok": false,
+  "reason": "out of stock (OutOfStock)"
+ },
+ "https://www.m2.com.lb/shop/laptops/gaming-notebooks/msi-cyborg-15-a13uc-i7-13620h-16gb-512gb-ssd/": {
+  "ok": true,
+  "reason": "product page (no stock data; assumed available)",
+  "price": 2550.0
+ },
+ "https://www.m2.com.lb/shop/laptops/gaming-notebooks/msi-katana-15-hx-b14wfk-403xlb/": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1555.0
+ },
+ "https://www.m2.com.lb/shop/laptops/macbook/apple-macbook-pro/": {
+  "ok": false,
+  "reason": "out of stock (OutOfStock)"
+ },
+ "https://www.macrotronics.net/products/asus-rog-strix-g16-g614pp-wh94": {
+  "ok": false,
+  "reason": "HTTP 404"
+ },
+ "https://www.macrotronics.net/products/asus-rog-strix-g16-g615lr-rv141-ultra-9-275hx-32gb-with-rtx-5070ti-16-inch-gaming-laptop": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 2750.0
+ },
+ "https://www.macrotronics.net/products/asus-rog-strix-g16-g615lr-s5328ultra-9-275hx-with-rtx-5070-16-inch-gaming-laptop": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 2915.0
+ },
+ "https://www.macrotronics.net/products/asus-tuf-f16-fx608jmr-f16-i75060-core-i7-14650hx-32gb-16-inch-gaming-laptop": {
+  "ok": false,
+  "reason": "HTTP 404"
+ },
+ "https://www.macrotronics.net/products/asus-tuf-f16-i7-rtx-5060-ultimate-gaming-laptop": {
+  "ok": false,
+  "reason": "HTTP 404"
+ },
+ "https://www.macrotronics.net/products/hp-17-cn5085cl-ultra-7-16gb-17-3-inch-laptop": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 945.0
+ },
+ "https://www.macrotronics.net/products/hp-omen-17-db1095cl": {
+  "ok": false,
+  "reason": "HTTP 404"
+ },
+ "https://www.macrotronics.net/products/lenovo-legion-5-15irx10-83ly00dkdp-15-1-inch-core-i9-14900hx-rtx-5070-gaming-laptop": {
+  "ok": false,
+  "reason": "out of stock (OutOfStock)"
+ },
+ "https://www.macrotronics.net/products/lenovo-legion-5-16iax10-intel-ultra-9-275hx-rtx-5060-16-inch-gaming-laptop-83nx0000us": {
+  "ok": false,
+  "reason": "out of stock (OutOfStock)"
+ },
+ "https://www.macrotronics.net/products/lenovo-legion-83f00005us-5-15iax10-ultra-7-with-rtx-5060-15-1-inch-gaming-laptop": {
+  "ok": false,
+  "reason": "out of stock (OutOfStock)"
+ },
+ "https://www.macrotronics.net/products/lenovo-legion-pro-5-16irx9-83df00fkdp-i9-14900hx-rtx-4070-16-inch-wqxga-gaming-laptop": {
+  "ok": false,
+  "reason": "HTTP 404"
+ },
+ "https://www.macrotronics.net/products/lenovo-legion-pro-7-16iax10h-83f500e9dp-ultra-9-275hx-with-rtx-5090-16-inch-oled-240hz-gaming-laptop": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 4299.0
+ },
+ "https://www.macrotronics.net/products/lenovo-legion-pro-7-16iax10h-professional-gaming-laptop": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 3299.0
+ },
+ "https://www.macrotronics.net/products/lenovo-loq-15iax9-advanced-rtx-3050-gaming-laptop": {
+  "ok": false,
+  "reason": "HTTP 404"
+ },
+ "https://www.macrotronics.net/products/lenovo-loq-15irx9-83dv000eax-i7-with-rtx-4050-15-6-inch-gaming-laptop": {
+  "ok": false,
+  "reason": "out of stock (OutOfStock)"
+ },
+ "https://www.macrotronics.net/products/lenovo-yoga-7-2-in-1-16ill10-83jt0047us-ultra-7-256v-16gb-16-inch-touchscreen-laptop": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1155.0
+ },
+ "https://www.macrotronics.net/products/msi-cyborg-15-b2rwfkg-071us-core-7-with-rtx-5060-15-6-inch-gaming-laptop": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1235.0
  }
 }

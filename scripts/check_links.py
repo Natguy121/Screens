@@ -143,7 +143,7 @@ def check(link):
     if price is not None and not (50 <= price <= 20000):
         price = None
     if avail:
-        if re.search(r"OutOfStock|SoldOut|Discontinued", avail, re.I):
+        if re.search(r"OutOfStock|SoldOut|Discontinued|PreOrder|PreSale", avail, re.I):
             return {"ok": False, "reason": f"out of stock ({avail.rsplit('/', 1)[-1]})"}
         result.update(ok=True, reason=f"available ({avail.rsplit('/', 1)[-1]})", price=price)
         return result
