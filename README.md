@@ -40,6 +40,13 @@ python3 -m http.server -d site 8000
 
    This has to run from a network that can open the store sites.
 
+   To collect every in-stock laptop from the stores' own product lists instead:
+
+   ```sh
+   python3 scripts/crawl_stores.py   # writes data/more_stores_crawl.csv and updates data/link_check.json
+   python3 scripts/build_data.py
+   ```
+
 4. Optional: `python3 scripts/build_single.py` writes `dist/specs-lb.html`, a single-file
    version with the CSS, data and script inlined.
 

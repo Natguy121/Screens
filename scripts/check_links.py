@@ -61,6 +61,13 @@ def same_product(want_path, got_path):
 
 def product_offer(html):
     """(availability, price) from the page's main schema.org Product, or (None, None)."""
+    info = product_info(html)
+    return info["avail"], info["price"]
+
+
+def product_info(html):
+    """Main schema.org Product on the page: name, description, availability, price, currency."""
+    out = {"name": "", "description": "", "avail": None, "price": None, "currency": None}
     for block in re.findall(r'<script[^>]+application/ld\+json[^>]*>(.*?)</script>', html, re.I | re.S):
         try:
             data = json.loads(block.strip())
@@ -77,10 +84,15 @@ def product_offer(html):
             types = node.get("@type")
             types = types if isinstance(types, list) else [types]
             if "Product" in types or "ProductGroup" in types:
+                out["name"] = str(node.get("name") or "")
+                out["description"] = re.sub(r"<[^>]+>", " ", str(node.get("description") or ""))[:2000]
                 offers = node.get("offers") or (node.get("hasVariant") or [{}])[0].get("offers") if isinstance(node.get("hasVariant"), list) else node.get("offers")
                 offers = offers[0] if isinstance(offers, list) and offers else offers
+                if not isinstance(offers, dict):
+                    return out
                 if isinstance(offers, dict):
                     avail = str(offers.get("availability") or "")
+                    out["currency"] = offers.get("priceCurrency")
                     price = offers.get("price") or offers.get("lowPrice")
                     if price is None and isinstance(offers.get("priceSpecification"), (dict, list)):
                         spec = offers["priceSpecification"]
@@ -90,9 +102,43 @@ def product_offer(html):
                         price = float(str(price).replace(",", "")) if price not in (None, "") else None
                     except ValueError:
                         price = None
-                    return avail, price
+                    out.update(avail=avail or None, price=price)
+                    return out
             stack.extend(v for v in node.values() if isinstance(v, (dict, list)))
-    return None, None
+    return out
+
+
+def clean_text(fragment):
+    return re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", fragment)).replace("&amp;", "&").replace("&#8243;", '"').strip()
+
+
+def product_names(html, info=None):
+    """Every place the page shows the product's name: tab title, all headings, og:title,
+    the structured-data name and the last breadcrumb item."""
+    info = info or product_info(html)
+    names = [page_title(html), info["name"]]
+    names += [clean_text(h) for h in re.findall(r"<h1[^>]*>(.*?)</h1>", html, re.I | re.S)]
+    names += re.findall(r'property="og:title"\s+content="([^"]*)"', html, re.I)
+    crumb = re.search(r'class="[^"]*breadcrumb[^"]*"[^>]*>(.*?)</(?:nav|div|ol|ul)>', html, re.I | re.S)
+    if crumb:
+        parts = [p for p in re.split(r"\s*[/›»>]\s*", clean_text(crumb.group(1))) if p]
+        if parts:
+            names.append(parts[-1])
+    return [n for n in names if n]
+
+
+def sold_reason(html, info=None):
+    """Why the page's product is not for sale, or None if it is."""
+    info = info or product_info(html)
+    for n in product_names(html, info):
+        if SOLD_IN_TITLE.search(n):
+            return f"marked sold: {n[:120]}"
+    avail = info["avail"] or ""
+    if re.search(r"OutOfStock|SoldOut|Discontinued|PreOrder|PreSale", avail, re.I):
+        return f"out of stock ({avail.rsplit('/', 1)[-1]})"
+    if not avail and re.search(r'<p class="stock out-of-stock|<button[^>]*name="add"[^>]*disabled', html, re.I):
+        return "out of stock (stock line)"
+    return None
 
 
 def fallback_price(html):
@@ -131,26 +177,16 @@ def check(link):
             return {"ok": False, "reason": f"redirected to a different product: {final}"}
         result["final"] = final  # same laptop, new address
 
-    title = page_title(html)
-    h1 = re.search(r"<h1[^>]*>(.*?)</h1>", html, re.I | re.S)
-    heading = re.sub(r"<[^>]+>|\s+", " ", h1.group(1)).strip() if h1 else ""
-    if SOLD_IN_TITLE.search(title) or SOLD_IN_TITLE.search(heading):
-        return {"ok": False, "reason": f"marked sold: {heading or title}"}
-
-    avail, price = product_offer(html)
-    if price is None:
-        price = fallback_price(html)
+    info = product_info(html)
+    why = sold_reason(html, info)
+    if why:
+        return {"ok": False, "reason": why}
+    price = info["price"] if info["price"] is not None else fallback_price(html)
     if price is not None and not (50 <= price <= 20000):
         price = None
-    if avail:
-        if re.search(r"OutOfStock|SoldOut|Discontinued|PreOrder|PreSale", avail, re.I):
-            return {"ok": False, "reason": f"out of stock ({avail.rsplit('/', 1)[-1]})"}
-        result.update(ok=True, reason=f"available ({avail.rsplit('/', 1)[-1]})", price=price)
-        return result
-    # No structured stock data: use the store's own stock line for the main product.
-    if re.search(r'<p class="stock out-of-stock|<button[^>]*name="add"[^>]*disabled', html, re.I):
-        return {"ok": False, "reason": "out of stock (stock line)"}
-    result.update(ok=True, reason="product page (no stock data; assumed available)", price=price)
+    avail = info["avail"]
+    reason = f"available ({avail.rsplit('/', 1)[-1]})" if avail else "product page (no stock data; assumed available)"
+    result.update(ok=True, reason=reason, price=price)
     return result
 
 
