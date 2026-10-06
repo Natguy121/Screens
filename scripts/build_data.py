@@ -370,18 +370,13 @@ def extra_stores(paths, seen_links):
     """Laptops from other Lebanese stores, collected into CSVs. Skips links already listed."""
     out = []
     rows = []
-    # A crawled store (data/more_stores_crawl.csv, from scripts/crawl_stores.py) is complete,
-    # so its crawl replaces the hand-collected rows for that store.
+    # Crawled rows (data/more_stores_crawl.csv, from scripts/crawl_stores.py) come first, so
+    # their specs win when the same link is also in a hand-collected CSV. The crawl may have
+    # stopped part way, so hand-collected rows are kept too; link_check.json drops sold ones.
     paths = sorted(paths, key=lambda p: p.name != "more_stores_crawl.csv")
-    crawled = set()
     for path in paths:
         with open(path, newline="", encoding="utf-8") as fh:
-            part = list(csv.DictReader(fh))
-        if path.name == "more_stores_crawl.csv":
-            crawled = {r["store"] for r in part}
-            rows += part
-        else:
-            rows += [r for r in part if r["store"] not in crawled]
+            rows += list(csv.DictReader(fh))
     for i, r in enumerate(rows):
             link = (r["link"] or "").strip()
             # Only rows whose link opens the product itself; category pages and

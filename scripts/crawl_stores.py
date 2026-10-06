@@ -12,12 +12,17 @@ For each store it reads the product list the store publishes for search engines
   - it is not sold, sold out, out of stock or pre-order.
 
 Writes data/more_stores_crawl.csv (one row per laptop, with specs read from the
-product name and description) and adds every page it opened to
+product name and description) and adds every product page it opened to
 data/link_check.json, so build_data.py can show them. Run scripts/build_data.py next.
 The same laptop sold by different stores is kept once per store.
+
+Progress is saved to data/crawl_progress.json every 50 pages, and both output
+files are rewritten then too, so nothing is lost if the window closes. Running
+it again continues where it stopped; add --fresh to start over.
 """
 import csv
 import gzip
+import os
 import json
 import re
 import sys
@@ -32,6 +37,7 @@ from check_links import UA, fallback_price, product_info, sold_reason  # noqa: E
 
 ROOT = Path(__file__).resolve().parent.parent
 OUT_CSV = ROOT / "data" / "more_stores_crawl.csv"
+PROGRESS = ROOT / "data" / "crawl_progress.json"
 LINK_CHECK = ROOT / "data" / "link_check.json"
 
 STORES = [
@@ -255,6 +261,13 @@ def short_model(name, brand):
 # ---------- one product page ----------
 def inspect(store, url):
     try:
+        return _inspect(store, url)
+    except Exception as e:  # an odd page must never stop the whole crawl
+        return url, {"ok": False, "reason": f"could not read page: {type(e).__name__}"}, None
+
+
+def _inspect(store, url):
+    try:
         final, html = fetch(url)
     except urllib.error.HTTPError as e:
         return url, {"ok": False, "reason": f"HTTP {e.code}"}, None
@@ -268,7 +281,8 @@ def inspect(store, url):
         name = re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", h1.group(1))).strip() if h1 else ""
     name = name.replace("&amp;", "&").replace("&#8243;", '"').replace("&quot;", '"')
     text = f"{name} {info['description'][:800]}"
-    if not name or NOT_LAPTOP.search(name) or not cpu_of(name + " " + info["description"][:300]):
+    slug = urlparse(final).path.rsplit("/", 1)[-1].replace("-", " ")
+    if not name or NOT_LAPTOP.search(name) or not cpu_of(f"{name} {slug} {info['description']}"):
         return final, {"ok": False, "reason": "not a laptop"}, None
     if not (LAPTOP_WORDS.search(name) or LAPTOP_WORDS.search(urlparse(final).path.replace("-", " ")) or screen_of(name)):
         return final, {"ok": False, "reason": "not a laptop"}, None
@@ -283,7 +297,7 @@ def inspect(store, url):
     brand = brand_of(name)
     row = {
         "store": store, "brand": brand, "model": short_model(name, brand),
-        "cpu": cpu_of(text) or "", "gpu": gpu_of(text), "ram": ram_of(text) or "",
+        "cpu": cpu_of(text) or cpu_of(f"{slug} {info['description']}") or "", "gpu": gpu_of(text), "ram": ram_of(text) or "",
         "storage": storage_of(text) or "", "screen": screen_of(name) or "",
         "price": f"{price:g}" if price else "", "condition": condition_of(name),
         "link": final, "link_is_product": "1",
@@ -292,47 +306,85 @@ def inspect(store, url):
     return final, {"ok": True, "reason": reason, "price": price}, row
 
 
+FIELDS = ["store", "brand", "model", "cpu", "gpu", "ram", "storage", "screen", "price", "condition", "link", "link_is_product"]
+
+
+def load_progress():
+    if PROGRESS.exists():
+        try:
+            return json.loads(PROGRESS.read_text(encoding="utf-8"))
+        except ValueError:
+            pass
+    return {}
+
+
+def save(progress, base_checks):
+    """Write progress, the CSV and link_check.json from everything opened so far."""
+    tmp = PROGRESS.with_suffix(".tmp")
+    tmp.write_text(json.dumps(progress, ensure_ascii=False), encoding="utf-8")
+    os.replace(tmp, PROGRESS)
+    seen, rows, checks = set(), [], {}
+    for rec in progress.values():
+        final, status, row = rec["final"], rec["status"], rec["row"]
+        if status["reason"] != "not a laptop":  # only record real product pages
+            checks[final] = status
+        if row and row["link"].rstrip("/").lower() not in seen:
+            seen.add(row["link"].rstrip("/").lower())
+            rows.append(row)
+    with open(OUT_CSV, "w", newline="", encoding="utf-8") as fh:
+        w = csv.DictWriter(fh, fieldnames=FIELDS)
+        w.writeheader()
+        w.writerows(rows)
+    LINK_CHECK.write_text(json.dumps({**base_checks, **checks}, indent=1, ensure_ascii=False), encoding="utf-8")
+    return len(rows)
+
+
 def main():
-    wanted = [a.lower() for a in sys.argv[1:]]
+    args = [a.lower() for a in sys.argv[1:]]
+    fresh = "--fresh" in args
+    wanted = [a for a in args if a != "--fresh"]
     stores = [s for s in STORES if not wanted or any(w in s[0].lower() for w in wanted)]
-    rows, checks = [], {}
+    progress = {} if fresh else load_progress()
+    if progress:
+        print(f"Continuing: {len(progress)} pages already opened earlier.", flush=True)
+    base_checks = json.loads(LINK_CHECK.read_text(encoding="utf-8")) if LINK_CHECK.exists() else {}
+    total = 0
     for store, base in stores:
         print(f"{store}: reading product list...", flush=True)
-        urls = sorted(u for u in sitemap_urls(base) if looks_like_laptop_url(u))
+        try:
+            urls = sorted(u for u in sitemap_urls(base) if looks_like_laptop_url(u))
+        except Exception as e:
+            print(f"  {store}: could not read product list ({type(e).__name__}), skipped", flush=True)
+            continue
         if not urls:
             print(f"  {store}: no product list found, skipped", flush=True)
             continue
-        print(f"  {len(urls)} possible laptop pages, opening them...", flush=True)
-        kept = 0
+        # pages that failed to load last time are opened again
+        todo = [u for u in urls if u not in progress or progress[u]["status"]["reason"].startswith(("unreachable", "could not"))]
+        print(f"  {len(urls)} possible laptop pages ({len(urls) - len(todo)} done before), opening the rest...", flush=True)
         with ThreadPoolExecutor(max_workers=8) as pool:
-            for i, (final, status, row) in enumerate(pool.map(lambda u: inspect(store, u), urls), 1):
-                checks[final] = status
-                if row:
-                    rows.append(row)
-                    kept += 1
-                if i % 50 == 0 or i == len(urls):
-                    print(f"  {i}/{len(urls)} opened, {kept} in-stock laptops", flush=True)
-    # one row per link
-    seen, unique = set(), []
-    for r in rows:
-        k = r["link"].rstrip("/").lower()
-        if k not in seen:
-            seen.add(k)
-            unique.append(r)
-    fields = ["store", "brand", "model", "cpu", "gpu", "ram", "storage", "screen", "price", "condition", "link", "link_is_product"]
-    if stores != STORES and OUT_CSV.exists():  # partial run: keep the other stores' rows
-        done = {s for s, _ in stores}
-        with open(OUT_CSV, newline="", encoding="utf-8") as fh:
-            unique = [r for r in csv.DictReader(fh) if r["store"] not in done] + unique
-    with open(OUT_CSV, "w", newline="", encoding="utf-8") as fh:
-        w = csv.DictWriter(fh, fieldnames=fields)
-        w.writeheader()
-        w.writerows(unique)
-    old = json.loads(LINK_CHECK.read_text(encoding="utf-8")) if LINK_CHECK.exists() else {}
-    old.update(checks)
-    LINK_CHECK.write_text(json.dumps(old, indent=1, ensure_ascii=False), encoding="utf-8")
-    print(f"\nDone: {len(unique)} in-stock laptops written to {OUT_CSV.relative_to(ROOT)}; "
-          f"{len(checks)} pages recorded in {LINK_CHECK.relative_to(ROOT)}")
+            for i, (url, (final, status, row)) in enumerate(zip(todo, pool.map(lambda u: inspect(store, u), todo)), 1):
+                progress[url] = {"store": store, "final": final, "status": status, "row": row}
+                if i % 50 == 0 or i == len(todo):
+                    kept = sum(1 for r in progress.values() if r["store"] == store and r["row"])
+                    total = save(progress, base_checks)
+                    print(f"  {i}/{len(todo)} opened, {kept} in-stock laptops at {store} (saved)", flush=True)
+        # why pages were skipped, to spot a store whose pages are misread
+        why = {}
+        for r in progress.values():
+            if r["store"] == store and not r["row"]:
+                k = re.sub(r"[:(].*", "", r["status"]["reason"]).strip()
+                why[k] = why.get(k, 0) + 1
+        kept = sum(1 for r in progress.values() if r["store"] == store and r["row"])
+        print(f"  {store}: {kept} in-stock laptops. Skipped: " +
+              ", ".join(f"{n} {k}" for k, n in sorted(why.items(), key=lambda x: -x[1])), flush=True)
+    total = save(progress, base_checks)
+    print(f"\nDone: {total} in-stock laptops written to {OUT_CSV.relative_to(ROOT)}. "
+          f"Upload that file and {LINK_CHECK.relative_to(ROOT)}.")
+    try:
+        input("Press Enter to close.")
+    except EOFError:
+        pass
 
 
 if __name__ == "__main__":
