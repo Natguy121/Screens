@@ -8,7 +8,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@100..125,600..900&family=Figtree:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600;700&display=swap">
-<link rel="stylesheet" href="app.css?v=3">
+<link rel="stylesheet" href="app.css?v=4">
 </head>
 <body>
 <!--BODY-START-->
@@ -38,7 +38,7 @@
         <button class="linkbtn" id="reset" type="button">Clear all</button>
       </div>
 
-      <details class="fgroup" open>
+      <details class="fgroup">
         <summary>Price (USD)</summary>
         <div class="pricebox">
           <input id="pmin" type="number" inputmode="numeric" min="0" step="50" placeholder="Min" aria-label="Minimum price">
@@ -48,18 +48,18 @@
         <label class="check" style="margin-top:8px"><input type="checkbox" id="priced"><span class="lbl">Only listings with a price</span></label>
       </details>
 
-      <details class="fgroup" open>
+      <details class="fgroup">
         <summary>Graphics (GPU)</summary>
         <div class="seg" id="gpukind"></div>
         <div class="fbody" id="f-gpu"></div>
       </details>
 
-      <details class="fgroup" open>
+      <details class="fgroup">
         <summary>Processor (CPU)</summary>
         <div class="fbody" id="f-cpu"></div>
       </details>
 
-      <details class="fgroup" open>
+      <details class="fgroup">
         <summary>Memory (RAM)</summary>
         <div class="seg" id="ram"></div>
       </details>
@@ -74,7 +74,7 @@
         <div class="seg" id="screen"></div>
       </details>
 
-      <details class="fgroup" open>
+      <details class="fgroup">
         <summary>Brand</summary>
         <div class="fbody" id="f-brand"></div>
       </details>
@@ -84,7 +84,7 @@
         <div class="fbody" id="f-use"></div>
       </details>
 
-      <details class="fgroup" open>
+      <details class="fgroup">
         <summary>Store</summary>
         <div class="fbody" id="f-store"></div>
       </details>
@@ -155,7 +155,7 @@
   <div class="dlg-body" id="cmp-body"></div>
 </dialog>
 <!--BODY-END-->
-<script src="data.js?v=3"></script>
-<script src="app.js?v=3"></script>
+<script src="data.js?v=4"></script>
+<script src="app.js?v=4"></script>
 </body>
 </html>

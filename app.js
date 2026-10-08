@@ -8,7 +8,7 @@
   const FORMS = ["All", "Laptop", "Gaming PC", "All-in-One", "Office PC", "Mini PC"];
   const FORM_LABEL = { All: "Everything", Laptop: "Laptops", "Gaming PC": "Gaming PCs", "All-in-One": "All-in-Ones", "Office PC": "Office PCs", "Mini PC": "Mini PCs" };
   const RAM_STEPS = [0, 8, 16, 32, 64];
-  const STORAGE_STEPS = [0, 512, 1024, 2048];
+  const STORAGE_STEPS = [0, 256, 512, 1024, 2048];
   const SCREENS = [
     { id: "any", label: "Any" },
     { id: "s", label: "Up to 14\"", test: (n) => n <= 14.5 },
