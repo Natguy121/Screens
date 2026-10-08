@@ -427,7 +427,7 @@
   const setMh = () => document.documentElement.style.setProperty("--mh", document.querySelector(".masthead").offsetHeight + "px");
   setMh(); addEventListener("resize", setMh);
   $("open-filters").addEventListener("click", () => $("filters").classList.add("open"));
-  $("close-filters").addEventListener("click", () => $("filters").classList.remove("open"));
+  for (const id of ["close-filters", "close-filters-x"]) $(id).addEventListener("click", () => $("filters").classList.remove("open"));
 
   // ---------- static text ----------
   (function staticText() {
