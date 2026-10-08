@@ -290,7 +290,9 @@ dialog::backdrop { background: rgb(0 0 0 / .45); }
     margin: calc(-16px - env(safe-area-inset-top, 0px)) -16px 4px; padding: calc(12px + env(safe-area-inset-top, 0px)) 16px 12px;
     background: var(--bg); border-bottom: 1px solid var(--line);
   }
-  .done-btn { width: 100%; justify-content: center; font-size: var(--step-1); padding: 12px; }
+  .drawer-head { gap: 10px; }
+  .x-btn { flex: none; width: 52px; justify-content: center; font-size: var(--step-1); padding: 12px 0; }
+  .done-btn { flex: 1; justify-content: center; font-size: var(--step-1); padding: 12px; }
   .filter-big {
     position: sticky; top: calc(var(--mh, 76px) + 8px); z-index: 19;
     width: 100%; margin: 4px 0 14px; padding: 14px; gap: 10px; align-items: center; justify-content: center;
@@ -324,7 +326,7 @@ dialog::backdrop { background: rgb(0 0 0 / .45); }
 
   <div class="layout">
     <aside class="filters" id="filters" aria-label="Filters">
-      <div class="drawer-head"><button class="btn primary done-btn" id="close-filters" type="button">Done</button></div>
+      <div class="drawer-head"><button class="btn x-btn" id="close-filters-x" type="button" aria-label="Close filters">✕</button><button class="btn primary done-btn" id="close-filters" type="button">Done</button></div>
       <div class="filters-head">
         <h3>Filters</h3>
         <button class="linkbtn" id="reset" type="button">Clear all</button>
@@ -91524,7 +91526,7 @@ window.SPECS_DATA = {
   const setMh = () => document.documentElement.style.setProperty("--mh", document.querySelector(".masthead").offsetHeight + "px");
   setMh(); addEventListener("resize", setMh);
   $("open-filters").addEventListener("click", () => $("filters").classList.add("open"));
-  $("close-filters").addEventListener("click", () => $("filters").classList.remove("open"));
+  for (const id of ["close-filters", "close-filters-x"]) $(id).addEventListener("click", () => $("filters").classList.remove("open"));
 
   // ---------- static text ----------
   (function staticText() {
