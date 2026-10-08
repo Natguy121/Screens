@@ -285,7 +285,20 @@ dialog::backdrop { background: rgb(0 0 0 / .45); }
     translate: 100% 0; transition: translate .2s ease;
   }
   .filters.open { translate: 0 0; box-shadow: -10px 0 40px rgb(0 0 0 / .25); }
-  .drawer-head { display: flex; justify-content: flex-end; }
+  .drawer-head {
+    display: flex; position: sticky; top: calc(-16px - env(safe-area-inset-top, 0px)); z-index: 2;
+    margin: calc(-16px - env(safe-area-inset-top, 0px)) -16px 4px; padding: calc(12px + env(safe-area-inset-top, 0px)) 16px 12px;
+    background: var(--bg); border-bottom: 1px solid var(--line);
+  }
+  .done-btn { width: 100%; justify-content: center; font-size: var(--step-1); padding: 12px; }
+  .filter-big {
+    position: sticky; top: calc(var(--mh, 76px) + 8px); z-index: 19;
+    width: 100%; margin: 4px 0 14px; padding: 14px; gap: 10px; align-items: center; justify-content: center;
+    border: 0; border-radius: 14px; cursor: pointer;
+    background: var(--accent); color: var(--accent-ink); font: 700 var(--step-1) var(--font-display);
+    box-shadow: 0 6px 20px rgb(0 0 0 / .18);
+  }
+  .filter-big svg { width: 22px; height: 22px; fill: none; stroke: currentColor; stroke-width: 2.4; stroke-linecap: round; }
   .intro h2 { font-size: var(--step-2); }
 }
 @media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
@@ -306,18 +319,12 @@ dialog::backdrop { background: rgb(0 0 0 / .45); }
 </header>
 
 <main class="wrap">
-  <section class="intro">
-    <p class="kicker">Lebanon · Laptops &amp; PCs · USD</p>
-    <h2>Find your next machine <em>by spec</em>, across Lebanese stores</h2>
-    <p id="intro-text">Every listing shows its processor, graphics card, memory, storage and screen, with the store price in US dollars.</p>
-    <div class="storestrip" id="storestrip"></div>
-  </section>
-
   <nav class="tabs" id="tabs" aria-label="Device type"></nav>
+  <button class="filter-big only-mobile" id="open-filters" type="button"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 5h18M6 12h12M10 19h4"/></svg>Filter</button>
 
   <div class="layout">
     <aside class="filters" id="filters" aria-label="Filters">
-      <div class="drawer-head"><button class="btn" id="close-filters" type="button">Done</button></div>
+      <div class="drawer-head"><button class="btn primary done-btn" id="close-filters" type="button">Done</button></div>
       <div class="filters-head">
         <h3>Filters</h3>
         <button class="linkbtn" id="reset" type="button">Clear all</button>
@@ -384,7 +391,7 @@ dialog::backdrop { background: rgb(0 0 0 / .45); }
       <div class="toolbar">
         <p class="summary" id="summary" aria-live="polite"></p>
         <div class="tools">
-          <button class="btn only-mobile" id="open-filters" type="button">Filters</button>
+          
           <label for="sort" class="dim">Sort</label>
           <select id="sort">
             <option value="price-asc">Price: low to high</option>
@@ -91514,6 +91521,8 @@ window.SPECS_DATA = {
   $("cmp-open").addEventListener("click", openCompare);
   $("cmp-close").addEventListener("click", () => { const d = $("cmp-dialog"); d.close ? d.close() : d.removeAttribute("open"); });
 
+  const setMh = () => document.documentElement.style.setProperty("--mh", document.querySelector(".masthead").offsetHeight + "px");
+  setMh(); addEventListener("resize", setMh);
   $("open-filters").addEventListener("click", () => $("filters").classList.add("open"));
   $("close-filters").addEventListener("click", () => $("filters").classList.remove("open"));
 
@@ -91523,8 +91532,8 @@ window.SPECS_DATA = {
     const when = isNaN(d) ? DATA.snapshot : d.toLocaleDateString("en-GB", { day: "numeric", month: "short", year: "numeric" });
     $("stamp").textContent = `Prices as of ${when}`;
     const byStore = count(ALL, "store");
-    $("intro-text").textContent = `${ALL.length} laptops and desktop PCs from ${byStore.size} Lebanese stores and marketplaces. Compare processor, graphics card, memory, storage, screen and price in US dollars, as listed on ${when}.`;
-    $("storestrip").innerHTML = [...byStore].sort((a, b) => b[1] - a[1]).map(([s, n]) => `<span>${esc(s)} <b>${n}</b></span>`).join("");
+    if ($("intro-text")) $("intro-text").textContent = `${ALL.length} laptops and desktop PCs from ${byStore.size} Lebanese stores and marketplaces. Compare processor, graphics card, memory, storage, screen and price in US dollars, as listed on ${when}.`;
+    if ($("storestrip")) $("storestrip").innerHTML = [...byStore].sort((a, b) => b[1] - a[1]).map(([s, n]) => `<span>${esc(s)} <b>${n}</b></span>`).join("");
     $("stores-line").textContent = [...byStore].map(([s, n]) => `${s}: ${n} listings`).join(" · ");
     $("notes").innerHTML = (DATA.notes || []).map((n) => `<li>${esc(n)}</li>`).join("");
   })();

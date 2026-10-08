@@ -282,7 +282,20 @@ dialog::backdrop { background: rgb(0 0 0 / .45); }
     translate: 100% 0; transition: translate .2s ease;
   }
   .filters.open { translate: 0 0; box-shadow: -10px 0 40px rgb(0 0 0 / .25); }
-  .drawer-head { display: flex; justify-content: flex-end; }
+  .drawer-head {
+    display: flex; position: sticky; top: calc(-16px - env(safe-area-inset-top, 0px)); z-index: 2;
+    margin: calc(-16px - env(safe-area-inset-top, 0px)) -16px 4px; padding: calc(12px + env(safe-area-inset-top, 0px)) 16px 12px;
+    background: var(--bg); border-bottom: 1px solid var(--line);
+  }
+  .done-btn { width: 100%; justify-content: center; font-size: var(--step-1); padding: 12px; }
+  .filter-big {
+    position: sticky; top: calc(var(--mh, 76px) + 8px); z-index: 19;
+    width: 100%; margin: 4px 0 14px; padding: 14px; gap: 10px; align-items: center; justify-content: center;
+    border: 0; border-radius: 14px; cursor: pointer;
+    background: var(--accent); color: var(--accent-ink); font: 700 var(--step-1) var(--font-display);
+    box-shadow: 0 6px 20px rgb(0 0 0 / .18);
+  }
+  .filter-big svg { width: 22px; height: 22px; fill: none; stroke: currentColor; stroke-width: 2.4; stroke-linecap: round; }
   .intro h2 { font-size: var(--step-2); }
 }
 @media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
