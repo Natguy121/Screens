@@ -27,18 +27,12 @@
 </header>
 
 <main class="wrap">
-  <section class="intro">
-    <p class="kicker">Lebanon · Laptops &amp; PCs · USD</p>
-    <h2>Find your next machine <em>by spec</em>, across Lebanese stores</h2>
-    <p id="intro-text">Every listing shows its processor, graphics card, memory, storage and screen, with the store price in US dollars.</p>
-    <div class="storestrip" id="storestrip"></div>
-  </section>
-
   <nav class="tabs" id="tabs" aria-label="Device type"></nav>
+  <button class="filter-big only-mobile" id="open-filters" type="button"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 5h18M6 12h12M10 19h4"/></svg>Filter</button>
 
   <div class="layout">
     <aside class="filters" id="filters" aria-label="Filters">
-      <div class="drawer-head"><button class="btn" id="close-filters" type="button">Done</button></div>
+      <div class="drawer-head"><button class="btn primary done-btn" id="close-filters" type="button">Done</button></div>
       <div class="filters-head">
         <h3>Filters</h3>
         <button class="linkbtn" id="reset" type="button">Clear all</button>
@@ -105,7 +99,7 @@
       <div class="toolbar">
         <p class="summary" id="summary" aria-live="polite"></p>
         <div class="tools">
-          <button class="btn only-mobile" id="open-filters" type="button">Filters</button>
+          
           <label for="sort" class="dim">Sort</label>
           <select id="sort">
             <option value="price-asc">Price: low to high</option>

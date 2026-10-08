@@ -424,6 +424,8 @@
   $("cmp-open").addEventListener("click", openCompare);
   $("cmp-close").addEventListener("click", () => { const d = $("cmp-dialog"); d.close ? d.close() : d.removeAttribute("open"); });
 
+  const setMh = () => document.documentElement.style.setProperty("--mh", document.querySelector(".masthead").offsetHeight + "px");
+  setMh(); addEventListener("resize", setMh);
   $("open-filters").addEventListener("click", () => $("filters").classList.add("open"));
   $("close-filters").addEventListener("click", () => $("filters").classList.remove("open"));
 
@@ -433,8 +435,8 @@
     const when = isNaN(d) ? DATA.snapshot : d.toLocaleDateString("en-GB", { day: "numeric", month: "short", year: "numeric" });
     $("stamp").textContent = `Prices as of ${when}`;
     const byStore = count(ALL, "store");
-    $("intro-text").textContent = `${ALL.length} laptops and desktop PCs from ${byStore.size} Lebanese stores and marketplaces. Compare processor, graphics card, memory, storage, screen and price in US dollars, as listed on ${when}.`;
-    $("storestrip").innerHTML = [...byStore].sort((a, b) => b[1] - a[1]).map(([s, n]) => `<span>${esc(s)} <b>${n}</b></span>`).join("");
+    if ($("intro-text")) $("intro-text").textContent = `${ALL.length} laptops and desktop PCs from ${byStore.size} Lebanese stores and marketplaces. Compare processor, graphics card, memory, storage, screen and price in US dollars, as listed on ${when}.`;
+    if ($("storestrip")) $("storestrip").innerHTML = [...byStore].sort((a, b) => b[1] - a[1]).map(([s, n]) => `<span>${esc(s)} <b>${n}</b></span>`).join("");
     $("stores-line").textContent = [...byStore].map(([s, n]) => `${s}: ${n} listings`).join(" · ");
     $("notes").innerHTML = (DATA.notes || []).map((n) => `<li>${esc(n)}</li>`).join("");
   })();
