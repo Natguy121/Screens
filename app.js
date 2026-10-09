@@ -199,6 +199,12 @@
     return `<a class="olx" href="${esc(url)}" target="_blank" rel="noopener noreferrer">Search on OLX ↗</a>`;
   }
 
+  function olxEmpty() {
+    const q = S.q.replace(/\bolx\b/gi, "").trim();
+    const url = q ? "https://www.olx.com.lb/ads/q-" + encodeURIComponent(q.toLowerCase().replace(/\s+/g, "-")) + "/" : "https://www.olx.com.lb/computers-accessories/";
+    return `<p style="margin-top:14px">Used laptops from people are on OLX, not on this site. Each laptop here has a <b>Search on OLX</b> button.</p><p><a class="olx-big" href="${esc(url)}" target="_blank" rel="noopener noreferrer">${q ? `Search OLX for “${esc(q)}”` : "Open laptops on OLX"} ↗</a></p>`;
+  }
+
   function badges(p) {
     const b = [];
     if (p.use === "Gaming") b.push('<span class="badge gaming">Gaming</span>');
@@ -290,7 +296,7 @@
     $("v-cards").setAttribute("aria-pressed", view === "cards");
     $("v-table").setAttribute("aria-pressed", view === "table");
     if (!list.length) {
-      $("results").innerHTML = `<div class="empty"><h3>Nothing matches these filters</h3><p>Remove a filter above or <button type="button" class="linkbtn" data-reset>clear all filters</button>.</p></div>`;
+      $("results").innerHTML = `<div class="empty"><h3>Nothing matches these filters</h3><p>Remove a filter above or <button type="button" class="linkbtn" data-reset>clear all filters</button>.</p>${olxEmpty()}</div>`;
     } else if (view === "table") {
       $("results").innerHTML = table(list);
     } else {
