@@ -48,7 +48,15 @@ def get(url):
 
 
 def ad_links(html):
-    return {urljoin(BASE, u.split("?")[0]) for u in re.findall(r'href="(/ad/[^"]+?-ID\d+\.html)', html)}
+    """Ad addresses anywhere on the page: plain links, absolute links, or inside the
+    page's embedded data (where slashes may be written as \\u002F or \\/)."""
+    h = html.replace("\\u002F", "/").replace("\\/", "/")
+    out = set()
+    for slug in re.findall(r'(/(?:[a-z]{2}/)?ad/[A-Za-z0-9%_.\-]+?-ID\d+\.html)', h):
+        out.add(BASE + re.sub(r"^/[a-z]{2}/ad/", "/ad/", slug))
+    for ext in re.findall(r'"externalID"\s*:\s*"(\d+)"[^{}]*?"slug"\s*:\s*"([^"]+)"', h):
+        out.add(f"{BASE}/ad/{ext[1]}-ID{ext[0]}.html")
+    return out
 
 
 def text_of(html, pat):
@@ -138,6 +146,8 @@ def main():
                 print(f"  stopped at {url} ({type(e).__name__})", flush=True)
                 break
             links = ad_links(html)
+            if page == 1 and search == SEARCHES[0]:
+                (ROOT / "data" / "olx_page.html").write_text(html, encoding="utf-8")  # for fixing the search if it finds nothing
             new = links - found
             found |= links
             prog["pages_done"].append(url)
