@@ -1613,7 +1613,7 @@ Jak Computer,ASUS,ROG ZEPHYRUS G14 GA403WR,AMD Ryzen AI 9 370,,12GB,,,2793,New,h
 Jak Computer,ASUS,ROG Zephyrus G16,Intel Ultra 9 285H,,24GB,,,4550,New,https://jakcomputer.com/products/asus-rog-zephyrus-g16-gamingg,1
 Jak Computer,ASUS,ROG Zephyrus G16 GU605CX-QR099,Intel Ultra 9 285H,RTX 5090 24GB,,,,4460,New,https://jakcomputer.com/products/asus-rog-zephyrus-g16-gu605cxqr099,1
 Jak Computer,ASUS,TUF FA808UM-IS74,AMD Ryzen 7 260,RTX 5060 8GB,8GB,,,1532,New,https://jakcomputer.com/products/asus-tuf-fa808um-is74,1
-Jak Computer,ASUS,TUF Gaming F16 FX608JMR-F16.,Intel Core i7-5060,RTX 5060 8GB,8GB,,,1577,New,https://jakcomputer.com/products/asus-tuf-gamingf16fx608jmr-f16-i75060,1
+Jak Computer,ASUS,TUF Gaming F16 FX608JMR-F16.,Intel Core i7,RTX 5060 8GB,8GB,,,1577,New,https://jakcomputer.com/products/asus-tuf-gamingf16fx608jmr-f16-i75060,1
 Jak Computer,ASUS,VivoBook 16  F1605VA-WS74,Intel Core i7-1355U,Integrated,,,,630,New,https://jakcomputer.com/products/asus-vivobook-16-f1605va,1
 Jak Computer,ASUS,VivoBook 16  F1605VA-WS74,Intel Core i7-1355U,Integrated,,,,721,New,https://jakcomputer.com/products/asus-vivobook-16-f1605va-ws74-core-tm-i7-1355u,1
 Jak Computer,ASUS,Vivobook 16 WUXGA,Intel Core i9-13900H,Integrated,,,,991,New,https://jakcomputer.com/products/asus-vivobook-16-wuxga-f1605va-ws96-lntel%C2%AE-core-tm-i9-13900h,1
@@ -2467,5 +2467,5 @@ Laptops King,Lenovo,LOQ 17IRX10 83JH00D1DP,Intel Core i7-13650HX,RTX 5060 8GB,32
 Laptops King,Lenovo,ThinkBook 14 G8 IAL 21SJ0001GQ,Intel Ultra 7 255H,Integrated Intel Arc,8GB,512GB SSD,"14""",999,New,https://laptopsking.com/products/lenovo-thinkbook-14-g8-ial-21sj0001gq-core-ultra-7-255h-8gb-ram-512gb-ssd-wuxga-laptop-14,1
 OutGeeked,ASUS,ROG FLOW Z13 GZ302EA-RU056W,AMD Ryzen AI Max+ 395,,32GB,1TB SSD,"13.4"" touch",2275,New,https://outgeeked.net/products/asus-rog-flow-z13-gz302ea-ru056w,1
 OutGeeked,ASUS,ROG STRIX G18 G815LR-S9227,Intel Ultra 9 275HX,RTX 5070 Ti 12GB,32GB,2TB SSD,"18""",3100,New,https://outgeeked.net/products/asus-rog-strix-18-g815lr-s9227,1
-OutGeeked,ASUS,TUF F16 FX608JMR-F16.,Intel Core i7-5060,RTX 5060 8GB,32GB,1TB SSD,"16""",1725,New,https://outgeeked.net/products/asus-tuf-fx608jmr-f16-i75060,1
+OutGeeked,ASUS,TUF F16 FX608JMR-F16.,Intel Core i7,RTX 5060 8GB,32GB,1TB SSD,"16""",1725,New,https://outgeeked.net/products/asus-tuf-fx608jmr-f16-i75060,1
 OutGeeked,ASUS,VIVOBOOK S16 M3607GA-IS99T,AMD Ryzen AI 9 465,Integrated AMD Radeon,32GB,1TB SSD,"16"" touch",1430,New,https://outgeeked.net/products/asus-vivobook-s16-m3607ga-is99t,1
