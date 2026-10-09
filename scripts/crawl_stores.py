@@ -56,6 +56,11 @@ STORES = [
     ("Techno Media Trade", "https://technomediatrade.com"),
     ("Bassel Computers", "https://www.basselcomputers.com"),
     ("GoMicroCity", "https://www.gomicrocity.com"),
+    ("USA to Lebanon", "https://usatolebanon.com"),
+    ("OutGeeked", "https://outgeeked.net"),
+    ("Abed Tahan", "https://www.abedtahan.com"),
+    ("Khoury Home", "https://www.khouryhome.com"),
+    ("ishtari", "https://www.ishtari.com"),
 ]
 
 LAPTOP_WORDS = re.compile(

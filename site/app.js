@@ -193,6 +193,12 @@
     return `<a href="${esc(p.link)}" target="_blank" rel="noopener noreferrer">${esc(label)} ↗</a>`;
   }
 
+  function olxHTML(p) {
+    const q = `${p.brand} ${p.name}`.replace(/\(.*?\)/g, " ").replace(/[^\w\s.+-]/g, " ").trim().split(/\s+/).slice(0, 5).join(" ");
+    const url = "https://www.olx.com.lb/ads/q-" + encodeURIComponent(q.toLowerCase().replace(/\s+/g, "-")) + "/";
+    return `<a class="olx" href="${esc(url)}" target="_blank" rel="noopener noreferrer">Search on OLX ↗</a>`;
+  }
+
   function badges(p) {
     const b = [];
     if (p.use === "Gaming") b.push('<span class="badge gaming">Gaming</span>');
@@ -213,7 +219,7 @@
         <div class="badges">${badges(p)}</div>
       </div>
       <dl class="specs">${specRows(p)}</dl>
-      <div class="card-foot">${priceHTML(p)}<div class="where"><span class="seller">${esc(p.store === "OLX Lebanon" ? "OLX · " + (p.seller || "") : p.store)}</span>${linkHTML(p)}</div></div>
+      <div class="card-foot">${priceHTML(p)}<div class="where"><span class="seller">${esc(p.store === "OLX Lebanon" ? "OLX · " + (p.seller || "") : p.store)}</span>${linkHTML(p)}${olxHTML(p)}</div></div>
       ${p.note ? `<div class="card-foot" style="border-top:1px dashed var(--line);padding-top:8px"><span class="dim" style="font-size:var(--step--1)">${esc(p.note)}</span></div>` : ""}
     </article>`;
   }
@@ -333,6 +339,7 @@
       ["Condition", (p) => esc(p.condition)],
       ["Store", (p) => esc(p.store === "OLX Lebanon" ? "OLX · " + (p.seller || "") : p.store)],
       ["Link", (p) => linkHTML(p) || "–"],
+      ["Used on OLX", (p) => olxHTML(p)],
     ];
     $("cmp-body").innerHTML = `<table class="cmp-table"><thead><tr><th></th>${items.map((p) => `<td><span class="model">${esc(fullName(p))}</span></td>`).join("")}</tr></thead><tbody>${rows.map(([k, f]) => `<tr><th scope="row">${k}</th>${items.map((p) => `<td>${f(p)}</td>`).join("")}</tr>`).join("")}</tbody></table>`;
     const dlg = $("cmp-dialog");
