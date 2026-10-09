@@ -42003,5 +42003,625 @@
  "https://laptopsking.com/products/wooden-laptop-table-with-2-cooling-fans-dark-brown": {
   "ok": false,
   "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/acer-aspire-14-ai-a14-52mt-94h5": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/acer-nitro-v16s-nh-u29em-003-anv16s-71-97be": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/acer-predator-helio-neo-16s-ai-phn16s-71-98rf": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/acer-predator-helios-neo-16s-ai-phn16s-71-91aw": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/apple-mac-studio-mqh63-64gb-ram-1tb-ssd-with-apple-m2-ultra-chip": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/apple-macbook-air-m4-13-inch": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/apple-macbook-air-m4-15-inch": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/apple-macbook-air-m5-13-inch-2026": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/apple-macbook-air-m5-15-inch-2026": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/apple-macbook-pro-14-inch-m5-max-2026": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/apple-macbook-pro-16-inch-m5-max-2026": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/apple-macbook-pro-m4-14-inch-2024": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/apple-macbook-pro-m4-max-14-inch-2024": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/apple-macbook-pro-m4-pro-14-inch-2024": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/apple-macbook-pro-m4-pro-16-inch-2024": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/apple-macbook-pro-m5-14-inch-2025": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/apple-macbook-pro-m5-pro-14-inch-2026": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/apple-macbook-pro-m5-pro-16-inch-2026": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/apple-magic-mouse-mk2e3-wireless-multi-touch-mouse-for-apple-macbook-silver": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/apple-magic-mouse-mmmq3-wireless-multi-touch-mouse-for-apple-macbook-black": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/apple-tv-4k-128gb": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/apple-tv-4k-32gb": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/apple-tv-4k-64gb": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/asus-proart-pz13-ht5306qa-pz13-x1p1tb": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/asus-rog-flow-z13-gz302ea-ru056w": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 2275.0
+ },
+ "https://outgeeked.net/products/asus-rog-strix-18-g815lr-s9227": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 3100.0
+ },
+ "https://outgeeked.net/products/asus-rog-strix-g16-g615lw-s5153": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/asus-rog-strix-scar-edition-g16-g635lx-s5200": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/asus-rog-xbox-ally-x-24gb-1tb": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/asus-rog-zephyrus-g16-gu605cx-qr099": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/asus-tuf-fa608umi-r7165w": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/asus-tuf-fx608jmr-f16-i75060": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1725.0
+ },
+ "https://outgeeked.net/products/asus-vivobook-14-x1404vap-v14-c58256": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/asus-vivobook-s16-m3607ga-is99t": {
+  "ok": true,
+  "reason": "available (InStock)",
+  "price": 1430.0
+ },
+ "https://outgeeked.net/products/aulumu-a17-aramid-fiber-case-for-apple-iphone-17-pro-max-black": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/blueo-air-aramid-fiber-magnetic-case-apple-iphone-17-pro-case": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/blueo-air-aramid-fiber-magnetic-case-apple-iphone-17-pro-max-case": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/dell-inspiron-i7440-5647blu-pus": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/dux-ducis-leno-privacy-screen-filter-for-apple-macbook-air-13-6-inch-2022-2024": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/dux-ducis-leno-privacy-screen-filter-for-apple-macbook-pro-14-inch-2021-2023": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/dux-ducis-leno-privacy-screen-filter-for-apple-macbook-pro-16-inch-2019-2021-2023": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/fantech-nc14-notebook-cooler-with-two-rgb-fans-and-phone-holder-up-to-16-inch": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/fantech-ns12-aluminium-laptop-stand-16-height-levels-up-to-15-6-inch": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/hardshell-case-for-apple-macbook-air": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/hardshell-case-for-apple-macbook-pro": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/hp-omen-16-an0119": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/hp-omen-17-db1095cl": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/hp-omnibook-3-16-bu0007dx": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/hp-omnibook-3-16-bu0305dx": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/hp-omnibook-5-16-af1017wm-intel-core-ultra-7-255u-16gb-1tb-16-inch-fhd-win11": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/hp-omnibook-5-16-af1037nr": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/hp-omnibook-5-16-af1173cl": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/hp-omnibook-5-16-ag1075cl": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/hp-omnibook-5-16-bp0095cl": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/hp-omnibook-7-ngai-17t-dc000-al2m1av": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/hp-omnibook-x-flip-14-2-in-1-ak4z4av-1": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/hp-omnibook-x-flip-14-kc0013dx": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/hp-omnibook-x-flip-14-kp0023dx": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/hp-omnibook-x-flip-16-as0023dx": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/hp-omnibook-x-flip-16-be0005cl": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/hp-omnibook-x-flip-16-cc0013dx": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/hp-omnibook-x-flip-16-cc0033dx": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/hp-omnibook-x-ngai-17-dd0047nr": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/hp-probook-4-g1i-16-at7k5av": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/hp-victus-15-fa2013dx": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/hp-victus-15-fb3093dx": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/insta360-flow-2": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/insta360-flow-2-pro": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/insta360-flow-ai-powered-smartphone-gimbal-stabilizer": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/keyboard-protector-film-for-apple-macbook-air": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/keyboard-protector-film-for-apple-macbook-pro": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/kinmac-3-compartment-water-resistant-laptop-handbag-kmc468-kmc469": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/kinmac-360-eva-airbag-water-resistant-laptop-briefcase-kms466-kms467": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/kinmac-pu-leather-laptop-handbag-with-3-compartments-kmc470-kmc471": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/lenovo-ideapad-5-2-in-1-16-83ks001bus": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/lenovo-ideapad-5-2-in-1-16ahp9-83ds0056us": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/lenovo-ideapad-slim-3-15ian8-82xb00g3dp": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/lenovo-ideapad-slim-3-15iph11-83ur0042dp": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/lenovo-ideapad-slim-3-15iph11-83ur007rdp": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/lenovo-ideapad-slim-3-15irh10-83k100c1dp": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/lenovo-ideapad-slim-3-15irh10-83k100e7dp": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/lenovo-ideapad-slim-3-15irh10-83k100e9ax": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/lenovo-ideapad-slim-3-15iru8-82x700dfdp": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/lenovo-ideapad-slim-3-15iwc11-83rr0000us": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/lenovo-legion-5-15irx10-83ly00dkdp": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/lenovo-legion-5-15irx10-83ly00mups": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/lenovo-legion-go-s-8apu1-83n6000gus": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/lenovo-legion-pro-7-16iax10h-83f500e8dp": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/lenovo-loq-15ahp9-83dx00f1pb": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/lenovo-loq-15irx10-83je00u1ax": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/lenovo-loq-15irx10-83je01e1ax": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/lenovo-loq-15irx11-83sc007rus": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/lenovo-loq-15irx9-83dv000eax": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/lenovo-loq-15irx9-83dv0072ps": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/lenovo-loq-15irx9-83dv01bcax": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/lenovo-loq-17irx10-83jh002fdp": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/lenovo-loq-17irx10-83jh00d1dp": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/lenovo-thinkbook-14-g8-ial-21sj0001gq": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/lenovo-thinkbook-16-g8-ial-21sk0027gr": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/lenovo-thinkpad-e14-gen-7": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/lenovo-thinkpad-e16-gen-3-2": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/lenovo-v14-g5-irl-83hda06jus": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/lenovo-v15-g4-iru-83a1011jak": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/lenovo-v15-g5-irl-83gw006aeq": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/lenovo-v15-g5-irl-83gw0076gp": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/lenovo-v15-g5-irl-83gw0076ue": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/lenovo-v15-g5-irl-83hf00e6ig": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/lenovo-v15-g5-irl-83hf00kaig": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/lenovo-v15-g5-irl-83hfa08gus": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/lenovo-yoga-7-16ahp9-83dm0006us": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/moft-adhesive-laptop-stand": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/moft-frame-case-movas-for-apple-iphone-17-pro-max-misty-cove-x-cement": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/moft-frame-case-movas-for-apple-iphone-17-pro-max-soothing-mist-x-sunrise": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/moft-frame-case-movas-for-apple-iphone-17-pro-misty-cove-x-cement": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/moft-frame-case-movas-for-apple-iphone-17-pro-soothing-mist-x-sunrise": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/msi-crosshair-16-hx-e14wgk-038us": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/msi-katana-15-hx-b14wek-001us": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/msi-katana-15-hx-b14wfk-605xpl": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/msi-katana-15-hx-b14wgk-821xpl": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/msi-modern-md271ul": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/msi-modern-md272qxp": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/msi-modern-md272xp": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/msi-modern-md272xpw": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/msi-modern-md342cqp": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/msi-raider-18-hx-ai-a2xwig-420us": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/msi-raider-18-hx-ai-msi-a2xwhg-437us": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/msi-vector-16-hx-a2xwhg-275us": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/rog-strix-g16-g614pp-wh94": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/samsung-galaxy-book-6-np760xjg-kg2us": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/spigen-enzo-aramid-magfit-apple-iphone-16-pro-case": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/spigen-thin-fit-magfit-apple-iphone-16-case": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/tecno-pova-7-ultra-5g-12gb-256gb": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/thinkbook-16-g8-ial-21sk0030gp": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/thinkbook-16-g9-irl-21us002xed": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/thinkpad-e14-gen-7-21t0001aed": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/thinkpad-e14-gen-8-21y60025gr": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/thinkpad-e16-gen-3-21st0014ed": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/thinkpad-e16-gen-3-21tf005bed": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/thinkpad-e16-gen-3-22ay0000ed": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/thinkpad-e16-gen-3-core-ultra-7-255h": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/thinkpad-e16-gen-4-21yc0021gr": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/thinkpad-l14-gen-6-21s6003pus": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/thinkpad-t14-g6-21qg0045us": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/thinkpad-t14s-g6-21r2s16300": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/thinkpad-x9-14-gen-1-aura-edition-21qa0036us": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/thinkpad-x9-15-gen-1-aura-edition-21q6006rus": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/ugreen-aluminium-alloy-vertical-laptop-stand-holder-20471": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/ugreen-aluminium-alloy-vertical-laptop-stand-holder-60643": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/ugreen-aluminum-alloy-foldable-laptop-stand-40289": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/ugreen-foldable-portable-stainless-steel-laptop-stand-80348": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/ugreen-lifting-laptop-stand-40291": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/ugreen-lifting-laptop-stand-90849": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/ugreen-magflow-10000mah-qi2-25w-wireless-magnetic-power-bank-65958b": {
+  "ok": false,
+  "reason": "HTTP 429"
+ },
+ "https://outgeeked.net/products/ugreen-magflow-3-in-1-qi2-25w-wireless-charging-station-55677": {
+  "ok": false,
+  "reason": "HTTP 429"
  }
 }
