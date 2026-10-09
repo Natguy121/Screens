@@ -8,7 +8,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@100..125,600..900&family=Figtree:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600;700&display=swap">
-<link rel="stylesheet" href="app.css?v=8">
+<link rel="stylesheet" href="app.css?v=9">
 </head>
 <body>
 <!--BODY-START-->
@@ -28,6 +28,10 @@
 
 <main class="wrap">
   <nav class="tabs" id="tabs" aria-label="Device type"></nav>
+  <div class="funbar">
+    <button class="fun-btn spin" id="spin-btn" type="button"><span class="ico">🎰</span><span><b>Surprise me</b><small>Spin for a random laptop</small></span></button>
+    <button class="fun-btn steals" id="steals-btn" type="button" aria-pressed="false"><span class="ico">🔥</span><span><b>Steals <span class="n"></span></b><small>20%+ cheaper than similar laptops</small></span></button>
+  </div>
   <button class="filter-big only-mobile" id="open-filters" type="button"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 5h18M6 12h12M10 19h4"/></svg>Filter</button>
 
   <div class="layout">
@@ -147,6 +151,18 @@
   </div>
 </div>
 
+<dialog id="spin-dialog" class="spin-dialog" aria-labelledby="spin-title">
+  <div class="dlg-head">
+    <h3 id="spin-title">🎰 Laptop slot machine</h3>
+    <button class="btn" id="spin-close" type="button">Close</button>
+  </div>
+  <div class="dlg-body">
+    <div class="reel" id="reel" aria-live="polite"></div>
+    <div id="spin-result" hidden></div>
+    <p style="text-align:center;margin:14px 0 4px"><button class="btn primary" id="spin-again" type="button" hidden>🎰 Spin again</button></p>
+  </div>
+</dialog>
+
 <dialog id="cmp-dialog" aria-labelledby="cmp-title">
   <div class="dlg-head">
     <h3 id="cmp-title">Side-by-side specs</h3>
@@ -155,7 +171,7 @@
   <div class="dlg-body" id="cmp-body"></div>
 </dialog>
 <!--BODY-END-->
-<script src="data.js?v=8"></script>
-<script src="app.js?v=8"></script>
+<script src="data.js?v=9"></script>
+<script src="app.js?v=9"></script>
 </body>
 </html>

@@ -308,6 +308,61 @@ dialog::backdrop { background: rgb(0 0 0 / .45); }
 .where .olx { display: inline-block; margin-top: 6px; padding: 4px 10px; border: 1px solid var(--accent); border-radius: 999px; font-size: var(--step--1); color: var(--accent); font-weight: 600; }
 .where .olx:hover { background: var(--accent); color: var(--accent-ink); }
 .olx-big { display: inline-block; padding: 10px 18px; border-radius: 999px; background: var(--accent); color: var(--accent-ink); font-weight: 700; }
+
+/* ---------- fun ---------- */
+.funbar { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin: 2px 0 14px; }
+.fun-btn {
+  display: flex; align-items: center; gap: 12px; text-align: left; cursor: pointer;
+  padding: 12px 14px; border-radius: 16px; border: 1px solid var(--line); background: var(--surface); color: var(--ink);
+  transition: transform .15s ease, box-shadow .15s ease, border-color .15s ease;
+}
+.fun-btn:hover { transform: translateY(-2px); box-shadow: 0 8px 22px rgb(0 0 0 / .12); border-color: var(--accent); }
+.fun-btn .ico { font-size: 28px; line-height: 1; }
+.fun-btn.spin .ico { display: inline-block; animation: wobble 2.6s ease-in-out infinite; }
+.fun-btn b { display: block; font: 700 var(--step-0) var(--font-display); }
+.fun-btn small { display: block; color: var(--muted); font-size: var(--step--1); }
+.fun-btn .n { font: 600 var(--step--1) var(--font-mono); color: var(--accent); }
+.fun-btn.steals[aria-pressed="true"] { background: var(--accent); color: var(--accent-ink); border-color: var(--accent); }
+.fun-btn.steals[aria-pressed="true"] small, .fun-btn.steals[aria-pressed="true"] .n { color: inherit; opacity: .85; }
+@keyframes wobble { 0%, 80%, 100% { transform: rotate(0); } 85% { transform: rotate(-14deg) scale(1.1); } 90% { transform: rotate(12deg) scale(1.1); } 95% { transform: rotate(-6deg); } }
+@media (max-width: 560px) { .funbar { grid-template-columns: 1fr; } .fun-btn small { display: none; } .funbar { grid-template-columns: 1fr 1fr; } }
+
+.badge.steal { background: linear-gradient(90deg, #f97316, #ef4444); color: #fff; font-weight: 700; animation: pulse 2s ease-in-out infinite; }
+@keyframes pulse { 0%, 100% { box-shadow: 0 0 0 0 rgb(239 68 68 / .45); } 50% { box-shadow: 0 0 0 6px rgb(239 68 68 / 0); } }
+
+.power { display: grid; grid-template-columns: auto 1fr auto; align-items: center; gap: 8px; padding: 2px 16px 12px; font-size: var(--step--1); }
+.pw-lbl { font: 500 var(--step--1) var(--font-mono); color: var(--muted); text-transform: uppercase; letter-spacing: .06em; font-size: 11px; }
+.pw-bar { height: 8px; border-radius: 99px; background: color-mix(in srgb, var(--line) 70%, transparent); overflow: hidden; }
+.pw-bar i { display: block; height: 100%; width: var(--w); border-radius: inherit; animation: grow .9s cubic-bezier(.2,.8,.2,1) both; }
+.power.t0 .pw-bar i { background: #94a3b8; } .power.t1 .pw-bar i { background: #38bdf8; }
+.power.t2 .pw-bar i { background: linear-gradient(90deg, #22c55e, #84cc16); }
+.power.t3 .pw-bar i { background: linear-gradient(90deg, #f59e0b, #ef4444); }
+.power.t4 .pw-bar i { background: linear-gradient(90deg, #a855f7, #ec4899, #ef4444); background-size: 200% 100%; animation: grow .9s cubic-bezier(.2,.8,.2,1) both, shimmer 2s linear infinite; }
+.pw-tier { font-weight: 700; white-space: nowrap; }
+.power.unknown .pw-tier { color: var(--muted); font-weight: 500; }
+@keyframes grow { from { width: 0; } }
+@keyframes shimmer { to { background-position: -200% 0; } }
+
+.card { transition: transform .18s ease, box-shadow .18s ease; }
+.card:hover { transform: translateY(-3px); box-shadow: 0 12px 28px rgb(0 0 0 / .14); }
+
+.spin-dialog { width: min(520px, 94vw); }
+.reel {
+  margin: 4px 0 14px; padding: 22px 16px; border-radius: 18px; text-align: center; min-height: 92px;
+  background: repeating-linear-gradient(135deg, var(--accent) 0 14px, color-mix(in srgb, var(--accent) 80%, #000) 14px 28px);
+  color: var(--accent-ink); display: flex; flex-direction: column; justify-content: center; gap: 6px;
+  box-shadow: inset 0 0 0 4px rgb(255 255 255 / .25);
+}
+.reel-name { font: 800 var(--step-1)/1.15 var(--font-display); text-shadow: 0 2px 0 rgb(0 0 0 / .2); }
+.reel-price { font: 700 var(--step-2) var(--font-mono); }
+.reel.blur .reel-name, .reel.blur .reel-price { filter: blur(1.5px); opacity: .85; }
+.grid.one { grid-template-columns: 1fr; }
+
+.confetti { position: fixed; z-index: 100; width: 9px; height: 13px; border-radius: 2px; pointer-events: none;
+  animation: boom 1.3s cubic-bezier(.15,.6,.35,1) forwards; }
+@keyframes boom { to { transform: translate(var(--dx), calc(var(--dy) + 340px)) rotate(var(--r)); opacity: 0; } }
+.empty-emoji { font-size: 48px; animation: wobble 2.6s ease-in-out infinite; display: inline-block; }
+@media (prefers-reduced-motion: reduce) { .pw-bar i, .badge.steal, .fun-btn .ico, .empty-emoji { animation: none !important; } }
 </style>
 
 <header class="masthead">
@@ -326,6 +381,10 @@ dialog::backdrop { background: rgb(0 0 0 / .45); }
 
 <main class="wrap">
   <nav class="tabs" id="tabs" aria-label="Device type"></nav>
+  <div class="funbar">
+    <button class="fun-btn spin" id="spin-btn" type="button"><span class="ico">🎰</span><span><b>Surprise me</b><small>Spin for a random laptop</small></span></button>
+    <button class="fun-btn steals" id="steals-btn" type="button" aria-pressed="false"><span class="ico">🔥</span><span><b>Steals <span class="n"></span></b><small>20%+ cheaper than similar laptops</small></span></button>
+  </div>
   <button class="filter-big only-mobile" id="open-filters" type="button"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 5h18M6 12h12M10 19h4"/></svg>Filter</button>
 
   <div class="layout">
@@ -444,6 +503,18 @@ dialog::backdrop { background: rgb(0 0 0 / .45); }
     <button class="btn primary" id="cmp-open" type="button">Compare side by side</button>
   </div>
 </div>
+
+<dialog id="spin-dialog" class="spin-dialog" aria-labelledby="spin-title">
+  <div class="dlg-head">
+    <h3 id="spin-title">🎰 Laptop slot machine</h3>
+    <button class="btn" id="spin-close" type="button">Close</button>
+  </div>
+  <div class="dlg-body">
+    <div class="reel" id="reel" aria-live="polite"></div>
+    <div id="spin-result" hidden></div>
+    <p style="text-align:center;margin:14px 0 4px"><button class="btn primary" id="spin-again" type="button" hidden>🎰 Spin again</button></p>
+  </div>
+</dialog>
 
 <dialog id="cmp-dialog" aria-labelledby="cmp-title">
   <div class="dlg-head">
@@ -91267,7 +91338,7 @@ window.SPECS_DATA = {
   const blank = () => ({
     q: "", form: "All", stores: new Set(), brands: new Set(), cpus: new Set(), gpus: new Set(),
     uses: new Set(), conds: new Set(), gpuKind: "any", ramMin: 0, storageMin: 0, screen: "any",
-    pmin: null, pmax: null, pricedOnly: false,
+    pmin: null, pmax: null, pricedOnly: false, steals: false,
   });
   let S = blank();
   let sort = "price-asc";
@@ -91281,12 +91352,40 @@ window.SPECS_DATA = {
   }
   ALL.forEach((p) => { p._hay = haystack(p); });
 
+  // ---------- fun: power meter + steals ----------
+  const MAX_RANK = Math.max(1, ...ALL.map((p) => p.gpuRank || 0));
+  const TIERS = [
+    [0, "🤷", "Mystery", "unknown"], [11, "🥔", "Potato", "t0"], [40, "🚲", "Casual", "t1"],
+    [64, "🏎️", "Solid", "t2"], [90, "🔥", "Beast", "t3"], [999, "🐉", "Monster", "t4"],
+  ];
+  function tier(p) {
+    const r = p.gpuRank || 0;
+    if (!r) return TIERS[0];
+    return TIERS.slice(1).find((t) => r < t[0]) || TIERS[TIERS.length - 1];
+  }
+  // A "steal" costs at least 20% less than the median of laptops with the same graphics and RAM.
+  (function markSteals() {
+    const groups = new Map();
+    ALL.forEach((p) => {
+      if (p.price == null || !p.ramGB) return;
+      const k = (p.gpuModel || p.cpuFamily || "?") + "|" + p.ramGB + "|" + p.condition;
+      (groups.get(k) || groups.set(k, []).get(k)).push(p);
+    });
+    groups.forEach((list) => {
+      if (list.length < 5) return;
+      const ps = list.map((p) => p.price).sort((a, b) => a - b);
+      const med = ps[Math.floor(ps.length / 2)];
+      list.forEach((p) => { if (p.price <= med * 0.8) { p.steal = true; p.saveVsMedian = Math.round(med - p.price); } });
+    });
+  })();
+
   function matches(p, skip) {
     if (S.q) {
       const words = S.q.toLowerCase().split(/\s+/).filter(Boolean);
       if (!words.every((w) => p._hay.includes(w))) return false;
     }
     if (skip !== "form" && S.form !== "All" && p.form !== S.form) return false;
+    if (S.steals && !p.steal) return false;
     if (skip !== "store" && S.stores.size && !S.stores.has(p.store)) return false;
     if (skip !== "brand" && S.brands.size && !S.brands.has(p.brand)) return false;
     if (skip !== "cpu" && S.cpus.size && !S.cpus.has(p.cpuFamily)) return false;
@@ -91443,12 +91542,22 @@ window.SPECS_DATA = {
 
   function badges(p) {
     const b = [];
+    if (p.steal) b.push(`<span class="badge steal" title="About $${p.saveVsMedian} below similar laptops">🔥 Steal</span>`);
     if (p.use === "Gaming") b.push('<span class="badge gaming">Gaming</span>');
     if (p.subtype && p.subtype !== p.form && p.subtype !== "Gaming PC") b.push(`<span class="badge">${esc(p.subtype)}</span>`);
     if (p.oled) b.push('<span class="badge">OLED</span>');
     if (p.touch) b.push('<span class="badge">Touch</span>');
     if (p.condition !== "New") b.push(`<span class="badge cond">${esc(p.condition)}</span>`);
     return b.join("");
+  }
+
+  function powerHTML(p) {
+    const [, emo, label, cls] = tier(p);
+    const pct = p.gpuRank ? Math.max(6, Math.round((p.gpuRank / MAX_RANK) * 100)) : 0;
+    return `<div class="power ${cls}" title="Gaming power, from the graphics card">
+      <span class="pw-lbl">Gaming power</span>
+      <span class="pw-bar"><i style="--w:${pct}%"></i></span>
+      <span class="pw-tier">${emo} ${label}</span></div>`;
   }
 
   function card(p) {
@@ -91461,6 +91570,7 @@ window.SPECS_DATA = {
         <div class="badges">${badges(p)}</div>
       </div>
       <dl class="specs">${specRows(p)}</dl>
+      ${powerHTML(p)}
       <div class="card-foot">${priceHTML(p)}<div class="where"><span class="seller">${esc(p.store === "OLX Lebanon" ? "OLX · " + (p.seller || "") : p.store)}</span>${linkHTML(p)}${olxHTML(p)}</div></div>
       ${p.note ? `<div class="card-foot" style="border-top:1px dashed var(--line);padding-top:8px"><span class="dim" style="font-size:var(--step--1)">${esc(p.note)}</span></div>` : ""}
     </article>`;
@@ -91518,6 +91628,7 @@ window.SPECS_DATA = {
     if (S.screen !== "any") add(SCREENS.find((s) => s.id === S.screen).label, () => { S.screen = "any"; });
     if (S.pmin != null) add(`From ${money(S.pmin)}`, () => { S.pmin = null; $("pmin").value = ""; });
     if (S.pmax != null) add(`Up to ${money(S.pmax)}`, () => { S.pmax = null; $("pmax").value = ""; });
+    if (S.steals) add("🔥 Steals only", () => { S.steals = false; });
     if (S.pricedOnly) add("Priced only", () => { S.pricedOnly = false; $("priced").checked = false; });
     chipClears = out.map((c) => c.clear);
     $("chips").innerHTML = out.map((c, i) => `<button type="button" class="chip" data-chip="${i}" aria-label="Remove filter ${esc(c.label)}">${esc(c.label)}</button>`).join("");
@@ -91532,13 +91643,14 @@ window.SPECS_DATA = {
     $("v-cards").setAttribute("aria-pressed", view === "cards");
     $("v-table").setAttribute("aria-pressed", view === "table");
     if (!list.length) {
-      $("results").innerHTML = `<div class="empty"><h3>Nothing matches these filters</h3><p>Remove a filter above or <button type="button" class="linkbtn" data-reset>clear all filters</button>.</p>${olxEmpty()}</div>`;
+      $("results").innerHTML = `<div class="empty"><div class="empty-emoji">🕵️</div><h3>Nothing matches these filters</h3><p>Remove a filter above or <button type="button" class="linkbtn" data-reset>clear all filters</button>.</p>${olxEmpty()}</div>`;
     } else if (view === "table") {
       $("results").innerHTML = table(list);
     } else {
       $("results").innerHTML = `<div class="grid">${list.map(card).join("")}</div>`;
     }
     renderTray();
+    $("steals-btn").setAttribute("aria-pressed", S.steals);
   }
 
   // ---------- compare ----------
@@ -91677,6 +91789,64 @@ window.SPECS_DATA = {
   setMh(); addEventListener("resize", setMh);
   $("open-filters").addEventListener("click", () => $("filters").classList.add("open"));
   for (const id of ["close-filters", "close-filters-x"]) $(id).addEventListener("click", () => $("filters").classList.remove("open"));
+
+  // ---------- fun: surprise spin, confetti, steals ----------
+  const calm = matchMedia("(prefers-reduced-motion: reduce)").matches;
+  function confetti(x, y) {
+    if (calm) return;
+    const colors = ["#f59e0b", "#ef4444", "#22c55e", "#3b82f6", "#a855f7", "#ec4899"];
+    for (let i = 0; i < 70; i++) {
+      const c = document.createElement("i");
+      c.className = "confetti";
+      const a = Math.random() * Math.PI * 2, d = 120 + Math.random() * 260;
+      c.style.cssText = `left:${x}px;top:${y}px;background:${colors[i % colors.length]};--dx:${Math.cos(a) * d}px;--dy:${Math.sin(a) * d - 160}px;--r:${Math.random() * 720 - 360}deg;animation-delay:${Math.random() * 80}ms`;
+      document.body.appendChild(c);
+      setTimeout(() => c.remove(), 1500);
+    }
+  }
+
+  let spinning = false;
+  function spin() {
+    if (spinning) return;
+    let pool = ALL.filter((p) => matches(p) && p.price != null);
+    if (!pool.length) pool = ALL.filter((p) => p.price != null);
+    const pick = pool[Math.floor(Math.random() * pool.length)];
+    const d = $("spin-dialog"), reel = $("reel"), out = $("spin-result");
+    out.innerHTML = ""; out.hidden = true;
+    $("spin-again").hidden = true;
+    d.showModal ? d.showModal() : d.setAttribute("open", "");
+    spinning = true;
+    let t = 0, delay = calm ? 0 : 40;
+    const steps = calm ? 1 : 22;
+    (function tick() {
+      t++;
+      const p = t >= steps ? pick : pool[Math.floor(Math.random() * pool.length)];
+      reel.innerHTML = `<span class="reel-name">${esc(fullName(p))}</span><span class="reel-price">${money(p.price)}</span>`;
+      reel.classList.toggle("blur", t < steps);
+      if (t < steps) { delay *= 1.1; setTimeout(tick, delay); return; }
+      spinning = false;
+      out.innerHTML = `<div class="grid one">${card(pick)}</div>`;
+      out.hidden = false;
+      $("spin-again").hidden = false;
+      const r = reel.getBoundingClientRect();
+      confetti(r.left + r.width / 2, r.top + r.height / 2);
+    })();
+  }
+  $("spin-btn").addEventListener("click", spin);
+  $("spin-again").addEventListener("click", spin);
+  $("spin-close").addEventListener("click", () => { const d = $("spin-dialog"); d.close ? d.close() : d.removeAttribute("open"); });
+  $("spin-result").addEventListener("change", (e) => {
+    const id = e.target.dataset && e.target.dataset.cmp;
+    if (id) toggleCompare(id, e.target.checked);
+  });
+
+  const stealCount = ALL.filter((p) => p.steal).length;
+  $("steals-btn").querySelector(".n").textContent = stealCount;
+  $("steals-btn").addEventListener("click", (e) => {
+    S.steals = !S.steals;
+    if (S.steals) { sort = "price-asc"; $("sort").value = sort; const r = e.currentTarget.getBoundingClientRect(); confetti(r.left + r.width / 2, r.top); }
+    render();
+  });
 
   // ---------- static text ----------
   (function staticText() {

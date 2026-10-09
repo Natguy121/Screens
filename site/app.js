@@ -32,7 +32,7 @@
   const blank = () => ({
     q: "", form: "All", stores: new Set(), brands: new Set(), cpus: new Set(), gpus: new Set(),
     uses: new Set(), conds: new Set(), gpuKind: "any", ramMin: 0, storageMin: 0, screen: "any",
-    pmin: null, pmax: null, pricedOnly: false,
+    pmin: null, pmax: null, pricedOnly: false, steals: false,
   });
   let S = blank();
   let sort = "price-asc";
@@ -46,12 +46,40 @@
   }
   ALL.forEach((p) => { p._hay = haystack(p); });
 
+  // ---------- fun: power meter + steals ----------
+  const MAX_RANK = Math.max(1, ...ALL.map((p) => p.gpuRank || 0));
+  const TIERS = [
+    [0, "🤷", "Mystery", "unknown"], [11, "🥔", "Potato", "t0"], [40, "🚲", "Casual", "t1"],
+    [64, "🏎️", "Solid", "t2"], [90, "🔥", "Beast", "t3"], [999, "🐉", "Monster", "t4"],
+  ];
+  function tier(p) {
+    const r = p.gpuRank || 0;
+    if (!r) return TIERS[0];
+    return TIERS.slice(1).find((t) => r < t[0]) || TIERS[TIERS.length - 1];
+  }
+  // A "steal" costs at least 20% less than the median of laptops with the same graphics and RAM.
+  (function markSteals() {
+    const groups = new Map();
+    ALL.forEach((p) => {
+      if (p.price == null || !p.ramGB) return;
+      const k = (p.gpuModel || p.cpuFamily || "?") + "|" + p.ramGB + "|" + p.condition;
+      (groups.get(k) || groups.set(k, []).get(k)).push(p);
+    });
+    groups.forEach((list) => {
+      if (list.length < 5) return;
+      const ps = list.map((p) => p.price).sort((a, b) => a - b);
+      const med = ps[Math.floor(ps.length / 2)];
+      list.forEach((p) => { if (p.price <= med * 0.8) { p.steal = true; p.saveVsMedian = Math.round(med - p.price); } });
+    });
+  })();
+
   function matches(p, skip) {
     if (S.q) {
       const words = S.q.toLowerCase().split(/\s+/).filter(Boolean);
       if (!words.every((w) => p._hay.includes(w))) return false;
     }
     if (skip !== "form" && S.form !== "All" && p.form !== S.form) return false;
+    if (S.steals && !p.steal) return false;
     if (skip !== "store" && S.stores.size && !S.stores.has(p.store)) return false;
     if (skip !== "brand" && S.brands.size && !S.brands.has(p.brand)) return false;
     if (skip !== "cpu" && S.cpus.size && !S.cpus.has(p.cpuFamily)) return false;
@@ -208,12 +236,22 @@
 
   function badges(p) {
     const b = [];
+    if (p.steal) b.push(`<span class="badge steal" title="About $${p.saveVsMedian} below similar laptops">🔥 Steal</span>`);
     if (p.use === "Gaming") b.push('<span class="badge gaming">Gaming</span>');
     if (p.subtype && p.subtype !== p.form && p.subtype !== "Gaming PC") b.push(`<span class="badge">${esc(p.subtype)}</span>`);
     if (p.oled) b.push('<span class="badge">OLED</span>');
     if (p.touch) b.push('<span class="badge">Touch</span>');
     if (p.condition !== "New") b.push(`<span class="badge cond">${esc(p.condition)}</span>`);
     return b.join("");
+  }
+
+  function powerHTML(p) {
+    const [, emo, label, cls] = tier(p);
+    const pct = p.gpuRank ? Math.max(6, Math.round((p.gpuRank / MAX_RANK) * 100)) : 0;
+    return `<div class="power ${cls}" title="Gaming power, from the graphics card">
+      <span class="pw-lbl">Gaming power</span>
+      <span class="pw-bar"><i style="--w:${pct}%"></i></span>
+      <span class="pw-tier">${emo} ${label}</span></div>`;
   }
 
   function card(p) {
@@ -226,6 +264,7 @@
         <div class="badges">${badges(p)}</div>
       </div>
       <dl class="specs">${specRows(p)}</dl>
+      ${powerHTML(p)}
       <div class="card-foot">${priceHTML(p)}<div class="where"><span class="seller">${esc(p.store === "OLX Lebanon" ? "OLX · " + (p.seller || "") : p.store)}</span>${linkHTML(p)}${olxHTML(p)}</div></div>
       ${p.note ? `<div class="card-foot" style="border-top:1px dashed var(--line);padding-top:8px"><span class="dim" style="font-size:var(--step--1)">${esc(p.note)}</span></div>` : ""}
     </article>`;
@@ -283,6 +322,7 @@
     if (S.screen !== "any") add(SCREENS.find((s) => s.id === S.screen).label, () => { S.screen = "any"; });
     if (S.pmin != null) add(`From ${money(S.pmin)}`, () => { S.pmin = null; $("pmin").value = ""; });
     if (S.pmax != null) add(`Up to ${money(S.pmax)}`, () => { S.pmax = null; $("pmax").value = ""; });
+    if (S.steals) add("🔥 Steals only", () => { S.steals = false; });
     if (S.pricedOnly) add("Priced only", () => { S.pricedOnly = false; $("priced").checked = false; });
     chipClears = out.map((c) => c.clear);
     $("chips").innerHTML = out.map((c, i) => `<button type="button" class="chip" data-chip="${i}" aria-label="Remove filter ${esc(c.label)}">${esc(c.label)}</button>`).join("");
@@ -297,13 +337,14 @@
     $("v-cards").setAttribute("aria-pressed", view === "cards");
     $("v-table").setAttribute("aria-pressed", view === "table");
     if (!list.length) {
-      $("results").innerHTML = `<div class="empty"><h3>Nothing matches these filters</h3><p>Remove a filter above or <button type="button" class="linkbtn" data-reset>clear all filters</button>.</p>${olxEmpty()}</div>`;
+      $("results").innerHTML = `<div class="empty"><div class="empty-emoji">🕵️</div><h3>Nothing matches these filters</h3><p>Remove a filter above or <button type="button" class="linkbtn" data-reset>clear all filters</button>.</p>${olxEmpty()}</div>`;
     } else if (view === "table") {
       $("results").innerHTML = table(list);
     } else {
       $("results").innerHTML = `<div class="grid">${list.map(card).join("")}</div>`;
     }
     renderTray();
+    $("steals-btn").setAttribute("aria-pressed", S.steals);
   }
 
   // ---------- compare ----------
@@ -442,6 +483,64 @@
   setMh(); addEventListener("resize", setMh);
   $("open-filters").addEventListener("click", () => $("filters").classList.add("open"));
   for (const id of ["close-filters", "close-filters-x"]) $(id).addEventListener("click", () => $("filters").classList.remove("open"));
+
+  // ---------- fun: surprise spin, confetti, steals ----------
+  const calm = matchMedia("(prefers-reduced-motion: reduce)").matches;
+  function confetti(x, y) {
+    if (calm) return;
+    const colors = ["#f59e0b", "#ef4444", "#22c55e", "#3b82f6", "#a855f7", "#ec4899"];
+    for (let i = 0; i < 70; i++) {
+      const c = document.createElement("i");
+      c.className = "confetti";
+      const a = Math.random() * Math.PI * 2, d = 120 + Math.random() * 260;
+      c.style.cssText = `left:${x}px;top:${y}px;background:${colors[i % colors.length]};--dx:${Math.cos(a) * d}px;--dy:${Math.sin(a) * d - 160}px;--r:${Math.random() * 720 - 360}deg;animation-delay:${Math.random() * 80}ms`;
+      document.body.appendChild(c);
+      setTimeout(() => c.remove(), 1500);
+    }
+  }
+
+  let spinning = false;
+  function spin() {
+    if (spinning) return;
+    let pool = ALL.filter((p) => matches(p) && p.price != null);
+    if (!pool.length) pool = ALL.filter((p) => p.price != null);
+    const pick = pool[Math.floor(Math.random() * pool.length)];
+    const d = $("spin-dialog"), reel = $("reel"), out = $("spin-result");
+    out.innerHTML = ""; out.hidden = true;
+    $("spin-again").hidden = true;
+    d.showModal ? d.showModal() : d.setAttribute("open", "");
+    spinning = true;
+    let t = 0, delay = calm ? 0 : 40;
+    const steps = calm ? 1 : 22;
+    (function tick() {
+      t++;
+      const p = t >= steps ? pick : pool[Math.floor(Math.random() * pool.length)];
+      reel.innerHTML = `<span class="reel-name">${esc(fullName(p))}</span><span class="reel-price">${money(p.price)}</span>`;
+      reel.classList.toggle("blur", t < steps);
+      if (t < steps) { delay *= 1.1; setTimeout(tick, delay); return; }
+      spinning = false;
+      out.innerHTML = `<div class="grid one">${card(pick)}</div>`;
+      out.hidden = false;
+      $("spin-again").hidden = false;
+      const r = reel.getBoundingClientRect();
+      confetti(r.left + r.width / 2, r.top + r.height / 2);
+    })();
+  }
+  $("spin-btn").addEventListener("click", spin);
+  $("spin-again").addEventListener("click", spin);
+  $("spin-close").addEventListener("click", () => { const d = $("spin-dialog"); d.close ? d.close() : d.removeAttribute("open"); });
+  $("spin-result").addEventListener("change", (e) => {
+    const id = e.target.dataset && e.target.dataset.cmp;
+    if (id) toggleCompare(id, e.target.checked);
+  });
+
+  const stealCount = ALL.filter((p) => p.steal).length;
+  $("steals-btn").querySelector(".n").textContent = stealCount;
+  $("steals-btn").addEventListener("click", (e) => {
+    S.steals = !S.steals;
+    if (S.steals) { sort = "price-asc"; $("sort").value = sort; const r = e.currentTarget.getBoundingClientRect(); confetti(r.left + r.width / 2, r.top); }
+    render();
+  });
 
   // ---------- static text ----------
   (function staticText() {
