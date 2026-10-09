@@ -91429,6 +91429,7 @@ window.SPECS_DATA = {
   }
 
   function olxHTML(p) {
+    if (p.store === "OLX") return "";
     const q = `${p.brand} ${p.name}`.replace(/\(.*?\)/g, " ").replace(/[^\w\s.+-]/g, " ").trim().split(/\s+/).slice(0, 5).join(" ");
     const url = "https://www.olx.com.lb/ads/q-" + encodeURIComponent(q.toLowerCase().replace(/\s+/g, "-")) + "/";
     return `<a class="olx" href="${esc(url)}" target="_blank" rel="noopener noreferrer">Search on OLX ↗</a>`;
