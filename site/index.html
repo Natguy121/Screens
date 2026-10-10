@@ -8,13 +8,14 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@100..125,600..900&family=Figtree:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600;700&display=swap">
-<link rel="stylesheet" href="app.css?v=10">
+<link rel="stylesheet" href="app.css?v=11">
 </head>
 <body>
 <!--BODY-START-->
 <header class="masthead">
   <div class="wrap">
     <h1 class="logo">Specs<span>.lb</span></h1>
+    <button class="theme-btn" id="cur-btn" type="button" aria-label="Switch currency">$</button>
     <button class="theme-btn" id="theme-btn" type="button" aria-label="Switch theme">🌙</button>
     <span class="stamp" id="stamp">Prices as of 5 Oct 2026</span>
     <form class="search" id="search-form" role="search">
@@ -35,8 +36,13 @@
     <button class="fun-btn steals" id="steals-btn" type="button" aria-pressed="false"><span class="ico">🔥</span><span><b>Steals <span class="n"></span></b><small>20%+ cheaper than similar</small></span></button>
     <button class="fun-btn" id="hof-btn" type="button"><span class="ico">🏆</span><span><b>Hall of Fame</b><small>Cheapest, strongest, wildest</small></span></button>
     <button class="fun-btn" id="hl-btn" type="button"><span class="ico">💸</span><span><b>Higher or Lower</b><small>Guess the price game</small></span></button>
+    <button class="fun-btn" id="game-btn" type="button"><span class="ico">🎮</span><span><b>Can it run…?</b><small>Pick a game, see laptops</small></span></button>
+    <button class="fun-btn" id="battle-btn" type="button"><span class="ico">⚔️</span><span><b>Laptop Battle</b><small>Two laptops fight it out</small></span></button>
+    <button class="fun-btn" id="budget-btn" type="button"><span class="ico">💰</span><span><b>Budget slider</b><small>Best laptop for your money</small></span></button>
     <button class="fun-btn steals" id="favs-btn" type="button" aria-pressed="false"><span class="ico">❤️</span><span><b>Favourites <span class="n"></span></b><small>Laptops you saved</small></span></button>
+    <button class="fun-btn" id="ach-btn" type="button"><span class="ico">🏅</span><span><b>Achievements <span class="n"></span></b><small>Collect them all</small></span></button>
   </div>
+  <div class="lotd" id="lotd" hidden></div>
   <button class="filter-big only-mobile" id="open-filters" type="button"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 5h18M6 12h12M10 19h4"/></svg>Filter</button>
 
   <div class="layout">
@@ -184,7 +190,7 @@
   <div class="dlg-body" id="cmp-body"></div>
 </dialog>
 <!--BODY-END-->
-<script src="data.js?v=10"></script>
-<script src="app.js?v=10"></script>
+<script src="data.js?v=11"></script>
+<script src="app.js?v=11"></script>
 </body>
 </html>
