@@ -32,7 +32,7 @@
   const blank = () => ({
     q: "", form: "All", stores: new Set(), brands: new Set(), cpus: new Set(), gpus: new Set(),
     uses: new Set(), conds: new Set(), gpuKind: "any", ramMin: 0, storageMin: 0, screen: "any",
-    pmin: null, pmax: null, pricedOnly: false, steals: false, favs: false,
+    pmin: null, pmax: null, pricedOnly: false, steals: false, favs: false, game: null,
   });
   let S = blank();
   let sort = "price-asc";
@@ -83,6 +83,7 @@
     if (skip !== "form" && S.form !== "All" && p.form !== S.form) return false;
     if (S.steals && !p.steal) return false;
     if (S.favs && !favs.has(p.id)) return false;
+    if (S.game && !((p.gpuRank || 0) >= S.game.good && !(p.cpuVendor === "Apple" && S.game.pcOnly))) return false;
     if (skip !== "store" && S.stores.size && !S.stores.has(p.store)) return false;
     if (skip !== "brand" && S.brands.size && !S.brands.has(p.brand)) return false;
     if (skip !== "cpu" && S.cpus.size && !S.cpus.has(p.cpuFamily)) return false;
@@ -212,9 +213,12 @@
     return rows.map(([k, v]) => `<dt>${k}</dt><dd>${v}</dd>`).join("");
   }
 
+  const LBP_RATE = 89500;
+  let currency = store("specs.cur") === "LBP" ? "LBP" : "USD";
+  const lbp = (usd) => { const v = usd * LBP_RATE; return v >= 1e6 ? (v / 1e6).toFixed(v >= 1e8 ? 0 : 1) + "M" : Math.round(v / 1000) + "K"; };
   function priceHTML(p) {
     return p.price != null
-      ? `<div class="price"><small>USD</small>${Math.round(p.price).toLocaleString("en-US")}<span class="mana" title="At about $1.25 per za'atar manoushe">≈ ${Math.round(p.price / 1.25).toLocaleString("en-US")} manakish 🫓</span></div>`
+      ? `<div class="price"><small>${currency === "LBP" ? "LL" : "USD"}</small>${currency === "LBP" ? lbp(p.price) : Math.round(p.price).toLocaleString("en-US")}<span class="mana" title="At about $1.25 per za'atar manoushe">≈ ${Math.round(p.price / 1.25).toLocaleString("en-US")} manakish 🫓</span></div>`
       : `<div class="price none">Price on the ad</div>`;
   }
 
@@ -262,9 +266,9 @@
     return `<article class="card${picked ? " picked" : ""}">
       <div class="card-top">
         <div class="eyebrow"><span class="who">${esc(p.brand)} · ${esc(p.form)}</span>
-          <span class="acts"><button type="button" class="ico-btn fav" data-fav="${p.id}" aria-pressed="${favs.has(p.id)}" aria-label="Save to favourites" title="Save to favourites">${favs.has(p.id) ? "❤️" : "🤍"}</button><button type="button" class="ico-btn" data-share="${p.id}" aria-label="Share" title="Share this laptop">🔗</button>
+          <span class="acts"><button type="button" class="ico-btn" data-detail="${p.id}" aria-label="Details" title="Details: what it can run, similar deals">ℹ️</button><button type="button" class="ico-btn fav" data-fav="${p.id}" aria-pressed="${favs.has(p.id)}" aria-label="Save to favourites" title="Save to favourites">${favs.has(p.id) ? "❤️" : "🤍"}</button><button type="button" class="ico-btn" data-share="${p.id}" aria-label="Share" title="Share this laptop">🔗</button>
           <label class="cmp" for="c-${p.id}"><input type="checkbox" id="c-${p.id}" data-cmp="${p.id}"${picked ? " checked" : ""}>Compare</label></span></div>
-        <h3>${esc(p.name)}</h3>
+        <h3><button type="button" class="title-btn" data-detail="${p.id}">${esc(p.name)}</button></h3>
         <div class="badges">${badges(p)}</div>
       </div>
       <dl class="specs">${specRows(p)}</dl>
@@ -326,6 +330,7 @@
     if (S.screen !== "any") add(SCREENS.find((s) => s.id === S.screen).label, () => { S.screen = "any"; });
     if (S.pmin != null) add(`From ${money(S.pmin)}`, () => { S.pmin = null; $("pmin").value = ""; });
     if (S.pmax != null) add(`Up to ${money(S.pmax)}`, () => { S.pmax = null; $("pmax").value = ""; });
+    if (S.game) add(`🎮 Runs ${S.game.name} smoothly`, () => { S.game = null; });
     if (S.favs) add("❤️ Favourites", () => { S.favs = false; });
     if (S.steals) add("🔥 Steals only", () => { S.steals = false; });
     if (S.pricedOnly) add("Priced only", () => { S.pricedOnly = false; $("priced").checked = false; });
@@ -531,6 +536,7 @@
       $("spin-again").hidden = false;
       const r = reel.getBoundingClientRect();
       confetti(r.left + r.width / 2, r.top + r.height / 2);
+      ach("spin");
     })();
   }
   $("spin-btn").addEventListener("click", spin);
@@ -545,7 +551,7 @@
   $("steals-btn").querySelector(".n").textContent = stealCount;
   $("steals-btn").addEventListener("click", (e) => {
     S.steals = !S.steals;
-    if (S.steals) { sort = "price-asc"; $("sort").value = sort; const r = e.currentTarget.getBoundingClientRect(); confetti(r.left + r.width / 2, r.top); }
+    if (S.steals) { ach("steal"); sort = "price-asc"; $("sort").value = sort; const r = e.currentTarget.getBoundingClientRect(); confetti(r.left + r.width / 2, r.top); }
     render();
   });
 
@@ -587,7 +593,7 @@
       saveFavs();
       document.querySelectorAll(`[data-fav="${CSS.escape(id)}"]`).forEach((b) => { b.textContent = on ? "❤️" : "🤍"; b.setAttribute("aria-pressed", on); });
       $("favs-btn").querySelector(".n").textContent = favs.size || "";
-      if (on) { const r = f.getBoundingClientRect(); confetti(r.left + r.width / 2, r.top); toast("Saved to favourites ❤️"); }
+      if (on) { const r = f.getBoundingClientRect(); confetti(r.left + r.width / 2, r.top); toast("Saved to favourites ❤️"); ach("fav"); if (favs.size >= 5) ach("fav5"); }
       if (S.favs && !on) render();
       return;
     }
@@ -595,6 +601,7 @@
     if (sh) {
       const p = byId.get(sh.dataset.share);
       const url = location.href.split("#")[0] + "#p=" + encodeURIComponent(p.id);
+      ach("share");
       const text = `${fullName(p)}${p.price != null ? " for " + money(p.price) : ""} at ${p.store}`;
       if (navigator.share) navigator.share({ title: "Specs.lb", text, url }).catch(() => {});
       else if (navigator.clipboard) navigator.clipboard.writeText(text + " " + url).then(() => toast("Link copied 🔗"), () => toast(url));
@@ -650,11 +657,11 @@
     openFun("🎉 Your matches", best
       ? `<p class="quiz-n"><b>${list.length}</b> laptops fit you. They're now shown on the page. Here's our top pick:</p><div class="grid one">${card(best)}</div><p style="text-align:center"><button type="button" class="btn primary" data-see-all>See all ${list.length} matches</button></p>`
       : `<p>No laptop fits all of that right now 😅. Try a bigger budget or another size.</p><p style="text-align:center"><button type="button" class="btn primary" data-quiz>Try again</button></p>`);
-    if (best) { const r = $("fun-body").getBoundingClientRect(); confetti(r.left + r.width / 2, r.top + 40); }
+    if (best) { const r = $("fun-body").getBoundingClientRect(); confetti(r.left + r.width / 2, r.top + 40); ach("quiz"); }
   }
   $("quiz-btn").addEventListener("click", () => { quizAns = {}; quizStep(0); });
   $("fun-body").addEventListener("click", (e) => {
-    const o = e.target.closest(".quiz-opt");
+    const o = e.target.closest("[data-qi]");
     if (o) { const i = +o.dataset.qi; quizAns[QUIZ[i].k] = QUIZ[i].a[+o.dataset.qa][2]; return quizStep(i + 1); }
     if (e.target.closest("[data-quiz]")) { quizAns = {}; return quizStep(0); }
     if (e.target.closest("[data-see-all]")) { closeFun(); $("summary").scrollIntoView({ behavior: calm ? "auto" : "smooth", block: "center" }); return; }
@@ -686,6 +693,8 @@
     if (right) {
       hl.streak++;
       if (hl.streak > hlBest()) store("specs.hlbest", hl.streak);
+      if (hl.streak >= 3) ach("hl3");
+      if (hl.streak >= 10) ach("hl10");
       const r = $("fun-body").getBoundingClientRect(); confetti(r.left + r.width / 2, r.top + 60);
       const was = hl.b;
       hl.a = was; hl.b = pickHL(was);
@@ -715,7 +724,7 @@
     ].filter((a) => a[2]);
     openFun("🏆 Hall of Fame", `<div class="hof">${awards.map(([e, t, p]) => `<section><h4><span>${e}</span>${t}</h4>${card(p)}</section>`).join("")}</div>`);
   }
-  $("hof-btn").addEventListener("click", hallOfFame);
+  $("hof-btn").addEventListener("click", () => { hallOfFame(); ach("hof"); });
 
   // ---- hidden search tricks ----
   const EGGS = { potato: "🥔", lebanon: "🇱🇧", "لبنان": "🇱🇧", dragon: "🐉", money: "💸", pizza: "🍕", manoushe: "🫓", manakish: "🫓", cat: "🐈", fire: "🔥" };
@@ -724,8 +733,8 @@
     const v = e.target.value.trim().toLowerCase();
     if (v === lastEgg) return;
     const clearSoon = () => setTimeout(() => { if ($("q").value.trim().toLowerCase() === v) { $("q").value = ""; S.q = ""; render(); } }, 1400);
-    if (EGGS[v]) { lastEgg = v; rain(EGGS[v]); clearSoon(); }
-    else if (v === "rgb" || v === "rainbow") { lastEgg = v; document.body.classList.add("rgb"); setTimeout(() => document.body.classList.remove("rgb"), 6000); toast("🌈 RGB mode: +10 FPS"); clearSoon(); }
+    if (EGGS[v]) { lastEgg = v; rain(EGGS[v]); clearSoon(); ach("egg"); }
+    else if (v === "rgb" || v === "rainbow") { lastEgg = v; document.body.classList.add("rgb"); setTimeout(() => document.body.classList.remove("rgb"), 6000); toast("🌈 RGB mode: +10 FPS"); clearSoon(); ach("egg"); }
     else if (v === "hacker" || v === "matrix") { lastEgg = v; document.body.classList.toggle("matrix"); toast(document.body.classList.contains("matrix") ? "🟩 Welcome to the matrix" : "Back to normal"); clearSoon(); }
     else lastEgg = "";
   });
@@ -744,6 +753,182 @@
     const t = dark ? "light" : "dark";
     store("specs.theme", t); applyTheme(t);
   });
+
+  // ---------- even more fun ----------
+  // Games and the graphics power they need (same scale as the Gaming power bar).
+  const GAMES = [
+    { name: "Minecraft", ico: "⛏️", min: 10, good: 10 },
+    { name: "League of Legends", ico: "🧙", min: 10, good: 10, pcOnly: true },
+    { name: "Valorant", ico: "🎯", min: 10, good: 24, pcOnly: true },
+    { name: "Fortnite", ico: "🪂", min: 12, good: 38, pcOnly: true },
+    { name: "GTA V", ico: "🚗", min: 14, good: 36, pcOnly: true },
+    { name: "EA Sports FC", ico: "⚽", min: 24, good: 46, pcOnly: true },
+    { name: "Call of Duty: Warzone", ico: "🪖", min: 36, good: 55, pcOnly: true },
+    { name: "Elden Ring", ico: "🗡️", min: 38, good: 60, pcOnly: true },
+    { name: "Cyberpunk 2077", ico: "🌆", min: 46, good: 72 },
+    { name: "Black Myth: Wukong", ico: "🐒", min: 50, good: 80, pcOnly: true },
+  ];
+  function runs(p, g) {
+    const r = p.gpuRank || 0;
+    if (!r) return ["❓", "Unknown", "unk"];
+    if (p.cpuVendor === "Apple" && g.pcOnly) return ["🍎", "Not on Mac", "no"];
+    if (r >= g.good) return ["✅", "Smooth", "ok"];
+    if (r >= g.min) return ["⚠️", "Low settings", "meh"];
+    return ["❌", "Too weak", "no"];
+  }
+
+  // ---- achievements ----
+  const ACH = {
+    spin: ["🎰", "Gambler", "Spin the slot machine"], quiz: ["🧭", "Know thyself", "Finish the laptop quiz"],
+    hl3: ["💸", "Price whisperer", "Get a streak of 3 in Higher or Lower"], hl10: ["🧠", "Human price tag", "Get a streak of 10 in Higher or Lower"],
+    fav: ["❤️", "Crush", "Save a favourite"], fav5: ["💘", "Collector", "Save 5 favourites"],
+    share: ["🔗", "Spread the word", "Share a laptop"], egg: ["🥚", "Easter egg hunter", "Find a secret search word"],
+    steal: ["🔥", "Bargain hunter", "Look at the Steals"], hof: ["🏆", "Historian", "Visit the Hall of Fame"],
+    battle: ["⚔️", "Gladiator", "Watch a laptop battle"], game: ["🎮", "Gamer", "Check which laptops run a game"],
+    detail: ["🔍", "Inspector", "Open the details of 5 laptops"], budget: ["💰", "Money talks", "Use the budget slider"],
+    cur: ["🇱🇧", "Local", "Switch prices to Lebanese pounds"], lotd: ["⭐", "Daily visitor", "Open the laptop of the day"],
+  };
+  const got = new Set((() => { try { return JSON.parse(store("specs.ach") || "[]"); } catch (e) { return []; } })());
+  function ach(id) {
+    if (got.has(id) || !ACH[id]) return;
+    got.add(id); store("specs.ach", JSON.stringify([...got]));
+    setTimeout(() => toast(`🏅 Achievement unlocked: ${ACH[id][0]} ${ACH[id][1]}`), 600);
+    updAch();
+    if (got.size === Object.keys(ACH).length) setTimeout(() => { rain("🏆", 60); toast("👑 You unlocked everything. Legend."); }, 2600);
+  }
+  function updAch() { $("ach-btn").querySelector(".n").textContent = `${got.size}/${Object.keys(ACH).length}`; }
+  $("ach-btn").addEventListener("click", () => {
+    openFun("🏅 Achievements", `<p class="quiz-n">${got.size} of ${Object.keys(ACH).length} unlocked. They're saved on this device.</p>
+      <div class="achs">${Object.entries(ACH).map(([id, [e, t, d]]) => `<div class="ach${got.has(id) ? " on" : ""}"><span>${got.has(id) ? e : "🔒"}</span><b>${t}</b><small>${d}</small></div>`).join("")}</div>`);
+  });
+
+  // ---- laptop details ----
+  let detailCount = +(store("specs.details") || 0);
+  function similarMedian(p) {
+    const k = (x) => (x.gpuModel || x.cpuFamily || "?") + "|" + x.ramGB;
+    const ps = ALL.filter((x) => x.price != null && x.ramGB && k(x) === k(p)).map((x) => x.price).sort((a, b) => a - b);
+    return ps.length >= 3 ? { med: ps[Math.floor(ps.length / 2)], n: ps.length } : null;
+  }
+  function goodFor(p) {
+    const r = p.gpuRank || 0, ram = p.ramGB || 0;
+    return [
+      ["📚", "School & browsing", true], ["💼", "Office work", ram >= 8 || !ram], ["👨‍💻", "Programming", ram >= 16],
+      ["🖼️", "Photo editing", ram >= 16], ["🎬", "Video editing", ram >= 16 && (r >= 38 || /M\d (Pro|Max)/.test(p.cpu || ""))],
+      ["🎮", "Gaming", r >= 38], ["🤖", "AI & 3D work", ram >= 32 && r >= 60],
+    ];
+  }
+  function detail(id) {
+    const p = byId.get(id);
+    if (!p) return;
+    detailCount++; store("specs.details", detailCount); if (detailCount >= 5) ach("detail");
+    const sm = p.price != null && similarMedian(p);
+    let market = "";
+    if (sm) {
+      const diff = Math.round(p.price - sm.med), pct = Math.round((diff / sm.med) * 100);
+      const pos = Math.max(4, Math.min(96, 50 + pct));
+      market = `<section class="dt-sec"><h4>💰 Price vs ${sm.n} similar laptops</h4>
+        <div class="mkt"><div class="mkt-bar"><span class="mkt-mid"></span><i style="left:${pos}%"></i></div>
+        <div class="mkt-lbl"><span>Cheaper</span><span>Typical ${money(sm.med)}</span><span>Pricier</span></div></div>
+        <p class="mkt-say ${diff <= 0 ? "good" : "bad"}">${Math.abs(pct) < 5 ? "👌 About the normal price." : diff < 0 ? `🎉 ${money(-diff)} (${-pct}%) below the typical price.` : `😬 ${money(diff)} (${pct}%) above the typical price.`}</p></section>`;
+    }
+    const alts = ALL.filter((x) => x !== p && x.price != null && p.price != null && x.price < p.price - 20 && (x.gpuRank || 0) >= (p.gpuRank || 0) && (x.ramGB || 0) >= (p.ramGB || 0) && (x.storageGB || 0) >= (p.storageGB || 0) && x.condition === p.condition)
+      .sort((a, b) => a.price - b.price).slice(0, 3);
+    openFun(fullName(p), `<div class="grid one">${card(p)}</div>
+      <section class="dt-sec"><h4>🎮 Can it run…?</h4><div class="games">${GAMES.map((g) => { const [e, t, c] = runs(p, g); return `<div class="game ${c}"><span>${g.ico}</span><b>${g.name}</b><em>${e} ${t}</em></div>`; }).join("")}</div>
+      <p class="dim small">A rough guide from the graphics card, not a benchmark.</p></section>
+      <section class="dt-sec"><h4>👍 Good for</h4><div class="goodfor">${goodFor(p).map(([e, t, ok]) => `<span class="gf ${ok ? "ok" : "no"}">${ok ? e : "✖️"} ${t}</span>`).join("")}</div></section>
+      ${market}
+      ${alts.length ? `<section class="dt-sec"><h4>💡 Same power or better, for less</h4><div class="alts">${alts.map((a) => `<button type="button" class="alt" data-detail="${a.id}"><b>${esc(fullName(a))}</b><span>${esc(a.store)} · ${a.gpu ? esc(a.gpu) : ""}</span><em>${money(a.price)} <small>save ${money(p.price - a.price)}</small></em></button>`).join("")}</div></section>` : ""}`);
+  }
+  document.addEventListener("click", (e) => {
+    const d = e.target.closest("[data-detail]");
+    if (d) { e.preventDefault(); detail(d.dataset.detail); }
+  });
+
+  // ---- Can it run ...? ----
+  $("game-btn").addEventListener("click", () => {
+    openFun("🎮 Can it run…?", `<p class="quiz-n">Pick a game to see every laptop that runs it smoothly.</p>
+      <div class="quiz-opts games-pick">${GAMES.map((g, i) => {
+        const n = ALL.filter((p) => (p.gpuRank || 0) >= g.good && !(p.cpuVendor === "Apple" && g.pcOnly)).length;
+        return `<button type="button" class="quiz-opt" data-game="${i}"><span>${g.ico}</span>${esc(g.name)}<small>${n} laptops</small></button>`;
+      }).join("")}</div>`);
+  });
+  $("fun-body").addEventListener("click", (e) => {
+    const g = e.target.closest("[data-game]");
+    if (!g) return;
+    S.game = GAMES[+g.dataset.game];
+    sort = "price-asc"; $("sort").value = sort;
+    render(); closeFun(); ach("game");
+    toast(`${S.game.ico} Cheapest laptops that run ${S.game.name} first`);
+    $("summary").scrollIntoView({ behavior: calm ? "auto" : "smooth", block: "center" });
+  });
+
+  // ---- Laptop battle ----
+  function battle(a, b) {
+    const pool = ALL.filter((p) => p.price != null && p.ramGB && p.gpuRank);
+    if (!a) { a = pool[Math.floor(Math.random() * pool.length)]; do { b = pool[Math.floor(Math.random() * pool.length)]; } while (b === a); }
+    const rounds = [
+      ["🎮", "Graphics ×2", (p) => p.gpuRank || 0, (p) => p.gpu, 2],
+      ["🧠", "RAM", (p) => p.ramGB || 0, (p) => (p.ramGB ? p.ramGB + "GB" : "?"), 1],
+      ["💾", "Storage", (p) => p.storageGB || 0, (p) => p.storage || "?", 1],
+      ["🖥️", "Screen", (p) => p.screenIn || 0, (p) => p.screen || "?", 1],
+      ["💵", "Price (cheaper wins)", (p) => -(p.price || 1e9), (p) => money(p.price), 1],
+    ];
+    let sa = 0, sb = 0;
+    const rows = rounds.map(([ico, name, val, show, pts]) => {
+      const x = val(a), y = val(b), w = x === y ? 0 : x > y ? 1 : 2;
+      if (w === 1) sa += pts; if (w === 2) sb += pts;
+      return `<div class="bt-row"><span class="${w === 1 ? "win" : ""}">${esc(show(a))}</span><b>${ico} ${name}</b><span class="${w === 2 ? "win" : ""}">${esc(show(b))}</span></div>`;
+    });
+    const winner = sa === sb ? null : sa > sb ? a : b;
+    openFun("⚔️ Laptop Battle", `<div class="bt">
+      <div class="bt-head"><div class="bt-f a"><small>${esc(a.store)}</small><b>${esc(fullName(a))}</b></div><div class="bt-vs">VS</div><div class="bt-f b"><small>${esc(b.store)}</small><b>${esc(fullName(b))}</b></div></div>
+      <div class="bt-rows">${rows.map((r, i) => r.replace('class="bt-row"', `class="bt-row" style="animation-delay:${calm ? 0 : i * 450}ms"`)).join("")}</div>
+      <div class="bt-res" style="animation-delay:${calm ? 0 : rounds.length * 450}ms">${winner ? `👑 <b>${esc(fullName(winner))}</b> wins ${Math.max(sa, sb)}–${Math.min(sa, sb)}!` : `🤝 It's a draw, ${sa}–${sb}!`}</div>
+      <div class="hl-btns"><button type="button" class="btn" data-detail="${a.id}">Left details</button><button type="button" class="btn primary" data-battle>⚔️ New battle</button><button type="button" class="btn" data-detail="${b.id}">Right details</button></div></div>`);
+    setTimeout(() => { const r = $("fun-body").getBoundingClientRect(); if (winner) confetti(r.left + r.width / 2, r.top + 60); ach("battle"); }, calm ? 0 : rounds.length * 450 + 200);
+  }
+  $("battle-btn").addEventListener("click", () => {
+    if (compare.length >= 2) battle(byId.get(compare[0]), byId.get(compare[1])); else battle();
+  });
+  $("fun-body").addEventListener("click", (e) => { if (e.target.closest("[data-battle]")) battle(); });
+
+  // ---- Budget slider: the strongest laptop your money buys ----
+  $("budget-btn").addEventListener("click", () => {
+    openFun("💰 What does my budget buy?", `<div class="bud"><p class="bud-val">$<b id="bud-n">1000</b></p>
+      <input type="range" id="bud" min="200" max="4000" step="50" value="1000" aria-label="Budget in US dollars">
+      <div id="bud-out"></div></div>`);
+    const upd = () => {
+      const v = +$("bud").value; $("bud-n").textContent = v.toLocaleString("en-US");
+      const ok = ALL.filter((p) => p.price != null && p.price <= v && p.condition === "New");
+      const top = ok.slice().sort((a, b) => (b.gpuRank || 0) - (a.gpuRank || 0) || (b.ramGB || 0) - (a.ramGB || 0) || a.price - b.price)[0];
+      const [, emo, lbl] = top ? tier(top) : [0, "", ""];
+      $("bud-out").innerHTML = top ? `<p class="quiz-n"><b>${ok.length}</b> new laptops fit. The most powerful is ${emo} <b>${lbl}</b>:</p><div class="grid one">${card(top)}</div>` : `<p>Nothing new at that price 😅</p>`;
+    };
+    $("bud").addEventListener("input", upd); upd(); ach("budget");
+  });
+
+  // ---- Currency switch ----
+  function updCur() { $("cur-btn").textContent = currency === "LBP" ? "LL" : "$"; $("cur-btn").title = currency === "LBP" ? "Showing Lebanese pounds (at 89,500 per $). Tap for dollars" : "Show prices in Lebanese pounds"; }
+  updCur();
+  $("cur-btn").addEventListener("click", () => {
+    currency = currency === "USD" ? "LBP" : "USD"; store("specs.cur", currency); updCur(); render();
+    toast(currency === "LBP" ? "🇱🇧 Prices in Lebanese pounds (89,500 LL per $)" : "💵 Prices in US dollars");
+    if (currency === "LBP") ach("cur");
+  });
+
+  // ---- Laptop of the day ----
+  (function lotd() {
+    const pool = ALL.filter((p) => p.price != null && p.condition === "New" && (p.steal || (p.gpuRank || 0) >= 50)).sort((a, b) => (a.id < b.id ? -1 : 1));
+    if (!pool.length) return;
+    const day = Math.floor(Date.now() / 864e5);
+    const p = pool[(day * 2654435761) % pool.length];
+    const [, emo, lbl] = tier(p);
+    $("lotd").innerHTML = `<span class="lotd-star">⭐</span><span class="lotd-t"><small>Laptop of the day</small><b>${esc(fullName(p))}</b><span>${emo} ${lbl} · ${money(p.price)} at ${esc(p.store)}${p.steal ? " · 🔥 Steal" : ""}</span></span><button type="button" class="btn primary" data-detail="${p.id}" data-lotd>See it</button>`;
+    $("lotd").hidden = false;
+    $("lotd").addEventListener("click", (e) => { if (e.target.closest("[data-lotd]")) ach("lotd"); });
+  })();
+  updAch();
 
   // ---------- static text ----------
   (function staticText() {
