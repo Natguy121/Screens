@@ -72,7 +72,7 @@ LAPTOP_WORDS = re.compile(
 NOT_LAPTOP = re.compile(
     r"desktop|\btower\b|all[- ]in[- ]one|\baio\b|mini[- ]?pc|\bnuc\b|ideacentre|thinkcentre|optiplex|monitor|"
     r"gaming[- ]pc\b|\bbarebone|motherboard|\bbag\b|backpack|sleeve|charger|adapter|battery|cooling[- ]pad|"
-    r"replacement|compatible|screen[- ]protector|\bskin\b|keyboard[- ]cover|\bhinge\b|\bfan\b|\blcd\b", re.I)
+    r"replacement|compatible|screen[- ]protector|\bipad\b|\btablet\b|smartwatch|\bwatch\b|handheld|\bclaw\b|\bskin\b|keyboard[- ]cover|\bhinge\b|\bfan\b|\blcd\b", re.I)
 CPU_HINT = re.compile(r"\bi[3579]\b|i[3579][- ]?\d{4}|ultra[- ]?[3579]|ryzen|core[- ]?[3579]\b|\bm[1-5]\b|snapdragon|"
                       r"celeron|pentium|\bn[12]00\b|i3[- ]n\d{3}|apple", re.I)
 
@@ -207,15 +207,20 @@ def ram_of(t):
     m = re.search(r"(?:ram|memory)\s*:?\s*(\d{1,3})\s*gb", t, re.I)
     if m and m.group(1) in RAM_SIZES:
         return m.group(1) + "GB"
+    # No "RAM" label: names like "128GB 4GB" list storage first, so take the smallest
+    # plausible size, and never treat an unlabelled 96GB/128GB as RAM.
+    found = []
     for m in re.finditer(r"(\d{1,3})\s*gb(?!\s*(?:ssd|nvme|hdd|emmc|storage|pcie|m\.2|gddr|vram|dedicated))", t, re.I):
-        if m.group(1) in RAM_SIZES and not re.search(r"(rtx|gtx|rx|vga|graphics)\s*\S*\s*$", t[:m.start()], re.I):
-            return m.group(1) + "GB"
-    return None
+        if m.group(1) in RAM_SIZES and int(m.group(1)) <= 64 and not re.search(r"(rtx|gtx|rx|vga|graphics)\s*\S*\s*$", t[:m.start()], re.I):
+            found.append(int(m.group(1)))
+    return f"{min(found)}GB" if found else None
 
 
 def storage_of(t):
-    m = re.search(r"(\d(?:\.\d)?|\d{3,4})\s*(gb|tb)\s*(?:pcie\s*|gen\s*\d\s*|m\.2\s*)*(ssd|nvme|hdd|emmc|storage)", t, re.I)
-    if m:
+    # Storage is never under 32GB on a laptop, so "8GB SSD"-style matches are RAM read wrongly.
+    for m in re.finditer(r"(\d(?:\.\d)?|\d{2,4})\s*(gb|tb)\s*(?:pcie\s*|gen\s*\d\s*|m\.2\s*)*(ssd|nvme|hdd|emmc|storage)", t, re.I):
+        if m.group(2).lower() == "gb" and float(m.group(1)) < 32:
+            continue
         kind = "HDD" if m.group(3).lower() == "hdd" else "SSD"
         return f"{m.group(1)}{m.group(2).upper()} {kind}"
     m = re.search(r"\b(1|2|4)\s*tb\b", t, re.I)

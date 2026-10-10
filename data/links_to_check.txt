@@ -555,11 +555,6 @@ https://mojitech.net/shop/brands/acer-brands/acer-predator-triton-14-pt14-51-78b
 https://mojitech.net/shop/brands/acer-brands/acer-predator-triton-neo-16-ptn16-51-932n/
 https://mojitech.net/shop/brands/acer-brands/acer-swift-go-16-ai-ryzen-ai-9/
 https://mojitech.net/shop/brands/acer-brands/aspire-go-15-ag15-51p-510u-laptop/
-https://mojitech.net/shop/brands/apple-brands/apple-ipad-air-11-m3-128gb/
-https://mojitech.net/shop/brands/apple-brands/apple-ipad-pro-m4-11-inch-512gb-tablet/
-https://mojitech.net/shop/brands/apple-brands/apple-ipad-pro-m4-13-inch-256gb/
-https://mojitech.net/shop/brands/apple-brands/apple-ipad-pro-m5-13-inch-256gb-cellular/
-https://mojitech.net/shop/brands/apple-brands/apple-ipad-pro-m5-512gb-11/
 https://mojitech.net/shop/brands/apple-brands/apple-m5-16gb-512gb-13-6-inch/
 https://mojitech.net/shop/brands/apple-brands/apple-macbook-air-13-m5/
 https://mojitech.net/shop/brands/apple-brands/apple-macbook-air-15-m5-10core-10gpu/
@@ -616,8 +611,6 @@ https://mojitech.net/shop/brands/apple-brands/apple-macbook-pro-mx2h3-m4-pro-12-
 https://mojitech.net/shop/brands/apple-brands/apple-macbook-pro-mx2j3/
 https://mojitech.net/shop/brands/apple-brands/apple-macbook-pro-mx2k3/
 https://mojitech.net/shop/brands/apple-brands/apple-macbook-pro-mx2y3/
-https://mojitech.net/shop/brands/apple-brands/apple-watch-ultra-3-49mm-titanium-smartwatch/
-https://mojitech.net/shop/brands/apple-brands/ipad-air-m3-wifi-256gb/
 https://mojitech.net/shop/brands/apple-brands/macbook-air-m5-24gb-512gb-14-inch/
 https://mojitech.net/shop/brands/apple-brands/macbook-air-mrxp3/
 https://mojitech.net/shop/brands/apple-brands/macbook-pro-m4-max-16-4tb-128gb/
@@ -750,7 +743,6 @@ https://mojitech.net/shop/brands/dell-brands/dell-alienware-m18-r2-gaming-useash
 https://mojitech.net/shop/brands/dell-brands/dell-alienware-x14-r2-awx14-r2/
 https://mojitech.net/shop/brands/dell-brands/dell-inspiron-15-5535/
 https://mojitech.net/shop/brands/dell-brands/dell-inspiron-7430-7374-i7430-7374slv-pus-lebanon/
-https://mojitech.net/shop/brands/dell-brands/dell-latitude-13-7350-ultra-7-164u-32gb-1tb-tablet/
 https://mojitech.net/shop/brands/dell-brands/dell-latitude-3420-core-i5-14-8gb/
 https://mojitech.net/shop/brands/dell-brands/dell-latitude-3420-core-i7-14-8gb/
 https://mojitech.net/shop/brands/dell-brands/dell-latitude-5320-2-in-1-core-i7-1185g7-touch-laptop/
@@ -759,8 +751,6 @@ https://mojitech.net/shop/brands/dell-brands/dell-latitude-5440-210-bfzv-i7/
 https://mojitech.net/shop/brands/dell-brands/dell-latitude-5440-210-bgbj-i7/
 https://mojitech.net/shop/brands/dell-brands/dell-latitude-5540-laptop-core-i5-512gb-nvme/
 https://mojitech.net/shop/brands/dell-brands/dell-latitude-5550-ultra-7-155u-16gb-512gb-nvme-15-6/
-https://mojitech.net/shop/brands/dell-brands/dell-latitude-7350-2-in-1-ultra-5-134u-touch/
-https://mojitech.net/shop/brands/dell-brands/dell-latitude-7350-ultra-7-164u-32gb-tablet/
 https://mojitech.net/shop/brands/dell-brands/dell-latitude-7450-laptop/
 https://mojitech.net/shop/brands/dell-brands/dell-plus-ld15260-7140blk-pus-ultra-7-255u-laptop/
 https://mojitech.net/shop/brands/dell-brands/dell-vostro-3510-210-azzu-i3/
@@ -1923,7 +1913,6 @@ https://mojitech.net/shop/laptops/lenovo-v15-82c3001nak/
 https://mojitech.net/shop/laptops/lenovo-v15-g3/
 https://mojitech.net/shop/laptops/lenovo-v15-g3iap-core-i3-1215u-8gb-256gb-nvme-15-6-fhd-tax-included/
 https://mojitech.net/shop/laptops/lenovo-v15-g5-irl-laptop-2/
-https://mojitech.net/shop/laptops/lenovo-yoga-tablet-2in1-zag60266us-snapdragon8gen3/
 https://mojitech.net/shop/laptops/lenovo/legion-s7-16iah7-82tf009tdp/
 https://mojitech.net/shop/laptops/lenovo/lenovo-ideapad-1-15iau7-82qd00bsad/
 https://mojitech.net/shop/laptops/lenovo/lenovo-ideapad-1-15iau7-82qd00gnus/
@@ -1955,7 +1944,6 @@ https://mojitech.net/shop/laptops/microsoft-surface-pro-8/
 https://mojitech.net/shop/laptops/microsoft-surface-pro-9-2/
 https://mojitech.net/shop/laptops/microsoft-surface-pro-9-3/
 https://mojitech.net/shop/laptops/microsoft-surface-pro-9-vq1-0001-seller-lebanon/
-https://mojitech.net/shop/laptops/msi-claw-aim-229us-intel-arc-7-120hz/
 https://mojitech.net/shop/laptops/msi-crosshair-16-e14wgk-038us-i9-14900hx-rtx-5070-16gb-512gb/
 https://mojitech.net/shop/laptops/msi-crosshair-16-hx-d14vgkg-057us/
 https://mojitech.net/shop/laptops/msi-crosshair-16-max-9s7-26532-028-ultra-9-rtx-5070-32gb-1tb/
@@ -2682,7 +2670,6 @@ https://technomediatrade.com/product/acer-nitro-lite-i7-13620h-16gb-512gb-nvme-r
 https://technomediatrade.com/product/acer-nitro-v15-anv15-52-778v-i7-13620h-16gb-512gb-nvme-15-6-inch-165hz-rtx-5050-8gb-w11/
 https://technomediatrade.com/product/acer-predator-helios-neo-18-ai-ultra-9-275hx-32gb-2tb-nvme-18-inch-240hz-rtx5070ti-12gb/
 https://technomediatrade.com/product/alienware-16-aura-rtx-5050-gaming-laptop-lebanon/
-https://technomediatrade.com/product/apple-ipad-air-mv6t3ll-13-inch-m2-wi-fi-cellular-8gb-ram-128gb-ssd-starlight/
 https://technomediatrade.com/product/apple-macbook-pro-a1398-15-inch-i7-16gb-256gb-ssd/
 https://technomediatrade.com/product/asus-expertbook-b3-qualcomm-snapdragon-gen-2-4gb-128gb-nvme-10-5-inch-wuxga-ts-windows-11/
 https://technomediatrade.com/product/asus-rog-flow-z13-90nrojy1-m006z0-ryzen-ai-max-395-64gb-ob-1tb-13-4-inch-2-5k-180hz-touchscreen-windows-11/
@@ -2764,7 +2751,6 @@ https://www.dslr-zone.com/product/apple-macbook-pro-12/
 https://www.dslr-zone.com/product/apple-macbook-pro-14-m5-chip/
 https://www.dslr-zone.com/product/apple-macbook-pro-16-m5-max-chip-36gb/
 https://www.dslr-zone.com/product/asus-proart-pz13-ht5306-snapdragon-x-plus-16gb-ram-1tb-ssd-adreno-gpu/
-https://www.dslr-zone.com/product/asus-rog-flow-z13-2025-gaming-tablet-ryzen-ai-max-395-32gb-ram-1tb-ssd-amd-radeon-8060s-13-4-2-5k-180hz-touch/
 https://www.dslr-zone.com/product/asus-rog-flow-z13-detachable-touchscreen-gaming-laptop-amd-ryzen-ai-max-395-64gb-ram-1tb-ssd-amd-radeon-8060s/
 https://www.dslr-zone.com/product/asus-rog-strix-18-volt-green-gaming-laptop-core-ultra-9-32gb-ram-2tb-ssd-rtx-5070-ti-12gb-18-2-5k-240hz-2-year-warranty/
 https://www.dslr-zone.com/product/asus-rog-strix-g16-2025-g614pp-ryzen-9-8940hx-16gb-ram-1tb-ssd-rtx-5070-8gb/
@@ -2800,7 +2786,6 @@ https://www.dslr-zone.com/product/dell-inspiron-16-5640-core-7-150u-32gb-ram-1tb
 https://www.dslr-zone.com/product/dell-inspiron-plus-16-7640-intel-core-ultra-9-288v-32gb-lpddr5x-1tb-ssd-16-fhd-touch-intel-arc-copilot-pc-ice-blue/
 https://www.dslr-zone.com/product/dell-laptop-latitude-7400/
 https://www.dslr-zone.com/product/dell-latitude-5420-rugged-core-i5-8350u-14-field-laptop-quality-used-laptop/
-https://www.dslr-zone.com/product/dell-latitude-7030-rugged-extreme-intel-core-i5-1240u-10-1-outdoor-touch-tablet/
 https://www.dslr-zone.com/product/dell-latitude-7350-2-in-1-intel-core-ultra-5-135u-13-3-touch-convertible/
 https://www.dslr-zone.com/product/dell-latitude-9420-intel-core-i7-1185g7-14-qhd-touch-business-laptop-quality-used-laptop/
 https://www.dslr-zone.com/product/dell-latitude-9440-2-in-1-intel-core-i5-1345u-14-qhd-touch-convertible-quality-used-laptop/

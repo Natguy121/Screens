@@ -110,11 +110,6 @@ Mojitech,Acer,Predator Triton 14,Intel Core i7-13700H,RTX 4050,16GB,512GB SSD,"1
 Mojitech,Acer,Predator Triton Neo 16,Intel Ultra 9 185H,RTX 4070,32GB,1TB SSD,"16""",,New,https://mojitech.net/shop/brands/acer-brands/acer-predator-triton-neo-16-ptn16-51-932n/,1
 Mojitech,Acer,SWIFT GO 16 SFG16-A71T-R87F NXJY5AA.001,AMD Ryzen AI 9 465,Integrated AMD Radeon,32GB,1TB SSD,"16"" touch",1339,New,https://mojitech.net/shop/brands/acer-brands/acer-swift-go-16-ai-ryzen-ai-9/,1
 Mojitech,Aspire,Go 15,Intel Core i5-1334U,Integrated,8GB,256GB SSD,,484,New,https://mojitech.net/shop/brands/acer-brands/aspire-go-15-ag15-51p-510u-laptop/,1
-Mojitech,Apple,"iPad Air 11""",Apple M3,Apple GPU,128GB,128GB SSD,"11""",,New,https://mojitech.net/shop/brands/apple-brands/apple-ipad-air-11-m3-128gb/,1
-Mojitech,Apple,iPad Pro,Apple M4,Apple GPU,,512GB SSD,"11""",1214,New,https://mojitech.net/shop/brands/apple-brands/apple-ipad-pro-m4-11-inch-512gb-tablet/,1
-Mojitech,Apple,iPad Pro,Apple M4,Apple GPU,8GB,256GB SSD,"13""",1209,New,https://mojitech.net/shop/brands/apple-brands/apple-ipad-pro-m4-13-inch-256gb/,1
-Mojitech,Apple,iPad Pro,Apple M5,Apple GPU,12GB,256GB SSD,"13""",1384,New,https://mojitech.net/shop/brands/apple-brands/apple-ipad-pro-m5-13-inch-256gb-cellular/,1
-Mojitech,Apple,iPad Pro,Apple M5,Apple GPU,8GB,512GB SSD,"11""",1314,New,https://mojitech.net/shop/brands/apple-brands/apple-ipad-pro-m5-512gb-11/,1
 Mojitech,Apple,M5 MDHA4HN/A,Apple M5,Apple GPU,16GB,512GB SSD,"13.6""",1455,New,https://mojitech.net/shop/brands/apple-brands/apple-m5-16gb-512gb-13-6-inch/,1
 Mojitech,Apple,MacBook Air M5,Apple M5,Apple GPU,24GB,1TB SSD,"13.6""",,New,https://mojitech.net/shop/brands/apple-brands/apple-macbook-air-13-m5/,1
 Mojitech,Apple,MacBook M5,Apple M5,Apple GPU,16GB,512GB SSD,"15.3""",1475,New,https://mojitech.net/shop/brands/apple-brands/apple-macbook-air-15-m5-10core-10gpu/,1
@@ -171,8 +166,6 @@ Mojitech,Apple,MacBook Pro MX2H3,Apple M4 Pro,Apple GPU,24GB,512GB SSD,"14""",19
 Mojitech,Apple,MacBook Pro MX2J3,Apple M4 Pro,Apple GPU,24GB,1TB SSD,"14""",,New,https://mojitech.net/shop/brands/apple-brands/apple-macbook-pro-mx2j3/,1
 Mojitech,Apple,MacBook Pro MX2K3,Apple M4 Max,Apple GPU,36GB,1TB SSD,"14""",2969,New,https://mojitech.net/shop/brands/apple-brands/apple-macbook-pro-mx2k3/,1
 Mojitech,Apple,MacBook Pro MX2Y3,Apple M4 Pro,Apple GPU,48GB,512GB SSD,"16""",2709,New,https://mojitech.net/shop/brands/apple-brands/apple-macbook-pro-mx2y3/,1
-Mojitech,Apple,Watch Series,Intel Ultra 3,Integrated,,4GB SSD,,700,New,https://mojitech.net/shop/brands/apple-brands/apple-watch-ultra-3-49mm-titanium-smartwatch/,1
-Mojitech,Apple,"iPad Air 11""",Apple M3,Apple GPU,,256GB SSD,"11""",864,New,https://mojitech.net/shop/brands/apple-brands/ipad-air-m3-wifi-256gb/,1
 Mojitech,Apple,MacBook Air,Apple M5,Apple GPU,24GB,512GB SSD,"14""",1769,New,https://mojitech.net/shop/brands/apple-brands/macbook-air-m5-24gb-512gb-14-inch/,1
 Mojitech,Apple,MacBook Air MRXP3,Apple M3,Apple GPU,8GB,512GB SSD,"13.6""",,New,https://mojitech.net/shop/brands/apple-brands/macbook-air-mrxp3/,1
 Mojitech,Apple,MacBook Pro M4 Pro MAX 16-,Apple M4 Pro,Apple GPU,128GB,4TB SSD,"16.2""",,New,https://mojitech.net/shop/brands/apple-brands/macbook-pro-m4-max-16-4tb-128gb/,1
@@ -303,9 +296,8 @@ Mojitech,Dell,Alienware M18 R2,Intel Core i9-14900HX,RTX 4080,32GB,1TB SSD,"18""
 Mojitech,Dell,Alienware M18 R2,Intel Core i9-14900HX,RTX 4090,64GB,4TB SSD,"18""",,New,https://mojitech.net/shop/brands/dell-brands/dell-alienware-m18-r2-gaming-ins0170059-r0023109-sa/,1
 Mojitech,Dell,Alienware M18 R2,Intel Core i9-14900HX,RTX 4090,64GB,2TB SSD,"18""",,New,https://mojitech.net/shop/brands/dell-brands/dell-alienware-m18-r2-gaming-useashbtsm18r2hctz/,1
 Mojitech,Dell,Alienware X14 R2,Intel Core i7-13620H,RTX 4050,16GB,512GB SSD,"14""",,New,https://mojitech.net/shop/brands/dell-brands/dell-alienware-x14-r2-awx14-r2/,1
-Mojitech,Dell,Inspiron 15 5535,AMD Ryzen 7 7730U,Integrated AMD Radeon,16GB,6GB SSD,"15.6""",575,New,https://mojitech.net/shop/brands/dell-brands/dell-inspiron-15-5535/,1
+Mojitech,Dell,Inspiron 15 5535,AMD Ryzen 7 7730U,Integrated AMD Radeon,16GB,,"15.6""",575,New,https://mojitech.net/shop/brands/dell-brands/dell-inspiron-15-5535/,1
 Mojitech,Dell,Inspiron 7430-7374,Intel Core i7-1355U,Integrated,16GB,1TB SSD,"14""",,New,https://mojitech.net/shop/brands/dell-brands/dell-inspiron-7430-7374-i7430-7374slv-pus-lebanon/,1
-Mojitech,Dell,Latitude 13 7350 TABLET LAT0174259-R0028822-SA,Intel Ultra 7 164U,Integrated,32GB,1TB SSD,"13"" touch",1289,New,https://mojitech.net/shop/brands/dell-brands/dell-latitude-13-7350-ultra-7-164u-32gb-1tb-tablet/,1
 Mojitech,Dell,Latitude 3420/210-AYNJ-,Intel Core i5,Integrated,8GB,256GB SSD,"14""",675,New,https://mojitech.net/shop/brands/dell-brands/dell-latitude-3420-core-i5-14-8gb/,1
 Mojitech,Dell,Latitude 3420/210-AYVW-,Intel Core i7,GeForce MX330,8GB,512GB SSD,"14""",660,New,https://mojitech.net/shop/brands/dell-brands/dell-latitude-3420-core-i7-14-8gb/,1
 Mojitech,Dell,Latitude 5320 2-in-1 DE5320I7-11TH-32-512-T,Intel Core i7,Integrated,32GB,512GB SSD,"13.3"" touch",539,New,https://mojitech.net/shop/brands/dell-brands/dell-latitude-5320-2-in-1-core-i7-1185g7-touch-laptop/,1
@@ -314,8 +306,6 @@ Mojitech,Dell,Latitude 5440,Intel Core i7-1355U,Integrated,16GB,512GB SSD,"14"""
 Mojitech,Dell,Latitude 5440,Intel Core i7-1355U,Integrated,16GB,512GB SSD,"15.6""",1224,New,https://mojitech.net/shop/brands/dell-brands/dell-latitude-5440-210-bgbj-i7/,1
 Mojitech,Dell,Latitude 5540,Intel Core i5-1335U,Integrated,8GB,512GB SSD,"15.6""",649,New,https://mojitech.net/shop/brands/dell-brands/dell-latitude-5540-laptop-core-i5-512gb-nvme/,1
 Mojitech,Dell,Latitude 5550,Intel Ultra 7 155U,Integrated,16GB,512GB SSD,"15.6""",,New,https://mojitech.net/shop/brands/dell-brands/dell-latitude-5550-ultra-7-155u-16gb-512gb-nvme-15-6/,1
-Mojitech,Dell,Latitude TABLET 7350 2-IN-1 Touchscreen LAT0174113-R0026098-SA,Intel Ultra 5 134U,Integrated,16GB,256GB SSD,"13.3"" touch",739,New,https://mojitech.net/shop/brands/dell-brands/dell-latitude-7350-2-in-1-ultra-5-134u-touch/,1
-Mojitech,Dell,Latitude 7350 TABLET LAT0180418-R0026098-SA,Intel Ultra 7 164U,Integrated,32GB,512GB SSD,"13.3"" touch",,New,https://mojitech.net/shop/brands/dell-brands/dell-latitude-7350-ultra-7-164u-32gb-tablet/,1
 Mojitech,Dell,Dell Latitude 7450,Intel Ultra 7 165U,Integrated Intel Arc,16GB,256GB SSD,,1199,New,https://mojitech.net/shop/brands/dell-brands/dell-latitude-7450-laptop/,1
 Mojitech,Dell,PLUS LD15260-7140BLK-PUS,Intel Ultra 7 255U,Integrated,16GB,1TB SSD,"15.6"" touch",,New,https://mojitech.net/shop/brands/dell-brands/dell-plus-ld15260-7140blk-pus-ultra-7-255u-laptop/,1
 Mojitech,Dell,Vostro 3510,Intel Core i3,Integrated,4GB,1TB HDD,"15.6""",309,New,https://mojitech.net/shop/brands/dell-brands/dell-vostro-3510-210-azzu-i3/,1
@@ -324,9 +314,9 @@ Mojitech,Dell,Vostro 3910,Intel Core i5-12400,Integrated,4GB,1TB HDD,,,New,https
 Mojitech,Dell,Vostro 3910 DT,Intel Core i3-12100,Integrated,8GB,256GB SSD,,,New,https://mojitech.net/shop/brands/dell-brands/dell-vostro-3910-dt-210-bcud-i3/,1
 Mojitech,Dell,Inspiron 14 7374SLV,Intel Core i7-1355U,Integrated,16GB,1TB SSD,"14""",859,New,https://mojitech.net/shop/brands/dell-inspiron-14-7374slv-core-i7-1355u-16gb-1tb-nvme-14-1-year-warranty-tax-included/,1
 Mojitech,HP,15-FD0061NE,Intel Core i7-1355U,GeForce MX570,8GB,512GB SSD,"15.6""",630,New,https://mojitech.net/shop/brands/hp-brands/hp-15-fd0061ne-core-i7-1355u-8gb-512gb-nvme-15-6/,1
-Mojitech,HP,15-FD0357NR,Intel Core i7-1355U,Integrated,12GB,2GB SSD,"15.6""",638,New,https://mojitech.net/shop/brands/hp-brands/hp-15-fd0357nr-laptop-core-i7-1355u-touch/,1
+Mojitech,HP,15-FD0357NR,Intel Core i7-1355U,Integrated,12GB,,"15.6""",638,New,https://mojitech.net/shop/brands/hp-brands/hp-15-fd0357nr-laptop-core-i7-1355u-touch/,1
 Mojitech,HP,15S-FQ5020NIA,Intel Core i7-1255U,Integrated,16GB,512GB SSD,"15.6""",606,New,https://mojitech.net/shop/brands/hp-brands/hp-15s-fq5020nia-laptop-core-i7-1255u/,1
-Mojitech,HP,15-FD316NE,Intel Core i3-1315U,Integrated,8GB,8GB SSD,"15.6""",435,New,https://mojitech.net/shop/brands/hp-brands/hp-250-g10-core-i3-1315u-8gb-512gb-15-6/,1
+Mojitech,HP,15-FD316NE,Intel Core i3-1315U,Integrated,8GB,512GB SSD,"15.6""",435,New,https://mojitech.net/shop/brands/hp-brands/hp-250-g10-core-i3-1315u-8gb-512gb-15-6/,1
 Mojitech,HP,250 G10 725G5EA,Intel Core i5-1335U,Integrated,8GB,512GB SSD,"15.6""",535,New,https://mojitech.net/shop/brands/hp-brands/hp-250-g10-laptop-core-i5-512gb-nvme-ssd/,1
 Mojitech,HP,EliteBook 1040 G11,Intel Ultra 7 165U,Integrated Intel Arc,32GB,512GB SSD,"14""",,New,https://mojitech.net/shop/brands/hp-brands/hp-elitebook-1040-g11/,1
 Mojitech,HP,EliteBook 6 G1i,Intel Ultra 7 255U,Integrated,16GB,1TB SSD,"16""",,New,https://mojitech.net/shop/brands/hp-brands/hp-elitebook-6-g1i-av3z0av/,1
@@ -403,12 +393,12 @@ Mojitech,HP,ZBook,AMD Ryzen AI Max+ 390,Integrated AMD Radeon,64GB,4TB SSD,"14""
 Mojitech,HP,ZBook,AMD Ryzen AI Max+ 390,Integrated AMD Radeon,64GB,4TB SSD,"14""",3989,New,https://mojitech.net/shop/brands/hp-brands/hp-zbook-ultra-g1-ryzen-ai-max-pro-390-64gb/,1
 Mojitech,HP,ZBook X G1 Mobile Workstation C54BMUSR#ABA,Intel Ultra 7 265H,Integrated,32GB,1TB SSD,"16""",1989,New,https://mojitech.net/shop/brands/hp-brands/hp-zbook-x-g1-ultra-7-265h-rtx-pro-1000/,1
 Mojitech,HP,Victus,Intel Core i7-13700H,RTX 4050 6GB,16GB,512GB SSD,"16""",1169,New,https://mojitech.net/shop/brands/hp-brands/victus-gaming-laptop-16-r0002ne-822w2ea/,1
-Mojitech,ASUS,ROG STRIX G18 G815JPR-IS96,Intel Core i9-14900HX,RTX 5070,32GB,2GB SSD,"18""",2289,New,https://mojitech.net/shop/brands/lenovo-brands/asus-rog-strix-g18-g815jpr-is96/,1
+Mojitech,ASUS,ROG STRIX G18 G815JPR-IS96,Intel Core i9-14900HX,RTX 5070,32GB,,"18""",2289,New,https://mojitech.net/shop/brands/lenovo-brands/asus-rog-strix-g18-g815jpr-is96/,1
 Mojitech,HP,ProBook 4 G1i,Intel Ultra 5 120U,Integrated,8GB,512GB SSD,"16""",,New,https://mojitech.net/shop/brands/lenovo-brands/hp-probook-4-g1i-ultra-5-120u-16/,1
 Mojitech,Lenovo,IdeaPad 1 15IAU7,Intel Core i7-1255U,Integrated,8GB,512GB SSD,"15.6""",540,New,https://mojitech.net/shop/brands/lenovo-brands/ideapad-1-15iau7-82qd00dgfe/,1
 Mojitech,Lenovo,IdeaPad 3 15IAU7,Intel Core i7-1255U,Integrated,8GB,512GB SSD,"15.6""",534,New,https://mojitech.net/shop/brands/lenovo-brands/ideapad-3-15iau7-82rk00g0ue/,1
 Mojitech,Lenovo,IdeaPad 5 15IAL7,Intel Core i7-1255U,Integrated,8GB,512GB SSD,"15.6""",,New,https://mojitech.net/shop/brands/lenovo-brands/ideapad-5-15ial7-82sf000mus/,1
-Mojitech,Lenovo,IdeaPad Duet 3 10IGL5,Intel Celeron,Integrated,4GB,4GB SSD,"10.3""",278,New,https://mojitech.net/shop/brands/lenovo-brands/ideapad-duet-3-10igl5-82at003ted/,1
+Mojitech,Lenovo,IdeaPad Duet 3 10IGL5,Intel Celeron,Integrated,4GB,,"10.3""",278,New,https://mojitech.net/shop/brands/lenovo-brands/ideapad-duet-3-10igl5-82at003ted/,1
 Mojitech,Lenovo,IdeaPad Slim 3 15IAH8,Intel Core i5-12450H,Integrated,8GB,512GB SSD,"15.6""",,New,https://mojitech.net/shop/brands/lenovo-brands/ideapad-slim-3-15iah8-83er007sdp/,1
 Mojitech,Lenovo,IdeaPad Slim 3 15IAH8,Intel Core i5-12450H,Integrated,16GB,512GB SSD,"15.6""",,New,https://mojitech.net/shop/brands/lenovo-brands/ideapad-slim-3-15iah8-83er00bkin/,1
 Mojitech,Lenovo,IdeaPad Slim 3 15IRU8,Intel Core i7-1355U,Integrated,16GB,512GB SSD,"15.6""",,New,https://mojitech.net/shop/brands/lenovo-brands/ideapad-slim-3-15iru8-82x7008hdp/,1
@@ -418,8 +408,8 @@ Mojitech,Lenovo,Legion 5 Pro 16ARH7H,AMD Ryzen 7 6800H,RTX 3060,16GB,1TB SSD,"16
 Mojitech,Lenovo,Legion 7 16ACHg6,AMD Ryzen 7 5800H,RTX 3080,16GB,1TB SSD,"16""",,New,https://mojitech.net/shop/brands/lenovo-brands/legion-7-16achg6-82n600d4ed/,1
 Mojitech,Lenovo,Legion Pro 5 16IRX8,Intel Core i9-13900HX,RTX 4070 8GB,16GB,1TB SSD,"16""",1640,New,https://mojitech.net/shop/brands/lenovo-brands/legion-pro-5-16irx8-82wk008hus/,1
 Mojitech,Lenovo,Legion Pro 5 16IRX9,Intel Core i9-14900HX,RTX 4070,32GB,1TB SSD,"16""",,New,https://mojitech.net/shop/brands/lenovo-brands/legion-pro-5-16irx9-83df00apus/,1
-Mojitech,Lenovo,Legion Pro 7i Gen 10,Intel Ultra 9 275HX,RTX 5090 24GB,32GB,2GB SSD,"16""",4065,New,https://mojitech.net/shop/brands/lenovo-brands/legion-pro-7i-gen-10-83f5cto1ww/,1
-Mojitech,Lenovo,Legion Pro 7i Gen 10,Intel Ultra 9 275HX,RTX 5090,32GB,2GB SSD,"16""",3769,New,https://mojitech.net/shop/brands/lenovo-brands/legion-pro-7i-gen-10-ultra-9-275hx-rtx-5090-32gb-1tb-16/,1
+Mojitech,Lenovo,Legion Pro 7i Gen 10,Intel Ultra 9 275HX,RTX 5090 24GB,32GB,,"16""",4065,New,https://mojitech.net/shop/brands/lenovo-brands/legion-pro-7i-gen-10-83f5cto1ww/,1
+Mojitech,Lenovo,Legion Pro 7i Gen 10,Intel Ultra 9 275HX,RTX 5090,32GB,1TB SSD,"16""",3769,New,https://mojitech.net/shop/brands/lenovo-brands/legion-pro-7i-gen-10-ultra-9-275hx-rtx-5090-32gb-1tb-16/,1
 Mojitech,Lenovo,Legion S7 15ACH6,AMD Ryzen 7 5800H,RTX 3060,16GB,1TB SSD,"15.6""",1099,New,https://mojitech.net/shop/brands/lenovo-brands/legion-s7-15ach6-82k800djed/,1
 Mojitech,Lenovo,Flex 5 82HU00ASAX,AMD Ryzen 3 5300U,Integrated AMD Radeon,8GB,256GB SSD,"14""",573,New,https://mojitech.net/shop/brands/lenovo-brands/lenovo-flex-5-82hu00asax-ryzen-3-5300u-4gb-256gb/,1
 Mojitech,Lenovo,IdeaPad 1 15ALC7,AMD Ryzen 7 5700U,Integrated AMD Radeon,8GB,512GB SSD,"15.6""",,New,https://mojitech.net/shop/brands/lenovo-brands/lenovo-ideapad-1-15alc7-82r400dtus/,1
@@ -480,14 +470,14 @@ Mojitech,Lenovo,IdeaPad Slim 5 16IMH9,Intel Core 7 155H,Integrated,16GB,512GB SS
 Mojitech,Lenovo,IdeaPad Slim 5 16IRH10R,Intel Core 7 240H,Integrated,16GB,1TB SSD,"16""",,New,https://mojitech.net/shop/brands/lenovo-brands/lenovo-ideapad-slim-5-16irh10r-83j1002kus/,1
 Mojitech,Lenovo,IdeaPad Slim 5 16IRU9,Intel Core 7 150U,Integrated,16GB,1TB SSD,"16""",,New,https://mojitech.net/shop/brands/lenovo-brands/lenovo-ideapad-slim-5-16iru9-83fw0001us/,1
 Mojitech,Lenovo,IP1 15AMN7 82VG00WXUS,AMD Ryzen 5 7520U,Integrated AMD Radeon,8GB,256GB SSD,"15.6""",,New,https://mojitech.net/shop/brands/lenovo-brands/lenovo-ip1-15amn7-82vg00wxus-ryzen-5-laptop/,1
-Mojitech,Lenovo,Legion 5 15IAX10,Intel Ultra 7 255HX,RTX 5070 8GB,16GB,6GB SSD,"15.1""",1569,New,https://mojitech.net/shop/brands/lenovo-brands/lenovo-legion-5-15iax10-83f00006us/,1
-Mojitech,Lenovo,Legion 5 15IAX10,Intel Ultra 9 275HX,RTX 5070 8GB,16GB,6GB SSD,"15.1""",1795,New,https://mojitech.net/shop/brands/lenovo-brands/lenovo-legion-5-15iax10-83f0001tus/,1
+Mojitech,Lenovo,Legion 5 15IAX10,Intel Ultra 7 255HX,RTX 5070 8GB,16GB,,"15.1""",1569,New,https://mojitech.net/shop/brands/lenovo-brands/lenovo-legion-5-15iax10-83f00006us/,1
+Mojitech,Lenovo,Legion 5 15IAX10,Intel Ultra 9 275HX,RTX 5070 8GB,16GB,,"15.1""",1795,New,https://mojitech.net/shop/brands/lenovo-brands/lenovo-legion-5-15iax10-83f0001tus/,1
 Mojitech,Lenovo,Legion 5 15IAX10 83F00005US,Intel Ultra 7 255HX,RTX 5060 8GB,16GB,512GB SSD,"15.1"" OLED",,New,https://mojitech.net/shop/brands/lenovo-brands/lenovo-legion-5-15iax10-rtx-5060-oled/,1
-Mojitech,Lenovo,Legion 5 15IRX10,Intel Core i9-14900HX,RTX 5070 8GB,16GB,6GB SSD,"15.1""",1789,New,https://mojitech.net/shop/brands/lenovo-brands/lenovo-legion-5-15irx10-83ly0007us/,1
+Mojitech,Lenovo,Legion 5 15IRX10,Intel Core i9-14900HX,RTX 5070 8GB,16GB,,"15.1""",1789,New,https://mojitech.net/shop/brands/lenovo-brands/lenovo-legion-5-15irx10-83ly0007us/,1
 Mojitech,Lenovo,Legion 5 15IRX10,Intel Core i9-14900HX,RTX 5070,32GB,1TB SSD,"15.1""",,New,https://mojitech.net/shop/brands/lenovo-brands/lenovo-legion-5-15irx10-83ly0077ps/,1
 Mojitech,Lenovo,Legion 5 83LY00MUPS,Intel Core i7-13650HX,RTX 5060 8GB,16GB,1TB SSD,"15.3""",1513,New,https://mojitech.net/shop/brands/lenovo-brands/lenovo-legion-5-15irx10-83ly00mups/,1
 Mojitech,Lenovo,Legion 5 83LY00QNPS,Intel Core i7-13650HX,RTX 5050 8GB,16GB,1TB SSD,"15.3""",1383,New,https://mojitech.net/shop/brands/lenovo-brands/lenovo-legion-5-15irx10-83ly00qnps/,1
-Mojitech,Lenovo,Legion 5 15IRX10,Intel Core i9-14900HX,RTX 5070 8GB,16GB,6GB SSD,"15.1"" OLED",1895,New,https://mojitech.net/shop/brands/lenovo-brands/lenovo-legion-5-15irx10-core-i9-rtx-5070/,1
+Mojitech,Lenovo,Legion 5 15IRX10,Intel Core i9-14900HX,RTX 5070 8GB,16GB,,"15.1"" OLED",1895,New,https://mojitech.net/shop/brands/lenovo-brands/lenovo-legion-5-15irx10-core-i9-rtx-5070/,1
 Mojitech,Lenovo,Legion 5 15IRX10 83LYX003US,Intel Core i9-14900HX,RTX 5070,16GB,1TB SSD,"15.1"" OLED",,New,https://mojitech.net/shop/brands/lenovo-brands/lenovo-legion-5-15irx10-i9-rtx-5070-oled/,1
 Mojitech,Lenovo,Legion 5 16IRX9,Intel Core i9-14900HX,RTX 4070,32GB,1TB SSD,"16""",,New,https://mojitech.net/shop/brands/lenovo-brands/lenovo-legion-5-16irx9-83dg004eus/,1
 Mojitech,Lenovo,Legion 5 16IRX9,Intel Core i9-14900HX,RTX 4070,32GB,1TB SSD,"16""",,New,https://mojitech.net/shop/brands/lenovo-brands/lenovo-legion-5-16irx9-83dg005wus/,1
@@ -499,18 +489,18 @@ Mojitech,Lenovo,Legion 5 83LY00LQDP,Intel Core i7-13650HX,RTX 5050,16GB,512GB SS
 Mojitech,Lenovo,LEGION 5 83Q6003BUS,AMD Ryzen AI 9 465,RTX 5070 12GB,32GB,1TB SSD,"15.3"" OLED",2839,New,https://mojitech.net/shop/brands/lenovo-brands/lenovo-legion-5-83q6003bus-rtx-5070-laptop/,1
 Mojitech,Lenovo,Legion 5 15IRX10 83LY00N9AX,Intel Core i9-14900HX,RTX 5070 8GB,32GB,1TB SSD,"15.1"" OLED",2188,New,https://mojitech.net/shop/brands/lenovo-brands/lenovo-legion-5-gaming-laptop-i9-rtx-5070-oled/,1
 Mojitech,Lenovo,LEGION 5-83Q70003US,AMD Ryzen 7 250,RTX 5060,16GB,1TB SSD,"15.6"" OLED",,New,https://mojitech.net/shop/brands/lenovo-brands/lenovo-legion-5a-83q70003us-ryzen-7-rtx-5060/,1
-Mojitech,Lenovo,Legion 5i 15IRX10,Intel Core i7-14700HX,RTX 5060 8GB,16GB,6GB SSD,"15.1"" OLED",1590,New,https://mojitech.net/shop/brands/lenovo-brands/lenovo-legion-5i-15irx10-rtx-5060-83ly0000us/,1
+Mojitech,Lenovo,Legion 5i 15IRX10,Intel Core i7-14700HX,RTX 5060 8GB,16GB,,"15.1"" OLED",1590,New,https://mojitech.net/shop/brands/lenovo-brands/lenovo-legion-5i-15irx10-rtx-5060-83ly0000us/,1
 Mojitech,Lenovo,LEGION 7 16IRX9,Intel Core i9-14900HX,RTX 4070 8GB,32GB,1TB SSD,"16""",1998,New,https://mojitech.net/shop/brands/lenovo-brands/lenovo-legion-7-16irx9-83fd0018us/,1
 Mojitech,Lenovo,LEGION 7 16IRX9,Intel Core i9-14900HX,RTX 4070,32GB,1TB SSD,"16""",,New,https://mojitech.net/shop/brands/lenovo-brands/lenovo-legion-7-16irx9-83fd004bcf/,1
 Mojitech,Lenovo,Legion 9 16IRX9,Intel Core i9-14900HX,RTX 4090,32GB,2TB SSD,"16""",,New,https://mojitech.net/shop/brands/lenovo-brands/lenovo-legion-9-16irx9-83g0001lus-2/,1
 Mojitech,Lenovo,"Legion 9i 18"" Gen 10",Intel Ultra 9 275HX,RTX 5090,64GB,4TB SSD,"18""",,New,https://mojitech.net/shop/brands/lenovo-brands/lenovo-legion-9-18-rtx-5090-gaming-laptop/,1
-Mojitech,Lenovo,Legion 9 18IAX10,Intel Ultra 9 275HX,RTX 5090,24GB,4GB SSD,"18""",4989,New,https://mojitech.net/shop/brands/lenovo-brands/lenovo-legion-9-18iax10-83eyx000r1/,1
+Mojitech,Lenovo,Legion 9 18IAX10,Intel Ultra 9 275HX,RTX 5090,24GB,,"18""",4989,New,https://mojitech.net/shop/brands/lenovo-brands/lenovo-legion-9-18iax10-83eyx000r1/,1
 Mojitech,Lenovo,Legion 9 18IAX10,Intel Ultra 9 275HX,RTX 5090,64GB,4TB SSD,"18""",,New,https://mojitech.net/shop/brands/lenovo-brands/lenovo-legion-9-18iax10/,1
 Mojitech,Lenovo,Lenovo Legion 9i 18IAX10,Intel Ultra 9 275HX,RTX 5090 24GB,64GB,4TB SSD,,,New,https://mojitech.net/shop/brands/lenovo-brands/lenovo-legion-9i-18-rtx-5090-laptop/,1
 Mojitech,Lenovo,Legion Glacier White 7i 83KY0007US,Intel Ultra 7 255HX,RTX 5060 8GB,32GB,1TB SSD,"16""",,New,https://mojitech.net/shop/brands/lenovo-brands/lenovo-legion-glacier-white-7i-83ky0007us/,1
 Mojitech,Lenovo,Legion Pro 16IRX9,Intel Core i9-14900HX,RTX 4070,32GB,2TB SSD,"16""",,New,https://mojitech.net/shop/brands/lenovo-brands/lenovo-legion-pro-16irx9-83df00aqus/,1
 Mojitech,Lenovo,Legion Pro 5 16IAX10H 83LU0006US,Intel Ultra 9 275HX,RTX 5070 Ti,12GB,2TB SSD,,,New,https://mojitech.net/shop/brands/lenovo-brands/lenovo-legion-pro-5-16-2k-240hz-oled-rtx-5070ti/,1
-Mojitech,Lenovo,Legion Pro 5 16ADR10,AMD Ryzen 9 8945HX,RTX 5060 8GB,16GB,6GB SSD,"16""",1462,New,https://mojitech.net/shop/brands/lenovo-brands/lenovo-legion-pro-5-16adr10-ryzen-9-8945hx-rtx-5060-16gb-1tb-16-tax-included/,1
+Mojitech,Lenovo,Legion Pro 5 16ADR10,AMD Ryzen 9 8945HX,RTX 5060 8GB,16GB,1TB SSD,"16""",1462,New,https://mojitech.net/shop/brands/lenovo-brands/lenovo-legion-pro-5-16adr10-ryzen-9-8945hx-rtx-5060-16gb-1tb-16-tax-included/,1
 Mojitech,Lenovo,Legion Pro 5 16AFR10,AMD Ryzen 9 9955HX,RTX 5070,32GB,1TB SSD,"16""",,New,https://mojitech.net/shop/brands/lenovo-brands/lenovo-legion-pro-5-16afr10-83f2002bus/,1
 Mojitech,Lenovo,Legion Pro 5 16IAX10,Intel Ultra 7 255HX,RTX 5070,16GB,512GB SSD,"16""",,New,https://mojitech.net/shop/brands/lenovo-brands/lenovo-legion-pro-5-16iax10-83f3004kdp/,1
 Mojitech,Lenovo,Legion PRO 5 16IAX10 83F3X004US,Intel Ultra 9 275HX,RTX 5070,32GB,2TB SSD,"16"" OLED",,New,https://mojitech.net/shop/brands/lenovo-brands/lenovo-legion-pro-5-16iax10-83f3x004us/,1
@@ -528,17 +518,17 @@ Mojitech,Lenovo,Legion Pro 5 16IRX9,Intel Core i9-14900HX,RTX 4070,32GB,1TB SSD,
 Mojitech,Lenovo,Legion Pro 5 16IRX9,Intel Core i9-14900HX,RTX 4070,32GB,1TB SSD,"16""",,New,https://mojitech.net/shop/brands/lenovo-brands/lenovo-legion-pro-5-83df000cus/,1
 Mojitech,Lenovo,Legion Pro 5 16IRX9,Intel Core i9-14900HX,RTX 4070,32GB,1TB SSD,"16""",,New,https://mojitech.net/shop/brands/lenovo-brands/lenovo-legion-pro-5-83df00fkdp/,1
 Mojitech,Lenovo,Legion Pro 5 16IRX10 83NN001XAX,Intel Core i9-14900HX,RTX 5070 8GB,32GB,1TB SSD,"16""",2099,New,https://mojitech.net/shop/brands/lenovo-brands/lenovo-legion-pro-5-gaming-laptop-i9-rtx-5070/,1
-Mojitech,Lenovo,Legion Pro 7 16IAX10H,Intel Ultra 9 275HX,RTX 5080 16GB,32GB,2GB SSD,"16""",3275,New,https://mojitech.net/shop/brands/lenovo-brands/lenovo-legion-pro-7-16iax10h-83f50014us/,1
-Mojitech,Lenovo,Legion Pro 7 16IAX10H,Intel Ultra 9 275HX,RTX 5090 24GB,32GB,2GB SSD,"16""",3778,New,https://mojitech.net/shop/brands/lenovo-brands/lenovo-legion-pro-7-16iax10h-83f50017us/,1
-Mojitech,Lenovo,Legion Pro 7 16IAX10H,Intel Ultra 9 275HX,RTX 5090 24GB,64GB,4GB SSD,"16""",4445,New,https://mojitech.net/shop/brands/lenovo-brands/lenovo-legion-pro-7-16iax10h-83f5001rus/,1
+Mojitech,Lenovo,Legion Pro 7 16IAX10H,Intel Ultra 9 275HX,RTX 5080 16GB,32GB,,"16""",3275,New,https://mojitech.net/shop/brands/lenovo-brands/lenovo-legion-pro-7-16iax10h-83f50014us/,1
+Mojitech,Lenovo,Legion Pro 7 16IAX10H,Intel Ultra 9 275HX,RTX 5090 24GB,32GB,,"16""",3778,New,https://mojitech.net/shop/brands/lenovo-brands/lenovo-legion-pro-7-16iax10h-83f50017us/,1
+Mojitech,Lenovo,Legion Pro 7 16IAX10H,Intel Ultra 9 275HX,RTX 5090 24GB,64GB,,"16""",4445,New,https://mojitech.net/shop/brands/lenovo-brands/lenovo-legion-pro-7-16iax10h-83f5001rus/,1
 Mojitech,Lenovo,Legion Pro 7 16IAX10H,Intel Ultra 9 275HX,RTX 5080,32GB,2TB SSD,"16""",,New,https://mojitech.net/shop/brands/lenovo-brands/lenovo-legion-pro-7-16iax10h-83f5004yps/,1
-Mojitech,Lenovo,Legion Pro 7 16IAX10H,Intel Ultra 9 275HX,RTX 5090 24GB,64GB,4GB SSD,"16""",4275,New,https://mojitech.net/shop/brands/lenovo-brands/lenovo-legion-pro-7-16iax10h-83f5006gus/,1
+Mojitech,Lenovo,Legion Pro 7 16IAX10H,Intel Ultra 9 275HX,RTX 5090 24GB,64GB,,"16""",4275,New,https://mojitech.net/shop/brands/lenovo-brands/lenovo-legion-pro-7-16iax10h-83f5006gus/,1
 Mojitech,Lenovo,Legion Pro 7 16IAX10H,Intel Ultra 9 275HX,RTX 5080,64GB,2TB SSD,"16""",,New,https://mojitech.net/shop/brands/lenovo-brands/lenovo-legion-pro-7-16iax10h-83f5006hus/,1
 Mojitech,Lenovo,Legion Pro 7 16IAX10H 83F5008NAX,Intel Ultra 9 275HX,RTX 5070 Ti 12GB,32GB,2TB SSD,"16"" OLED",3174,New,https://mojitech.net/shop/brands/lenovo-brands/lenovo-legion-pro-7-16iax10h-83f5008nax/,1
-Mojitech,Lenovo,Legion Pro 7 16IAX10H,Intel Ultra 9 275HX,RTX 5080 24GB,32GB,2GB SSD,"16""",3189,New,https://mojitech.net/shop/brands/lenovo-brands/lenovo-legion-pro-7-16iax10h-83f500e8dp/,1
-Mojitech,Lenovo,Legion Pro 7 16IAX10H,Intel Ultra 9 275HX,RTX 5090 24GB,32GB,2GB SSD,"16""",3969,New,https://mojitech.net/shop/brands/lenovo-brands/lenovo-legion-pro-7-16iax10h-83f500e9dp/,1
-Mojitech,Lenovo,Legion PRO 7 16IAX10H GAMING 83F50050PS,Intel Ultra 9 275HX,RTX 5080 16GB,64GB,4GB SSD,"16"" OLED",4139,New,https://mojitech.net/shop/brands/lenovo-brands/lenovo-legion-pro-7-16iax10h-ultra-9-rtx-5080-64gb/,1
-Mojitech,Lenovo,Legion PRO 7 16IAX10H GAMING 83F50012US,Intel Ultra 9 275HX,RTX 5080 16GB,32GB,2GB SSD,"16"" OLED",3289,New,https://mojitech.net/shop/brands/lenovo-brands/lenovo-legion-pro-7-16iax10h-ultra-9-rtx-5080/,1
+Mojitech,Lenovo,Legion Pro 7 16IAX10H,Intel Ultra 9 275HX,RTX 5080 24GB,32GB,,"16""",3189,New,https://mojitech.net/shop/brands/lenovo-brands/lenovo-legion-pro-7-16iax10h-83f500e8dp/,1
+Mojitech,Lenovo,Legion Pro 7 16IAX10H,Intel Ultra 9 275HX,RTX 5090 24GB,32GB,,"16""",3969,New,https://mojitech.net/shop/brands/lenovo-brands/lenovo-legion-pro-7-16iax10h-83f500e9dp/,1
+Mojitech,Lenovo,Legion PRO 7 16IAX10H GAMING 83F50050PS,Intel Ultra 9 275HX,RTX 5080 16GB,64GB,,"16"" OLED",4139,New,https://mojitech.net/shop/brands/lenovo-brands/lenovo-legion-pro-7-16iax10h-ultra-9-rtx-5080-64gb/,1
+Mojitech,Lenovo,Legion PRO 7 16IAX10H GAMING 83F50012US,Intel Ultra 9 275HX,RTX 5080 16GB,32GB,,"16"" OLED",3289,New,https://mojitech.net/shop/brands/lenovo-brands/lenovo-legion-pro-7-16iax10h-ultra-9-rtx-5080/,1
 Mojitech,Lenovo,Legion PRO 7 16IAX10H GAMING 83F5008LAX,Intel Ultra 9 275HX,RTX 5090,64GB,2TB SSD,"16"" OLED",,New,https://mojitech.net/shop/brands/lenovo-brands/lenovo-legion-pro-7-16iax10h-ultra-9-rtx-5090-64gb/,1
 Mojitech,Lenovo,LEGION Pro 7 16IRX8H,Intel Core i9-13900HX,RTX 4080 12GB,32GB,2TB SSD,"16""",2099,New,https://mojitech.net/shop/brands/lenovo-brands/lenovo-legion-pro-7-16irx8h-82wq0065us/,1
 Mojitech,Lenovo,LEGION Pro 7 16IRX8H,Intel Core i9-13900HX,RTX 4080,32GB,2TB SSD,"16""",,New,https://mojitech.net/shop/brands/lenovo-brands/lenovo-legion-pro-7-16irx8h-core-i9-13900hx-rtx-4080-32gb-2tb-ssd-16/,1
@@ -717,7 +707,7 @@ Mojitech,Lenovo,ThinkPad T14S 2 in 1,Intel Ultra 7 268V,Integrated,32GB,1TB SSD,
 Mojitech,Lenovo,ThinkPad T14s Gen 5,Intel Ultra 7 155U,Integrated,16GB,1TB SSD,"14""",1689,New,https://mojitech.net/shop/brands/lenovo-brands/lenovo-thinkpad-t14s-21ls000jed/,1
 Mojitech,Lenovo,ThinkPad T14s Gen 5,Intel Ultra 7 155U,Integrated,32GB,1TB SSD,"14""",,New,https://mojitech.net/shop/brands/lenovo-brands/lenovo-thinkpad-t14s-21ls000ked/,1
 Mojitech,Lenovo,ThinkPad T14s Gen 5,Intel Ultra 7 165H,Integrated,32GB,1TB SSD,"14""",,New,https://mojitech.net/shop/brands/lenovo-brands/lenovo-thinkpad-t14s-21ls0074ed/,1
-Mojitech,Lenovo,ThinkPad T14s Gen 4,Intel Core i7-1355U,Integrated,16GB,6GB SSD,"14""",1297,New,https://mojitech.net/shop/brands/lenovo-brands/lenovo-thinkpad-t14s-gen-4/,1
+Mojitech,Lenovo,ThinkPad T14s Gen 4,Intel Core i7-1355U,Integrated,16GB,,"14""",1297,New,https://mojitech.net/shop/brands/lenovo-brands/lenovo-thinkpad-t14s-gen-4/,1
 Mojitech,Lenovo,ThinkPad T14s Gen 6,Intel Ultra 7 255U,Integrated,32GB,1TB SSD,"14""",,New,https://mojitech.net/shop/brands/lenovo-brands/lenovo-thinkpad-t14s-gen-6-ultra-7-255u-laptop/,1
 Mojitech,Lenovo,ThinkPad T14s G6 21N1X001US,Snapdragon X Elite,Integrated Adreno,32GB,1TB SSD,"14""",1189,New,https://mojitech.net/shop/brands/lenovo-brands/lenovo-thinkpad-t14s-gen6-21n1x001us-snapdragon-x-elite/,1
 Mojitech,Lenovo,ThinkPad T16 Gen 3 21MN00AHCA,Intel Ultra 7 155U,Integrated,16GB,512GB SSD,"16"" touch",1689,New,https://mojitech.net/shop/brands/lenovo-brands/lenovo-thinkpad-t16-gen-3-ultra-7-16gb-512gb/,1
@@ -848,7 +838,7 @@ Mojitech,Lenovo,ThinkPad T16 Gen 2,Intel Core i7-1355U,Integrated,16GB,512GB SSD
 Mojitech,Lenovo,ThinkPad T16 Gen 2,Intel Core i7-1355U,Integrated,16GB,1TB SSD,"16""",,New,https://mojitech.net/shop/brands/lenovo-brands/thinkpad-t16-gen-2-21hh005jed/,1
 Mojitech,Lenovo,ThinkPad X13 G2,AMD Ryzen 7,Integrated AMD Radeon,16GB,512GB SSD,"13""",759,New,https://mojitech.net/shop/brands/lenovo-brands/thinkpad-x13-g2-20xh003sus-nob/,1
 Mojitech,Lenovo,ThinkPad X9-14 Gen 1 Aura Edition,Intel Ultra 7 258V,Integrated,32GB,1TB SSD,"14""",,New,https://mojitech.net/shop/brands/lenovo-brands/thinkpad-x9-14-gen-1-aura-edition/,1
-Mojitech,LG,Gram 15Z90S-H,Intel Ultra 7 155H,Integrated Intel Arc,16GB,6GB SSD,"15.6""",1000,New,https://mojitech.net/shop/brands/lg/lg-gram-15z90s-h15z90s-h-aab6u1/,1
+Mojitech,LG,Gram 15Z90S-H,Intel Ultra 7 155H,Integrated Intel Arc,16GB,,"15.6""",1000,New,https://mojitech.net/shop/brands/lg/lg-gram-15z90s-h15z90s-h-aab6u1/,1
 Mojitech,Microsoft,Surface 7 Copilot ZHI-00001,Snapdragon X Elite,Integrated Adreno,32GB,1TB SSD,"15""",1889,New,https://mojitech.net/shop/brands/microsoft-brands/microsoft-surface-7-copilot-zhi-00001-15-laptop/,1
 Mojitech,Microsoft,Surface,Snapdragon X Elite,Integrated Adreno,16GB,,"15"" touch",,New,https://mojitech.net/shop/brands/microsoft-brands/microsoft-surface-laptop-15-copilot-snapdragon-x-elite/,1
 Mojitech,Microsoft,Surface,Intel Core i7-13800H,RTX 4050,32GB,1TB SSD,"14.4""",2190,New,https://mojitech.net/shop/brands/microsoft-brands/microsoft-surface-laptop-studio/,1
@@ -899,7 +889,7 @@ Mojitech,MSI,Katana A17 AI B8VG,AMD Ryzen 9 8945HS,RTX 4070,16GB,1TB SSD,"17""",
 Mojitech,MSI,Pulse 16 AI,Intel Ultra 9 185H,RTX 4070,32GB,1TB SSD,"16""",,New,https://mojitech.net/shop/brands/msi-brands/msi-pulse-16-ai-c1vgkg-077us/,1
 Mojitech,MSI,Pulse GL66,Intel Core i9-12900H,RTX 3070 8GB,16GB,512GB SSD,"15.6""",1491,New,https://mojitech.net/shop/brands/msi-brands/msi-pulse-gl66-12ugkv-470/,1
 Mojitech,MSI,Raider 16 Max HX B2WJ-002US RAIDER16MXHXB20,Intel Ultra 9 290HX,RTX 5090 24GB,32GB,1TB SSD,"16"" OLED",4189,New,https://mojitech.net/shop/brands/msi-brands/msi-raider-16-max-hx-rtx-5090-16-oled-240hz/,1
-Mojitech,MSI,Raider 18 HX,Intel Ultra 9 285HX,RTX 5090,64GB,4GB SSD,"18""",4399,New,https://mojitech.net/shop/brands/msi-brands/msi-raider-18-hx-9s7-182432-452/,1
+Mojitech,MSI,Raider 18 HX,Intel Ultra 9 285HX,RTX 5090,64GB,,"18""",4399,New,https://mojitech.net/shop/brands/msi-brands/msi-raider-18-hx-9s7-182432-452/,1
 Mojitech,MSI,RAIDER 18 HX AI MSI A2XWHG-437US,Intel Ultra 9 285HX,RTX 5070 Ti,32GB,1TB SSD,"18""",2824,New,https://mojitech.net/shop/brands/msi-brands/msi-raider-18-hx-ai-a2xwhg-437us-gaming-laptop/,1
 Mojitech,MSI,RAIDER 18 HX AI A2XWIG-420US 9S7-182432-420,Intel Ultra 9 285HX,RTX 5080 16GB,32GB,1TB SSD,"18""",2984,New,https://mojitech.net/shop/brands/msi-brands/msi-raider-18-hx-ai-a2xwig-420us-rtx-5080/,1
 Mojitech,MSI,Raider GE68HX,Intel Core i9-14900HX,RTX 4070,32GB,1TB SSD,"16""",,New,https://mojitech.net/shop/brands/msi-brands/msi-raider-ge68hx-14vgg-287us/,1
@@ -927,18 +917,18 @@ Mojitech,MSI,Thin GF63,Intel Core i5-1245H,RTX 2050,8GB,1TB SSD,"15.6""",639,New
 Mojitech,MSI,Titan 18 HX AI,Intel Ultra 9 285HX,RTX 5090,64GB,6TB SSD,"18""",,New,https://mojitech.net/shop/brands/msi-brands/msi-titan-18-hx-ai-a2xwjg-614us/,1
 Mojitech,MSI,Vector 16,Intel Ultra 9 275HX,RTX 5080 16GB,16GB,1TB SSD,"16""",2689,New,https://mojitech.net/shop/brands/msi-brands/msi-vector-16-6hxa2400/,1
 Mojitech,MSI,Vector 16,Intel Ultra 9 275HX,RTX 5080,32GB,1TB SSD,"16""",,New,https://mojitech.net/shop/brands/msi-brands/msi-vector-16-9s7-15m352-083/,1
-Mojitech,MSI,Vector 16 HX AI 400,Intel Ultra 9 275HX,RTX 5080,16GB,6GB SSD,"16""",2250,New,https://mojitech.net/shop/brands/msi-brands/msi-vector-16-hx-ai-400-9s7-15m352-267/,1
-Mojitech,MSI,Vector 16 HX AI,Intel Ultra 7 255HX,RTX 5070 Ti,16GB,6GB SSD,"16""",2649,New,https://mojitech.net/shop/brands/msi-brands/msi-vector-16-hx-ai-9s7-15m351-297/,1
-Mojitech,MSI,Vector 16 HX AI,Intel Core i9-14900HX,RTX 4080,32GB,2GB SSD,"16""",2154,New,https://mojitech.net/shop/brands/msi-brands/msi-vector-16-hx-ai-a14vhg-692us/,1
+Mojitech,MSI,Vector 16 HX AI 400,Intel Ultra 9 275HX,RTX 5080,16GB,,"16""",2250,New,https://mojitech.net/shop/brands/msi-brands/msi-vector-16-hx-ai-400-9s7-15m352-267/,1
+Mojitech,MSI,Vector 16 HX AI,Intel Ultra 7 255HX,RTX 5070 Ti,16GB,,"16""",2649,New,https://mojitech.net/shop/brands/msi-brands/msi-vector-16-hx-ai-9s7-15m351-297/,1
+Mojitech,MSI,Vector 16 HX AI,Intel Core i9-14900HX,RTX 4080,32GB,,"16""",2154,New,https://mojitech.net/shop/brands/msi-brands/msi-vector-16-hx-ai-a14vhg-692us/,1
 Mojitech,MSI,Vector 16 HX AI,Intel Core i9-14900HX,Integrated,32GB,1TB SSD,"16""",,New,https://mojitech.net/shop/brands/msi-brands/msi-vector-16-hx-ai-a14vig-693us/,1
-Mojitech,MSI,Vector 16 HX AI,Intel Ultra 7 255HX,RTX 5070 Ti,16GB,6GB SSD,"16""",1891,New,https://mojitech.net/shop/brands/msi-brands/msi-vector-16-hx-ai-a2xwhg-061us/,1
+Mojitech,MSI,Vector 16 HX AI,Intel Ultra 7 255HX,RTX 5070 Ti,16GB,,"16""",1891,New,https://mojitech.net/shop/brands/msi-brands/msi-vector-16-hx-ai-a2xwhg-061us/,1
 Mojitech,MSI,Vector 16 HX AI A2XWHG-275US,Intel Ultra 7 255HX,RTX 5070 Ti,16GB,1TB SSD,"16""",1879,New,https://mojitech.net/shop/brands/msi-brands/msi-vector-16-hx-ai-a2xwhg-275us/,1
 Mojitech,MSI,Vector 16 HX AI A2XWIG-400US,Intel Ultra 9 275HX,RTX 5080,16GB,1TB SSD,"16""",2619,New,https://mojitech.net/shop/brands/msi-brands/msi-vector-16-hx-ai-a2xwig-400us-ultra-9-rtx-5080-16gb-1tb/,1
-Mojitech,MSI,Vector 16 HX AI,Intel Ultra 9 275HX,RTX 5080,16GB,6GB SSD,"16""",2619,New,https://mojitech.net/shop/brands/msi-brands/msi-vector-16-hx-ai-a2xwig-400us/,1
-Mojitech,MSI,Vector 16 HX AI A2XWIG,Intel Ultra 9 275HX,RTX 5080,16GB,6GB SSD,"16""",2859,New,https://mojitech.net/shop/brands/msi-brands/msi-vector-16-hx-ai-a2xwig/,1
+Mojitech,MSI,Vector 16 HX AI,Intel Ultra 9 275HX,RTX 5080,16GB,,"16""",2619,New,https://mojitech.net/shop/brands/msi-brands/msi-vector-16-hx-ai-a2xwig-400us/,1
+Mojitech,MSI,Vector 16 HX AI A2XWIG,Intel Ultra 9 275HX,RTX 5080,16GB,,"16""",2859,New,https://mojitech.net/shop/brands/msi-brands/msi-vector-16-hx-ai-a2xwig/,1
 Mojitech,MSI,Vector 16 HX AI A2XWJG,Intel Ultra 9 275HX,RTX 5090 24GB,32GB,1TB SSD,"16""",3489,New,https://mojitech.net/shop/brands/msi-brands/msi-vector-16-hx-ai-a2xwjg-ultra-9-rtx-5090/,1
 Mojitech,Raider,18 HX AI A2XWIG-418US,Intel Ultra 9 285HX,,64GB,2TB SSD,"18""",,New,https://mojitech.net/shop/brands/msi-brands/raider-18-hx-ai-a2xwig-418us-ultra-9-285hx-5080-64gb-2tb-18-tax-included/,1
-Mojitech,MSI,Cyborg 15 AI A1VFK,Intel Ultra 7 155H,RTX 4060,16GB,6GB SSD,"15.6""",1228,New,https://mojitech.net/shop/brands/msi-cyborg-15-ai-a1vfk-core-ultra-7-155h-1tb-16gb-rtx4060-15-6-tax-included/,1
+Mojitech,MSI,Cyborg 15 AI A1VFK,Intel Ultra 7 155H,RTX 4060,16GB,1TB SSD,"15.6""",1228,New,https://mojitech.net/shop/brands/msi-cyborg-15-ai-a1vfk-core-ultra-7-155h-1tb-16gb-rtx4060-15-6-tax-included/,1
 Mojitech,MSI,Raider GE78,Intel Core i9-14900HX,RTX 4090,64GB,2TB SSD,"17.3""",3829,New,https://mojitech.net/shop/brands/msi-raider-ge78-core-i9-14900hx-2tb-ssd-64gb-rtx4090-17-3-tax-included/,1
 Mojitech,Razer,Blade 16,Intel Core i9-14900HX,RTX 4090 16GB,32GB,2TB SSD,"16""",4095,New,https://mojitech.net/shop/brands/razer/razer-blade-16-gaming-rz09-05102en4-r3u1/,1
 Mojitech,Razer,Blade 18 RZ09-05299ER4-R3U1,Intel Ultra 9 275HX,RTX 5090 24GB,32GB,2TB SSD,"18""",5075,New,https://mojitech.net/shop/brands/razer/razer-blade-18-core-ultra-9-rtx-5090-gaming-laptop-rz09-05299er4-r3u1/,1
@@ -951,7 +941,7 @@ Mojitech,Samsung,Galaxy Book 3,Intel Core i7-1355U,Integrated,16GB,512GB SSD,"15
 Mojitech,Acer,Nitro 17 AN17-41-R8N5,AMD Ryzen 7 7735HS,,16GB,1TB SSD,,1264,New,https://mojitech.net/shop/deals/acer-nitro-17-an17-41-r8n5/,1
 Mojitech,Acer,NITRO 5 NH.QFMAA.003,Intel Core i7,RTX 3060 6GB,16GB,512GB SSD,,1298,New,https://mojitech.net/shop/deals/acer-nitro-5-an515-58-725a-gaming-nh-qfmaa-003-seller-acer/,1
 Mojitech,ASUS,ROG STRIX G18 G814JU-N5047,Intel Core i7-13650HX,RTX 4050 6GB,16GB,,,1349,New,https://mojitech.net/shop/deals/asus-rog-strix-2/,1
-Mojitech,ASUS,ROG STRIX G15 G513RM-WS74,AMD Ryzen 7 6800H,RTX 3060 6GB,16GB,6GB SSD,,1189,New,https://mojitech.net/shop/deals/asus-rog-strix-g15/,1
+Mojitech,ASUS,ROG STRIX G15 G513RM-WS74,AMD Ryzen 7 6800H,RTX 3060 6GB,16GB,,,1189,New,https://mojitech.net/shop/deals/asus-rog-strix-g15/,1
 Mojitech,ASUS,ROG STRIX G17,AMD Ryzen 9,,16GB,1TB SSD,,1679,New,https://mojitech.net/shop/deals/asus-rog-strix-g17-gaming/,1
 Mojitech,ASUS,ROG ZEPHYRUS G15,AMD Ryzen 9,RTX 3070 Ti 8GB,16GB,1TB SSD,"15.6""",1959,New,https://mojitech.net/shop/deals/asus-rog-zephyrus-g15-amd-ryzen-9-16gb-1tb-ssd-nvme-15-6%e2%80%b3-qhd-nvidia-rtx-3070-ti-8gb-seller-lebanon/,1
 Mojitech,ASUS,TUF FX707ZU4-HX029W F17,Intel Core i7-12700H,,16GB,,,,New,https://mojitech.net/shop/deals/asus-tuf-f17-fx707zu4-hx029/,1
@@ -1019,13 +1009,13 @@ Mojitech,Microsoft,Surface,Intel Core i7-1255U,Integrated,16GB,512GB SSD,"13.5""
 Mojitech,Microsoft,SURFACE PRO,Intel Core i7,Integrated,16GB,512GB SSD,"13""",,New,https://mojitech.net/shop/deals/microsoft-surface-pro-9/,1
 Mojitech,MSI,Modern 15 B12MO,Intel Core i3-1215U,Integrated,16GB,256GB SSD,"15.6""",539,New,https://mojitech.net/shop/deals/modern-15-b12mo/,1
 Mojitech,MSI,Modern 15H B13M,Intel Core i5-1342H,Integrated,,256GB SSD,"15.6""",679,New,https://mojitech.net/shop/deals/modern-15h-b13m/,1
-Mojitech,MSI,CREATOR Z16 A12UET-031,Intel Core i7-12700H,RTX 3060 6GB,16GB,6GB SSD,,1344,New,https://mojitech.net/shop/deals/msi-creator-z16-a12uet-031/,1
+Mojitech,MSI,CREATOR Z16 A12UET-031,Intel Core i7-12700H,RTX 3060 6GB,16GB,,,1344,New,https://mojitech.net/shop/deals/msi-creator-z16-a12uet-031/,1
 Mojitech,MSI,GAMING NEW CROSSHAIR 15 B12UGZ-627US,Intel Core i7-12700H,RTX 3070,16GB,512GB SSD,,1310,New,https://mojitech.net/shop/deals/msi-gaming-new-crosshair-15-b12ugz-627us-i7-12700h-2-7gh-16gb-512gb-rtx-3070/,1
 Mojitech,MSI,GF63 THIN 11UC-214XPL,Intel Core i7-11800H,RTX 3050 4GB,8GB,512GB SSD,,879,New,https://mojitech.net/shop/deals/msi-gf63-thin-11uc-214xpl/,1
 Mojitech,MSI,KATANA 15,Intel Core i7-13620H,,16GB,1TB SSD,"15.6""",,New,https://mojitech.net/shop/deals/msi-katana-15/,1
 Mojitech,MSI,MODERN 14 C11M MOD1411068,Intel Core i5,Integrated,16GB,512GB SSD,,569,New,https://mojitech.net/shop/deals/msi-modern-14-c11m-mod1411068/,1
 Mojitech,Lenovo,LENOVO IP 3,Intel Core i7,Integrated,8GB,1TB HDD,"15.6""",519,New,https://mojitech.net/shop/deals/notebook-lenovo-ip-3/,1
-Mojitech,MSI,Prestige 13 Evo A13M,Intel Core i7-1360P,Integrated,16GB,6GB HDD,"13.3""",1379,New,https://mojitech.net/shop/deals/prestige-13-evo-a13m/,1
+Mojitech,MSI,Prestige 13 Evo A13M,Intel Core i7-1360P,Integrated,16GB,,"13.3""",1379,New,https://mojitech.net/shop/deals/prestige-13-evo-a13m/,1
 Mojitech,ASUS,ROG Strix G18,Intel Core i9-13980HX,RTX 4070 8GB,32GB,1TB SSD,"18""",,New,https://mojitech.net/shop/deals/rog-strix-g18/,1
 Mojitech,Lenovo,ThinkPad E16,Intel Core i7-1355U,Integrated,16GB,512GB SSD,,979,New,https://mojitech.net/shop/deals/thinkpad-e16-21jn000ned/,1
 Mojitech,Lenovo,ThinkPad L14 Gen 2,Intel Core i5,Integrated,8GB,,"14""",,New,https://mojitech.net/shop/deals/thinkpad-l14-gen-2/,1
@@ -1045,7 +1035,7 @@ Mojitech,Acer,Nitro V 15,Intel Core i7-13620H,RTX 5050,16GB,512GB SSD,"15.6""",,
 Mojitech,Acer,NITRO V 15 ANV15-52-99CV,Intel Core i9-13900H,RTX 5050,16GB,512GB SSD,"15.6""",1121,New,https://mojitech.net/shop/laptops/acer-nitro-v-15-core-i9-rtx-5050-16gb-512gb/,1
 Mojitech,Acer,NITRO V 16S ANV16S-71-7771,Intel Core 7 240H,RTX 5060 8GB,16GB,1TB SSD,"16""",1145,New,https://mojitech.net/shop/laptops/acer-nitro-v-16s-anv16s-71-7771-core-7-rtx-5060/,1
 Mojitech,Acer,NITRO V16S NH.U29EM.003 ANV16S-71-97BE,Intel Core 9 270H,RTX 5070,16GB,1TB SSD,"16""",,New,https://mojitech.net/shop/laptops/acer-nitro-v-16s-core-9-rtx-5070-16gb-1tb/,1
-Mojitech,Acer,Nitro V Slim,Intel Core 9 270H,RTX 5070 8GB,16GB,6GB SSD,"16""",1550,New,https://mojitech.net/shop/laptops/acer-nitro-v-slim-anv16s-71-97be/,1
+Mojitech,Acer,Nitro V Slim,Intel Core 9 270H,RTX 5070 8GB,16GB,,"16""",1550,New,https://mojitech.net/shop/laptops/acer-nitro-v-slim-anv16s-71-97be/,1
 Mojitech,Acer,NITRO V15 ANV15-52-57BB,Intel Core i5-13420H,RTX 5050,16GB,512GB SSD,"15.6""",,New,https://mojitech.net/shop/laptops/acer-nitro-v15-anv15-52-57bb/,1
 Mojitech,Acer,NITRO V15 NH.QZ8EP.00G ANV15-52-90DS,Intel Core 9,RTX 5060 8GB,16GB,512GB SSD,"15.6""",1388,New,https://mojitech.net/shop/laptops/acer-nitro-v15-anv15-52-90ds-gaming-laptop/,1
 Mojitech,Acer,NITRO V15 ANV15-52-92DD NH.QZ8EM.001,Intel Core 9,RTX 5060 8GB,16GB,512GB SSD,"15.6""",1239,New,https://mojitech.net/shop/laptops/acer-nitro-v15-anv15-52-92dd-i9-rtx-5060-165hz-gaming-laptop/,1
@@ -1058,7 +1048,7 @@ Mojitech,Acer,TravelMate TMP214-55-77AC,Intel Core i7-1355U,Integrated,16GB,512G
 Mojitech,Acer,TravelMate TMP216-51-71HW,Intel Core i7-1355U,Integrated,16GB,512GB SSD,,750,New,https://mojitech.net/shop/laptops/acer-travelmate-tmp216-51-71hw-core-i7/,1
 Mojitech,Dell,Alienware 16 Aurora,Intel Core 7 240H,RTX 5060 8GB,16GB,1TB SSD,,1429,New,https://mojitech.net/shop/laptops/alienware-16-aurora-laptop/,1
 Mojitech,Dell,Alienware 16X Aurora,Intel Ultra 9 275HX,RTX 5070 8GB,32GB,2TB SSD,"16.0""",2274,New,https://mojitech.net/shop/laptops/alienware-16x-aurora-laptop/,1
-Mojitech,ASUS,ProArt P16 H7606WP-RJ132W 90NB15K1-M00DP0,AMD Ryzen AI 9 370,RTX 5070 8GB,64GB,4GB SSD,"16"" OLED touch",3319,New,https://mojitech.net/shop/laptops/asus-proart-p16-h7606wp-rj132w-ryzen-ai-9-hx-370/,1
+Mojitech,ASUS,ProArt P16 H7606WP-RJ132W 90NB15K1-M00DP0,AMD Ryzen AI 9 370,RTX 5070 8GB,64GB,,"16"" OLED touch",3319,New,https://mojitech.net/shop/laptops/asus-proart-p16-h7606wp-rj132w-ryzen-ai-9-hx-370/,1
 Mojitech,ASUS,ProArt PX13 GoPro Edition 2-in-1 HN7306EAC-PS99T,AMD Ryzen AI Max+ 395,Integrated AMD Radeon,128GB,1TB SSD,"13.3"" OLED touch",4485,New,https://mojitech.net/shop/laptops/asus-proart-px13-gopro-edition-ryzen-ai-max-395/,1
 Mojitech,ASUS,ProArt PZ13 Copilot+,Snapdragon X Plus,Integrated Adreno,16GB,1TB SSD,"13""",1239,New,https://mojitech.net/shop/laptops/asus-proart-pz13-copilot-ht5306qa-lx012w/,1
 Mojitech,ASUS,ROG Flow Z13,Intel Core i9-13900H,RTX 4070,32GB,1TB SSD,"13.4""",,New,https://mojitech.net/shop/laptops/asus-rog-flow-z13-90nr0gf2-m000f0/,1
@@ -1102,11 +1092,11 @@ Mojitech,ASUS,TUF A16 FA617NT,AMD Ryzen 7 7735H,Radeon RX 7700,16GB,512GB SSD,"1
 Mojitech,ASUS,TUF A16,AMD Ryzen 7,,16GB,,"16""",,New,https://mojitech.net/shop/laptops/asus-tuf-a16/,1
 Mojitech,ASUS,TUF A18 FA808UM-IS74,AMD Ryzen 7,RTX 5060,16GB,1TB SSD,,,New,https://mojitech.net/shop/laptops/asus-tuf-a18/,1
 Mojitech,ASUS,TUF F16,Intel Core i7-14650HX,RTX 5070,16GB,1TB SSD,"16""",,New,https://mojitech.net/shop/laptops/asus-tuf-f16-core-i7-14650hx-rtx-5070-16gb-1tb-16/,1
-Mojitech,ASUS,TUF F16,Intel Core i7-14650HX,RTX 5060,16GB,6GB SSD,"16""",1390,New,https://mojitech.net/shop/laptops/asus-tuf-f16-fx608jmr-rv070w/,1
-Mojitech,ASUS,TUF F16,Intel Core i7-14650HX,RTX 5070,16GB,6GB SSD,"16""",1539,New,https://mojitech.net/shop/laptops/asus-tuf-f16-fx608jpr-wh74/,1
+Mojitech,ASUS,TUF F16,Intel Core i7-14650HX,RTX 5060,16GB,,"16""",1390,New,https://mojitech.net/shop/laptops/asus-tuf-f16-fx608jmr-rv070w/,1
+Mojitech,ASUS,TUF F16,Intel Core i7-14650HX,RTX 5070,16GB,,"16""",1539,New,https://mojitech.net/shop/laptops/asus-tuf-f16-fx608jpr-wh74/,1
 Mojitech,ASUS,TUF F16,Intel Core i7-14650HX,RTX 5060 8GB,16GB,512GB SSD,,1390,New,https://mojitech.net/shop/laptops/asus-tuf-f16-intel-core-i7-14650hx-512gb-ssd-16gb-ddr5-16-0-inch-1920x1200-nvidia-geforce-rtx-5060-8gb-w11h-grey-3-year-warranty-90nr0nb1-m004b0-tf/,1
 Mojitech,ASUS,TUF F16,Intel Core i7-14650HX,RTX 5060 8GB,16GB,512GB SSD,,1390,New,https://mojitech.net/shop/laptops/asus-tuf-f16-laptop/,1
-Mojitech,ASUS,TUF F16,Intel Core i7-14650HX,RTX 5060,32GB,2GB SSD,"16""",1649,New,https://mojitech.net/shop/laptops/asus-tuf-gaming-f16-core-i7-rtx-5060-32gb/,1
+Mojitech,ASUS,TUF F16,Intel Core i7-14650HX,RTX 5060,32GB,,"16""",1649,New,https://mojitech.net/shop/laptops/asus-tuf-gaming-f16-core-i7-rtx-5060-32gb/,1
 Mojitech,ASUS,Tuff F15,Intel Core i7-4070,RTX 4070,16GB,,"15.6""",1598,New,https://mojitech.net/shop/laptops/asus-tuff-f1515-6-core-i7-rtx4070/,1
 Mojitech,ASUS,VivoBook 15 A1504VA-NJ536,Intel Core i5-1335U,Integrated,8GB,512GB SSD,"15.6""",,New,https://mojitech.net/shop/laptops/asus-vivobook-15-a1504va-nj536-90nb10j2-m00h70/,1
 Mojitech,ASUS,VivoBook 15 F1504V-NJ3604,Intel Core i3-1315U,Integrated,4GB,512GB SSD,"15.6""",,New,https://mojitech.net/shop/laptops/asus-vivobook-15-f1504v-nj3604-i3-1315u-8gb-512gb-laptop/,1
@@ -1130,33 +1120,33 @@ Mojitech,ASUS,VIVOBOOK S16 S5606CA-SB92,Intel Ultra 9 285H,Integrated Intel Arc,
 Mojitech,ASUS,VivoBook X1502ZA,Intel Core i7-12700H,Integrated,16GB,512GB SSD,"15.6""",1344,New,https://mojitech.net/shop/laptops/asus-vivobook-x1502za-ej1629w/,1
 Mojitech,ASUS,Zephyrus G14,AMD Ryzen 7 7735HS,RTX 4050,16GB,512GB SSD,"14""",,New,https://mojitech.net/shop/laptops/asus-zephyrus-g14-ga402nu-g14-r74050/,1
 Mojitech,Dell,14 Plus 2-in-1 LDB04250-7137BLU- PUS,Intel Ultra 7 256V,Integrated Intel Arc,16GB,1TB SSD,"14"" touch",,New,https://mojitech.net/shop/laptops/dell-14-plus-2-in-1-ldb04250-7137blu-pus-laptop/,1
-Mojitech,Dell,14 Plus 2-in-1 x360,AMD Ryzen AI 5 340,Integrated AMD Radeon,16GB,6GB SSD,"14"" touch",939,New,https://mojitech.net/shop/laptops/dell-14-plus-2-in-1-ldb04255-a376blu/,1
+Mojitech,Dell,14 Plus 2-in-1 x360,AMD Ryzen AI 5 340,Integrated AMD Radeon,16GB,,"14"" touch",939,New,https://mojitech.net/shop/laptops/dell-14-plus-2-in-1-ldb04255-a376blu/,1
 Mojitech,Dell,14 Plus NB0188170-R0029402-SA,Intel Ultra 9 288V,Integrated Intel Arc,32GB,1TB SSD,"14""",2089,New,https://mojitech.net/shop/laptops/dell-14-plus-ultra-9-288v-32gb-1tb-laptop/,1
-Mojitech,Dell,15 DC15250,Intel Core i3,Integrated,8GB,8GB SSD,"15.6""",350,New,https://mojitech.net/shop/laptops/dell-15-dc15250-core-i3-100u-8gb-512gb-15-6/,1
+Mojitech,Dell,15 DC15250,Intel Core i3,Integrated,8GB,512GB SSD,"15.6""",350,New,https://mojitech.net/shop/laptops/dell-15-dc15250-core-i3-100u-8gb-512gb-15-6/,1
 Mojitech,Dell,15 DC15250,Intel Core i5-1334U,Integrated,8GB,512GB SSD,,,New,https://mojitech.net/shop/laptops/dell-15-dc15250-laptop/,1
 Mojitech,Dell,15 DC15250,AMD Ryzen 5 7530U,Integrated AMD Radeon,8GB,512GB SSD,"15.6""",705,New,https://mojitech.net/shop/laptops/dell-15-dc15250-ryzen-5-7530u-laptop/,1
-Mojitech,Dell,15 DC15255,AMD Ryzen 7 7730U,Integrated AMD Radeon,16GB,6GB SSD,"15.6""",599,New,https://mojitech.net/shop/laptops/dell-15-dc15255-ryzen-7-laptop/,1
+Mojitech,Dell,15 DC15255,AMD Ryzen 7 7730U,Integrated AMD Radeon,16GB,,"15.6""",599,New,https://mojitech.net/shop/laptops/dell-15-dc15255-ryzen-7-laptop/,1
 Mojitech,Dell,Alienware 16 Area 51 GAMING AWN0187704-R0029299-SA,Intel Ultra 9 275HX,RTX 5080 16GB,32GB,1TB SSD,"16""",3089,New,https://mojitech.net/shop/laptops/dell-alienware-16-area-51-awn0187704-rtx-5080/,1
 Mojitech,Dell,Alienware 16 Area 51 GAMING AWN0187724-R0029299-SA,Intel Ultra 9 275HX,RTX 5070 8GB,32GB,1TB SSD,"16""",2589,New,https://mojitech.net/shop/laptops/dell-alienware-16-area-51-awn0187724-rtx-5070/,1
 Mojitech,Dell,Alienware 16 Area 51 GAMING AWN0188122-R0029299-SA,Intel Ultra 9 275HX,RTX 5080 16GB,32GB,2TB SSD,"16""",3289,New,https://mojitech.net/shop/laptops/dell-alienware-16-area-51-awn0188122-rtx-5080/,1
 Mojitech,Dell,Alienware 16 Area 51 GAMING AWN0188123-R0029299-SA,Intel Ultra 9 275HX,RTX 5090 24GB,32GB,2TB SSD,"16""",3989,New,https://mojitech.net/shop/laptops/dell-alienware-16-area-51-gaming-awn0188123-r0029299-sa-ultra-9-275hx-rtx-5090-24gb-32gb-ddr5-2tb-nvme-16-2560x1600-240hz/,1
 Mojitech,Dell,Dell AlienWare 16 Aurora,Intel Core 7 240H,RTX 5050 8GB,16GB,1TB SSD,"16.0""",1197,New,https://mojitech.net/shop/laptops/dell-alienware-16-aurora-laptop/,1
 Mojitech,Dell,Alienware 16X Aurora LAC16250-7568BLU-PUS,Intel Core 7,RTX 5060 8GB,32GB,1TB SSD,"16""",,New,https://mojitech.net/shop/laptops/dell-alienware-16x-aurora-rtx-5060-120hz/,1
-Mojitech,Dell,Alienware 16X Aurora,Intel Ultra 9 275HX,RTX 5070,32GB,2GB SSD,"16""",2099,New,https://mojitech.net/shop/laptops/dell-alienware-16x-aurora-ultra-9-275hx-rtx-5070-32gb-2tb-16/,1
+Mojitech,Dell,Alienware 16X Aurora,Intel Ultra 9 275HX,RTX 5070,32GB,2TB SSD,"16""",2099,New,https://mojitech.net/shop/laptops/dell-alienware-16x-aurora-ultra-9-275hx-rtx-5070-32gb-2tb-16/,1
 Mojitech,Dell,ALIENWARE 18 AREA-51,Intel Ultra 9 275HX,RTX 5090,64GB,2TB SSD,"18""",,New,https://mojitech.net/shop/laptops/dell-alienware-18-area-51-ultra-9-275hx-rtx-5090-64gb-2tb-nvme-18/,1
-Mojitech,Dell,Alienware Aurora 16,Intel Core 7 240H,RTX 5050,16GB,6GB SSD,"16""",1099,New,https://mojitech.net/shop/laptops/dell-alienware-aurora-16-core-7-240h-rtx-5050-16gb-1tb-16-tax-included/,1
+Mojitech,Dell,Alienware Aurora 16,Intel Core 7 240H,RTX 5050,16GB,1TB SSD,"16""",1099,New,https://mojitech.net/shop/laptops/dell-alienware-aurora-16-core-7-240h-rtx-5050-16gb-1tb-16-tax-included/,1
 Mojitech,Dell,Dell Alienware Aurora 16,Intel Core 7 240H,RTX 5060 8GB,32GB,1TB SSD,,1480,New,https://mojitech.net/shop/laptops/dell-alienware-aurora-16-laptop/,1
 Mojitech,Dell,Dell AlienWare LAC16250-7193BLU-PUS,Intel Core 7 240H,RTX 5050 8GB,16GB,1TB SSD,"16""",1140,New,https://mojitech.net/shop/laptops/dell-alienware-lac16250-rtx-5050-laptop/,1
 Mojitech,Dell,Alienware M16 R2,Intel Ultra 7 155H,RTX 4060,16GB,1TB SSD,"16""",,New,https://mojitech.net/shop/laptops/dell-alienware-m16-r2-useashbtsm16r2mtlgrrw/,1
 Mojitech,Dell,Alienware M18,AMD Ryzen 9 7845HX,RTX 4080,32GB,2TB SSD,"18""",,New,https://mojitech.net/shop/laptops/dell-alienware-m18-gaming-ryzen-9-7845hx-32gb-2tb-ssd-nvme-rtx-4080-18fhd/,1
 Mojitech,Dell,Alienware M18R2,Intel Core i9-14900HX,RTX 4080,32GB,1TB SSD,"18""",,New,https://mojitech.net/shop/laptops/dell-alienware-m18r2/,1
-Mojitech,Dell,Inspiron 14 2-in-1,AMD Ryzen 5 8640HS,Integrated AMD Radeon,8GB,8GB SSD,"14"" touch",555,New,https://mojitech.net/shop/laptops/dell-inspiron-14-2-in-1-7445-5333/,1
+Mojitech,Dell,Inspiron 14 2-in-1,AMD Ryzen 5 8640HS,Integrated AMD Radeon,8GB,,"14"" touch",555,New,https://mojitech.net/shop/laptops/dell-inspiron-14-2-in-1-7445-5333/,1
 Mojitech,Dell,Inspiron 14,Intel Core i7-1355U,Integrated,16GB,1TB SSD,"14""",,New,https://mojitech.net/shop/laptops/dell-inspiron-14-i7430-7374slv-pus/,1
 Mojitech,Dell,Inspiron 14,Snapdragon X Plus,Integrated Adreno,16GB,512GB SSD,"14""",,New,https://mojitech.net/shop/laptops/dell-inspiron-14-i7441-sx10838blu-pus/,1
 Mojitech,Dell,Inspiron 14 X360 I7440-5647BLU-PUS,Intel Core 5 120U,Integrated,16GB,512GB SSD,"14"" touch",,New,https://mojitech.net/shop/laptops/dell-inspiron-14-x360-i7440-5647blu-pus-core-5-120u/,1
 Mojitech,Dell,Inspiron 15 3520,Intel Core i5-1235U,Integrated,8GB,512GB SSD,"15.6""",,New,https://mojitech.net/shop/laptops/dell-inspiron-15-3520-core-i5-1235u-8gb-512gb-nvme-15-6-tax-free/,1
 Mojitech,Dell,Inspiron 16 62J95,Intel Ultra 7 155H,Integrated Intel Arc,16GB,1TB SSD,"16""",834,New,https://mojitech.net/shop/laptops/dell-inspiron-16-62j95-i7640-7366blu-pu/,1
-Mojitech,Dell,Inspiron 7441 INS0187239-R0028530-PC,Snapdragon X Plus,Integrated Adreno,16GB,6GB SSD,"14"" touch",889,New,https://mojitech.net/shop/laptops/dell-inspiron-7441-snapdragon-x-plus-x1p-64-100-laptop/,1
+Mojitech,Dell,Inspiron 7441 INS0187239-R0028530-PC,Snapdragon X Plus,Integrated Adreno,16GB,,"14"" touch",889,New,https://mojitech.net/shop/laptops/dell-inspiron-7441-snapdragon-x-plus-x1p-64-100-laptop/,1
 Mojitech,Dell,Inspiron 7720,Intel Core i7-1355U,GeForce MX550,16GB,1TB SSD,,,New,https://mojitech.net/shop/laptops/dell-inspiron-7720-core-i7-1355u-16gb-1tb-ssd-mx550-27/,1
 Mojitech,Dell,Inspiron,Intel Core i5-1335U,Integrated,16GB,512GB SSD,"15.6""",,New,https://mojitech.net/shop/laptops/dell-inspiron-i3530-5067blk-pus/,1
 Mojitech,Dell,INSPIRON I5640-7609BLU-PUS,Intel Core 7,Integrated,32GB,1TB SSD,"16"" touch",,New,https://mojitech.net/shop/laptops/dell-inspiron-i5640-core7-16-fhd-touch/,1
@@ -1187,19 +1177,19 @@ Mojitech,Gigabyte,Gaming A16 CVHI3AE894SD,Intel Core i7-13620H,RTX 5060,16GB,1TB
 Mojitech,Gigabyte,Gaming A16,Intel Core i7-13620H,RTX 4050 6GB,16GB,512GB SSD,,,New,https://mojitech.net/shop/laptops/gigabyte-gaming-a16-laptop/,1
 Mojitech,Gigabyte,Gaming A16  3VHK3US894SH,AMD Ryzen 7 260,RTX 5060,16GB,1TB SSD,"16""",1389,New,https://mojitech.net/shop/laptops/gigabyte-gaming-a16-ryzen-7-rtx-5060-16gb-1tb/,1
 Mojitech,Gigabyte,Gaming A16 CMHI2US893SH,Intel Core i7-13620H,RTX 4050,16GB,512GB SSD,"16""",,New,https://mojitech.net/shop/laptops/gigabyte-gaming-a16/,1
-Mojitech,HP,HP 14-DQ6013DX,Intel N150,Integrated,4GB,4GB SSD,"14""",234,New,https://mojitech.net/shop/laptops/hp-14-dq6013dx-laptop/,1
+Mojitech,HP,HP 14-DQ6013DX,Intel N150,Integrated,4GB,,"14""",234,New,https://mojitech.net/shop/laptops/hp-14-dq6013dx-laptop/,1
 Mojitech,HP,15-DY5073DX,Intel Core i7-1255U,Integrated,16GB,512GB SSD,"15.6""",644,New,https://mojitech.net/shop/laptops/hp-15-dy5073dx/,1
-Mojitech,HP,15-fd0033ne,Intel Core i3-1315U,Integrated,4GB,4GB SSD,"15.6""",344,New,https://mojitech.net/shop/laptops/hp-15-fd0033ne/,1
+Mojitech,HP,15-fd0033ne,Intel Core i3-1315U,Integrated,4GB,,"15.6""",344,New,https://mojitech.net/shop/laptops/hp-15-fd0033ne/,1
 Mojitech,HP,15-FD0038NE,Intel Core i7-1355U,Integrated,8GB,512GB SSD,"15.6""",,New,https://mojitech.net/shop/laptops/hp-15-fd0038ne/,1
 Mojitech,HP,15-fd0047ne,Intel Core i7-1355U,GeForce MX550,16GB,1TB SSD,"15.6""",,New,https://mojitech.net/shop/laptops/hp-15-fd0047ne-core-i7-1355u-16gb-1tb-ssd-mx550-15-6-1-year-warranty/,1
 Mojitech,HP,15-FD0054NE,Intel Core i5-1334U,Integrated,8GB,512GB SSD,"15.6""",,New,https://mojitech.net/shop/laptops/hp-15-fd0054ne/,1
 Mojitech,HP,15-FD0054NE,Intel Core i5-1334U,Integrated,8GB,512GB SSD,"15.6""",,New,https://mojitech.net/shop/laptops/hp-15-fd0056ne-core-i5-1334u-8gb-512-gb-15-6-fhd-1-year-warranty/,1
-Mojitech,HP,15-FD0060NE,Intel Core i7-1355U,GeForce MX570,16GB,6GB SSD,"15.6""",694,New,https://mojitech.net/shop/laptops/hp-15-fd0060ne/,1
+Mojitech,HP,15-FD0060NE,Intel Core i7-1355U,GeForce MX570,16GB,,"15.6""",694,New,https://mojitech.net/shop/laptops/hp-15-fd0060ne/,1
 Mojitech,HP,15-FD0084WM,Intel N200,Integrated,4GB,128GB SSD,"15.6""",,New,https://mojitech.net/shop/laptops/hp-15-fd0084wm-intel-n200-laptop/,1
 Mojitech,HP,15-FD0130WM,Intel Core i3-N305,Integrated,8GB,256GB SSD,"15.6"" touch",,New,https://mojitech.net/shop/laptops/hp-15-fd0130wm-core-i3-n305-laptop/,1
 Mojitech,HP,15-fd0133wm / 15-fd1031wm,Intel Core i3-N305,Integrated,8GB,256GB SSD,"15.6""",441,New,https://mojitech.net/shop/laptops/hp-15-fd0133wm-laptop-core-i3-n305-1/,1
 Mojitech,HP,15-FD0143NE,Intel Core i7-1355U,GeForce MX570,8GB,512GB SSD,"15.6""",652,New,https://mojitech.net/shop/laptops/hp-15-fd0143ne-laptop-core-i7-mx570-512gb-ssd/,1
-Mojitech,HP,15-FD0149NE,Intel Core i5-1334U,Integrated,8GB,8GB SSD,"15.6""",467,New,https://mojitech.net/shop/laptops/hp-15-fd0149ne-b05b1eaabv/,1
+Mojitech,HP,15-FD0149NE,Intel Core i5-1334U,Integrated,8GB,,"15.6""",467,New,https://mojitech.net/shop/laptops/hp-15-fd0149ne-b05b1eaabv/,1
 Mojitech,HP,15-FD0153DX,Intel Core i3-1315U,Integrated,8GB,256GB SSD,"15.6"" touch",447,New,https://mojitech.net/shop/laptops/hp-15-fd0153dx-core-i3-15-6-hd-touch/,1
 Mojitech,HP,HP 15-FD0154WM,Intel Ultra 5,Integrated,8GB,512GB SSD,"15.6"" touch",561,New,https://mojitech.net/shop/laptops/hp-15-fd0154wm-laptop/,1
 Mojitech,HP,15-FD0215DX,Intel Core 5 120U,Integrated,16GB,512GB SSD,"15.6""",,New,https://mojitech.net/shop/laptops/hp-15-fd0215dx-core-i5-1334u-16gb-512gb-15-6-fhd/,1
@@ -1246,16 +1236,16 @@ Mojitech,HP,15s-fq5019ne,Intel Core i5-1235U,Integrated,8GB,512GB SSD,,468,New,h
 Mojitech,HP,15s-fq5021ne,Intel Core i5-1235U,Integrated,8GB,512GB SSD,"15.6""",,New,https://mojitech.net/shop/laptops/hp-laptop-15s-fq5021ne-core-i5-1235u-8gb-512gb-ssd-15-6-tax-included/,1
 Mojitech,HP,15s-fq5023ne 6G3Q8EA,Intel Core i7-1255U,Integrated,8GB,512GB SSD,,555,New,https://mojitech.net/shop/laptops/hp-laptop-15s-fq5023ne-6g3q8ea-core-i7-1255u-8gb-ddr4-512gb-nvme-seller-lebanon/,1
 Mojitech,HP,"15s-fq5026ne Black 15.6"" IRIS XE",Intel Core i7-1255U,Integrated,8GB,512GB SSD,"15.6""",503,New,https://mojitech.net/shop/laptops/hp-laptop-15s-fq5026ne-black-15-6-iris-xe-seller-lebanon/,1
-Mojitech,HP,AI 15-fd2002ne,Intel Ultra 7 255U,Integrated,16GB,6GB SSD,"15.6""",822,New,https://mojitech.net/shop/laptops/hp-laptop-ai-15-fd2002ne/,1
-Mojitech,HP,AI 15-fd2003ne,Intel Ultra 5 225U,Integrated,16GB,6GB SSD,"15.6""",694,New,https://mojitech.net/shop/laptops/hp-laptop-ai-15-fd2003ne/,1
+Mojitech,HP,AI 15-fd2002ne,Intel Ultra 7 255U,Integrated,16GB,,"15.6""",822,New,https://mojitech.net/shop/laptops/hp-laptop-ai-15-fd2002ne/,1
+Mojitech,HP,AI 15-fd2003ne,Intel Ultra 5 225U,Integrated,16GB,,"15.6""",694,New,https://mojitech.net/shop/laptops/hp-laptop-ai-15-fd2003ne/,1
 Mojitech,HP,AI 15-FD2043NIA D41PKEA#BH5,Intel Ultra 7 255U,Integrated,8GB,512GB SSD,"15.6""",719,New,https://mojitech.net/shop/laptops/hp-laptop-ai-15-fd2043nia-ultra-7-512gb/,1
 Mojitech,HP,Core,Intel Ultra 5 125HZ,Integrated,24GB,512GB SSD,"15.6""",649,New,https://mojitech.net/shop/laptops/hp-laptop-core-ultra-5-15-6-512gb-ssd-24gb-ddr5/,1
 Mojitech,HP,Pavilion X360 14,Intel Core i5-1235U,Integrated,8GB,512GB SSD,"14"" touch",604,New,https://mojitech.net/shop/laptops/hp-laptop-pavilion-x360-14-ek0073dx/,1
-Mojitech,HP,Omen 16-an0119nr,Intel Ultra 9 285H,RTX 5070 8GB,16GB,6GB SSD,"16""",1688,New,https://mojitech.net/shop/laptops/hp-omen-16-an0119nr/,1
+Mojitech,HP,Omen 16-an0119nr,Intel Ultra 9 285H,RTX 5070 8GB,16GB,,"16""",1688,New,https://mojitech.net/shop/laptops/hp-omen-16-an0119nr/,1
 Mojitech,HP,HP OMEN 16-AM0031NE CK4B8EA,Intel Ultra 7 255H,RTX 5070 8GB,16GB,512GB SSD,,1489,New,https://mojitech.net/shop/laptops/hp-omen-16-rtx-5070-gaming-laptop/,1
 Mojitech,HP,Omen 16 Slim,Intel Ultra 7 255H,RTX 5060,16GB,1TB SSD,"16""",,New,https://mojitech.net/shop/laptops/hp-omen-16-slim-16-an0037/,1
 Mojitech,HP,Omen 16 Slim,Intel Ultra 7 255H,RTX 5070,32GB,1TB SSD,"16""",,New,https://mojitech.net/shop/laptops/hp-omen-16-slim-core-ultra-7-255h-rtx-5070-32gb-1tb-16-tax-included/,1
-Mojitech,HP,Omen 16 Slim,Intel Ultra 9 285H,RTX 5070 8GB,16GB,6GB SSD,"16""",1550,New,https://mojitech.net/shop/laptops/hp-omen-16-slim-core-ultra-9-285h-rtx-5070-16gb-1tb-16/,1
+Mojitech,HP,Omen 16 Slim,Intel Ultra 9 285H,RTX 5070 8GB,16GB,1TB SSD,"16""",1550,New,https://mojitech.net/shop/laptops/hp-omen-16-slim-core-ultra-9-285h-rtx-5070-16gb-1tb-16/,1
 Mojitech,HP,Omen 16 Slim 16-an0000ne,Intel Ultra 9 285H,RTX 5060 8GB,16GB,512GB SSD,"16""",1649,New,https://mojitech.net/shop/laptops/hp-omen-16-slim-ultra-9-285h-rtx-5060-16gb-512gb-16-inch-gaming-laptop/,1
 Mojitech,HP,Omen 16t,Intel Core i9-14900HX,RTX 4080,32GB,2TB SSD,"16""",,New,https://mojitech.net/shop/laptops/hp-omen-16t-8x580av/,1
 Mojitech,HP,Gaming Omen 16T-WF000 912K8AV,Intel Core i9-14900HX,RTX 4080 8GB,32GB,2TB SSD,"16.1""",2415,New,https://mojitech.net/shop/laptops/hp-omen-16t-wf000-912k8av-gaming-laptop-i9-rtx-4080/,1
@@ -1267,11 +1257,11 @@ Mojitech,HP,Omen 17-DB1095CL,AMD Ryzen AI 7 350,RTX 5060 8GB,32GB,1TB SSD,"17.3"
 Mojitech,HP,Omen 17-DB1095CL,AMD Ryzen 9 365,RTX 5060 8GB,32GB,1TB SSD,"17.3""",1575,New,https://mojitech.net/shop/laptops/hp-omen-17-db1095cl-gaming-laptop/,1
 Mojitech,HP,OMEN,Intel Core i7-14650HX,RTX 5060,32GB,1TB SSD,"16""",1850,New,https://mojitech.net/shop/laptops/hp-omen-league-of-legends-ltd-ed-16-2k/,1
 Mojitech,HP,Omen MAX 16,Intel Ultra 9 275HX,RTX 5090,32GB,1TB SSD,"16""",,New,https://mojitech.net/shop/laptops/hp-omen-max-16-16t-ah000/,1
-Mojitech,HP,Omen MAX 16,Intel Ultra 9 275HX,RTX 5090 24GB,32GB,2GB SSD,"16""",3299,New,https://mojitech.net/shop/laptops/hp-omen-max-16-a4nl6av/,1
-Mojitech,HP,Omen MAX 16,Intel Ultra 9 275HX,RTX 5090 24GB,16GB,6GB SSD,"16""",2985,New,https://mojitech.net/shop/laptops/hp-omen-max-16-a4nq6av-002/,1
+Mojitech,HP,Omen MAX 16,Intel Ultra 9 275HX,RTX 5090 24GB,32GB,,"16""",3299,New,https://mojitech.net/shop/laptops/hp-omen-max-16-a4nl6av/,1
+Mojitech,HP,Omen MAX 16,Intel Ultra 9 275HX,RTX 5090 24GB,16GB,,"16""",2985,New,https://mojitech.net/shop/laptops/hp-omen-max-16-a4nq6av-002/,1
 Mojitech,HP,Omen MAX 16,Intel Ultra 7 255HX,RTX 5070,32GB,2TB SSD,"16""",,New,https://mojitech.net/shop/laptops/hp-omen-max-16-ah0021nf/,1
 Mojitech,HP,OMEN MAX 16-AH0043 GAMING B7HV2UAR#ABA,Intel Ultra 9 275HX,RTX 5080,32GB,2TB SSD,"16"" OLED",,New,https://mojitech.net/shop/laptops/hp-omen-max-16-ah0043-b7hv2uar-aba/,1
-Mojitech,HP,Omen MAX 16-ah0097nr,Intel Ultra 9 275HX,RTX 5080,32GB,2GB SSD,"16""",2695,New,https://mojitech.net/shop/laptops/hp-omen-max-16-ah0097nr-b64bnuaaba/,1
+Mojitech,HP,Omen MAX 16-ah0097nr,Intel Ultra 9 275HX,RTX 5080,32GB,,"16""",2695,New,https://mojitech.net/shop/laptops/hp-omen-max-16-ah0097nr-b64bnuaaba/,1
 Mojitech,HP,Omen MAX 16,Intel Ultra 9 275HX,RTX 5080,32GB,2TB SSD,"16""",,New,https://mojitech.net/shop/laptops/hp-omen-max-16-ah0995nd/,1
 Mojitech,HP,Omen MAX 16,AMD Ryzen AI 7 375,RTX 5070,32GB,1TB SSD,"16""",,New,https://mojitech.net/shop/laptops/hp-omen-max-16-ak0006nb/,1
 Mojitech,HP,Omen MAX 16,AMD Ryzen AI 7 350,RTX 5070 Ti,16GB,512GB SSD,"16""",,New,https://mojitech.net/shop/laptops/hp-omen-max-16-r7-5070ti/,1
@@ -1378,7 +1368,7 @@ Mojitech,Lenovo,21BR008GED ThinkPad T14s,Intel Core i7-1255U,Integrated,16GB,512
 Mojitech,Lenovo,"21E6007GUS 15.6"" ThinkPad Gen 4",Intel Core i7-1255U,Integrated,16GB,512GB SSD,"15.6""",959,New,https://mojitech.net/shop/laptops/lenovo-21e6007gus-15-6-thinkpad-gen-4-notebook-seller-lebanon/,1
 Mojitech,Lenovo,Flex 5 14IRU8,Intel Core i5-1335U,Integrated,16GB,512GB SSD,"14""",723,New,https://mojitech.net/shop/laptops/lenovo-flex-5-14iru8-core-i5-1335u-512gb-nvme-16gb-14-tax-included/,1
 Mojitech,Lenovo,Flex 5 16ABR8,AMD Ryzen 7 7730U,Integrated AMD Radeon,16GB,1TB SSD,"16""",779,New,https://mojitech.net/shop/laptops/lenovo-flex-5-16abr8-82xy002kus/,1
-Mojitech,Lenovo,IDEAPAD 3 15IAU7,Intel Core i7-1255U,Integrated,8GB,8GB SSD,"15.6""",544,New,https://mojitech.net/shop/laptops/lenovo-ideapad-3-15iau7-82rk00u5ak/,1
+Mojitech,Lenovo,IDEAPAD 3 15IAU7,Intel Core i7-1255U,Integrated,8GB,,"15.6""",544,New,https://mojitech.net/shop/laptops/lenovo-ideapad-3-15iau7-82rk00u5ak/,1
 Mojitech,Lenovo,IDEAPAD 5 2 IN 1 14AGP11 83UH0001US,AMD Ryzen AI 5 430,Integrated AMD Radeon,16GB,512GB SSD,"14"" touch",949,New,https://mojitech.net/shop/laptops/lenovo-ideapad-5-2-in-1-14agp11-ryzen-ai-5/,1
 Mojitech,Lenovo,IdeaPad 5 2-in-1 14IRU9,Intel Core 5 120U,Integrated,8GB,512GB SSD,"14"" touch",,New,https://mojitech.net/shop/laptops/lenovo-ideapad-5-2-in-1-14iru9-83dt0002us/,1
 Mojitech,Lenovo,IDEAPAD 5 2 IN 1 16 83KS001BUS,Intel Ultra 7 255U,Integrated,32GB,1TB SSD,"16"" touch",1339,New,https://mojitech.net/shop/laptops/lenovo-ideapad-5-2-in-1-16-ultra-7-255u-touch/,1
@@ -1467,12 +1457,11 @@ Mojitech,Lenovo,ThinkPad T16 Gen 1,AMD Ryzen 7,Integrated AMD Radeon,16GB,512GB 
 Mojitech,Lenovo,ThinkPad X1 Carbon,Intel Core i7-1355U,Integrated,32GB,2TB SSD,"14""",,New,https://mojitech.net/shop/laptops/lenovo-thinkpad-x1-carbon-21hms19q00-2/,1
 Mojitech,Lenovo,ThinkPad X1 Carbon Gen 11,Intel Core i7-1355U,Integrated,16GB,512GB SSD,"14""",1499,New,https://mojitech.net/shop/laptops/lenovo-thinkpad-x1-carbon-gen-11-core-i7-1355u-16gb-512gb-nvme-14-wuxga-tax-included/,1
 Mojitech,Lenovo,ThinkPad X1 Extreme,Intel Core i9-12900H,RTX 3080 Ti,32GB,1TB SSD,"16""",,New,https://mojitech.net/shop/laptops/lenovo-thinkpad-x1-extreme-21de001dus/,1
-Mojitech,Lenovo,ThinkPad Z16 Gen 1,AMD Ryzen 7,Integrated AMD Radeon,16GB,6GB SSD,"16""",838,New,https://mojitech.net/shop/laptops/lenovo-thinkpad-z16-gen-1-21d4001xca/,1
-Mojitech,Lenovo,"V15 IGL 15.6"" FHD",Intel Celeron,Integrated,4GB,4GB SSD,"15.6""",198,New,https://mojitech.net/shop/laptops/lenovo-v15-82c3001nak/,1
+Mojitech,Lenovo,ThinkPad Z16 Gen 1,AMD Ryzen 7,Integrated AMD Radeon,16GB,,"16""",838,New,https://mojitech.net/shop/laptops/lenovo-thinkpad-z16-gen-1-21d4001xca/,1
+Mojitech,Lenovo,"V15 IGL 15.6"" FHD",Intel Celeron,Integrated,4GB,,"15.6""",198,New,https://mojitech.net/shop/laptops/lenovo-v15-82c3001nak/,1
 Mojitech,Lenovo,V15 G3 IAP 82TT00JAAK,Intel Core i3-1215U,Integrated,4GB,256GB SSD,,,New,https://mojitech.net/shop/laptops/lenovo-v15-g3/,1
 Mojitech,Lenovo,V15 G3IAP,Intel Core i3-1215U,Integrated,8GB,256GB SSD,"15.6""",,New,https://mojitech.net/shop/laptops/lenovo-v15-g3iap-core-i3-1215u-8gb-256gb-nvme-15-6-fhd-tax-included/,1
 Mojitech,HP,OMEN MAX 16t-ah000,Intel Ultra 7 255HX,,16GB,512GB SSD,"16.0""",1775,New,https://mojitech.net/shop/laptops/lenovo-v15-g5-irl-laptop-2/,1
-Mojitech,Lenovo,"YOGA TABLET 2-IN-1 11.1"" ZAG60266US",Snapdragon,Integrated Adreno,12GB,2GB SSD,"11.1"" touch",589,New,https://mojitech.net/shop/laptops/lenovo-yoga-tablet-2in1-zag60266us-snapdragon8gen3/,1
 Mojitech,Lenovo,Legion S7 16IAH7,Intel Core i7-12700H,,8GB,1TB SSD,,1299,New,https://mojitech.net/shop/laptops/lenovo/legion-s7-16iah7-82tf009tdp/,1
 Mojitech,Lenovo,IdeaPad 1 15IAU7,Intel Core i5-1235U,Integrated,8GB,512GB SSD,"15.6""",,New,https://mojitech.net/shop/laptops/lenovo/lenovo-ideapad-1-15iau7-82qd00bsad/,1
 Mojitech,Lenovo,IdeaPad 1 15IAU7,Intel Core i5-1235U,Integrated,8GB,256GB SSD,"15.6""",,New,https://mojitech.net/shop/laptops/lenovo/lenovo-ideapad-1-15iau7-82qd00gnus/,1
@@ -1502,7 +1491,6 @@ Mojitech,Microsoft,Surface,Snapdragon X Plus,Integrated Adreno,16GB,512GB SSD,"1
 Mojitech,Microsoft,Surface Pro 9,Intel Core i7,Integrated,16GB,1TB SSD,"13"" touch",,New,https://mojitech.net/shop/laptops/microsoft-surface-pro-9-2/,1
 Mojitech,Microsoft,Surface Pro 9,Intel Core i7-1255U,Integrated,16GB,512GB SSD,"13"" touch",,New,https://mojitech.net/shop/laptops/microsoft-surface-pro-9-3/,1
 Mojitech,Microsoft,Microsoft Surface PRO 9 VQ1-0001,Intel Core i7-1255U,Integrated,16GB,,,2150,New,https://mojitech.net/shop/laptops/microsoft-surface-pro-9-vq1-0001-seller-lebanon/,1
-Mojitech,MSI,Claw AIM-229US Handheld Portable Gaming Console,Intel Ultra 7 155U,Integrated Intel Arc,16GB,6GB SSD,,719,New,https://mojitech.net/shop/laptops/msi-claw-aim-229us-intel-arc-7-120hz/,1
 Mojitech,MSI,CROSSHAIR 16 GAMING E14WGK-038US,Intel Core i9-14900HX,RTX 5070,16GB,512GB SSD,"16""",1689,New,https://mojitech.net/shop/laptops/msi-crosshair-16-e14wgk-038us-i9-14900hx-rtx-5070-16gb-512gb/,1
 Mojitech,MSI,Crosshair 16 HX,Intel Core i7-14650HX,RTX 4070 8GB,16GB,1TB SSD,"16""",1289,New,https://mojitech.net/shop/laptops/msi-crosshair-16-hx-d14vgkg-057us/,1
 Mojitech,MSI,CROSSHAIR 16 Max 9S7-26532-028,Intel Ultra 9 290HX,RTX 5070,32GB,1TB SSD,"16""",2659,New,https://mojitech.net/shop/laptops/msi-crosshair-16-max-9s7-26532-028-ultra-9-rtx-5070-32gb-1tb/,1
@@ -1554,9 +1542,9 @@ Mojitech,MSI,VENTURE 16 AI A2HMTG-015,Intel Ultra 9 285H,Integrated,32GB,1TB SSD
 Mojitech,MSI,VenturePro 15 A2RWFG,Intel Core i7,RTX 5060 8GB,16GB,512GB SSD,"15.6""",1149,New,https://mojitech.net/shop/laptops/msi-venturepro-15-a2rwfg-laptop/,1
 Mojitech,MSI,GF63 Thin,Intel Core i7-12650H,RTX 3050,16GB,512GB SSD,"15.6""",964,New,https://mojitech.net/shop/laptops/msi/msi-gf63-thin-core-i7-12650h-16gb-512gb-ssd-rtx-3050-15-6%e2%80%b3/,1
 Mojitech,MSI,Katana 15,Intel Core i7-12650H,RTX 4070,16GB,1TB SSD,"15.6""",,New,https://mojitech.net/shop/laptops/msi/msi-katana-15-katana1512813/,1
-Mojitech,Nec,Versa Pro,Intel Celeron,Integrated,4GB,4GB SSD,"11.6"" touch",145,New,https://mojitech.net/shop/laptops/nec-versa-pro-vee11r5d64g9/,1
-Mojitech,Nec,VERSAPRO VEE11,Intel Celeron,Integrated,4GB,4GB SSD,"11.6"" touch",148,New,https://mojitech.net/shop/laptops/nec-versapro-vee11-laptop-intel-n5100-touch-x360/,1
-Mojitech,Nec,VERSAPRO VEE11,Intel Celeron,Integrated,8GB,4GB SSD,"11.6"" touch",148,New,https://mojitech.net/shop/laptops/nec-versapro-vee11-n5100-8gb-64gb-touch/,1
+Mojitech,Nec,Versa Pro,Intel Celeron,Integrated,4GB,,"11.6"" touch",145,New,https://mojitech.net/shop/laptops/nec-versa-pro-vee11r5d64g9/,1
+Mojitech,Nec,VERSAPRO VEE11,Intel Celeron,Integrated,4GB,,"11.6"" touch",148,New,https://mojitech.net/shop/laptops/nec-versapro-vee11-laptop-intel-n5100-touch-x360/,1
+Mojitech,Nec,VERSAPRO VEE11,Intel Celeron,Integrated,8GB,,"11.6"" touch",148,New,https://mojitech.net/shop/laptops/nec-versapro-vee11-n5100-8gb-64gb-touch/,1
 Mojitech,Razer,Blade 14 RZ09-05306ES3-R3U1,AMD Ryzen AI 9 365,RTX 5070 8GB,32GB,1TB SSD,"14""",2589,New,https://mojitech.net/shop/laptops/razer-blade-14-ryzen-ai-9-rtx-5070-gaming-laptop-rz09-05306es3-r3u1/,1
 Mojitech,Razer,Blade 14,AMD Ryzen 9 8945HS,RTX 4070,32GB,1TB SSD,"14""",,New,https://mojitech.net/shop/laptops/razer-blade-14-rz09-05081ed3-r3u1/,1
 Mojitech,Samsung,Galaxy Book 4 Edge,Snapdragon X Elite,Integrated Adreno,16GB,1TB SSD,"16""",,New,https://mojitech.net/shop/laptops/samsung-galaxy-book-4-edge-np960xmb-k-b1us/,1
@@ -1647,7 +1635,6 @@ DSLR Zone,Apple,14″ MacBook Pro,Apple M5 Pro,Apple GPU,24GB,2TB SSD,"14""",324
 DSLR Zone,Apple,MacBook Pro 14″,Apple M5,Apple GPU,16GB,512GB SSD,"14""",2099,New,https://www.dslr-zone.com/product/apple-macbook-pro-14-m5-chip/,1
 DSLR Zone,Apple,MacBook Pro 16″ M5 Max Chip,Apple M5 Max,Apple GPU,36GB,2TB SSD,"16""",4799,New,https://www.dslr-zone.com/product/apple-macbook-pro-16-m5-max-chip-36gb/,1
 DSLR Zone,ASUS,ProArt PZ13 HT5306,Snapdragon X Plus,Integrated Adreno,16GB,1TB SSD,,1225,New,https://www.dslr-zone.com/product/asus-proart-pz13-ht5306-snapdragon-x-plus-16gb-ram-1tb-ssd-adreno-gpu/,1
-DSLR Zone,ASUS,ROG Flow Z13 2025 Gaming Tablet,AMD Ryzen AI Max+ 395,,32GB,1TB SSD,"13.4"" touch",2275,New,https://www.dslr-zone.com/product/asus-rog-flow-z13-2025-gaming-tablet-ryzen-ai-max-395-32gb-ram-1tb-ssd-amd-radeon-8060s-13-4-2-5k-180hz-touch/,1
 DSLR Zone,ASUS,ROG Flow Z13 13.4″ Detachable Touchscreen,AMD Ryzen AI Max+ 395,,64GB,1TB SSD,"13.4"" touch",2550,New,https://www.dslr-zone.com/product/asus-rog-flow-z13-detachable-touchscreen-gaming-laptop-amd-ryzen-ai-max-395-64gb-ram-1tb-ssd-amd-radeon-8060s/,1
 DSLR Zone,ASUS,ROG Strix 18 Volt Green,Intel Ultra 9,RTX 5070 Ti 12GB,32GB,2TB SSD,"18""",3100,New,https://www.dslr-zone.com/product/asus-rog-strix-18-volt-green-gaming-laptop-core-ultra-9-32gb-ram-2tb-ssd-rtx-5070-ti-12gb-18-2-5k-240hz-2-year-warranty/,1
 DSLR Zone,ASUS,ROG Strix G16,AMD Ryzen 9 8940HX,RTX 5070 8GB,16GB,1TB SSD,,1950,New,https://www.dslr-zone.com/product/asus-rog-strix-g16-2025-g614pp-ryzen-9-8940hx-16gb-ram-1tb-ssd-rtx-5070-8gb/,1
@@ -1678,7 +1665,6 @@ DSLR Zone,Dell,Inspiron 15 Plus,Intel Ultra 7 255U,Integrated,16GB,1TB SSD,"15.6
 DSLR Zone,Dell,Inspiron 16 5640,Intel Core 7 150U,Integrated,32GB,1TB SSD,,1125,New,https://www.dslr-zone.com/product/dell-inspiron-16-5640-core-7-150u-32gb-ram-1tb-ssd/,1
 DSLR Zone,Dell,Inspiron Plus 16 7640,Intel Ultra 9 288V,Integrated Intel Arc,32GB,1TB SSD,"16"" touch",1349,New,https://www.dslr-zone.com/product/dell-inspiron-plus-16-7640-intel-core-ultra-9-288v-32gb-lpddr5x-1tb-ssd-16-fhd-touch-intel-arc-copilot-pc-ice-blue/,1
 DSLR Zone,Dell,Latitude 5420 Rugged,Intel Core i5-8350U,Integrated,8GB,256GB SSD,"14""",399,Used,https://www.dslr-zone.com/product/dell-latitude-5420-rugged-core-i5-8350u-14-field-laptop-quality-used-laptop/,1
-DSLR Zone,Dell,Latitude 7030 Rugged Extreme,Intel Core i5-1240U,Integrated,32GB,256GB SSD,"10.1"" touch",649,Used,https://www.dslr-zone.com/product/dell-latitude-7030-rugged-extreme-intel-core-i5-1240u-10-1-outdoor-touch-tablet/,1
 DSLR Zone,Dell,Latitude 7350 2-in-1,Intel Ultra 5 135U,Integrated,16GB,256GB SSD,"13.3"" touch",549,Used,https://www.dslr-zone.com/product/dell-latitude-7350-2-in-1-intel-core-ultra-5-135u-13-3-touch-convertible/,1
 DSLR Zone,Dell,Latitude 9420,Intel Core i7,Integrated,16GB,256GB SSD,"14"" touch",499,Used,https://www.dslr-zone.com/product/dell-latitude-9420-intel-core-i7-1185g7-14-qhd-touch-business-laptop-quality-used-laptop/,1
 DSLR Zone,Dell,Latitude 9440 2-in-1,Intel Core i5-1345U,Integrated,16GB,256GB SSD,"14"" touch",699,Used,https://www.dslr-zone.com/product/dell-latitude-9440-2-in-1-intel-core-i5-1345u-14-qhd-touch-convertible-quality-used-laptop/,1
@@ -2073,16 +2059,16 @@ Options Megastore,Lenovo,LOQ 15AHP9,AMD Ryzen 7 7445HS,RTX 3050 6GB,16GB,512GB S
 Options Megastore,ASUS,ROG Zephyrus G16 GU605CX,Intel Ultra 9 285H,RTX 5090 24GB,64GB,2TB SSD,,4999,New,https://optionsmegastore.com/gaming-laptops/2562-asus-rog-zephyrus-g16-gu605cx-rtx-5090,1
 Options Megastore,Acer,Nitro V 15 ANV15,Intel Core 7 240H,RTX 4050 16GB,16GB,512GB SSD,,1070,New,https://optionsmegastore.com/gaming-laptops/2563-acer-nitro-15-anv15-core-7-240h-rtx-4050,1
 Options Megastore,Dell,Alienware 16 Aurora,Intel Core 7 240H,RTX 5050 16GB,16GB,1TB SSD,,1299,New,https://optionsmegastore.com/gaming-laptops/2564-dell-alienware-16-aurora-ac16250-core-7-240h-rtx-5050,1
-Options Megastore,HP,14 Pentium Silver N5030 1.1GHz,Intel Pentium,Integrated,128GB,128GB SSD,"14""",355,New,https://optionsmegastore.com/laptops/1323-hp-notebook-14-quad-core-pentium,1
-Options Megastore,HP,14-DQ3005 Pentium® Silver N6000,Intel Pentium,Integrated,4GB,4GB SSD,"14""",333,New,https://optionsmegastore.com/laptops/1380-hp-14-dq3005-pentium-silver,1
-Options Megastore,Gateway,GWTN156,AMD Ryzen 3,Integrated AMD Radeon,128GB,128GB SSD,"15.6""",299,New,https://optionsmegastore.com/laptops/1431-gateway-gwtn156-ultra-slim-ryzen-3,1
+Options Megastore,HP,14 Pentium Silver N5030 1.1GHz,Intel Pentium,Integrated,,128GB SSD,"14""",355,New,https://optionsmegastore.com/laptops/1323-hp-notebook-14-quad-core-pentium,1
+Options Megastore,HP,14-DQ3005 Pentium® Silver N6000,Intel Pentium,Integrated,4GB,,"14""",333,New,https://optionsmegastore.com/laptops/1380-hp-14-dq3005-pentium-silver,1
+Options Megastore,Gateway,GWTN156,AMD Ryzen 3,Integrated AMD Radeon,4GB,128GB SSD,"15.6""",299,New,https://optionsmegastore.com/laptops/1431-gateway-gwtn156-ultra-slim-ryzen-3,1
 Options Megastore,HP,17-CN2000,Intel Core i5-1235U,Integrated,16GB,256GB SSD,"17.3""",655,New,https://optionsmegastore.com/laptops/1440-hp-17-cn2000-core-i5-1235u-256gb,1
 Options Megastore,HP,Pavilion x360 15 2-IN-1,Intel Core i5-1235U,Integrated,8GB,256GB SSD,"15.6"" touch",733,New,https://optionsmegastore.com/laptops/1458-hp-pavilion-x360-15-2-in-1-core-i5,1
 Options Megastore,HP,15-DY5003,Intel Core i5-1235U,Integrated,8GB,512GB SSD,"15.6"" touch",645,New,https://optionsmegastore.com/laptops/1472-hp-15-dy5003-core-i5-1235u,1
 Options Megastore,HP,15-EF1183,AMD Ryzen 7 5700u,Integrated AMD Radeon,8GB,256GB SSD,"15.6""",749,New,https://optionsmegastore.com/laptops/1473-hp-15-ef1183-amd-ryzen-7-5700u,1
 Options Megastore,HP,Envy 13-AQ1001,Intel Core i5,Integrated,8GB,512GB SSD,"13.3""",665,New,https://optionsmegastore.com/laptops/1475-hp-envy-13-aq1001-core-i5-1035g1,1
 Options Megastore,HP,Envy x360 15-EY 2-IN-1,AMD Ryzen 7,Integrated AMD Radeon,16GB,1TB SSD,"15.6"" touch",855,New,https://optionsmegastore.com/laptops/1482-hp-envy-x360-15-ey-2-in-1-amd,1
-Options Megastore,Lenovo,3 15IGL05 Pentium® Silver N5030,Intel Pentium,Integrated,128GB,128GB SSD,"15.6""",378,New,https://optionsmegastore.com/laptops/1498-lenovo-3-pentium-silver,1
+Options Megastore,Lenovo,3 15IGL05 Pentium® Silver N5030,Intel Pentium,Integrated,,128GB SSD,"15.6""",378,New,https://optionsmegastore.com/laptops/1498-lenovo-3-pentium-silver,1
 Options Megastore,HP,15-FD0083 Pentium® N200,Intel Pentium,Integrated,4GB,128GB SSD,"15.6""",367,New,https://optionsmegastore.com/laptops/1503-hp-15-fd0083-pentium-n200-128gb,1
 Options Megastore,HP,14 Quad,Intel Pentium,Integrated,4GB,256GB SSD,"14""",385,New,https://optionsmegastore.com/laptops/1507-hp-laptop-14-quad-core-pentium,1
 Options Megastore,Acer,3 SPIN  2-IN-1,Intel Core i3-N305,Integrated,8GB,256GB SSD,"14"" touch",450,New,https://optionsmegastore.com/laptops/1509-acer-3-spin-2-in-1-core-i3-n305,1
@@ -2110,7 +2096,7 @@ Options Megastore,Dell,Latitude 7320 DETACHABLE,Intel Core i7,Integrated,16GB,1T
 Options Megastore,Acer,SWIFT GO,Intel Core i7-1355U,Integrated,16GB,512GB SSD,"14"" touch",710,New,https://optionsmegastore.com/laptops/1563-acer-swift-go,1
 Options Megastore,ASUS,Vivobook S 14 FLIP,AMD Ryzen 7 7730u,Integrated AMD Radeon,8GB,512GB SSD,"14"" touch",830,New,https://optionsmegastore.com/laptops/1564-vivobook-s-14-flip,1
 Options Megastore,Lenovo,LOQ 15IAX9,Intel Core i5-12450HX,,16GB,512GB SSD,"15.6""",680,New,https://optionsmegastore.com/laptops/1568-lenovo-loq-15iax9,1
-Options Megastore,Lenovo,"V15 G4 IRU 15.6""",Intel Core i3-1315U,Integrated,8GB,8GB SSD,"15.6""",550,New,https://optionsmegastore.com/laptops/1571-lenovo-v15-g4,1
+Options Megastore,Lenovo,"V15 G4 IRU 15.6""",Intel Core i3-1315U,Integrated,8GB,,"15.6""",550,New,https://optionsmegastore.com/laptops/1571-lenovo-v15-g4,1
 Options Megastore,Lenovo,IdeaPad Slim 3,Intel Core i3-1305U,Integrated,8GB,256GB SSD,"15.6""",399,New,https://optionsmegastore.com/laptops/1572-ideapad-slim-3,1
 Options Megastore,Lenovo,V15 83C40005PB,Intel Core i5-1235U,Integrated,8GB,512GB SSD,,560,New,https://optionsmegastore.com/laptops/1573-lenovo-laptop-v15,1
 Options Megastore,Lenovo,IdeaPad Slim 3 15IRH8,Intel Core i7-13620H,Integrated,16GB,512GB SSD,"15.6""",660,New,https://optionsmegastore.com/laptops/1574-ideapad-slim-3-h,1
@@ -2313,7 +2299,6 @@ Techno Media Trade,Acer,NITRO LITE,Intel Core i7-13620H,RTX 3050 6GB,16GB,512GB 
 Techno Media Trade,Acer,Nitro V15 ANV15-52-778V,Intel Core i7-13620H,RTX 5050 8GB,16GB,512GB SSD,"15.6""",1249,New,https://technomediatrade.com/product/acer-nitro-v15-anv15-52-778v-i7-13620h-16gb-512gb-nvme-15-6-inch-165hz-rtx-5050-8gb-w11/,1
 Techno Media Trade,Acer,Predator Helios Neo 18 AI,Intel Ultra 9 275HX,RTX 5070 Ti 12GB,32GB,2TB SSD,"18""",2875,New,https://technomediatrade.com/product/acer-predator-helios-neo-18-ai-ultra-9-275hx-32gb-2tb-nvme-18-inch-240hz-rtx5070ti-12gb/,1
 Techno Media Trade,Dell,Alienware 16 Aura AC16250,Intel Core 7 240H,RTX 5050 8GB,16GB,512GB SSD,"16""",1300,New,https://technomediatrade.com/product/alienware-16-aura-rtx-5050-gaming-laptop-lebanon/,1
-Techno Media Trade,Apple,iPad Air MV6T3LL,Apple M2,Apple GPU,8GB,128GB SSD,"13""",730,New,https://technomediatrade.com/product/apple-ipad-air-mv6t3ll-13-inch-m2-wi-fi-cellular-8gb-ram-128gb-ssd-starlight/,1
 Techno Media Trade,Apple,MacBook Pro A1398,Intel Core i7,Apple GPU,16GB,256GB SSD,"15""",299,New,https://technomediatrade.com/product/apple-macbook-pro-a1398-15-inch-i7-16gb-256gb-ssd/,1
 Techno Media Trade,ASUS,ExpertBook B3,Snapdragon,Integrated Adreno,4GB,128GB SSD,"10.5""",300,New,https://technomediatrade.com/product/asus-expertbook-b3-qualcomm-snapdragon-gen-2-4gb-128gb-nvme-10-5-inch-wuxga-ts-windows-11/,1
 Techno Media Trade,ASUS,ROG Flow Z13 90NROJY1-M006Z0,AMD Ryzen AI Max+ 395,,64GB,1TB SSD,"13.4"" touch",2650,Open box,https://technomediatrade.com/product/asus-rog-flow-z13-90nrojy1-m006z0-ryzen-ai-max-395-64gb-ob-1tb-13-4-inch-2-5k-180hz-touchscreen-windows-11/,1
@@ -2392,7 +2377,7 @@ Laptops King,Dell,16 DC16250,Intel Core 7 150U,Integrated,16GB,1TB SSD,"16"" tou
 Laptops King,Dell,Inspiron 15 3535,AMD Ryzen 7 7730U,Integrated AMD Radeon,16GB,512GB SSD,"15.6"" touch",555,Open box,https://laptopsking.com/products/dell-inspiron-15-3535-ryzen-7-7730u-vga-radeon-15-6-fhd-touchscreen-laptop-open-box,1
 Laptops King,Dell,Inspiron 15 LDC15250-5434BLK-PUS,Intel Core i5-1334U,Integrated,8GB,512GB SSD,"15.6"" touch",699,New,https://laptopsking.com/products/dell-inspiron-15-ldc15250-5434blk-pus-laptop-intel-core-i5-1334u-intel-graphics-8gb-ram-512gb-nvme-15-6-fhd-touchscreen-new,1
 Laptops King,Dell,Inspiron I7440-5647BLU-PUS,Intel Core 5 120U,Integrated,16GB,512GB SSD,"14"" touch",955,New,https://laptopsking.com/products/dell-inspiron-i7440-5647blu-pus-laptop-core-5-120u-16gb-ddr5-onboard-512gb-nvme-14-inch-2k-x360-touchscreen,1
-Laptops King,Dell,Latitude 3300,Intel Core i3-7020U,Integrated,8GB,6GB SSD,"14""",155,Open box,https://laptopsking.com/products/dell-latitude-3300-core-i3-gen-7-14-laptops-open-box-with-warranty,1
+Laptops King,Dell,Latitude 3300,Intel Core i3-7020U,Integrated,8GB,,"14""",155,Open box,https://laptopsking.com/products/dell-latitude-3300-core-i3-gen-7-14-laptops-open-box-with-warranty,1
 Laptops King,Dell,Latitude 3310 2-in-1,Intel Core i3,Integrated,8GB,256GB SSD,"13.3"" touch",199,Used,https://laptopsking.com/products/dell-latitude-3310-2-in-1-core-i3-8th-gen-8gb-ram-256gb-ssd-touch-laptop-13-3-used,1
 Laptops King,Dell,Latitude 5320 2-in-1,Intel Core i5,Integrated,16GB,256GB SSD,,355,Open box,https://laptopsking.com/products/dell-latitude-5320-2-in-1-core-i5-11th-gen-16gb-ram-256gb-ssd-touch-laptop,1
 Laptops King,Dell,Latitude 5420,Intel Core i7,Integrated,16GB,256GB SSD,"14.1""",355,Open box,https://laptopsking.com/products/dell-latitude-5420-core-i7-11th-gen-16gb-ram-256gb-ssd-business-laptop-14-1-open-box,1
@@ -2418,7 +2403,7 @@ Laptops King,HP,15-FD0130WM,Intel Core i3-N305,Integrated,8GB,256GB SSD,"15.6"" 
 Laptops King,HP,15-FD0133WM,Intel Core i3-N305,Integrated,8GB,256GB SSD,"15.6""",539,New,https://laptopsking.com/products/hp-15-fd0133wm-laptop-core-i3-n305-8gb-ddr4-256gb-nvme-15-6-inch-fhd,1
 Laptops King,HP,15-FD0153DX,Intel Core i3-1315U,Integrated,8GB,256GB SSD,"15.6"" touch",575,New,https://laptopsking.com/products/hp-15-fd0153dx-laptop-core-i3-1315u-8gb-ddr4-256gb-nvme-15-6-inch-1366-x-768-touchscreen,1
 Laptops King,HP,17 B3ER6AV,Intel Ultra 5 225U,Integrated,8GB,256GB SSD,"17.3""",825,New,https://laptopsking.com/products/hp-17-b3er6av-core-ultra-5-225u-8gb-ram-256gb-ssd-laptop-17-3-inch-new,1
-Laptops King,HP,17-CN3,Intel Core i5-1335U,Integrated,8GB,2GB SSD,"17""",499,Open box,https://laptopsking.com/products/hp-17-cn3-core-i5-1335u-iris-xe-17-inch-laptop-offers-new-ob,1
+Laptops King,HP,17-CN3,Intel Core i5-1335U,Integrated,8GB,,"17""",499,Open box,https://laptopsking.com/products/hp-17-cn3-core-i5-1335u-iris-xe-17-inch-laptop-offers-new-ob,1
 Laptops King,HP,17-CP2025DX,AMD Ryzen 5 7520U,Integrated AMD Radeon,8GB,512GB SSD,"17.3""",675,New,https://laptopsking.com/products/hp-17-cp2025dx-laptop-amd-ryzen-5-7520u-8gb-ddr5-onboard-512gb-nvme-17-3-inch-fhd,1
 Laptops King,HP,17T-CN500,Intel Ultra 5,Integrated,16GB,256GB SSD,"17.3""",555,New,https://laptopsking.com/products/hp-17t-cn500-core-ultra-5-16gb-ram-256gb-ssd-laptop-17-3-new,1
 Laptops King,HP,250R G9 B39ZCAT,Intel Core 5 120U,Integrated,8GB,512GB SSD,"15.6""",655,New,https://laptopsking.com/products/hp-250r-g9-b39zcat-laptop-core-5-120u-8gb-ddr4-512gb-nvme-15-6-inch-fhd,1
