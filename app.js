@@ -32,13 +32,15 @@
   const blank = () => ({
     q: "", form: "All", stores: new Set(), brands: new Set(), cpus: new Set(), gpus: new Set(),
     uses: new Set(), conds: new Set(), gpuKind: "any", ramMin: 0, storageMin: 0, screen: "any",
-    pmin: null, pmax: null, pricedOnly: false, steals: false,
+    pmin: null, pmax: null, pricedOnly: false, steals: false, favs: false,
   });
   let S = blank();
   let sort = "price-asc";
   let view = store("specs.view") === "table" ? "table" : "cards";
   let tableSort = null; // {key, dir}
   const compare = [];
+  const favs = new Set((() => { try { return JSON.parse(store("specs.favs") || "[]"); } catch (e) { return []; } })());
+  const saveFavs = () => store("specs.favs", JSON.stringify([...favs]));
 
   // ---------- filtering ----------
   function haystack(p) {
@@ -80,6 +82,7 @@
     }
     if (skip !== "form" && S.form !== "All" && p.form !== S.form) return false;
     if (S.steals && !p.steal) return false;
+    if (S.favs && !favs.has(p.id)) return false;
     if (skip !== "store" && S.stores.size && !S.stores.has(p.store)) return false;
     if (skip !== "brand" && S.brands.size && !S.brands.has(p.brand)) return false;
     if (skip !== "cpu" && S.cpus.size && !S.cpus.has(p.cpuFamily)) return false;
@@ -211,7 +214,7 @@
 
   function priceHTML(p) {
     return p.price != null
-      ? `<div class="price"><small>USD</small>${Math.round(p.price).toLocaleString("en-US")}</div>`
+      ? `<div class="price"><small>USD</small>${Math.round(p.price).toLocaleString("en-US")}<span class="mana" title="At about $1.25 per za'atar manoushe">≈ ${Math.round(p.price / 1.25).toLocaleString("en-US")} manakish 🫓</span></div>`
       : `<div class="price none">Price on the ad</div>`;
   }
 
@@ -259,7 +262,8 @@
     return `<article class="card${picked ? " picked" : ""}">
       <div class="card-top">
         <div class="eyebrow"><span class="who">${esc(p.brand)} · ${esc(p.form)}</span>
-          <label class="cmp" for="c-${p.id}"><input type="checkbox" id="c-${p.id}" data-cmp="${p.id}"${picked ? " checked" : ""}>Compare</label></div>
+          <span class="acts"><button type="button" class="ico-btn fav" data-fav="${p.id}" aria-pressed="${favs.has(p.id)}" aria-label="Save to favourites" title="Save to favourites">${favs.has(p.id) ? "❤️" : "🤍"}</button><button type="button" class="ico-btn" data-share="${p.id}" aria-label="Share" title="Share this laptop">🔗</button>
+          <label class="cmp" for="c-${p.id}"><input type="checkbox" id="c-${p.id}" data-cmp="${p.id}"${picked ? " checked" : ""}>Compare</label></span></div>
         <h3>${esc(p.name)}</h3>
         <div class="badges">${badges(p)}</div>
       </div>
@@ -322,6 +326,7 @@
     if (S.screen !== "any") add(SCREENS.find((s) => s.id === S.screen).label, () => { S.screen = "any"; });
     if (S.pmin != null) add(`From ${money(S.pmin)}`, () => { S.pmin = null; $("pmin").value = ""; });
     if (S.pmax != null) add(`Up to ${money(S.pmax)}`, () => { S.pmax = null; $("pmax").value = ""; });
+    if (S.favs) add("❤️ Favourites", () => { S.favs = false; });
     if (S.steals) add("🔥 Steals only", () => { S.steals = false; });
     if (S.pricedOnly) add("Priced only", () => { S.pricedOnly = false; $("priced").checked = false; });
     chipClears = out.map((c) => c.clear);
@@ -345,6 +350,8 @@
     }
     renderTray();
     $("steals-btn").setAttribute("aria-pressed", S.steals);
+    $("favs-btn").setAttribute("aria-pressed", S.favs);
+    $("favs-btn").querySelector(".n").textContent = favs.size || "";
   }
 
   // ---------- compare ----------
@@ -540,6 +547,202 @@
     S.steals = !S.steals;
     if (S.steals) { sort = "price-asc"; $("sort").value = sort; const r = e.currentTarget.getBoundingClientRect(); confetti(r.left + r.width / 2, r.top); }
     render();
+  });
+
+  // ---------- more fun ----------
+  function toast(msg) {
+    const t = document.createElement("div");
+    t.className = "toast"; t.textContent = msg;
+    document.body.appendChild(t);
+    setTimeout(() => t.classList.add("out"), 2200);
+    setTimeout(() => t.remove(), 2700);
+  }
+  function rain(emoji, n = 40) {
+    if (calm) return toast(emoji.repeat(5));
+    for (let i = 0; i < n; i++) {
+      const e = document.createElement("span");
+      e.className = "rain"; e.textContent = emoji;
+      e.style.cssText = `left:${Math.random() * 100}vw;font-size:${18 + Math.random() * 26}px;animation-duration:${1.8 + Math.random() * 1.8}s;animation-delay:${Math.random() * 900}ms`;
+      document.body.appendChild(e);
+      setTimeout(() => e.remove(), 4800);
+    }
+  }
+
+  const FD = $("fun-dialog");
+  function openFun(title, html) {
+    $("fun-title").textContent = title;
+    $("fun-body").innerHTML = html;
+    if (!FD.open) FD.showModal ? FD.showModal() : FD.setAttribute("open", "");
+    $("fun-body").scrollTop = 0;
+  }
+  const closeFun = () => (FD.close ? FD.close() : FD.removeAttribute("open"));
+  $("fun-close").addEventListener("click", closeFun);
+
+  // favourites, share and compare from any card on the page (results, spin, dialogs)
+  document.addEventListener("click", (e) => {
+    const f = e.target.closest("[data-fav]");
+    if (f) {
+      const id = f.dataset.fav, on = !favs.has(id);
+      on ? favs.add(id) : favs.delete(id);
+      saveFavs();
+      document.querySelectorAll(`[data-fav="${CSS.escape(id)}"]`).forEach((b) => { b.textContent = on ? "❤️" : "🤍"; b.setAttribute("aria-pressed", on); });
+      $("favs-btn").querySelector(".n").textContent = favs.size || "";
+      if (on) { const r = f.getBoundingClientRect(); confetti(r.left + r.width / 2, r.top); toast("Saved to favourites ❤️"); }
+      if (S.favs && !on) render();
+      return;
+    }
+    const sh = e.target.closest("[data-share]");
+    if (sh) {
+      const p = byId.get(sh.dataset.share);
+      const url = location.href.split("#")[0] + "#p=" + encodeURIComponent(p.id);
+      const text = `${fullName(p)}${p.price != null ? " for " + money(p.price) : ""} at ${p.store}`;
+      if (navigator.share) navigator.share({ title: "Specs.lb", text, url }).catch(() => {});
+      else if (navigator.clipboard) navigator.clipboard.writeText(text + " " + url).then(() => toast("Link copied 🔗"), () => toast(url));
+      else toast(url);
+    }
+  });
+  $("fun-body").addEventListener("change", (e) => {
+    const id = e.target.dataset && e.target.dataset.cmp;
+    if (id) toggleCompare(id, e.target.checked);
+  });
+  $("favs-btn").addEventListener("click", () => {
+    if (!favs.size) return toast("Tap 🤍 on any laptop to save it here");
+    S.favs = !S.favs; render();
+  });
+  // open a shared laptop
+  (function sharedLink() {
+    const m = location.hash.match(/^#p=(.+)$/);
+    const p = m && byId.get(decodeURIComponent(m[1]));
+    if (p) setTimeout(() => openFun("Someone shared this laptop with you 👀", `<div class="grid one">${card(p)}</div>`), 300);
+  })();
+
+  // ---- Find my laptop quiz ----
+  const QUIZ = [
+    { q: "What will you mostly do with it?", k: "use", a: [["🎮", "Gaming", "game"], ["📚", "School & browsing", "school"], ["💼", "Work & office", "work"], ["🎨", "Video, photo & 3D", "create"]] },
+    { q: "What's your budget?", k: "budget", a: [["🪙", "Under $500", 500], ["💵", "Up to $900", 900], ["💰", "Up to $1,500", 1500], ["🤑", "Money is no object", null]] },
+    { q: "Which size feels right?", k: "size", a: [["🎒", "Small & light (14\" or less)", "s"], ["💻", "Standard (15–16\")", "m"], ["🖥️", "Big screen (17\"+)", "l"], ["🤷", "Don't care", "any"]] },
+    { q: "New or second-hand?", k: "cond", a: [["✨", "Brand new only", "new"], ["♻️", "Used is fine if cheaper", "any"]] },
+  ];
+  let quizAns = {};
+  function quizStep(i) {
+    if (i >= QUIZ.length) return quizDone();
+    const st = QUIZ[i];
+    openFun("🧭 Find my laptop", `<div class="quiz"><div class="quiz-prog"><i style="width:${(i / QUIZ.length) * 100}%"></i></div>
+      <p class="quiz-n">Question ${i + 1} of ${QUIZ.length}</p><h4>${st.q}</h4>
+      <div class="quiz-opts">${st.a.map((a, j) => `<button type="button" class="quiz-opt" data-qi="${i}" data-qa="${j}"><span>${a[0]}</span>${esc(a[1])}</button>`).join("")}</div></div>`);
+  }
+  function quizDone() {
+    const a = quizAns;
+    S = blank(); $("q").value = ""; $("pmin").value = ""; $("priced").checked = false;
+    if (a.use === "game") { S.uses.add("Gaming"); S.gpuKind = "Dedicated"; }
+    if (a.use === "school") S.uses.add("Everyday & Business");
+    if (a.use === "work") { S.uses.add("Everyday & Business"); S.ramMin = 8; }
+    if (a.use === "create") { S.ramMin = 16; S.gpuKind = "Dedicated"; }
+    S.pmax = a.budget; $("pmax").value = a.budget || "";
+    S.screen = a.size;
+    if (a.cond === "new") S.conds.add("New");
+    S.pricedOnly = true; $("priced").checked = true;
+    sort = a.use === "game" || a.use === "create" ? "gpu" : "price-asc"; $("sort").value = sort;
+    let list = ALL.filter((p) => matches(p));
+    if (!list.length && S.screen !== "any") { S.screen = "any"; list = ALL.filter((p) => matches(p)); }
+    render();
+    const best = list.sort(SORTS[sort])[0];
+    openFun("🎉 Your matches", best
+      ? `<p class="quiz-n"><b>${list.length}</b> laptops fit you. They're now shown on the page. Here's our top pick:</p><div class="grid one">${card(best)}</div><p style="text-align:center"><button type="button" class="btn primary" data-see-all>See all ${list.length} matches</button></p>`
+      : `<p>No laptop fits all of that right now 😅. Try a bigger budget or another size.</p><p style="text-align:center"><button type="button" class="btn primary" data-quiz>Try again</button></p>`);
+    if (best) { const r = $("fun-body").getBoundingClientRect(); confetti(r.left + r.width / 2, r.top + 40); }
+  }
+  $("quiz-btn").addEventListener("click", () => { quizAns = {}; quizStep(0); });
+  $("fun-body").addEventListener("click", (e) => {
+    const o = e.target.closest(".quiz-opt");
+    if (o) { const i = +o.dataset.qi; quizAns[QUIZ[i].k] = QUIZ[i].a[+o.dataset.qa][2]; return quizStep(i + 1); }
+    if (e.target.closest("[data-quiz]")) { quizAns = {}; return quizStep(0); }
+    if (e.target.closest("[data-see-all]")) { closeFun(); $("summary").scrollIntoView({ behavior: calm ? "auto" : "smooth", block: "center" }); return; }
+    const g = e.target.closest("[data-guess]");
+    if (g) return guess(g.dataset.guess);
+    if (e.target.closest("[data-hl-new]")) return hlStart();
+  });
+
+  // ---- Higher or Lower price game ----
+  const HL_POOL = ALL.filter((p) => p.price != null && p.cpu && p.cpu !== "Not listed");
+  let hl = null;
+  const hlBest = () => +(store("specs.hlbest") || 0);
+  const pickHL = (not) => { let p; do { p = HL_POOL[Math.floor(Math.random() * HL_POOL.length)]; } while (p === not || (not && Math.abs(p.price - not.price) < 15)); return p; };
+  function mini(p, showPrice) {
+    return `<div class="hl-card"><div class="who">${esc(p.brand)} · ${esc(p.store)}</div><h4>${esc(p.name)}</h4>
+      <div class="hl-specs">${esc(p.cpu)}<br>${esc(p.gpu)}<br>${p.ramGB ? p.ramGB + "GB RAM" : ""}${p.storage ? " · " + esc(p.storage) : ""}</div>
+      <div class="hl-price">${showPrice ? money(p.price) : "$ ???"}</div></div>`;
+  }
+  function hlDraw(msg) {
+    openFun("💸 Higher or Lower", `<div class="hl"><p class="hl-score">Streak <b>${hl.streak}</b> · Best <b>${hlBest()}</b></p>
+      <div class="hl-row">${mini(hl.a, true)}<div class="hl-vs">VS</div>${mini(hl.b, hl.done)}</div>
+      ${msg ? `<p class="hl-msg">${msg}</p>` : `<p class="hl-msg">Is the second laptop <b>more</b> or <b>less</b> expensive?</p>`}
+      <div class="hl-btns">${hl.done ? `<button type="button" class="btn primary" data-hl-new>Play again</button>` : `<button type="button" class="btn hl-up" data-guess="up">⬆️ Higher</button><button type="button" class="btn hl-down" data-guess="down">⬇️ Lower</button>`}</div></div>`);
+  }
+  function hlStart() { hl = { a: pickHL(), streak: 0, done: false }; hl.b = pickHL(hl.a); hlDraw(); }
+  function guess(dir) {
+    if (!hl || hl.done) return;
+    const right = dir === "up" ? hl.b.price > hl.a.price : hl.b.price < hl.a.price;
+    if (right) {
+      hl.streak++;
+      if (hl.streak > hlBest()) store("specs.hlbest", hl.streak);
+      const r = $("fun-body").getBoundingClientRect(); confetti(r.left + r.width / 2, r.top + 60);
+      const was = hl.b;
+      hl.a = was; hl.b = pickHL(was);
+      hlDraw(`✅ Yes! It was <b>${money(was.price)}</b>. Next one:`);
+    } else {
+      hl.done = true;
+      hlDraw(`❌ Nope, it's <b>${money(hl.b.price)}</b>. ${hl.streak >= 5 ? "Great run! 🏆" : hl.streak >= 2 ? "Not bad! 👏" : "Laptop prices are tricky 😅"}`);
+      $("fun-body").querySelector(".hl-row").classList.add("shake");
+    }
+  }
+  $("hl-btn").addEventListener("click", hlStart);
+
+  // ---- Hall of Fame ----
+  function hallOfFame() {
+    const priced = ALL.filter((p) => p.price != null);
+    const min = (arr, f) => arr.reduce((b, p) => (b == null || f(p) < f(b) ? p : b), null);
+    const max = (arr, f) => arr.reduce((b, p) => (b == null || f(p) > f(b) ? p : b), null);
+    const awards = [
+      ["🪙", "Cheapest laptop in Lebanon", min(priced, (p) => p.price)],
+      ["🎮", "Cheapest with a real graphics card", min(priced.filter((p) => p.gpuKind === "Dedicated"), (p) => p.price)],
+      ["🔥", "Cheapest Beast (strong gaming)", min(priced.filter((p) => (p.gpuRank || 0) >= 64), (p) => p.price)],
+      ["🐉", "Cheapest Monster", min(priced.filter((p) => (p.gpuRank || 0) >= 90), (p) => p.price)],
+      ["⚖️", "Most gaming power per dollar", max(priced.filter((p) => (p.gpuRank || 0) > 24), (p) => p.gpuRank / p.price)],
+      ["🧠", "Most RAM", max(priced, (p) => (p.ramGB || 0) * 100000 - p.price)],
+      ["💾", "Most storage", max(priced, (p) => (p.storageGB || 0) * 100000 - p.price)],
+      ["👑", "Most expensive laptop", max(priced, (p) => p.price)],
+    ].filter((a) => a[2]);
+    openFun("🏆 Hall of Fame", `<div class="hof">${awards.map(([e, t, p]) => `<section><h4><span>${e}</span>${t}</h4>${card(p)}</section>`).join("")}</div>`);
+  }
+  $("hof-btn").addEventListener("click", hallOfFame);
+
+  // ---- hidden search tricks ----
+  const EGGS = { potato: "🥔", lebanon: "🇱🇧", "لبنان": "🇱🇧", dragon: "🐉", money: "💸", pizza: "🍕", manoushe: "🫓", manakish: "🫓", cat: "🐈", fire: "🔥" };
+  let lastEgg = "";
+  $("q").addEventListener("input", (e) => {
+    const v = e.target.value.trim().toLowerCase();
+    if (v === lastEgg) return;
+    const clearSoon = () => setTimeout(() => { if ($("q").value.trim().toLowerCase() === v) { $("q").value = ""; S.q = ""; render(); } }, 1400);
+    if (EGGS[v]) { lastEgg = v; rain(EGGS[v]); clearSoon(); }
+    else if (v === "rgb" || v === "rainbow") { lastEgg = v; document.body.classList.add("rgb"); setTimeout(() => document.body.classList.remove("rgb"), 6000); toast("🌈 RGB mode: +10 FPS"); clearSoon(); }
+    else if (v === "hacker" || v === "matrix") { lastEgg = v; document.body.classList.toggle("matrix"); toast(document.body.classList.contains("matrix") ? "🟩 Welcome to the matrix" : "Back to normal"); clearSoon(); }
+    else lastEgg = "";
+  });
+
+  // ---- theme switch ----
+  const root = document.documentElement;
+  function applyTheme(t) {
+    if (t) root.setAttribute("data-theme", t); else root.removeAttribute("data-theme");
+    const dark = t ? t === "dark" : !matchMedia("(prefers-color-scheme: light)").matches;
+    $("theme-btn").textContent = dark ? "☀️" : "🌙";
+    $("theme-btn").setAttribute("aria-label", dark ? "Switch to light mode" : "Switch to dark mode");
+  }
+  applyTheme(store("specs.theme"));
+  $("theme-btn").addEventListener("click", () => {
+    const dark = $("theme-btn").textContent === "☀️";
+    const t = dark ? "light" : "dark";
+    store("specs.theme", t); applyTheme(t);
   });
 
   // ---------- static text ----------
