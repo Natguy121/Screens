@@ -49,7 +49,7 @@ Ayoub Computers,Lenovo,"IdeaPad Slim 3 15.3"" WUXGA IPS",AMD Ryzen 7 170,Integra
 Ayoub Computers,Lenovo,"IdeaPad Slim 3 15IRH10 15.3""",Intel Core i5-13420H,Integrated,8GB,512GB SSD,"15.3""",530,New,https://ayoubcomputers.com/lenovo-ideapad-slim-3-15irh10-15-3-laptop-intel-core-i5-13420h-8gb-ddr5-ram-512gb-ssd-wuxga-83k100e9ax/,1
 Ayoub Computers,Lenovo,"IdeaPad Slim 3 15IRH10 15.6""",Intel Core i7-13620H,Integrated,16GB,512GB SSD,"15.6""",699,New,https://ayoubcomputers.com/lenovo-ideapad-slim-3-15irh10-15-6-laptop-intel-core-i7-13620h-ram-16gb-ssd-512gb-intel-graphics-83k100e7dp/,1
 Ayoub Computers,Lenovo,"Legion 5 15IRX10 15.1"" OLED",Intel Core i9-14900HX,RTX 5070 8GB,16GB,1TB SSD,"15.1"" OLED",1950,New,https://ayoubcomputers.com/lenovo-legion-5-15irx10-15-1-oled-gaming-laptop-i9-14900hx-16gb-ram-1tb-ssd-rtx-5070-8gb-83ly00dkdp/,1
-Ayoub Computers,Lenovo,"Legion Pro 7 16""",Intel Ultra 9 275HX,RTX 5090 64GB,64GB,1TB SSD,"16""",4400,New,https://ayoubcomputers.com/lenovo-legion-pro-7-16-gaming-laptop-core-ultra-9-275hx-64gb-ram-1tb-ssd-rtx-5090-eclipse-black-83f500fbin/,1
+Ayoub Computers,Lenovo,"Legion Pro 7 16""",Intel Ultra 9 275HX,RTX 5090,64GB,1TB SSD,"16""",4400,New,https://ayoubcomputers.com/lenovo-legion-pro-7-16-gaming-laptop-core-ultra-9-275hx-64gb-ram-1tb-ssd-rtx-5090-eclipse-black-83f500fbin/,1
 Ayoub Computers,Lenovo,"ThinkBook 16 G8 IAL 16""",Intel Ultra 7 155H,Integrated Intel Arc,16GB,512GB SSD,"16""",999,New,https://ayoubcomputers.com/lenovo-thinkbook-16-g8-ial-16-laptop-intel-core-ultra-7-155h-ram-16gb-ssd-512gb-intel-arc-140t-21sk0030gq/,1
 Ayoub Computers,Lenovo,"ThinkPad E14 Gen 8 14"" WUXGA-",Intel Ultra 7 355,Integrated,16GB,512GB SSD,"14""",1159,New,https://ayoubcomputers.com/lenovo-thinkpad-e14-gen-8-14-wuxga-intel-core-ultra-7-355-16gb-ram-512gb-ssd-21y6002ngp/,1
 Ayoub Computers,Lenovo,"ThinkPad E14 Gen 8 14"" WUXGA-",Intel Ultra 7 355,Integrated,16GB,512GB SSD,"14""",1159,New,https://ayoubcomputers.com/lenovo-thinkpad-e14-gen-8-14-wuxga-intel-core-ultra-7-355-16gb-ram-512gb-ssd-21y6002ngq/,1
@@ -184,7 +184,7 @@ Mojitech,ASUS,ROG Strix G16,AMD Ryzen 9 9955HX,RTX 5070 Ti,16GB,1TB SSD,"16""",1
 Mojitech,ASUS,ROG Strix G16,Intel Core i7-13650HX,RTX 4070,16GB,1TB SSD,"16""",,New,https://mojitech.net/shop/brands/asus-brands/asus-rog-strix-g16-g614ji-ss74/,1
 Mojitech,ASUS,ROG Strix G16,Intel Core i9-14900HX,RTX 4070,32GB,512GB SSD,"16""",,New,https://mojitech.net/shop/brands/asus-brands/asus-rog-strix-g16-g614jir-n3152w/,1
 Mojitech,ASUS,Rog Strix G16,Intel Core i9-14900HX,RTX 4070,32GB,2TB SSD,"16""",,New,https://mojitech.net/shop/brands/asus-brands/asus-rog-strix-g16-g614jir-n3160/,1
-Mojitech,ASUS,ROG Strix G16,Intel Core i7-13650HX,RTX 4050 8GB,16GB,512GB SSD,"16""",1222,New,https://mojitech.net/shop/brands/asus-brands/asus-rog-strix-g16-g614ju-n3186/,1
+Mojitech,ASUS,ROG Strix G16,Intel Core i7-13650HX,RTX 4050,16GB,512GB SSD,"16""",1222,New,https://mojitech.net/shop/brands/asus-brands/asus-rog-strix-g16-g614ju-n3186/,1
 Mojitech,ASUS,Rog Strix G16,Intel Core i9-14900HX,RTX 4090,64GB,2TB SSD,"16""",,New,https://mojitech.net/shop/brands/asus-brands/asus-rog-strix-g16-g614jyr-n4109w/,1
 Mojitech,ASUS,ROG Strix G16,Intel Core i9-14900HX,RTX 4080,32GB,1TB SSD,"16""",,New,https://mojitech.net/shop/brands/asus-brands/asus-rog-strix-g16-g614jzr-mb96/,1
 Mojitech,ASUS,ROG Strix G16 G614PP,AMD Ryzen 9 8940HX,RTX 5070 8GB,16GB,1TB SSD,"16""",1900,New,https://mojitech.net/shop/brands/asus-brands/asus-rog-strix-g16-g614pp-rtx-5070/,1
@@ -342,7 +342,7 @@ Mojitech,HP,OMEN 16-am0001ne,Intel Ultra 7 250H,RTX 5060 8GB,16GB,512GB SSD,"16.
 Mojitech,HP,OMEN 16-am0005ne,Intel Core i9-14800HX,RTX 5070 8GB,16GB,1TB SSD,"16.0""",1868,New,https://mojitech.net/shop/brands/hp-brands/hp-omen-16-i9-14800hx-rtx-5070/,1
 Mojitech,HP,Omen 16-u0000ne,Intel Core i7-13700HX,RTX 4070,32GB,1TB SSD,"16""",,New,https://mojitech.net/shop/brands/hp-brands/hp-omen-16-u0000ne-822y0ea/,1
 Mojitech,HP,OMEN 17-CK2002,Intel Core i7,,16GB,1TB SSD,"17.3""",2120,New,https://mojitech.net/shop/brands/hp-brands/hp-omen-17-ck2002-gaming-laptop/,1
-Mojitech,HP,HP OMEN,AMD Ryzen AI 9 365,RTX 5070 32GB,32GB,1TB SSD,,1945,New,https://mojitech.net/shop/brands/hp-brands/hp-omen-17-db1006nr-gaming-laptop/,1
+Mojitech,HP,HP OMEN,AMD Ryzen AI 9 365,RTX 5070,32GB,1TB SSD,,1945,New,https://mojitech.net/shop/brands/hp-brands/hp-omen-17-db1006nr-gaming-laptop/,1
 Mojitech,HP,Omen 17T-CK100,Intel Core i7-12800HX,RTX 3080 Ti,16GB,1TB SSD,"17.3""",,New,https://mojitech.net/shop/brands/hp-brands/hp-omen-17t-ck100-6m0u7av-3/,1
 Mojitech,HP,Omen 17T-CM200,Intel Core i9-13900HX,RTX 4080,16GB,512GB SSD,"17.3""",,New,https://mojitech.net/shop/brands/hp-brands/hp-omen-17t-cm200-70w93av/,1
 Mojitech,HP,Omen Transcend 16T-U000,Intel Core i7-13700HX,RTX 4050,16GB,512GB SSD,"16.1""",,New,https://mojitech.net/shop/brands/hp-brands/hp-omen-transcend-16t-u000-765r3a/,1
@@ -525,7 +525,7 @@ Mojitech,Lenovo,Legion Pro 7 16IAX10H,Intel Ultra 9 275HX,RTX 5080,32GB,2TB SSD,
 Mojitech,Lenovo,Legion Pro 7 16IAX10H,Intel Ultra 9 275HX,RTX 5090 24GB,64GB,,"16""",4275,New,https://mojitech.net/shop/brands/lenovo-brands/lenovo-legion-pro-7-16iax10h-83f5006gus/,1
 Mojitech,Lenovo,Legion Pro 7 16IAX10H,Intel Ultra 9 275HX,RTX 5080,64GB,2TB SSD,"16""",,New,https://mojitech.net/shop/brands/lenovo-brands/lenovo-legion-pro-7-16iax10h-83f5006hus/,1
 Mojitech,Lenovo,Legion Pro 7 16IAX10H 83F5008NAX,Intel Ultra 9 275HX,RTX 5070 Ti 12GB,32GB,2TB SSD,"16"" OLED",3174,New,https://mojitech.net/shop/brands/lenovo-brands/lenovo-legion-pro-7-16iax10h-83f5008nax/,1
-Mojitech,Lenovo,Legion Pro 7 16IAX10H,Intel Ultra 9 275HX,RTX 5080 24GB,32GB,,"16""",3189,New,https://mojitech.net/shop/brands/lenovo-brands/lenovo-legion-pro-7-16iax10h-83f500e8dp/,1
+Mojitech,Lenovo,Legion Pro 7 16IAX10H,Intel Ultra 9 275HX,RTX 5080,32GB,,"16""",3189,New,https://mojitech.net/shop/brands/lenovo-brands/lenovo-legion-pro-7-16iax10h-83f500e8dp/,1
 Mojitech,Lenovo,Legion Pro 7 16IAX10H,Intel Ultra 9 275HX,RTX 5090 24GB,32GB,,"16""",3969,New,https://mojitech.net/shop/brands/lenovo-brands/lenovo-legion-pro-7-16iax10h-83f500e9dp/,1
 Mojitech,Lenovo,Legion PRO 7 16IAX10H GAMING 83F50050PS,Intel Ultra 9 275HX,RTX 5080 16GB,64GB,,"16"" OLED",4139,New,https://mojitech.net/shop/brands/lenovo-brands/lenovo-legion-pro-7-16iax10h-ultra-9-rtx-5080-64gb/,1
 Mojitech,Lenovo,Legion PRO 7 16IAX10H GAMING 83F50012US,Intel Ultra 9 275HX,RTX 5080 16GB,32GB,,"16"" OLED",3289,New,https://mojitech.net/shop/brands/lenovo-brands/lenovo-legion-pro-7-16iax10h-ultra-9-rtx-5080/,1
@@ -1064,7 +1064,7 @@ Mojitech,ASUS,ROG Strix G18 G815LR-IS97,Intel Ultra 9 275HX,RTX 5070 Ti,32GB,1TB
 Mojitech,ASUS,ROG Strix G18 G815LW-G18.U95080,Intel Ultra 9 275HX,RTX 5080 16GB,32GB,2TB SSD,"18""",3325,New,https://mojitech.net/shop/laptops/asus-rog-strix-g18-g815lw-g18u95080/,1
 Mojitech,ASUS,ROG STRIX G635LX-S5156 SCAR EDITION,Intel Ultra 9 275HX,RTX 5090 24GB,32GB,1TB SSD,"16""",4189,New,https://mojitech.net/shop/laptops/asus-rog-strix-g635lx-s5156-scar-edition/,1
 Mojitech,ASUS,ROG Strix SCAR 15,Intel Core i9-12900H,RTX 3070 Ti,32GB,1TB SSD,"15.6""",,New,https://mojitech.net/shop/laptops/asus-rog-strix-scar-15-g533zw-xs96/,1
-Mojitech,ASUS,ROG STRIX SCAR G16 G635LW-S5096,Intel Ultra 9 275HX,RTX 5080 24GB,64GB,2TB SSD,"16""",4089,New,https://mojitech.net/shop/laptops/asus-rog-strix-scar-16-ultra-9-rtx-5080-64gb/,1
+Mojitech,ASUS,ROG STRIX SCAR G16 G635LW-S5096,Intel Ultra 9 275HX,RTX 5080,64GB,2TB SSD,"16""",4089,New,https://mojitech.net/shop/laptops/asus-rog-strix-scar-16-ultra-9-rtx-5080-64gb/,1
 Mojitech,ASUS,ROG Strix Scar 17,AMD Ryzen 9 7945HX,RTX 4090,64GB,1TB SSD,"17.3""",3249,New,https://mojitech.net/shop/laptops/asus-rog-strix-scar-17-g733pyv-ll059w/,1
 Mojitech,ASUS,ROG Strix Scar 18,Intel Core i9-14900HX,RTX 4090,64GB,1TB SSD,"18""",4150,New,https://mojitech.net/shop/laptops/asus-rog-strix-scar-18-g733pyvll059w/,1
 Mojitech,ASUS,ROG STRIX SCAR EDITION 18 G835LX-S9113,Intel Ultra 9 275HX,RTX 5090 24GB,64GB,2TB SSD,"18""",5064,New,https://mojitech.net/shop/laptops/asus-rog-strix-scar-18-g835lx-s9113/,1
@@ -1526,7 +1526,7 @@ Mojitech,MSI,Modern 15H B13M,Intel Core i9-13900H,Integrated,32GB,1TB SSD,"15.6"
 Mojitech,MSI,MODERN 15H C2RMTG-406US,Intel Core 9 270H,Integrated,32GB,1TB SSD,"15.6"" touch",1189,New,https://mojitech.net/shop/laptops/msi-modern-15h-c2rmtg-406us-laptop/,1
 Mojitech,MSI,Prestige 14 H B13UCX,Intel Core i7-1360P,RTX 2050,16GB,1TB SSD,"14""",,New,https://mojitech.net/shop/laptops/msi-prestige-14-h-b13ucx-i7-1360p-rtx-2050-16gb-1tb-nvme-14/,1
 Mojitech,MSI,Prestige Prestige A16 AI+,AMD Ryzen AI 9,Integrated AMD Radeon,32GB,1TB SSD,"16""",1259,New,https://mojitech.net/shop/laptops/msi-prestige-prestige-a16-ai-9s7-159k12-016/,1
-Mojitech,MSI,Pulse GL76,Intel Core i7-12700H,RTX 3070 16GB,16GB,1TB SSD,"17.3""",1078,New,https://mojitech.net/shop/laptops/msi-pulse-gl76-12ugk-258-gl7612258-r/,1
+Mojitech,MSI,Pulse GL76,Intel Core i7-12700H,RTX 3070,16GB,1TB SSD,"17.3""",1078,New,https://mojitech.net/shop/laptops/msi-pulse-gl76-12ugk-258-gl7612258-r/,1
 Mojitech,MSI,RaiderGE78 HX,Intel Core i7-13700HX,RTX 4070 8GB,8GB,2TB SSD,,2315,New,https://mojitech.net/shop/laptops/msi-raiderge78-hx/,1
 Mojitech,MSI,Stealth GS77,Intel Core i9-12900H,RTX 3060,16GB,1TB SSD,"17.3""",,New,https://mojitech.net/shop/laptops/msi-stealth-gs77-9s7-17p112-231/,1
 Mojitech,MSI,Summit E13 Flip Evo,Intel Core i7-1360P,Integrated,32GB,1TB SSD,"13.4"" touch",1033,New,https://mojitech.net/shop/laptops/msi-summit-e13-flip-evo-core-i7-1360p-32gb-1tb-nvme-13-4-tax-included/,1
@@ -2025,31 +2025,31 @@ Options Megastore,HP,Victus 15,AMD Ryzen AI 7 350,RTX 5060,16GB,,,1400,New,https
 Options Megastore,ASUS,ROG Strix G16,Intel Ultra 9 275HX,RTX 5070 Ti,16GB,,,2790,New,https://optionsmegastore.com/gaming-laptops/2353-asus-rog-strix-g16--ultra9-rtx-5070-ti,1
 Options Megastore,Acer,Nitro V15,Intel Core i5-13420H,RTX 5050,16GB,,,1150,New,https://optionsmegastore.com/gaming-laptops/2354-acer-nitro-v15-i5-13420h-rtx-5050,1
 Options Megastore,HP,OMEN 16 League of Legend Edition,Intel Core i7-14650HX,RTX 5060,32GB,,,1460,New,https://optionsmegastore.com/gaming-laptops/2355-hp-omen-16-league-of-legends-rtx-5060,1
-Options Megastore,HP,OMEN 16,AMD Ryzen AI 9 365,RTX 5070 32GB,32GB,1TB SSD,,2000,New,https://optionsmegastore.com/gaming-laptops/2423-hp-omen-16-ap0097nr,1
+Options Megastore,HP,OMEN 16,AMD Ryzen AI 9 365,RTX 5070,32GB,1TB SSD,,2000,New,https://optionsmegastore.com/gaming-laptops/2423-hp-omen-16-ap0097nr,1
 Options Megastore,Gigabyte,AORUS MASTER 16,Intel Ultra 9 275HX,RTX 5090,32GB,1TB SSD,,3650,New,https://optionsmegastore.com/gaming-laptops/2442-gigabyte-aorus-16-ultra9-rtx-5090,1
 Options Megastore,Acer,Nitro V 16S,Intel Core 9 270H,RTX 5070,16GB,,,1770,New,https://optionsmegastore.com/gaming-laptops/2449-acer-nitro-v16s-core9-270h-rtx5070,1
 Options Megastore,Lenovo,"Legion 9 18""",Intel Ultra 9 275HX,RTX 5090,64GB,,"18""",4999,New,https://optionsmegastore.com/gaming-laptops/2451-lenovo-legion-9-18-ultra9-rtx5090,1
 Options Megastore,MSI,Raider 18 HX AI,Intel Ultra 9 285HX,RTX 5080,32GB,1TB SSD,,3275,New,https://optionsmegastore.com/gaming-laptops/2469-msi-raider-18hx-ai-a2xwig,1
 Options Megastore,ASUS,ROG Strix G16,AMD Ryzen 9 8940HX,RTX 5070,16GB,1TB SSD,,1750,New,https://optionsmegastore.com/gaming-laptops/2471-asus-rog-strix-g16-g614pp-wh94,1
-Options Megastore,Dell,Alienware 16 Area-51,Intel Ultra 9,RTX 5070 32GB,32GB,2TB SSD,,2399,New,https://optionsmegastore.com/gaming-laptops/2478-dell-alienware-16-area-51-rtx-5070,1
+Options Megastore,Dell,Alienware 16 Area-51,Intel Ultra 9,RTX 5070,32GB,2TB SSD,,2399,New,https://optionsmegastore.com/gaming-laptops/2478-dell-alienware-16-area-51-rtx-5070,1
 Options Megastore,MSI,Vector 16HX,Intel Ultra 7 255HX,RTX 5070 Ti 12GB,16GB,1TB SSD,,2299,New,https://optionsmegastore.com/gaming-laptops/2484-msi-vector-16hx-255hx-rtx-5070-ti,1
 Options Megastore,Lenovo,Legion Pro 7i,Intel Ultra 9 275HX,RTX 5080,32GB,1TB SSD,,3945,New,https://optionsmegastore.com/gaming-laptops/2497-lenovo-legion-pro7i-ultra9-275hx-rtx5080,1
 Options Megastore,ASUS,ROG Zephyrus Duo 16,Intel Ultra 9 386H,RTX 5090 24GB,64GB,2TB SSD,,7499,New,https://optionsmegastore.com/gaming-laptops/2498-asus-rog-zephyrus-duo16-ultra9-386h-rtx5090,1
-Options Megastore,MSI,Raider 16 Max HX,Intel Ultra 9 290HX,RTX 5090 32GB,32GB,1TB SSD,,4299,New,https://optionsmegastore.com/gaming-laptops/2499-msi-raider-16-max-hx-b2wj-rtx-5090,1
+Options Megastore,MSI,Raider 16 Max HX,Intel Ultra 9 290HX,RTX 5090,32GB,1TB SSD,,4299,New,https://optionsmegastore.com/gaming-laptops/2499-msi-raider-16-max-hx-b2wj-rtx-5090,1
 Options Megastore,ASUS,ROG Strix G18,Intel Core i9-14900HX,RTX 5070,32GB,1TB SSD,,2199,New,https://optionsmegastore.com/gaming-laptops/2501-asus-rog-strix-g18-i9-14900hx-rtx5070,1
 Options Megastore,ASUS,ROG Strix SCAR 18,Intel Ultra 9 275HX,RTX 5090,64GB,2TB SSD,,4599,New,https://optionsmegastore.com/gaming-laptops/2512-asus-rog-strix-scar-18-ultra-9-275hx-rtx-5090,1
-Options Megastore,ASUS,ROG Strix SCAR 16,Intel Ultra 9 275HX,RTX 5080 64GB,64GB,2TB SSD,,3950,New,https://optionsmegastore.com/gaming-laptops/2513-asus-rog-strix-scar-16-ultra-9-275hx-rtx-5080,1
-Options Megastore,ASUS,V16,Intel Core 7 240H,RTX 5060 16GB,16GB,512GB SSD,,1350,New,https://optionsmegastore.com/gaming-laptops/2530-asus-v16-gaming-laptop-core-7-240h-rtx-5060,1
-Options Megastore,HP,Victus 15,Intel Core 7 240H,RTX 5060 16GB,16GB,512GB SSD,,1299,New,https://optionsmegastore.com/gaming-laptops/2534-hp-victus-15-fa2095nw-core7-240h-rtx-5060,1
-Options Megastore,Acer,Nitro V 15,AMD Ryzen 7 170,RTX 5060 16GB,16GB,1TB SSD,,1250,New,https://optionsmegastore.com/gaming-laptops/2535-acer-nitro-v-15-anv15-a31-rtx-5060,1
+Options Megastore,ASUS,ROG Strix SCAR 16,Intel Ultra 9 275HX,RTX 5080,64GB,2TB SSD,,3950,New,https://optionsmegastore.com/gaming-laptops/2513-asus-rog-strix-scar-16-ultra-9-275hx-rtx-5080,1
+Options Megastore,ASUS,V16,Intel Core 7 240H,RTX 5060,16GB,512GB SSD,,1350,New,https://optionsmegastore.com/gaming-laptops/2530-asus-v16-gaming-laptop-core-7-240h-rtx-5060,1
+Options Megastore,HP,Victus 15,Intel Core 7 240H,RTX 5060,16GB,512GB SSD,,1299,New,https://optionsmegastore.com/gaming-laptops/2534-hp-victus-15-fa2095nw-core7-240h-rtx-5060,1
+Options Megastore,Acer,Nitro V 15,AMD Ryzen 7 170,RTX 5060,16GB,1TB SSD,,1250,New,https://optionsmegastore.com/gaming-laptops/2535-acer-nitro-v-15-anv15-a31-rtx-5060,1
 Options Megastore,Acer,Nitro V 16,AMD Ryzen 7 260,RTX 5060 8GB,16GB,1TB SSD,,1280,New,https://optionsmegastore.com/gaming-laptops/2539-acer-nitro-v16-ryzen-7-260-rtx-5060,1
 Options Megastore,MSI,Katana 17 HX,Intel Core i7-14650HX,RTX 5060 8GB,16GB,512GB SSD,,1440,New,https://optionsmegastore.com/gaming-laptops/2540-msi-katana-17-hx-i7-14650hx-rtx-5060,1
 Options Megastore,Acer,Nitro V 16S,Intel Core 9 270H,RTX 5070 8GB,16GB,1TB SSD,,1599,New,https://optionsmegastore.com/gaming-laptops/2541-acer-nitro-v-slim-core-9-270h-rtx-5070,1
 Options Megastore,Lenovo,"IdeaPad Pro 5 16""",AMD Ryzen AI 5 340,RTX 5050 8GB,16GB,512GB SSD,"16""",1400,New,https://optionsmegastore.com/gaming-laptops/2548-lenovo-ideapad-pro-5-16-ryzen-ai-5-rtx-5050,1
-Options Megastore,HP,HyperX OMEN 15,Intel Ultra 9 386H,RTX 5070 32GB,32GB,1TB SSD,,2799,New,https://optionsmegastore.com/gaming-laptops/2549-hp-hyperx-omen-15-ultra-9-385h-rtx-5070,1
-Options Megastore,ASUS,TUF,AMD Ryzen 7 260,RTX 5050 16GB,16GB,512GB SSD,,1280,New,https://optionsmegastore.com/gaming-laptops/2551-asus-tuf-a16-ryzen-7-260-rtx-5050,1
-Options Megastore,MSI,Cyborg 15,Intel Core 7 240H,RTX 5050 16GB,16GB,512GB SSD,,1199,New,https://optionsmegastore.com/gaming-laptops/2552-msi-cyborg-15-core-7-240h-rtx-5060,1
-Options Megastore,MSI,Crosshair 16 HX,Intel Core i9-14900HX,RTX 5070 16GB,16GB,512GB SSD,,1780,New,https://optionsmegastore.com/gaming-laptops/2553-msi-crosshair-16-hx-e14w-i9-14900hx-rtx-5070,1
+Options Megastore,HP,HyperX OMEN 15,Intel Ultra 9 386H,RTX 5070,32GB,1TB SSD,,2799,New,https://optionsmegastore.com/gaming-laptops/2549-hp-hyperx-omen-15-ultra-9-385h-rtx-5070,1
+Options Megastore,ASUS,TUF,AMD Ryzen 7 260,RTX 5050,16GB,512GB SSD,,1280,New,https://optionsmegastore.com/gaming-laptops/2551-asus-tuf-a16-ryzen-7-260-rtx-5050,1
+Options Megastore,MSI,Cyborg 15,Intel Core 7 240H,RTX 5050,16GB,512GB SSD,,1199,New,https://optionsmegastore.com/gaming-laptops/2552-msi-cyborg-15-core-7-240h-rtx-5060,1
+Options Megastore,MSI,Crosshair 16 HX,Intel Core i9-14900HX,RTX 5070,16GB,512GB SSD,,1780,New,https://optionsmegastore.com/gaming-laptops/2553-msi-crosshair-16-hx-e14w-i9-14900hx-rtx-5070,1
 Options Megastore,HP,"Omen 17""",AMD Ryzen AI 7 350,RTX 5060 8GB,32GB,1TB SSD,"17""",1599,New,https://optionsmegastore.com/gaming-laptops/2554-hp-omen-17-db1041nwr-ryzen-ai7-rtx-5060,1
 Options Megastore,HP,OMEN MAX 16z-ak000,AMD Ryzen AI 9 375,RTX 5080 16GB,16GB,512GB SSD,,2040,New,https://optionsmegastore.com/gaming-laptops/2557-hp-omen-max-16z-ryzen-ai-9-hx-375-rtx-5080,1
 Options Megastore,HP,OMEN MAX 16t-ah000,Intel Ultra 7 255HX,RTX 5080 16GB,16GB,512GB SSD,,1940,New,https://optionsmegastore.com/gaming-laptops/2558-hp-omen-max-16t-ah000-ultra-7-255hx-rtx-5080,1
@@ -2057,8 +2057,8 @@ Options Megastore,HP,OMEN MAX 16t-ah000,Intel Ultra 9 275HX,RTX 5080 16GB,16GB,1
 Options Megastore,HP,OMEN MAX 16t-ah000,Intel Ultra 9 275HX,RTX 5090 24GB,32GB,1TB SSD,,3090,New,https://optionsmegastore.com/gaming-laptops/2560-hp-omen-max-16t-ah000-rtx-5090,1
 Options Megastore,Lenovo,LOQ 15AHP9,AMD Ryzen 7 7445HS,RTX 3050 6GB,16GB,512GB SSD,,999,New,https://optionsmegastore.com/gaming-laptops/2561-enovo-loq-15ahp9-ryzen-7-7445hs-rtx-3050,1
 Options Megastore,ASUS,ROG Zephyrus G16 GU605CX,Intel Ultra 9 285H,RTX 5090 24GB,64GB,2TB SSD,,4999,New,https://optionsmegastore.com/gaming-laptops/2562-asus-rog-zephyrus-g16-gu605cx-rtx-5090,1
-Options Megastore,Acer,Nitro V 15 ANV15,Intel Core 7 240H,RTX 4050 16GB,16GB,512GB SSD,,1070,New,https://optionsmegastore.com/gaming-laptops/2563-acer-nitro-15-anv15-core-7-240h-rtx-4050,1
-Options Megastore,Dell,Alienware 16 Aurora,Intel Core 7 240H,RTX 5050 16GB,16GB,1TB SSD,,1299,New,https://optionsmegastore.com/gaming-laptops/2564-dell-alienware-16-aurora-ac16250-core-7-240h-rtx-5050,1
+Options Megastore,Acer,Nitro V 15 ANV15,Intel Core 7 240H,RTX 4050,16GB,512GB SSD,,1070,New,https://optionsmegastore.com/gaming-laptops/2563-acer-nitro-15-anv15-core-7-240h-rtx-4050,1
+Options Megastore,Dell,Alienware 16 Aurora,Intel Core 7 240H,RTX 5050,16GB,1TB SSD,,1299,New,https://optionsmegastore.com/gaming-laptops/2564-dell-alienware-16-aurora-ac16250-core-7-240h-rtx-5050,1
 Options Megastore,HP,14 Pentium Silver N5030 1.1GHz,Intel Pentium,Integrated,,128GB SSD,"14""",355,New,https://optionsmegastore.com/laptops/1323-hp-notebook-14-quad-core-pentium,1
 Options Megastore,HP,14-DQ3005 Pentium® Silver N6000,Intel Pentium,Integrated,4GB,,"14""",333,New,https://optionsmegastore.com/laptops/1380-hp-14-dq3005-pentium-silver,1
 Options Megastore,Gateway,GWTN156,AMD Ryzen 3,Integrated AMD Radeon,4GB,128GB SSD,"15.6""",299,New,https://optionsmegastore.com/laptops/1431-gateway-gwtn156-ultra-slim-ryzen-3,1
@@ -2237,7 +2237,7 @@ Options Megastore,HP,"Dev One 14"" Developer",AMD Ryzen 7,Integrated AMD Radeon,
 Options Megastore,Lenovo,ThinkPad P16v G2 Mobile Workstation,Intel Ultra 7 155H,Integrated,64GB,,,2399,New,https://optionsmegastore.com/mobile-workstation-laptops/2108-lenovo-thinkpad-p16v-g2-ultra-7-mobile-workstation,1
 Options Megastore,Lenovo,"P1 G7 16"" Mobile workstation",Intel Ultra 7 155H,RTX 1000,,,"16""",1950,New,https://optionsmegastore.com/mobile-workstation-laptops/2171-lenovo-p1-g7-mobile-workstation-ultra-7-155h,1
 Options Megastore,HP,ZBOOK Studio G11 Mobile Workstation,Intel Ultra 7 165H,Integrated,32GB,1TB SSD,,2250,New,https://optionsmegastore.com/mobile-workstation-laptops/2253-hp-zbook-studio-g11-ultra7-165h-32gb,1
-Options Megastore,Lenovo,ThinkPad T1g G8 Workstation,Intel Ultra 9,RTX 5070 64GB,64GB,2TB SSD,"16""",4299,New,https://optionsmegastore.com/mobile-workstation-laptops/2421-lenovo-thinkpad-t1g-g8-ultra9-rtx-5070,1
+Options Megastore,Lenovo,ThinkPad T1g G8 Workstation,Intel Ultra 9,RTX 5070,64GB,2TB SSD,"16""",4299,New,https://optionsmegastore.com/mobile-workstation-laptops/2421-lenovo-thinkpad-t1g-g8-ultra9-rtx-5070,1
 Options Megastore,Lenovo,ThinkPad P14s G6,AMD Ryzen AI 9,Integrated AMD Radeon,64GB,,,2599,New,https://optionsmegastore.com/mobile-workstation-laptops/2444-lenovo-thinkpad-p14s-g6-ryzen-ai9-64gb,1
 Options Megastore,HP,ZBook,AMD Ryzen AI Max+ 390,Integrated AMD Radeon,64GB,4TB SSD,,3650,New,https://optionsmegastore.com/mobile-workstation-laptops/2466-hp-zbook-ultra-g1a-ryzen-ai-max-pro-390,1
 Options Megastore,Lenovo,ThinkPad P16v G2,Intel Ultra 9 185H,RTX 3000,32GB,,,2999,New,https://optionsmegastore.com/mobile-workstation-laptops/2503-lenovo-thinkpad-p16v-ultra-9-185h,1
@@ -2329,7 +2329,7 @@ Laptops King,Acer,Aspire 14 AI A14-52M-72FH,Intel Ultra 7 256V,Integrated Intel 
 Laptops King,Acer,Aspire 14 AI A14-52MT-94H5,Intel Ultra 9 288V,Integrated Intel Arc,32GB,1TB SSD,"14"" touch",1275,New,https://laptopsking.com/products/acer-aspire-14-ai-a14-52mt-94h5-laptop-core-ultra-9-288v-32gb-ddr5-onboard-1tb-nvme-14-inch-fhd-touchscreen,1
 Laptops King,Acer,Nitro V 15,Intel Core i9-13900H,RTX 5060 8GB,,,"15.6""",1499,New,https://laptopsking.com/products/acer-nitro-v-15-gaming-laptop-i9-13900h-rtx-5060-15-6-inch-165hz-new,1
 Laptops King,Acer,Nitro V 15,Intel Core i9-13900H,RTX 5050 8GB,,,"15.6""",1255,New,https://laptopsking.com/products/acer-nitro-v-15-gaming-laptop-intel-core-i9-13900h-nvidia-geforce-rtx-5050-8gb-gddr6-15-6-fhd-144hz-ips-new,1
-Laptops King,Acer,Nitro V 16S ANV16S-71-97BE,Intel Core 9 270H,RTX 5070 16GB,16GB,1TB SSD,"16""",1769,New,https://laptopsking.com/products/acer-nitro-v-16s-anv16s-71-97be-core-9-270h-rtx-5070-16gb-ram-1tb-ssd-qhd-180hz-gaming-laptop-16-new,1
+Laptops King,Acer,Nitro V 16S ANV16S-71-97BE,Intel Core 9 270H,RTX 5070,16GB,1TB SSD,"16""",1769,New,https://laptopsking.com/products/acer-nitro-v-16s-anv16s-71-97be-core-9-270h-rtx-5070-16gb-ram-1tb-ssd-qhd-180hz-gaming-laptop-16-new,1
 Laptops King,Acer,Predator Helios Neo 16S AI PHN16S-71-91AW,Intel Ultra 9 275HX,RTX 5060 8GB,16GB,1TB SSD,"16"" OLED",1925,New,https://laptopsking.com/products/acer-predator-helios-neo-16s-ai-phn16s-71-91aw-gaming-laptop-core-ultra-9-275hx-16gb-ddr5-1tb-nvme-16-inch-oled-2560x1600-240hz-rtx-5060-8gb,1
 Laptops King,Apple,MacBook Air,Apple M5,Apple GPU,16GB,1TB SSD,"13.6""",1725,New,https://laptopsking.com/products/apple-macbook-air-13-6-inch-m5-16gb-1tb-ssd-midnight,1
 Laptops King,Apple,MacBook Air,Apple M5,Apple GPU,16GB,1TB SSD,"13.6""",1725,New,https://laptopsking.com/products/apple-macbook-air-13-6-inch-m5-16gb-1tb-ssd-silver,1
@@ -2368,7 +2368,7 @@ Laptops King,ASUS,ROG Strix G16 G614PP-WH94,AMD Ryzen 9 8940HX,RTX 5070 8GB,16GB
 Laptops King,ASUS,ROG Strix G16,AMD Ryzen 9 9955HX,RTX 5060 8GB,,1TB SSD,"16""",1499,Open box,https://laptopsking.com/products/asus-rog-strix-g16-gaming-laptop-amd-ryzen-9-9955hx-rtx-5060-8gb-gddr7-1tb-ssd-16-wuxga-165hznew-ob,1
 Laptops King,ASUS,ROG Strix G18 G814FP,AMD Ryzen 9 9955HX,RTX 5070 8GB,,1TB SSD,"18""",1899,Open box,https://laptopsking.com/products/asus-rog-strix-g18-g814fp-gaming-laptop-amd-ryzen-9-9955hx-rtx-5070-8gb-gddr7-1tb-ssd-18-2-5k-240hz-new-ob,1
 Laptops King,ASUS,ROG Strix G18,Intel Ultra 9 275HX,RTX 5060 8GB,64GB,1TB SSD,"18""",1855,Open box,https://laptopsking.com/products/asus-rog-strix-g18-gaming-laptop-intel-core-ultra-9-275hx-rtx-5060-8gb-gddr7-1tb-ssd-18-2-5k-240hz-new-ob,1
-Laptops King,ASUS,ROG Strix Scar G16,Intel Ultra 9 275HX,RTX 5090 32GB,32GB,1TB SSD,"16""",4199,New,https://laptopsking.com/products/asus-rog-strix-scar-g16-core-ultra-9-275hx-rtx-5090-16-2-5k-screen-240hz,1
+Laptops King,ASUS,ROG Strix Scar G16,Intel Ultra 9 275HX,RTX 5090,32GB,1TB SSD,"16""",4199,New,https://laptopsking.com/products/asus-rog-strix-scar-g16-core-ultra-9-275hx-rtx-5090-16-2-5k-screen-240hz,1
 Laptops King,ASUS,ROG Trix G815LM-IS96,Intel Ultra 9 275HX,RTX 5060 8GB,32GB,1TB SSD,"18""",2299,New,https://laptopsking.com/products/asus-rog-trix-g815lm-is96-core-ultra-9-275hx-rtx-5060-8gb-32gb-ddr5-1tb-nvme-18-inch-wqxga-2-5k-240hz-gaming-laptop,1
 Laptops King,ASUS,ROG Zephyrus G16,Intel Ultra 9 285H,RTX 5070 8GB,16GB,1TB SSD,"16"" OLED",1999,New,https://laptopsking.com/products/asus-rog-zephyrus-g16-laptop-intel-core-ultra-9-285h-nvidia-geforce-rtx-5070-8gb-16gb-ram-1tb-nvme-16-2-5k-oled-new,1
 Laptops King,ASUS,Vivobook 14 X1404VAP-V14.C58256,Intel Core 5 120U,Integrated,8GB,256GB SSD,"14""",625,New,https://laptopsking.com/products/asus-vivobook-14-x1404vap-v14-c58256-laptop-core-5-120u-8gb-ddr4-256gb-nvme-14-inch-fhd,1

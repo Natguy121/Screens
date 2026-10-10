@@ -16,6 +16,10 @@ product name and description) and adds every product page it opened to
 data/link_check.json, so build_data.py can show them. Run scripts/build_data.py next.
 The same laptop sold by different stores is kept once per store.
 
+Stores that publish a product list (WooCommerce or Shopify) are read from it
+directly, 100 products per request, with stock and price included; other stores
+are crawled page by page from their sitemap.
+
 Progress is saved to data/crawl_progress.json every 50 pages, and both output
 files are rewritten then too, so nothing is lost if the window closes. Running
 it again continues where it stopped; add --fresh to start over.
@@ -33,7 +37,7 @@ from pathlib import Path
 from urllib.parse import urljoin, urlparse
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from check_links import UA, fallback_price, product_info, sold_reason  # noqa: E402
+from check_links import SOLD_IN_TITLE, UA, fallback_price, product_info, sold_reason  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
 OUT_CSV = ROOT / "data" / "more_stores_crawl.csv"
@@ -61,6 +65,8 @@ STORES = [
     ("Abed Tahan", "https://www.abedtahan.com"),
     ("Khoury Home", "https://www.khouryhome.com"),
     ("ishtari", "https://www.ishtari.com"),
+    ("Sbeity Computer", "https://sbeitycomputer.com"),
+    ("ElectroSLab", "https://electroslab.com"),
 ]
 
 LAPTOP_WORDS = re.compile(
@@ -173,10 +179,21 @@ def cpu_of(t):
     return None
 
 
+# Most graphics memory each laptop card comes with; a bigger number after it is the RAM.
+MAX_VRAM = {"5090": 24, "5080": 16, "5070": 12, "5060": 8, "5050": 8, "4090": 16, "4080": 12, "4070": 8, "4060": 8,
+            "4050": 6, "3080": 16, "3070": 8, "3060": 6, "3050": 6, "2080": 8, "2070": 8, "2060": 6, "2050": 4}
+
+
+def vram_ok(model, n):
+    return int(n) <= MAX_VRAM.get(re.sub(r"\D", "", model)[:4], 48)
+
+
 def gpu_of(t):
     m = re.search(r"rtx\s*(a?\d{4})\s*(ti|super)?", t, re.I)
     if m:
         vram = re.search(r"rtx\s*a?\d{4}\s*(?:ti|super)?\s*(?:laptop\s*gpu\s*)?(\d{1,2})\s*gb", t, re.I)
+        if vram and not vram_ok(m.group(1), vram.group(1)):
+            vram = None
         return f"RTX {m.group(1).upper()}" + (f" {m.group(2).title() if m.group(2).lower() == 'super' else 'Ti'}" if m.group(2) else "") + (f" {vram.group(1)}GB" if vram else "")
     for pat, fmt in ((r"gtx\s*(\d{3,4})\s*(ti)?", lambda m: f"GTX {m.group(1)}" + (" Ti" if m.group(2) else "")),
                      (r"\bmx\s*(\d{3})", lambda m: f"GeForce MX{m.group(1)}"),
@@ -211,7 +228,8 @@ def ram_of(t):
     # plausible size, and never treat an unlabelled 96GB/128GB as RAM.
     found = []
     for m in re.finditer(r"(\d{1,3})\s*gb(?!\s*(?:ssd|nvme|hdd|emmc|storage|pcie|m\.2|gddr|vram|dedicated))", t, re.I):
-        if m.group(1) in RAM_SIZES and int(m.group(1)) <= 64 and not re.search(r"(rtx|gtx|rx|vga|graphics)\s*\S*\s*$", t[:m.start()], re.I):
+        g = re.search(r"(rtx|gtx|rx|vga|graphics)\s*(\S*)\s*$", t[:m.start()], re.I)
+        if m.group(1) in RAM_SIZES and int(m.group(1)) <= 64 and not (g and vram_ok(g.group(2) or "0", m.group(1))):
             found.append(int(m.group(1)))
     return f"{min(found)}GB" if found else None
 
@@ -266,6 +284,102 @@ def short_model(name, brand):
         n = n[:m.start()]
     n = re.sub(r"\s*(gaming|laptop|notebook|gaming laptop)s?\s*(lebanon|in lebanon)?\s*$", "", n.strip(), flags=re.I)
     return n.strip()[:90] or name[:90]
+
+
+# ---------- store product APIs (WooCommerce / Shopify) ----------
+def html_text(h):
+    t = re.sub(r"<[^>]+>", " ", h or "")
+    for a, b in (("&amp;", "&"), ("&#8243;", '"'), ("&quot;", '"'), ("&#8221;", '"'), ("&#8211;", "-"), ("&nbsp;", " "), ("&#039;", "'"), ("&#8217;", "'")):
+        t = t.replace(a, b)
+    return re.sub(r"\s+", " ", t).strip()
+
+
+def judge(store, name, desc, link, in_stock, price, currency="USD"):
+    """Same rules as a product page: laptop with a processor, not sold, in stock, USD price."""
+    name = html_text(name)
+    desc = html_text(desc)[:2000]
+    slug = urlparse(link).path.rstrip("/").rsplit("/", 1)[-1].replace("-", " ")
+    if not name or NOT_LAPTOP.search(name) or not cpu_of(f"{name} {slug} {desc}"):
+        return {"ok": False, "reason": "not a laptop"}, None
+    if not (LAPTOP_WORDS.search(name) or LAPTOP_WORDS.search(urlparse(link).path.replace("-", " ")) or screen_of(name)):
+        return {"ok": False, "reason": "not a laptop"}, None
+    if SOLD_IN_TITLE.search(name):
+        return {"ok": False, "reason": f"marked sold: {name[:120]}"}, None
+    if not in_stock:
+        return {"ok": False, "reason": "out of stock (store list)"}, None
+    if currency and str(currency).upper() not in ("USD", "$"):
+        price = None
+    if price is not None and not (100 <= price <= 20000):
+        price = None
+    text = f"{name} {desc[:800]}"
+    brand = brand_of(name)
+    row = {
+        "store": store, "brand": brand, "model": short_model(name, brand),
+        "cpu": cpu_of(text) or cpu_of(f"{slug} {desc}") or "", "gpu": gpu_of(text), "ram": ram_of(text) or "",
+        "storage": storage_of(text) or "", "screen": screen_of(name) or "",
+        "price": f"{price:g}" if price else "", "condition": condition_of(name),
+        "link": link, "link_is_product": "1",
+    }
+    return {"ok": True, "reason": "available (store list)", "price": price}, row
+
+
+def get_json(url):
+    _, body = fetch(url, 40)
+    body = body.strip()
+    if not body.startswith(("[", "{")):
+        raise ValueError("not JSON")
+    return json.loads(body)
+
+
+def api_products(store, base):
+    """Every product from the store's own product list, or None if it has none we can read.
+    Yields (link, status, row)."""
+    out = []
+    for path in ("/wp-json/wc/store/v1/products", "/wp-json/wc/store/products"):
+        try:
+            page = 1
+            while page <= 200:
+                items = get_json(f"{base}{path}?per_page=100&page={page}")
+                if not isinstance(items, list) or not items:
+                    break
+                for it in items:
+                    pr = it.get("prices") or {}
+                    try:
+                        price = int(pr.get("price") or 0) / (10 ** int(pr.get("currency_minor_unit") or 0)) or None
+                    except (TypeError, ValueError):
+                        price = None
+                    link = it.get("permalink") or ""
+                    if link:
+                        out.append((link,) + judge(store, it.get("name"), f"{it.get('short_description') or ''} {it.get('description') or ''}",
+                                                    link, it.get("is_in_stock", True) and it.get("is_purchasable", True), price, pr.get("currency_code")))
+                print(f"  read {len(out)} products from the store's list...", flush=True)
+                if len(items) < 100:
+                    break
+                page += 1
+            if out:
+                return out
+        except Exception:
+            continue
+    try:
+        page = 1
+        while page <= 100:
+            data = get_json(f"{base}/products.json?limit=250&page={page}")
+            items = data.get("products") if isinstance(data, dict) else None
+            if not items:
+                break
+            for it in items:
+                vs = it.get("variants") or [{}]
+                avail = any(v.get("available") for v in vs)
+                prices = [float(v["price"]) for v in vs if v.get("available") and v.get("price")] or [float(v["price"]) for v in vs if v.get("price")]
+                link = f"{base}/products/{it.get('handle')}"
+                out.append((link,) + judge(store, it.get("title"), it.get("body_html"), link, avail, min(prices) if prices else None))
+            print(f"  read {len(out)} products from the store's list...", flush=True)
+            if len(items) < 250:
+                break
+            page += 1
+    except Exception:
+        pass
+    return out or None
 
 
 # ---------- one product page ----------
@@ -361,6 +475,20 @@ def main():
     total = 0
     for store, base in stores:
         print(f"{store}: reading product list...", flush=True)
+        api = api_products(store, base)
+        if api:
+            for link, status, row in api:
+                progress[link] = {"store": store, "final": link, "status": status, "row": row}
+            total = save(progress, base_checks)
+            kept = sum(1 for _, _, row in api if row)
+            why = {}
+            for _, st, row in api:
+                if not row:
+                    k = re.sub(r"[:(].*", "", st["reason"]).strip()
+                    why[k] = why.get(k, 0) + 1
+            print(f"  {store}: {kept} in-stock laptops (from the store's product list, saved). Skipped: " +
+                  ", ".join(f"{n} {k}" for k, n in sorted(why.items(), key=lambda x: -x[1])), flush=True)
+            continue
         try:
             urls = sorted(u for u in sitemap_urls(base) if looks_like_laptop_url(u))
         except Exception as e:
@@ -370,7 +498,7 @@ def main():
             print(f"  {store}: no product list found, skipped", flush=True)
             continue
         # pages that failed to load last time are opened again
-        todo = [u for u in urls if u not in progress or progress[u]["status"]["reason"].startswith(("unreachable", "could not"))]
+        todo = [u for u in urls if u not in progress or progress[u]["status"]["reason"].startswith(("unreachable", "could not", "HTTP 429", "HTTP 5"))]
         print(f"  {len(urls)} possible laptop pages ({len(urls) - len(todo)} done before), opening the rest...", flush=True)
         with ThreadPoolExecutor(max_workers=8) as pool:
             for i, (url, (final, status, row)) in enumerate(zip(todo, pool.map(lambda u: inspect(store, u), todo)), 1):
