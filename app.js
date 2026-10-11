@@ -758,13 +758,27 @@
   // Games and the graphics power they need (same scale as the Gaming power bar).
   const GAMES = [
     { name: "Minecraft", ico: "⛏️", min: 10, good: 10 },
+    { name: "Roblox", ico: "🧱", min: 10, good: 10 },
+    { name: "The Sims 4", ico: "🏡", min: 10, good: 12 },
     { name: "League of Legends", ico: "🧙", min: 10, good: 10, pcOnly: true },
+    { name: "Dota 2", ico: "🛡️", min: 10, good: 16 },
     { name: "Valorant", ico: "🎯", min: 10, good: 24, pcOnly: true },
+    { name: "Counter-Strike 2", alias: "cs2 cs go csgo", ico: "💣", min: 10, good: 36, pcOnly: true },
+    { name: "Rocket League", ico: "🚀", min: 12, good: 24, pcOnly: true },
     { name: "Fortnite", ico: "🪂", min: 12, good: 38, pcOnly: true },
+    { name: "Overwatch 2", ico: "🦸", min: 14, good: 36, pcOnly: true },
     { name: "GTA V", ico: "🚗", min: 14, good: 36, pcOnly: true },
-    { name: "EA Sports FC", ico: "⚽", min: 24, good: 46, pcOnly: true },
-    { name: "Call of Duty: Warzone", ico: "🪖", min: 36, good: 55, pcOnly: true },
+    { name: "Rainbow Six Siege", alias: "r6", ico: "🔫", min: 14, good: 38, pcOnly: true },
+    { name: "Apex Legends", ico: "🏹", min: 16, good: 38, pcOnly: true },
+    { name: "EA Sports FC", alias: "fifa fc26 fc 26", ico: "⚽", min: 24, good: 46, pcOnly: true },
+    { name: "PUBG: Battlegrounds", alias: "pubg", ico: "🍳", min: 24, good: 46, pcOnly: true },
+    { name: "Forza Horizon 5", ico: "🏎️", min: 24, good: 50, pcOnly: true },
+    { name: "Marvel Rivals", ico: "🕷️", min: 36, good: 55, pcOnly: true },
+    { name: "Call of Duty: Warzone", alias: "cod", ico: "🪖", min: 36, good: 55, pcOnly: true },
+    { name: "Baldur's Gate 3", ico: "🎲", min: 38, good: 55 },
     { name: "Elden Ring", ico: "🗡️", min: 38, good: 60, pcOnly: true },
+    { name: "Red Dead Redemption 2", alias: "rdr2", ico: "🤠", min: 38, good: 60, pcOnly: true },
+    { name: "Hogwarts Legacy", ico: "🪄", min: 46, good: 64, pcOnly: true },
     { name: "Cyberpunk 2077", ico: "🌆", min: 46, good: 72 },
     { name: "Black Myth: Wukong", ico: "🐒", min: 50, good: 80, pcOnly: true },
   ];
@@ -848,10 +862,15 @@
   // ---- Can it run ...? ----
   $("game-btn").addEventListener("click", () => {
     openFun("🎮 Can it run…?", `<p class="quiz-n">Pick a game to see every laptop that runs it smoothly.</p>
+      <input type="search" id="game-q" class="game-q" placeholder="Find a game, e.g. CS2" aria-label="Find a game">
       <div class="quiz-opts games-pick">${GAMES.map((g, i) => {
         const n = ALL.filter((p) => (p.gpuRank || 0) >= g.good && !(p.cpuVendor === "Apple" && g.pcOnly)).length;
-        return `<button type="button" class="quiz-opt" data-game="${i}"><span>${g.ico}</span>${esc(g.name)}<small>${n} laptops</small></button>`;
+        return `<button type="button" class="quiz-opt" data-game="${i}" data-gname="${esc((g.name + " " + (g.alias || "")).toLowerCase())}"><span>${g.ico}</span>${esc(g.name)}<small>${n} laptops</small></button>`;
       }).join("")}</div>`);
+    $("game-q").addEventListener("input", (e) => {
+      const q = e.target.value.trim().toLowerCase().replace(/\s+/g, " ");
+      document.querySelectorAll("[data-gname]").forEach((b) => { b.hidden = q && !b.dataset.gname.includes(q); });
+    });
   });
   $("fun-body").addEventListener("click", (e) => {
     const g = e.target.closest("[data-game]");

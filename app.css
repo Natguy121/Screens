@@ -489,3 +489,5 @@ body.matrix { --bg: #000; --surface: #031503; --ink: #3bff5c; --muted: #1fae3a; 
 @media (max-width: 560px) { .achs { grid-template-columns: 1fr; } .lotd .btn { padding: 8px 10px; } }
 @media (prefers-reduced-motion: reduce) { .lotd-star, .bt-vs { animation: none; } }
 .bt .hl-btns { flex-wrap: wrap; } .bt .hl-btns .btn { font-size: var(--step-0); padding: 10px 14px; }
+.game-q { width: 100%; margin: 4px 0 12px; padding: 10px 14px; border-radius: 12px; border: 1px solid var(--line); background: var(--bg); color: var(--ink); font: inherit; }
+.quiz-opt[hidden] { display: none; }

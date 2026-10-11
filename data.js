@@ -11016,39 +11016,6 @@ window.SPECS_DATA = {
    "id": "ext-279",
    "form": "Laptop",
    "use": "Everyday & Business",
-   "brand": "Belkin",
-   "name": "SoundForm Flow Noise Cancelling Earbuds",
-   "ram": null,
-   "storage": null,
-   "screen": null,
-   "screenIn": null,
-   "touch": false,
-   "oled": false,
-   "extras": null,
-   "price": null,
-   "store": "Ayoub Computers",
-   "seller": "Ayoub Computers",
-   "condition": "New",
-   "link": "https://ayoubcomputers.com/belkin-soundform-flow-noise-cancelling-earbuds-white-auc006btwh/",
-   "linkIsListing": true,
-   "note": null,
-   "cpuVendor": "Intel",
-   "cpuFamily": "Intel Core Ultra 5",
-   "cpuModel": null,
-   "cpu": "Intel Core Ultra 5",
-   "gpuKind": "Integrated",
-   "gpuVendor": "Apple",
-   "gpuModel": "Apple GPU",
-   "gpu": "Apple GPU (integrated)",
-   "gpuRank": 10,
-   "ramGB": null,
-   "storageGB": null,
-   "storageType": null
-  },
-  {
-   "id": "ext-280",
-   "form": "Laptop",
-   "use": "Everyday & Business",
    "brand": "Gsan",
    "name": "Core",
    "ram": "4GB",
@@ -11079,7 +11046,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-281",
+   "id": "ext-280",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -11112,7 +11079,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-282",
+   "id": "ext-281",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -11145,7 +11112,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-283",
+   "id": "ext-282",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -11178,7 +11145,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-284",
+   "id": "ext-283",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -11211,7 +11178,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-285",
+   "id": "ext-284",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -11244,7 +11211,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-286",
+   "id": "ext-285",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -11277,7 +11244,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-287",
+   "id": "ext-286",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -11310,7 +11277,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-288",
+   "id": "ext-287",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -11343,7 +11310,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-289",
+   "id": "ext-288",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -11376,7 +11343,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-290",
+   "id": "ext-289",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -11409,7 +11376,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-291",
+   "id": "ext-290",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -11442,7 +11409,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-292",
+   "id": "ext-291",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -11475,7 +11442,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-293",
+   "id": "ext-292",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -11508,7 +11475,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-294",
+   "id": "ext-293",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -11541,7 +11508,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-295",
+   "id": "ext-294",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lego",
@@ -11574,7 +11541,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-296",
+   "id": "ext-295",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -11607,7 +11574,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-297",
+   "id": "ext-296",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -11640,7 +11607,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-298",
+   "id": "ext-297",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -11673,7 +11640,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-299",
+   "id": "ext-298",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -11706,7 +11673,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-300",
+   "id": "ext-299",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -11739,7 +11706,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-301",
+   "id": "ext-300",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -11772,7 +11739,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-302",
+   "id": "ext-301",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -11805,7 +11772,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-303",
+   "id": "ext-302",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -11838,7 +11805,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-304",
+   "id": "ext-303",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -11871,7 +11838,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-305",
+   "id": "ext-304",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -11904,7 +11871,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-306",
+   "id": "ext-305",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -11937,7 +11904,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-307",
+   "id": "ext-306",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -11970,7 +11937,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-308",
+   "id": "ext-307",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -12003,7 +11970,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-309",
+   "id": "ext-308",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -12036,7 +12003,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-310",
+   "id": "ext-309",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -12069,7 +12036,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-311",
+   "id": "ext-310",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -12102,7 +12069,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-312",
+   "id": "ext-311",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -12135,7 +12102,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-313",
+   "id": "ext-312",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -12168,7 +12135,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-314",
+   "id": "ext-313",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -12201,7 +12168,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-315",
+   "id": "ext-314",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -12234,7 +12201,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-316",
+   "id": "ext-315",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -12267,7 +12234,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-317",
+   "id": "ext-316",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "MSI",
@@ -12300,7 +12267,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-318",
+   "id": "ext-317",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Samsung",
@@ -12333,7 +12300,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-319",
+   "id": "ext-318",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -12366,7 +12333,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-320",
+   "id": "ext-319",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -12399,7 +12366,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-321",
+   "id": "ext-320",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -12432,7 +12399,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-322",
+   "id": "ext-321",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Acer",
@@ -12465,7 +12432,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-323",
+   "id": "ext-322",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -12498,7 +12465,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-324",
+   "id": "ext-323",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Acer",
@@ -12531,7 +12498,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-325",
+   "id": "ext-324",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -12564,7 +12531,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-326",
+   "id": "ext-325",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -12597,7 +12564,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-327",
+   "id": "ext-326",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -12630,7 +12597,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-328",
+   "id": "ext-327",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -12663,7 +12630,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-329",
+   "id": "ext-328",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -12696,7 +12663,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-330",
+   "id": "ext-329",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -12729,7 +12696,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-331",
+   "id": "ext-330",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -12762,7 +12729,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-332",
+   "id": "ext-331",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -12795,7 +12762,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-333",
+   "id": "ext-332",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -12828,7 +12795,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-334",
+   "id": "ext-333",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -12861,7 +12828,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-335",
+   "id": "ext-334",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -12894,7 +12861,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-336",
+   "id": "ext-335",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -12927,7 +12894,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-337",
+   "id": "ext-336",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -12960,7 +12927,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-338",
+   "id": "ext-337",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -12993,7 +12960,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-339",
+   "id": "ext-338",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -13026,7 +12993,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-340",
+   "id": "ext-339",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -13059,7 +13026,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-341",
+   "id": "ext-340",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -13092,7 +13059,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-342",
+   "id": "ext-341",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -13125,7 +13092,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-343",
+   "id": "ext-342",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Acer",
@@ -13158,7 +13125,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-344",
+   "id": "ext-343",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Gigabyte",
@@ -13191,7 +13158,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-345",
+   "id": "ext-344",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -13224,7 +13191,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-346",
+   "id": "ext-345",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -13257,7 +13224,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-347",
+   "id": "ext-346",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -13290,7 +13257,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-348",
+   "id": "ext-347",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -13323,7 +13290,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-349",
+   "id": "ext-348",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -13356,7 +13323,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-350",
+   "id": "ext-349",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -13389,7 +13356,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-351",
+   "id": "ext-350",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -13422,7 +13389,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-352",
+   "id": "ext-351",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -13455,7 +13422,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-353",
+   "id": "ext-352",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -13488,7 +13455,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-354",
+   "id": "ext-353",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -13521,7 +13488,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-355",
+   "id": "ext-354",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -13554,7 +13521,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-356",
+   "id": "ext-355",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -13587,7 +13554,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-357",
+   "id": "ext-356",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -13620,7 +13587,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-358",
+   "id": "ext-357",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -13653,7 +13620,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-359",
+   "id": "ext-358",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -13686,7 +13653,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-360",
+   "id": "ext-359",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -13719,7 +13686,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-361",
+   "id": "ext-360",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -13752,7 +13719,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-362",
+   "id": "ext-361",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -13785,7 +13752,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-363",
+   "id": "ext-362",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -13818,7 +13785,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-364",
+   "id": "ext-363",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -13851,7 +13818,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-365",
+   "id": "ext-364",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -13884,7 +13851,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-366",
+   "id": "ext-365",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -13917,7 +13884,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-367",
+   "id": "ext-366",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -13950,7 +13917,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-368",
+   "id": "ext-367",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -13983,7 +13950,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-369",
+   "id": "ext-368",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -14016,7 +13983,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-370",
+   "id": "ext-369",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -14049,7 +14016,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-371",
+   "id": "ext-370",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -14082,7 +14049,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-372",
+   "id": "ext-371",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -14115,7 +14082,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-373",
+   "id": "ext-372",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -14148,7 +14115,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-374",
+   "id": "ext-373",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -14181,7 +14148,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-375",
+   "id": "ext-374",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -14214,7 +14181,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-376",
+   "id": "ext-375",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -14247,7 +14214,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-377",
+   "id": "ext-376",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -14280,7 +14247,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-378",
+   "id": "ext-377",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -14313,7 +14280,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-379",
+   "id": "ext-378",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Acer",
@@ -14346,7 +14313,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-380",
+   "id": "ext-379",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -14379,7 +14346,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-381",
+   "id": "ext-380",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -14412,7 +14379,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-382",
+   "id": "ext-381",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -14445,7 +14412,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-383",
+   "id": "ext-382",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -14478,7 +14445,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-384",
+   "id": "ext-383",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -14511,7 +14478,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-385",
+   "id": "ext-384",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -14544,7 +14511,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-386",
+   "id": "ext-385",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -14577,7 +14544,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-387",
+   "id": "ext-386",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -14610,7 +14577,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-388",
+   "id": "ext-387",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -14643,7 +14610,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-389",
+   "id": "ext-388",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -14676,7 +14643,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-390",
+   "id": "ext-389",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -14709,7 +14676,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-391",
+   "id": "ext-390",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -14742,7 +14709,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-392",
+   "id": "ext-391",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -14775,7 +14742,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-393",
+   "id": "ext-392",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -14808,7 +14775,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-394",
+   "id": "ext-393",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -14841,7 +14808,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-395",
+   "id": "ext-394",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -14874,7 +14841,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-396",
+   "id": "ext-395",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -14907,7 +14874,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-397",
+   "id": "ext-396",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Acer",
@@ -14940,7 +14907,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-398",
+   "id": "ext-397",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -14973,7 +14940,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-399",
+   "id": "ext-398",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -15006,7 +14973,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-400",
+   "id": "ext-399",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -15039,7 +15006,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-401",
+   "id": "ext-400",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Acer",
@@ -15072,7 +15039,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-402",
+   "id": "ext-401",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -15105,7 +15072,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-403",
+   "id": "ext-402",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -15138,7 +15105,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-404",
+   "id": "ext-403",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -15171,7 +15138,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-405",
+   "id": "ext-404",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -15204,7 +15171,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-406",
+   "id": "ext-405",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -15237,7 +15204,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-407",
+   "id": "ext-406",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Microsoft",
@@ -15270,7 +15237,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-408",
+   "id": "ext-407",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -15303,7 +15270,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-409",
+   "id": "ext-408",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -15336,7 +15303,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-410",
+   "id": "ext-409",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -15369,7 +15336,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-411",
+   "id": "ext-410",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -15402,7 +15369,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-412",
+   "id": "ext-411",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -15435,7 +15402,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-413",
+   "id": "ext-412",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Samsung",
@@ -15468,7 +15435,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-414",
+   "id": "ext-413",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -15501,7 +15468,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-415",
+   "id": "ext-414",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -15534,7 +15501,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-416",
+   "id": "ext-415",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Dell",
@@ -15567,7 +15534,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-417",
+   "id": "ext-416",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -15600,7 +15567,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-418",
+   "id": "ext-417",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -15633,7 +15600,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-419",
+   "id": "ext-418",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -15666,7 +15633,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-420",
+   "id": "ext-419",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -15699,7 +15666,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-421",
+   "id": "ext-420",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -15732,7 +15699,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-422",
+   "id": "ext-421",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -15765,7 +15732,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-423",
+   "id": "ext-422",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -15798,7 +15765,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-424",
+   "id": "ext-423",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -15831,7 +15798,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-425",
+   "id": "ext-424",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -15864,7 +15831,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-426",
+   "id": "ext-425",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -15897,7 +15864,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-427",
+   "id": "ext-426",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -15930,7 +15897,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-428",
+   "id": "ext-427",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -15963,7 +15930,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-429",
+   "id": "ext-428",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -15996,7 +15963,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-430",
+   "id": "ext-429",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -16029,7 +15996,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-431",
+   "id": "ext-430",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -16062,7 +16029,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-432",
+   "id": "ext-431",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -16095,7 +16062,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-433",
+   "id": "ext-432",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -16128,7 +16095,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-434",
+   "id": "ext-433",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -16161,7 +16128,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-435",
+   "id": "ext-434",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -16194,7 +16161,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-436",
+   "id": "ext-435",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -16227,7 +16194,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-437",
+   "id": "ext-436",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -16260,7 +16227,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-438",
+   "id": "ext-437",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -16293,7 +16260,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-439",
+   "id": "ext-438",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -16326,7 +16293,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-440",
+   "id": "ext-439",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -16359,7 +16326,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-441",
+   "id": "ext-440",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -16392,7 +16359,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-442",
+   "id": "ext-441",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -16425,7 +16392,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-443",
+   "id": "ext-442",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -16458,7 +16425,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-444",
+   "id": "ext-443",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -16491,7 +16458,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-445",
+   "id": "ext-444",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -16524,7 +16491,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-446",
+   "id": "ext-445",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -16557,7 +16524,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-447",
+   "id": "ext-446",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -16590,7 +16557,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-448",
+   "id": "ext-447",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -16623,7 +16590,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-449",
+   "id": "ext-448",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -16656,7 +16623,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-450",
+   "id": "ext-449",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -16689,7 +16656,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-451",
+   "id": "ext-450",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -16722,7 +16689,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-452",
+   "id": "ext-451",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -16755,7 +16722,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-453",
+   "id": "ext-452",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -16788,7 +16755,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-454",
+   "id": "ext-453",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -16821,7 +16788,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-455",
+   "id": "ext-454",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -16854,7 +16821,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-456",
+   "id": "ext-455",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -16887,7 +16854,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-457",
+   "id": "ext-456",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -16920,7 +16887,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-458",
+   "id": "ext-457",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -16953,7 +16920,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-459",
+   "id": "ext-458",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -16986,7 +16953,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-460",
+   "id": "ext-459",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -17019,7 +16986,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-461",
+   "id": "ext-460",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -17052,7 +17019,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-462",
+   "id": "ext-461",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -17085,7 +17052,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-463",
+   "id": "ext-462",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -17118,7 +17085,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-464",
+   "id": "ext-463",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -17151,7 +17118,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-465",
+   "id": "ext-464",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -17184,7 +17151,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-466",
+   "id": "ext-465",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -17217,7 +17184,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-467",
+   "id": "ext-466",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -17250,7 +17217,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-468",
+   "id": "ext-467",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -17283,7 +17250,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-469",
+   "id": "ext-468",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -17316,7 +17283,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-470",
+   "id": "ext-469",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -17349,7 +17316,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-471",
+   "id": "ext-470",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -17382,7 +17349,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-472",
+   "id": "ext-471",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -17415,7 +17382,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-473",
+   "id": "ext-472",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -17448,7 +17415,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-474",
+   "id": "ext-473",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -17481,7 +17448,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-475",
+   "id": "ext-474",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -17514,7 +17481,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-476",
+   "id": "ext-475",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -17547,7 +17514,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-477",
+   "id": "ext-476",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -17580,7 +17547,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-478",
+   "id": "ext-477",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -17613,7 +17580,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-479",
+   "id": "ext-478",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -17646,7 +17613,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-480",
+   "id": "ext-479",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -17679,7 +17646,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-481",
+   "id": "ext-480",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -17712,7 +17679,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-482",
+   "id": "ext-481",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -17745,7 +17712,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-483",
+   "id": "ext-482",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -17778,7 +17745,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-484",
+   "id": "ext-483",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -17811,7 +17778,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-485",
+   "id": "ext-484",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -17844,7 +17811,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-486",
+   "id": "ext-485",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -17877,7 +17844,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-487",
+   "id": "ext-486",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -17910,7 +17877,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-488",
+   "id": "ext-487",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -17943,7 +17910,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-489",
+   "id": "ext-488",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -17976,7 +17943,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-490",
+   "id": "ext-489",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -18009,7 +17976,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-491",
+   "id": "ext-490",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -18042,7 +18009,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-492",
+   "id": "ext-491",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -18075,7 +18042,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-493",
+   "id": "ext-492",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -18108,7 +18075,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-494",
+   "id": "ext-493",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -18141,7 +18108,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-495",
+   "id": "ext-494",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -18174,7 +18141,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-496",
+   "id": "ext-495",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -18207,7 +18174,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-497",
+   "id": "ext-496",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -18240,7 +18207,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-498",
+   "id": "ext-497",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -18273,7 +18240,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-499",
+   "id": "ext-498",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Microsoft",
@@ -18306,7 +18273,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-500",
+   "id": "ext-499",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -18339,7 +18306,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-501",
+   "id": "ext-500",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -18372,7 +18339,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-502",
+   "id": "ext-501",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -18405,7 +18372,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-503",
+   "id": "ext-502",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -18438,7 +18405,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-504",
+   "id": "ext-503",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Microsoft",
@@ -18471,7 +18438,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-505",
+   "id": "ext-504",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Acer",
@@ -18504,7 +18471,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-506",
+   "id": "ext-505",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -18537,7 +18504,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-507",
+   "id": "ext-506",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -18570,7 +18537,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-508",
+   "id": "ext-507",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -18603,7 +18570,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-509",
+   "id": "ext-508",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -18636,7 +18603,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-510",
+   "id": "ext-509",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -18669,7 +18636,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-511",
+   "id": "ext-510",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -18702,7 +18669,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-512",
+   "id": "ext-511",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -18735,7 +18702,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-513",
+   "id": "ext-512",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -18768,7 +18735,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-514",
+   "id": "ext-513",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -18801,7 +18768,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-515",
+   "id": "ext-514",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -18834,7 +18801,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-516",
+   "id": "ext-515",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -18867,7 +18834,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-517",
+   "id": "ext-516",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -18900,7 +18867,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-518",
+   "id": "ext-517",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -18933,7 +18900,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-519",
+   "id": "ext-518",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -18966,7 +18933,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-520",
+   "id": "ext-519",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -18999,7 +18966,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-521",
+   "id": "ext-520",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -19032,7 +18999,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-522",
+   "id": "ext-521",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Gigabyte",
@@ -19065,7 +19032,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-523",
+   "id": "ext-522",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -19098,7 +19065,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-524",
+   "id": "ext-523",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -19131,7 +19098,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-525",
+   "id": "ext-524",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -19164,7 +19131,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-526",
+   "id": "ext-525",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -19197,7 +19164,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-527",
+   "id": "ext-526",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -19230,7 +19197,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-528",
+   "id": "ext-527",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Dell",
@@ -19263,7 +19230,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-529",
+   "id": "ext-528",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -19296,7 +19263,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-530",
+   "id": "ext-529",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Acer",
@@ -19329,7 +19296,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-531",
+   "id": "ext-530",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Dell",
@@ -19362,7 +19329,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-532",
+   "id": "ext-531",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -19395,7 +19362,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-533",
+   "id": "ext-532",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -19428,7 +19395,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-534",
+   "id": "ext-533",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -19461,7 +19428,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-535",
+   "id": "ext-534",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -19494,7 +19461,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-536",
+   "id": "ext-535",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -19527,7 +19494,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-537",
+   "id": "ext-536",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -19560,7 +19527,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-538",
+   "id": "ext-537",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -19593,7 +19560,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-539",
+   "id": "ext-538",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -19626,7 +19593,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-540",
+   "id": "ext-539",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -19659,7 +19626,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-541",
+   "id": "ext-540",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -19692,7 +19659,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-542",
+   "id": "ext-541",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -19725,7 +19692,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-543",
+   "id": "ext-542",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -19758,7 +19725,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-544",
+   "id": "ext-543",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -19791,7 +19758,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-545",
+   "id": "ext-544",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -19824,7 +19791,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-546",
+   "id": "ext-545",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -19857,7 +19824,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-547",
+   "id": "ext-546",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -19890,7 +19857,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-548",
+   "id": "ext-547",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -19923,7 +19890,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-549",
+   "id": "ext-548",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -19956,7 +19923,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-550",
+   "id": "ext-549",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -19989,7 +19956,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-551",
+   "id": "ext-550",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -20022,7 +19989,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-552",
+   "id": "ext-551",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -20055,7 +20022,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-553",
+   "id": "ext-552",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -20088,7 +20055,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-554",
+   "id": "ext-553",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -20121,7 +20088,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-555",
+   "id": "ext-554",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -20154,7 +20121,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-556",
+   "id": "ext-555",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -20187,7 +20154,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-557",
+   "id": "ext-556",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -20220,7 +20187,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-558",
+   "id": "ext-557",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -20253,7 +20220,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-559",
+   "id": "ext-558",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -20286,7 +20253,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-560",
+   "id": "ext-559",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Microsoft",
@@ -20319,7 +20286,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-561",
+   "id": "ext-560",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Microsoft",
@@ -20352,7 +20319,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-562",
+   "id": "ext-561",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Acer",
@@ -20385,7 +20352,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-563",
+   "id": "ext-562",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -20418,7 +20385,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-564",
+   "id": "ext-563",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -20451,7 +20418,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-565",
+   "id": "ext-564",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -20484,7 +20451,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-566",
+   "id": "ext-565",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "MSI",
@@ -20517,7 +20484,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-567",
+   "id": "ext-566",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -20550,7 +20517,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-568",
+   "id": "ext-567",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -20583,7 +20550,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-569",
+   "id": "ext-568",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -20616,7 +20583,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-570",
+   "id": "ext-569",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -20649,7 +20616,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-571",
+   "id": "ext-570",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -20682,7 +20649,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-572",
+   "id": "ext-571",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -20715,7 +20682,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-573",
+   "id": "ext-572",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -20748,7 +20715,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-574",
+   "id": "ext-573",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -20781,7 +20748,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-575",
+   "id": "ext-574",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -20814,7 +20781,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-576",
+   "id": "ext-575",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -20847,7 +20814,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-577",
+   "id": "ext-576",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -20880,7 +20847,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-578",
+   "id": "ext-577",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -20913,7 +20880,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-579",
+   "id": "ext-578",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -20946,7 +20913,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-580",
+   "id": "ext-579",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -20979,7 +20946,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-581",
+   "id": "ext-580",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -21012,7 +20979,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-582",
+   "id": "ext-581",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -21045,7 +21012,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-583",
+   "id": "ext-582",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -21078,7 +21045,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-584",
+   "id": "ext-583",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Microsoft",
@@ -21111,7 +21078,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-585",
+   "id": "ext-584",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -21144,7 +21111,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-586",
+   "id": "ext-585",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -21177,7 +21144,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-587",
+   "id": "ext-586",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -21210,7 +21177,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-588",
+   "id": "ext-587",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -21243,7 +21210,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-589",
+   "id": "ext-588",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Microsoft",
@@ -21276,7 +21243,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-590",
+   "id": "ext-589",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Microsoft",
@@ -21309,7 +21276,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-591",
+   "id": "ext-590",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Microsoft",
@@ -21342,7 +21309,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-592",
+   "id": "ext-591",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -21375,7 +21342,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-593",
+   "id": "ext-592",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -21408,7 +21375,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-594",
+   "id": "ext-593",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -21441,7 +21408,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-595",
+   "id": "ext-594",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -21474,7 +21441,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-596",
+   "id": "ext-595",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -21507,7 +21474,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-597",
+   "id": "ext-596",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -21540,7 +21507,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-598",
+   "id": "ext-597",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -21573,7 +21540,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-599",
+   "id": "ext-598",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -21606,7 +21573,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-600",
+   "id": "ext-599",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -21639,7 +21606,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-601",
+   "id": "ext-600",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Acer",
@@ -21672,7 +21639,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-602",
+   "id": "ext-601",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -21705,7 +21672,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-603",
+   "id": "ext-602",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -21738,7 +21705,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-604",
+   "id": "ext-603",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Acer",
@@ -21771,7 +21738,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-605",
+   "id": "ext-604",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -21804,7 +21771,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-606",
+   "id": "ext-605",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -21837,7 +21804,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-607",
+   "id": "ext-606",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -21870,7 +21837,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-608",
+   "id": "ext-607",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -21903,7 +21870,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-609",
+   "id": "ext-608",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -21936,7 +21903,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-610",
+   "id": "ext-609",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Dell",
@@ -21969,7 +21936,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-611",
+   "id": "ext-610",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -22002,7 +21969,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-612",
+   "id": "ext-611",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -22035,7 +22002,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-613",
+   "id": "ext-612",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -22068,7 +22035,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-614",
+   "id": "ext-613",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -22101,7 +22068,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-615",
+   "id": "ext-614",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -22134,7 +22101,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-616",
+   "id": "ext-615",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -22167,7 +22134,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-617",
+   "id": "ext-616",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -22200,7 +22167,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-618",
+   "id": "ext-617",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -22233,7 +22200,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-619",
+   "id": "ext-618",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -22266,7 +22233,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-620",
+   "id": "ext-619",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -22299,7 +22266,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-621",
+   "id": "ext-620",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -22332,7 +22299,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-622",
+   "id": "ext-621",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -22365,7 +22332,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-623",
+   "id": "ext-622",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -22398,7 +22365,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-624",
+   "id": "ext-623",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "MSI",
@@ -22431,7 +22398,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-625",
+   "id": "ext-624",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -22464,7 +22431,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-626",
+   "id": "ext-625",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -22497,7 +22464,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-627",
+   "id": "ext-626",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -22530,7 +22497,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-628",
+   "id": "ext-627",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -22563,7 +22530,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-629",
+   "id": "ext-628",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -22596,7 +22563,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-630",
+   "id": "ext-629",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -22629,7 +22596,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-631",
+   "id": "ext-630",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -22662,7 +22629,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-632",
+   "id": "ext-631",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -22695,7 +22662,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-633",
+   "id": "ext-632",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -22728,7 +22695,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-634",
+   "id": "ext-633",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -22761,7 +22728,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-635",
+   "id": "ext-634",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -22794,7 +22761,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-636",
+   "id": "ext-635",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -22827,7 +22794,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-637",
+   "id": "ext-636",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -22860,7 +22827,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-638",
+   "id": "ext-637",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -22893,7 +22860,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-639",
+   "id": "ext-638",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -22926,7 +22893,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-640",
+   "id": "ext-639",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -22959,7 +22926,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-641",
+   "id": "ext-640",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -22992,7 +22959,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-642",
+   "id": "ext-641",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -23025,7 +22992,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-643",
+   "id": "ext-642",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -23058,7 +23025,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-644",
+   "id": "ext-643",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -23091,7 +23058,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-645",
+   "id": "ext-644",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -23124,7 +23091,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-646",
+   "id": "ext-645",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -23157,7 +23124,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-647",
+   "id": "ext-646",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -23190,7 +23157,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-648",
+   "id": "ext-647",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -23223,7 +23190,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-649",
+   "id": "ext-648",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -23256,7 +23223,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-650",
+   "id": "ext-649",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -23289,7 +23256,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-651",
+   "id": "ext-650",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -23322,7 +23289,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-652",
+   "id": "ext-651",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -23355,7 +23322,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-653",
+   "id": "ext-652",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Dell",
@@ -23388,7 +23355,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-654",
+   "id": "ext-653",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -23421,7 +23388,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-655",
+   "id": "ext-654",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -23454,7 +23421,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-656",
+   "id": "ext-655",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -23487,7 +23454,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-657",
+   "id": "ext-656",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -23520,7 +23487,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-658",
+   "id": "ext-657",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -23553,7 +23520,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-659",
+   "id": "ext-658",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Microsoft",
@@ -23586,7 +23553,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-660",
+   "id": "ext-659",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -23619,7 +23586,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-661",
+   "id": "ext-660",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -23652,7 +23619,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-662",
+   "id": "ext-661",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -23685,7 +23652,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-663",
+   "id": "ext-662",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -23718,7 +23685,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-664",
+   "id": "ext-663",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -23751,7 +23718,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-665",
+   "id": "ext-664",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -23784,7 +23751,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-666",
+   "id": "ext-665",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -23817,7 +23784,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-667",
+   "id": "ext-666",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Acer",
@@ -23850,7 +23817,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-668",
+   "id": "ext-667",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -23883,7 +23850,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-669",
+   "id": "ext-668",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Samsung",
@@ -23916,7 +23883,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-670",
+   "id": "ext-669",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -23949,7 +23916,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-671",
+   "id": "ext-670",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -23982,7 +23949,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-672",
+   "id": "ext-671",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -24015,7 +23982,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-673",
+   "id": "ext-672",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -24048,7 +24015,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-674",
+   "id": "ext-673",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -24081,7 +24048,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-675",
+   "id": "ext-674",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Acer",
@@ -24114,7 +24081,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-676",
+   "id": "ext-675",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -24147,7 +24114,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-677",
+   "id": "ext-676",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -24180,7 +24147,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-678",
+   "id": "ext-677",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -24213,7 +24180,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-679",
+   "id": "ext-678",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -24246,7 +24213,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-680",
+   "id": "ext-679",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -24279,7 +24246,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-681",
+   "id": "ext-680",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -24312,7 +24279,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-682",
+   "id": "ext-681",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -24345,7 +24312,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-683",
+   "id": "ext-682",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -24378,7 +24345,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-684",
+   "id": "ext-683",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -24411,7 +24378,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-685",
+   "id": "ext-684",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -24444,7 +24411,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-686",
+   "id": "ext-685",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -24477,7 +24444,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-687",
+   "id": "ext-686",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -24510,7 +24477,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-688",
+   "id": "ext-687",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -24543,7 +24510,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-689",
+   "id": "ext-688",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -24576,7 +24543,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-690",
+   "id": "ext-689",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -24609,7 +24576,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-691",
+   "id": "ext-690",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -24642,7 +24609,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-692",
+   "id": "ext-691",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -24675,7 +24642,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-693",
+   "id": "ext-692",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -24708,7 +24675,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-694",
+   "id": "ext-693",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Samsung",
@@ -24741,7 +24708,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-695",
+   "id": "ext-694",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -24774,7 +24741,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-696",
+   "id": "ext-695",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -24807,7 +24774,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-697",
+   "id": "ext-696",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -24840,7 +24807,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-698",
+   "id": "ext-697",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -24873,7 +24840,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-699",
+   "id": "ext-698",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -24906,7 +24873,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-700",
+   "id": "ext-699",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -24939,7 +24906,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-701",
+   "id": "ext-700",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -24972,7 +24939,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-702",
+   "id": "ext-701",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -25005,7 +24972,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-703",
+   "id": "ext-702",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -25038,7 +25005,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-704",
+   "id": "ext-703",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -25071,7 +25038,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-705",
+   "id": "ext-704",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -25104,7 +25071,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-706",
+   "id": "ext-705",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -25137,7 +25104,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-707",
+   "id": "ext-706",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -25170,7 +25137,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-708",
+   "id": "ext-707",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -25203,7 +25170,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-709",
+   "id": "ext-708",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -25236,7 +25203,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-710",
+   "id": "ext-709",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Dell",
@@ -25269,7 +25236,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-711",
+   "id": "ext-710",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -25302,7 +25269,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-712",
+   "id": "ext-711",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -25335,7 +25302,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-713",
+   "id": "ext-712",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -25368,7 +25335,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-714",
+   "id": "ext-713",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -25401,7 +25368,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-715",
+   "id": "ext-714",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -25434,7 +25401,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-716",
+   "id": "ext-715",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -25467,7 +25434,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-717",
+   "id": "ext-716",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -25500,7 +25467,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-718",
+   "id": "ext-717",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -25533,7 +25500,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-719",
+   "id": "ext-718",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -25566,7 +25533,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-720",
+   "id": "ext-719",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -25599,7 +25566,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-721",
+   "id": "ext-720",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -25632,7 +25599,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-722",
+   "id": "ext-721",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -25665,7 +25632,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-723",
+   "id": "ext-722",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -25698,7 +25665,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-724",
+   "id": "ext-723",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -25731,7 +25698,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-725",
+   "id": "ext-724",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -25764,7 +25731,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-726",
+   "id": "ext-725",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -25797,7 +25764,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-727",
+   "id": "ext-726",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -25830,7 +25797,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-728",
+   "id": "ext-727",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -25863,7 +25830,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-729",
+   "id": "ext-728",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -25896,7 +25863,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-730",
+   "id": "ext-729",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -25929,7 +25896,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-731",
+   "id": "ext-730",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -25962,7 +25929,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-732",
+   "id": "ext-731",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -25995,7 +25962,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-733",
+   "id": "ext-732",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -26028,7 +25995,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-734",
+   "id": "ext-733",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -26061,7 +26028,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-735",
+   "id": "ext-734",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -26094,7 +26061,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-736",
+   "id": "ext-735",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -26127,7 +26094,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-737",
+   "id": "ext-736",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -26160,7 +26127,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-738",
+   "id": "ext-737",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -26193,7 +26160,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-739",
+   "id": "ext-738",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -26226,7 +26193,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-740",
+   "id": "ext-739",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -26259,7 +26226,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-741",
+   "id": "ext-740",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -26292,7 +26259,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-742",
+   "id": "ext-741",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -26325,7 +26292,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-743",
+   "id": "ext-742",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -26358,7 +26325,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-744",
+   "id": "ext-743",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -26391,7 +26358,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-745",
+   "id": "ext-744",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -26424,7 +26391,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-746",
+   "id": "ext-745",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -26457,7 +26424,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-747",
+   "id": "ext-746",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Dell",
@@ -26490,7 +26457,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-748",
+   "id": "ext-747",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -26523,7 +26490,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-749",
+   "id": "ext-748",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -26556,7 +26523,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-750",
+   "id": "ext-749",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -26589,7 +26556,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-751",
+   "id": "ext-750",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Laptop",
@@ -26622,7 +26589,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-752",
+   "id": "ext-751",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -26655,7 +26622,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-753",
+   "id": "ext-752",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -26688,7 +26655,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-754",
+   "id": "ext-753",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -26721,7 +26688,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-755",
+   "id": "ext-754",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -26754,7 +26721,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-756",
+   "id": "ext-755",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -26787,7 +26754,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-757",
+   "id": "ext-756",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -26820,7 +26787,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-758",
+   "id": "ext-757",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -26853,7 +26820,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-759",
+   "id": "ext-758",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -26886,7 +26853,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-760",
+   "id": "ext-759",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -26919,7 +26886,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-761",
+   "id": "ext-760",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -26952,7 +26919,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-762",
+   "id": "ext-761",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -26985,7 +26952,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-763",
+   "id": "ext-762",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -27018,7 +26985,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-764",
+   "id": "ext-763",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -27051,7 +27018,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-765",
+   "id": "ext-764",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -27084,7 +27051,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-766",
+   "id": "ext-765",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -27117,7 +27084,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-767",
+   "id": "ext-766",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -27150,7 +27117,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-768",
+   "id": "ext-767",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -27183,7 +27150,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-769",
+   "id": "ext-768",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -27216,7 +27183,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-770",
+   "id": "ext-769",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -27249,7 +27216,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-771",
+   "id": "ext-770",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -27282,7 +27249,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-772",
+   "id": "ext-771",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -27315,7 +27282,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-773",
+   "id": "ext-772",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -27348,7 +27315,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-774",
+   "id": "ext-773",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -27381,7 +27348,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-775",
+   "id": "ext-774",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -27414,7 +27381,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-776",
+   "id": "ext-775",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -27447,7 +27414,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-777",
+   "id": "ext-776",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Dell",
@@ -27480,7 +27447,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-778",
+   "id": "ext-777",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Dell",
@@ -27513,7 +27480,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-779",
+   "id": "ext-778",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Dell",
@@ -27546,7 +27513,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-780",
+   "id": "ext-779",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -27579,7 +27546,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-781",
+   "id": "ext-780",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -27612,7 +27579,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-782",
+   "id": "ext-781",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -27645,7 +27612,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-783",
+   "id": "ext-782",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Dell",
@@ -27678,7 +27645,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-784",
+   "id": "ext-783",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -27711,7 +27678,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-785",
+   "id": "ext-784",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Dell",
@@ -27744,7 +27711,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-786",
+   "id": "ext-785",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Dell",
@@ -27777,7 +27744,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-787",
+   "id": "ext-786",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -27810,7 +27777,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-788",
+   "id": "ext-787",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -27843,7 +27810,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-789",
+   "id": "ext-788",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -27876,7 +27843,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-790",
+   "id": "ext-789",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -27909,7 +27876,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-791",
+   "id": "ext-790",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -27942,7 +27909,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-792",
+   "id": "ext-791",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -27975,7 +27942,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-793",
+   "id": "ext-792",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -28008,7 +27975,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-794",
+   "id": "ext-793",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -28041,7 +28008,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-795",
+   "id": "ext-794",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -28074,7 +28041,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-796",
+   "id": "ext-795",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -28107,7 +28074,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-797",
+   "id": "ext-796",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -28140,7 +28107,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-798",
+   "id": "ext-797",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -28173,7 +28140,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-799",
+   "id": "ext-798",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -28206,7 +28173,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-800",
+   "id": "ext-799",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Dell",
@@ -28239,7 +28206,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-801",
+   "id": "ext-800",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -28272,7 +28239,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-802",
+   "id": "ext-801",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -28305,7 +28272,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-803",
+   "id": "ext-802",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -28338,7 +28305,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-804",
+   "id": "ext-803",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -28371,7 +28338,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-805",
+   "id": "ext-804",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -28404,7 +28371,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-806",
+   "id": "ext-805",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -28437,7 +28404,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-807",
+   "id": "ext-806",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -28470,7 +28437,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-808",
+   "id": "ext-807",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -28503,7 +28470,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-809",
+   "id": "ext-808",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -28536,7 +28503,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-810",
+   "id": "ext-809",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -28569,7 +28536,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-811",
+   "id": "ext-810",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -28602,7 +28569,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-812",
+   "id": "ext-811",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -28635,7 +28602,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-813",
+   "id": "ext-812",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -28668,7 +28635,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-814",
+   "id": "ext-813",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -28701,7 +28668,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-815",
+   "id": "ext-814",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -28734,7 +28701,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-816",
+   "id": "ext-815",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -28767,7 +28734,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-817",
+   "id": "ext-816",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -28800,7 +28767,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-818",
+   "id": "ext-817",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -28833,7 +28800,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-819",
+   "id": "ext-818",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -28866,7 +28833,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-820",
+   "id": "ext-819",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -28899,7 +28866,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-821",
+   "id": "ext-820",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -28932,7 +28899,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-822",
+   "id": "ext-821",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -28965,7 +28932,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-823",
+   "id": "ext-822",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -28998,7 +28965,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-824",
+   "id": "ext-823",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -29031,7 +28998,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-825",
+   "id": "ext-824",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -29064,7 +29031,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-826",
+   "id": "ext-825",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -29097,7 +29064,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-827",
+   "id": "ext-826",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -29130,7 +29097,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-828",
+   "id": "ext-827",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -29163,7 +29130,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-829",
+   "id": "ext-828",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -29196,7 +29163,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-830",
+   "id": "ext-829",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -29229,7 +29196,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-831",
+   "id": "ext-830",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -29262,7 +29229,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-832",
+   "id": "ext-831",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -29295,7 +29262,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-833",
+   "id": "ext-832",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "LG",
@@ -29328,7 +29295,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-834",
+   "id": "ext-833",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "MSI",
@@ -29361,7 +29328,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-835",
+   "id": "ext-834",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -29394,7 +29361,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-836",
+   "id": "ext-835",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -29427,7 +29394,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-837",
+   "id": "ext-836",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -29460,7 +29427,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-838",
+   "id": "ext-837",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -29493,7 +29460,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-839",
+   "id": "ext-838",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -29526,7 +29493,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-840",
+   "id": "ext-839",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -29559,7 +29526,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-841",
+   "id": "ext-840",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -29592,7 +29559,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-842",
+   "id": "ext-841",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -29625,7 +29592,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-843",
+   "id": "ext-842",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -29658,7 +29625,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-844",
+   "id": "ext-843",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -29691,7 +29658,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-845",
+   "id": "ext-844",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -29724,7 +29691,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-846",
+   "id": "ext-845",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -29757,7 +29724,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-847",
+   "id": "ext-846",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -29790,7 +29757,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-848",
+   "id": "ext-847",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -29823,7 +29790,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-849",
+   "id": "ext-848",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -29856,7 +29823,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-850",
+   "id": "ext-849",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -29889,7 +29856,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-851",
+   "id": "ext-850",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -29922,7 +29889,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-852",
+   "id": "ext-851",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -29955,7 +29922,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-853",
+   "id": "ext-852",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -29988,7 +29955,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-854",
+   "id": "ext-853",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -30021,7 +29988,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-855",
+   "id": "ext-854",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -30054,7 +30021,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-856",
+   "id": "ext-855",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -30087,7 +30054,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-857",
+   "id": "ext-856",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -30120,7 +30087,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-858",
+   "id": "ext-857",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -30153,7 +30120,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-859",
+   "id": "ext-858",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -30186,7 +30153,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-860",
+   "id": "ext-859",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -30219,7 +30186,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-861",
+   "id": "ext-860",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -30252,7 +30219,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-862",
+   "id": "ext-861",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -30285,7 +30252,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-863",
+   "id": "ext-862",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -30318,7 +30285,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-864",
+   "id": "ext-863",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -30351,7 +30318,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-865",
+   "id": "ext-864",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -30384,7 +30351,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-866",
+   "id": "ext-865",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -30417,7 +30384,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-867",
+   "id": "ext-866",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -30450,7 +30417,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-868",
+   "id": "ext-867",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -30483,7 +30450,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-869",
+   "id": "ext-868",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -30516,7 +30483,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-870",
+   "id": "ext-869",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Microsoft",
@@ -30549,7 +30516,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-871",
+   "id": "ext-870",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -30582,7 +30549,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-872",
+   "id": "ext-871",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -30615,7 +30582,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-873",
+   "id": "ext-872",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -30648,7 +30615,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-874",
+   "id": "ext-873",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -30681,7 +30648,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-875",
+   "id": "ext-874",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -30714,7 +30681,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-876",
+   "id": "ext-875",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -30747,7 +30714,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-877",
+   "id": "ext-876",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -30780,7 +30747,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-878",
+   "id": "ext-877",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -30813,7 +30780,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-879",
+   "id": "ext-878",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -30846,7 +30813,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-880",
+   "id": "ext-879",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -30879,7 +30846,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-881",
+   "id": "ext-880",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -30912,7 +30879,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-882",
+   "id": "ext-881",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -30945,7 +30912,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-883",
+   "id": "ext-882",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -30978,7 +30945,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-884",
+   "id": "ext-883",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -31011,7 +30978,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-885",
+   "id": "ext-884",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -31044,7 +31011,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-886",
+   "id": "ext-885",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -31077,7 +31044,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-887",
+   "id": "ext-886",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -31110,7 +31077,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-888",
+   "id": "ext-887",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -31143,7 +31110,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-889",
+   "id": "ext-888",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -31176,7 +31143,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-890",
+   "id": "ext-889",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -31209,7 +31176,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-891",
+   "id": "ext-890",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -31242,7 +31209,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-892",
+   "id": "ext-891",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -31275,7 +31242,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-893",
+   "id": "ext-892",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -31308,7 +31275,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-894",
+   "id": "ext-893",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -31341,7 +31308,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-895",
+   "id": "ext-894",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -31374,7 +31341,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-896",
+   "id": "ext-895",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -31407,7 +31374,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-897",
+   "id": "ext-896",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -31440,7 +31407,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-898",
+   "id": "ext-897",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -31473,7 +31440,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-899",
+   "id": "ext-898",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -31506,7 +31473,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-900",
+   "id": "ext-899",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -31539,7 +31506,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-901",
+   "id": "ext-900",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -31572,7 +31539,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-902",
+   "id": "ext-901",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -31605,7 +31572,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-903",
+   "id": "ext-902",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -31638,7 +31605,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-904",
+   "id": "ext-903",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -31671,7 +31638,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-905",
+   "id": "ext-904",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -31704,7 +31671,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-906",
+   "id": "ext-905",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Sony",
@@ -31737,7 +31704,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-907",
+   "id": "ext-906",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -31770,7 +31737,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-908",
+   "id": "ext-907",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -31803,7 +31770,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-909",
+   "id": "ext-908",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -31836,7 +31803,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-910",
+   "id": "ext-909",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -31869,7 +31836,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-911",
+   "id": "ext-910",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -31902,7 +31869,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-912",
+   "id": "ext-911",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -31935,7 +31902,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-913",
+   "id": "ext-912",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -31968,7 +31935,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-914",
+   "id": "ext-913",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -32001,7 +31968,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-915",
+   "id": "ext-914",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -32034,7 +32001,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-916",
+   "id": "ext-915",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -32067,7 +32034,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-917",
+   "id": "ext-916",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -32100,7 +32067,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-918",
+   "id": "ext-917",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -32133,7 +32100,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-919",
+   "id": "ext-918",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -32166,7 +32133,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-920",
+   "id": "ext-919",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -32199,7 +32166,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-921",
+   "id": "ext-920",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -32232,7 +32199,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-922",
+   "id": "ext-921",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -32265,7 +32232,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-923",
+   "id": "ext-922",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -32298,7 +32265,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-924",
+   "id": "ext-923",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Microsoft",
@@ -32331,7 +32298,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-925",
+   "id": "ext-924",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -32364,7 +32331,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-926",
+   "id": "ext-925",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -32397,7 +32364,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-927",
+   "id": "ext-926",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -32430,7 +32397,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-928",
+   "id": "ext-927",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -32463,7 +32430,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-929",
+   "id": "ext-928",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -32496,7 +32463,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-930",
+   "id": "ext-929",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -32529,7 +32496,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-931",
+   "id": "ext-930",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -32562,7 +32529,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-932",
+   "id": "ext-931",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Microsoft",
@@ -32595,7 +32562,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-933",
+   "id": "ext-932",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -32628,7 +32595,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-934",
+   "id": "ext-933",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -32661,7 +32628,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-935",
+   "id": "ext-934",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -32694,7 +32661,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-936",
+   "id": "ext-935",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -32727,7 +32694,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-937",
+   "id": "ext-936",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -32760,7 +32727,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-938",
+   "id": "ext-937",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -32793,7 +32760,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-939",
+   "id": "ext-938",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -32826,7 +32793,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-940",
+   "id": "ext-939",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -32859,7 +32826,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-941",
+   "id": "ext-940",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -32892,7 +32859,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-942",
+   "id": "ext-941",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -32925,7 +32892,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-943",
+   "id": "ext-942",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -32958,7 +32925,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-944",
+   "id": "ext-943",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -32991,7 +32958,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-945",
+   "id": "ext-944",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -33024,7 +32991,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-946",
+   "id": "ext-945",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -33057,7 +33024,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-947",
+   "id": "ext-946",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -33090,7 +33057,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-948",
+   "id": "ext-947",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -33123,7 +33090,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-949",
+   "id": "ext-948",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -33156,7 +33123,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-950",
+   "id": "ext-949",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -33189,7 +33156,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-951",
+   "id": "ext-950",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -33222,7 +33189,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-952",
+   "id": "ext-951",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -33255,7 +33222,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-953",
+   "id": "ext-952",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -33288,7 +33255,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-954",
+   "id": "ext-953",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -33321,7 +33288,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-955",
+   "id": "ext-954",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -33354,7 +33321,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-956",
+   "id": "ext-955",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -33387,7 +33354,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-957",
+   "id": "ext-956",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -33420,7 +33387,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-958",
+   "id": "ext-957",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -33453,7 +33420,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-959",
+   "id": "ext-958",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -33486,7 +33453,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-960",
+   "id": "ext-959",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -33519,7 +33486,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-961",
+   "id": "ext-960",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -33552,7 +33519,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-962",
+   "id": "ext-961",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Toshiba",
@@ -33585,7 +33552,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-963",
+   "id": "ext-962",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -33618,7 +33585,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-964",
+   "id": "ext-963",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -33651,7 +33618,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-965",
+   "id": "ext-964",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -33684,7 +33651,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-966",
+   "id": "ext-965",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -33717,7 +33684,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-967",
+   "id": "ext-966",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -33750,7 +33717,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-968",
+   "id": "ext-967",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -33783,7 +33750,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-969",
+   "id": "ext-968",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -33816,7 +33783,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-970",
+   "id": "ext-969",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -33849,7 +33816,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-971",
+   "id": "ext-970",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -33882,7 +33849,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-972",
+   "id": "ext-971",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -33915,7 +33882,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-973",
+   "id": "ext-972",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -33948,7 +33915,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-974",
+   "id": "ext-973",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -33981,7 +33948,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-975",
+   "id": "ext-974",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -34014,7 +33981,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-976",
+   "id": "ext-975",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -34047,7 +34014,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-977",
+   "id": "ext-976",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -34080,7 +34047,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-978",
+   "id": "ext-977",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -34113,7 +34080,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-979",
+   "id": "ext-978",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -34146,7 +34113,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-980",
+   "id": "ext-979",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -34179,7 +34146,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-981",
+   "id": "ext-980",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -34212,7 +34179,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-982",
+   "id": "ext-981",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -34245,7 +34212,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-983",
+   "id": "ext-982",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -34278,7 +34245,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-984",
+   "id": "ext-983",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -34311,7 +34278,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-985",
+   "id": "ext-984",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -34344,7 +34311,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-986",
+   "id": "ext-985",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -34377,7 +34344,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-987",
+   "id": "ext-986",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -34410,7 +34377,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-988",
+   "id": "ext-987",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -34443,7 +34410,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-989",
+   "id": "ext-988",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -34476,7 +34443,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-990",
+   "id": "ext-989",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -34509,7 +34476,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-991",
+   "id": "ext-990",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -34542,7 +34509,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-992",
+   "id": "ext-991",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -34575,7 +34542,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-993",
+   "id": "ext-992",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -34608,7 +34575,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-994",
+   "id": "ext-993",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -34641,7 +34608,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-995",
+   "id": "ext-994",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -34674,7 +34641,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-996",
+   "id": "ext-995",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -34707,7 +34674,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-997",
+   "id": "ext-996",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -34740,7 +34707,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-998",
+   "id": "ext-997",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -34773,7 +34740,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-999",
+   "id": "ext-998",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -34806,7 +34773,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1000",
+   "id": "ext-999",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -34839,7 +34806,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1001",
+   "id": "ext-1000",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Gateway",
@@ -34872,7 +34839,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1002",
+   "id": "ext-1001",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -34905,7 +34872,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1003",
+   "id": "ext-1002",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -34938,7 +34905,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1004",
+   "id": "ext-1003",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -34971,7 +34938,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1005",
+   "id": "ext-1004",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -35004,7 +34971,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1006",
+   "id": "ext-1005",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -35037,7 +35004,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1007",
+   "id": "ext-1006",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -35070,7 +35037,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1008",
+   "id": "ext-1007",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -35103,7 +35070,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1009",
+   "id": "ext-1008",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -35136,7 +35103,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1010",
+   "id": "ext-1009",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -35169,7 +35136,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1011",
+   "id": "ext-1010",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -35202,7 +35169,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1012",
+   "id": "ext-1011",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -35235,7 +35202,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1013",
+   "id": "ext-1012",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Microsoft",
@@ -35268,7 +35235,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1014",
+   "id": "ext-1013",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -35301,7 +35268,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1015",
+   "id": "ext-1014",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -35334,7 +35301,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1016",
+   "id": "ext-1015",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "MSI",
@@ -35367,7 +35334,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1017",
+   "id": "ext-1016",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Microsoft",
@@ -35400,7 +35367,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1018",
+   "id": "ext-1017",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -35433,7 +35400,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1019",
+   "id": "ext-1018",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -35466,7 +35433,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1020",
+   "id": "ext-1019",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Microsoft",
@@ -35499,7 +35466,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1021",
+   "id": "ext-1020",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -35532,7 +35499,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1022",
+   "id": "ext-1021",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -35565,7 +35532,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1023",
+   "id": "ext-1022",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -35598,7 +35565,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1024",
+   "id": "ext-1023",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -35631,7 +35598,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1025",
+   "id": "ext-1024",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -35664,7 +35631,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1026",
+   "id": "ext-1025",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Pocket",
@@ -35697,7 +35664,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1027",
+   "id": "ext-1026",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -35730,7 +35697,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1028",
+   "id": "ext-1027",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -35763,7 +35730,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1029",
+   "id": "ext-1028",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -35796,7 +35763,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1030",
+   "id": "ext-1029",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -35829,7 +35796,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1031",
+   "id": "ext-1030",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -35862,7 +35829,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1032",
+   "id": "ext-1031",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -35895,7 +35862,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1033",
+   "id": "ext-1032",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -35928,7 +35895,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1034",
+   "id": "ext-1033",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -35961,7 +35928,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1035",
+   "id": "ext-1034",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -35994,7 +35961,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1036",
+   "id": "ext-1035",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -36027,7 +35994,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1037",
+   "id": "ext-1036",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -36060,7 +36027,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1038",
+   "id": "ext-1037",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -36093,7 +36060,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1039",
+   "id": "ext-1038",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -36126,7 +36093,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1040",
+   "id": "ext-1039",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -36159,7 +36126,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1041",
+   "id": "ext-1040",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -36192,7 +36159,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1042",
+   "id": "ext-1041",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -36225,7 +36192,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1043",
+   "id": "ext-1042",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -36258,7 +36225,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1044",
+   "id": "ext-1043",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -36291,7 +36258,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1045",
+   "id": "ext-1044",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -36324,7 +36291,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1046",
+   "id": "ext-1045",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Gigabyte",
@@ -36357,7 +36324,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1047",
+   "id": "ext-1046",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -36390,7 +36357,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1048",
+   "id": "ext-1047",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -36423,7 +36390,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1049",
+   "id": "ext-1048",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -36456,7 +36423,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1050",
+   "id": "ext-1049",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "MSI",
@@ -36489,7 +36456,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1051",
+   "id": "ext-1050",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -36522,7 +36489,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1052",
+   "id": "ext-1051",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -36555,7 +36522,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1053",
+   "id": "ext-1052",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -36588,7 +36555,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1054",
+   "id": "ext-1053",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -36621,7 +36588,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1055",
+   "id": "ext-1054",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -36654,7 +36621,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1056",
+   "id": "ext-1055",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -36687,7 +36654,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1057",
+   "id": "ext-1056",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -36720,7 +36687,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1058",
+   "id": "ext-1057",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -36753,7 +36720,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1059",
+   "id": "ext-1058",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -36786,7 +36753,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1060",
+   "id": "ext-1059",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -36819,7 +36786,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1061",
+   "id": "ext-1060",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -36852,7 +36819,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1062",
+   "id": "ext-1061",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -36885,7 +36852,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1063",
+   "id": "ext-1062",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -36918,7 +36885,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1064",
+   "id": "ext-1063",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -36951,7 +36918,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1065",
+   "id": "ext-1064",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -36984,7 +36951,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1066",
+   "id": "ext-1065",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -37017,7 +36984,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1067",
+   "id": "ext-1066",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -37050,7 +37017,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1068",
+   "id": "ext-1067",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -37083,7 +37050,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1069",
+   "id": "ext-1068",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -37116,7 +37083,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1070",
+   "id": "ext-1069",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -37149,7 +37116,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1071",
+   "id": "ext-1070",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -37182,7 +37149,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1072",
+   "id": "ext-1071",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -37215,7 +37182,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1073",
+   "id": "ext-1072",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Acer",
@@ -37248,7 +37215,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1074",
+   "id": "ext-1073",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -37281,7 +37248,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1075",
+   "id": "ext-1074",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -37314,7 +37281,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1076",
+   "id": "ext-1075",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -37347,7 +37314,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1077",
+   "id": "ext-1076",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -37380,7 +37347,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1078",
+   "id": "ext-1077",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -37413,7 +37380,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1079",
+   "id": "ext-1078",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -37446,7 +37413,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1080",
+   "id": "ext-1079",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -37479,7 +37446,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1081",
+   "id": "ext-1080",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -37512,7 +37479,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1082",
+   "id": "ext-1081",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -37545,7 +37512,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1083",
+   "id": "ext-1082",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -37578,7 +37545,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1084",
+   "id": "ext-1083",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -37611,7 +37578,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1085",
+   "id": "ext-1084",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -37644,7 +37611,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1086",
+   "id": "ext-1085",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -37677,7 +37644,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1087",
+   "id": "ext-1086",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Acer",
@@ -37710,7 +37677,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1088",
+   "id": "ext-1087",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Acer",
@@ -37743,7 +37710,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1089",
+   "id": "ext-1088",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Gigabyte",
@@ -37776,7 +37743,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1090",
+   "id": "ext-1089",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Microsoft",
@@ -37809,7 +37776,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1091",
+   "id": "ext-1090",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -37842,7 +37809,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1092",
+   "id": "ext-1091",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -37875,7 +37842,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1093",
+   "id": "ext-1092",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -37908,7 +37875,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1094",
+   "id": "ext-1093",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -37941,7 +37908,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1095",
+   "id": "ext-1094",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -37974,7 +37941,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1096",
+   "id": "ext-1095",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Acer",
@@ -38007,7 +37974,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1097",
+   "id": "ext-1096",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Acer",
@@ -38040,7 +38007,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1098",
+   "id": "ext-1097",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -38073,7 +38040,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1099",
+   "id": "ext-1098",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -38106,7 +38073,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1100",
+   "id": "ext-1099",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -38139,7 +38106,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1101",
+   "id": "ext-1100",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -38172,7 +38139,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1102",
+   "id": "ext-1101",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -38205,7 +38172,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1103",
+   "id": "ext-1102",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -38238,7 +38205,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1104",
+   "id": "ext-1103",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -38271,7 +38238,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1105",
+   "id": "ext-1104",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -38304,7 +38271,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1106",
+   "id": "ext-1105",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -38337,7 +38304,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1107",
+   "id": "ext-1106",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -38370,7 +38337,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1108",
+   "id": "ext-1107",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -38403,7 +38370,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1109",
+   "id": "ext-1108",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -38436,7 +38403,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1110",
+   "id": "ext-1109",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -38469,7 +38436,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1111",
+   "id": "ext-1110",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -38502,7 +38469,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1112",
+   "id": "ext-1111",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -38535,7 +38502,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1113",
+   "id": "ext-1112",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -38568,7 +38535,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1114",
+   "id": "ext-1113",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -38601,7 +38568,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1115",
+   "id": "ext-1114",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -38634,7 +38601,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1116",
+   "id": "ext-1115",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -38667,7 +38634,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1117",
+   "id": "ext-1116",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Nec",
@@ -38700,7 +38667,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1118",
+   "id": "ext-1117",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -38733,7 +38700,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1119",
+   "id": "ext-1118",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -38766,7 +38733,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1120",
+   "id": "ext-1119",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -38799,7 +38766,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1121",
+   "id": "ext-1120",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -38832,7 +38799,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1122",
+   "id": "ext-1121",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -38865,7 +38832,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1123",
+   "id": "ext-1122",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -38898,7 +38865,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1124",
+   "id": "ext-1123",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -38931,7 +38898,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1125",
+   "id": "ext-1124",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -38964,7 +38931,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1126",
+   "id": "ext-1125",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -38997,7 +38964,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1127",
+   "id": "ext-1126",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -39030,7 +38997,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1128",
+   "id": "ext-1127",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -39063,7 +39030,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1129",
+   "id": "ext-1128",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -39096,7 +39063,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1130",
+   "id": "ext-1129",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -39129,7 +39096,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1131",
+   "id": "ext-1130",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -39162,7 +39129,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1132",
+   "id": "ext-1131",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -39195,7 +39162,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1133",
+   "id": "ext-1132",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -39228,7 +39195,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1134",
+   "id": "ext-1133",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -39261,7 +39228,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1135",
+   "id": "ext-1134",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -39294,7 +39261,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1136",
+   "id": "ext-1135",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -39327,7 +39294,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1137",
+   "id": "ext-1136",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -39360,7 +39327,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1138",
+   "id": "ext-1137",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -39393,7 +39360,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1139",
+   "id": "ext-1138",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -39426,7 +39393,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1140",
+   "id": "ext-1139",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -39459,7 +39426,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1141",
+   "id": "ext-1140",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -39492,7 +39459,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1142",
+   "id": "ext-1141",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -39525,7 +39492,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1143",
+   "id": "ext-1142",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -39558,7 +39525,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1144",
+   "id": "ext-1143",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -39591,7 +39558,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1145",
+   "id": "ext-1144",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -39624,7 +39591,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1146",
+   "id": "ext-1145",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -39657,7 +39624,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1147",
+   "id": "ext-1146",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -39690,7 +39657,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1148",
+   "id": "ext-1147",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -39723,7 +39690,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1149",
+   "id": "ext-1148",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -39756,7 +39723,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1150",
+   "id": "ext-1149",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -39789,7 +39756,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1151",
+   "id": "ext-1150",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -39822,7 +39789,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1152",
+   "id": "ext-1151",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -39855,7 +39822,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1153",
+   "id": "ext-1152",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -39888,7 +39855,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1154",
+   "id": "ext-1153",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -39921,7 +39888,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1155",
+   "id": "ext-1154",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -39954,7 +39921,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1156",
+   "id": "ext-1155",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -39987,7 +39954,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1157",
+   "id": "ext-1156",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -40020,7 +39987,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1158",
+   "id": "ext-1157",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -40053,7 +40020,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1159",
+   "id": "ext-1158",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -40086,7 +40053,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1160",
+   "id": "ext-1159",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Acer",
@@ -40119,7 +40086,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1161",
+   "id": "ext-1160",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -40152,7 +40119,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1162",
+   "id": "ext-1161",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -40185,7 +40152,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1163",
+   "id": "ext-1162",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -40218,7 +40185,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1164",
+   "id": "ext-1163",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -40251,7 +40218,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1165",
+   "id": "ext-1164",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -40284,7 +40251,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1166",
+   "id": "ext-1165",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -40317,7 +40284,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1167",
+   "id": "ext-1166",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -40350,7 +40317,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1168",
+   "id": "ext-1167",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -40383,7 +40350,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1169",
+   "id": "ext-1168",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Thinkbook",
@@ -40416,7 +40383,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1170",
+   "id": "ext-1169",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -40449,7 +40416,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1171",
+   "id": "ext-1170",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -40482,7 +40449,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1172",
+   "id": "ext-1171",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -40515,7 +40482,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1173",
+   "id": "ext-1172",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -40548,7 +40515,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1174",
+   "id": "ext-1173",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -40581,7 +40548,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1175",
+   "id": "ext-1174",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -40614,7 +40581,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1176",
+   "id": "ext-1175",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -40647,7 +40614,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1177",
+   "id": "ext-1176",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -40680,7 +40647,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1178",
+   "id": "ext-1177",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -40713,7 +40680,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1179",
+   "id": "ext-1178",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -40746,7 +40713,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1180",
+   "id": "ext-1179",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -40779,7 +40746,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1181",
+   "id": "ext-1180",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -40812,7 +40779,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1182",
+   "id": "ext-1181",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -40845,7 +40812,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1183",
+   "id": "ext-1182",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -40878,7 +40845,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1184",
+   "id": "ext-1183",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -40911,7 +40878,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1185",
+   "id": "ext-1184",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -40944,7 +40911,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1186",
+   "id": "ext-1185",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -40977,7 +40944,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1187",
+   "id": "ext-1186",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -41010,7 +40977,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1188",
+   "id": "ext-1187",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -41043,7 +41010,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1189",
+   "id": "ext-1188",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -41076,7 +41043,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1190",
+   "id": "ext-1189",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -41109,7 +41076,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1191",
+   "id": "ext-1190",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -41142,7 +41109,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1192",
+   "id": "ext-1191",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -41175,7 +41142,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1193",
+   "id": "ext-1192",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Elitebook",
@@ -41208,7 +41175,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1194",
+   "id": "ext-1193",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Probook",
@@ -41241,7 +41208,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1195",
+   "id": "ext-1194",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Probook",
@@ -41274,7 +41241,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1196",
+   "id": "ext-1195",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Probook",
@@ -41307,7 +41274,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1197",
+   "id": "ext-1196",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -41340,7 +41307,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1198",
+   "id": "ext-1197",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Probook",
@@ -41373,7 +41340,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1199",
+   "id": "ext-1198",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -41406,7 +41373,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1200",
+   "id": "ext-1199",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Nec",
@@ -41439,7 +41406,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1201",
+   "id": "ext-1200",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -41472,7 +41439,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1202",
+   "id": "ext-1201",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -41505,7 +41472,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1203",
+   "id": "ext-1202",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -41538,7 +41505,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1204",
+   "id": "ext-1203",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -41571,7 +41538,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1205",
+   "id": "ext-1204",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -41604,7 +41571,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1206",
+   "id": "ext-1205",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -41637,7 +41604,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1207",
+   "id": "ext-1206",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -41670,7 +41637,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1208",
+   "id": "ext-1207",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -41703,7 +41670,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1209",
+   "id": "ext-1208",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -41736,7 +41703,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1210",
+   "id": "ext-1209",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -41769,7 +41736,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1211",
+   "id": "ext-1210",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -41802,7 +41769,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1212",
+   "id": "ext-1211",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -41835,7 +41802,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1213",
+   "id": "ext-1212",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -41868,7 +41835,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1214",
+   "id": "ext-1213",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -41901,7 +41868,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1215",
+   "id": "ext-1214",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -41934,7 +41901,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1216",
+   "id": "ext-1215",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -41967,7 +41934,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1217",
+   "id": "ext-1216",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -42000,7 +41967,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1218",
+   "id": "ext-1217",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -42033,7 +42000,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1219",
+   "id": "ext-1218",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -42066,7 +42033,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1220",
+   "id": "ext-1219",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -42099,7 +42066,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1221",
+   "id": "ext-1220",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -42132,7 +42099,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1222",
+   "id": "ext-1221",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -42165,7 +42132,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1223",
+   "id": "ext-1222",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -42198,7 +42165,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1224",
+   "id": "ext-1223",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -42231,7 +42198,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1225",
+   "id": "ext-1224",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Samsung",
@@ -42264,7 +42231,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1226",
+   "id": "ext-1225",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -42297,7 +42264,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1227",
+   "id": "ext-1226",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -42330,7 +42297,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1228",
+   "id": "ext-1227",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -42363,7 +42330,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1229",
+   "id": "ext-1228",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -42396,7 +42363,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1230",
+   "id": "ext-1229",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Dell",
@@ -42429,7 +42396,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1231",
+   "id": "ext-1230",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Dell",
@@ -42462,7 +42429,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1232",
+   "id": "ext-1231",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Dell",
@@ -42495,7 +42462,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1233",
+   "id": "ext-1232",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Dell",
@@ -42528,7 +42495,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1234",
+   "id": "ext-1233",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -42561,7 +42528,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1235",
+   "id": "ext-1234",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -42594,7 +42561,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1236",
+   "id": "ext-1235",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -42627,7 +42594,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1237",
+   "id": "ext-1236",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -42660,7 +42627,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1238",
+   "id": "ext-1237",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -42693,7 +42660,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1239",
+   "id": "ext-1238",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -42726,7 +42693,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1240",
+   "id": "ext-1239",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -42759,7 +42726,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1241",
+   "id": "ext-1240",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "MSI",
@@ -42792,7 +42759,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1242",
+   "id": "ext-1241",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -42825,7 +42792,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1243",
+   "id": "ext-1242",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -42858,7 +42825,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1244",
+   "id": "ext-1243",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -42891,7 +42858,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1245",
+   "id": "ext-1244",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -42924,7 +42891,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1246",
+   "id": "ext-1245",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -42957,7 +42924,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1247",
+   "id": "ext-1246",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -42990,7 +42957,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1248",
+   "id": "ext-1247",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -43023,7 +42990,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1249",
+   "id": "ext-1248",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -43056,7 +43023,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1250",
+   "id": "ext-1249",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -43089,7 +43056,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1251",
+   "id": "ext-1250",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -43122,7 +43089,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1252",
+   "id": "ext-1251",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -43155,7 +43122,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1253",
+   "id": "ext-1252",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -43188,7 +43155,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1254",
+   "id": "ext-1253",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -43221,7 +43188,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1255",
+   "id": "ext-1254",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -43254,7 +43221,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1256",
+   "id": "ext-1255",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Acer",
@@ -43287,7 +43254,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1257",
+   "id": "ext-1256",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Acer",
@@ -43320,7 +43287,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1258",
+   "id": "ext-1257",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -43353,7 +43320,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1259",
+   "id": "ext-1258",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -43386,7 +43353,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1260",
+   "id": "ext-1259",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -43419,7 +43386,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1261",
+   "id": "ext-1260",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "MSI",
@@ -43452,7 +43419,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1262",
+   "id": "ext-1261",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -43485,7 +43452,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1263",
+   "id": "ext-1262",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -43518,7 +43485,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1264",
+   "id": "ext-1263",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -43551,7 +43518,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1265",
+   "id": "ext-1264",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -43584,7 +43551,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1266",
+   "id": "ext-1265",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -43617,7 +43584,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1267",
+   "id": "ext-1266",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -43650,7 +43617,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1268",
+   "id": "ext-1267",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -43683,7 +43650,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1269",
+   "id": "ext-1268",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Dell",
@@ -43716,7 +43683,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1270",
+   "id": "ext-1269",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Dell",
@@ -43749,7 +43716,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1271",
+   "id": "ext-1270",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Dell",
@@ -43782,7 +43749,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1272",
+   "id": "ext-1271",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Dell",
@@ -43815,7 +43782,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1273",
+   "id": "ext-1272",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -43848,7 +43815,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1274",
+   "id": "ext-1273",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -43881,7 +43848,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1275",
+   "id": "ext-1274",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Dell",
@@ -43914,7 +43881,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1276",
+   "id": "ext-1275",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -43947,7 +43914,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1277",
+   "id": "ext-1276",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -43980,7 +43947,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1278",
+   "id": "ext-1277",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -44013,7 +43980,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1279",
+   "id": "ext-1278",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -44046,7 +44013,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1280",
+   "id": "ext-1279",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Dell",
@@ -44079,7 +44046,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1281",
+   "id": "ext-1280",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -44112,7 +44079,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1282",
+   "id": "ext-1281",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -44145,7 +44112,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1283",
+   "id": "ext-1282",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -44178,7 +44145,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1284",
+   "id": "ext-1283",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -44211,7 +44178,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1285",
+   "id": "ext-1284",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -44244,7 +44211,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1286",
+   "id": "ext-1285",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -44277,7 +44244,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1287",
+   "id": "ext-1286",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -44310,7 +44277,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1288",
+   "id": "ext-1287",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -44343,7 +44310,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1289",
+   "id": "ext-1288",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -44376,7 +44343,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1290",
+   "id": "ext-1289",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -44409,7 +44376,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1291",
+   "id": "ext-1290",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -44442,7 +44409,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1292",
+   "id": "ext-1291",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -44475,7 +44442,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1293",
+   "id": "ext-1292",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -44508,7 +44475,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1294",
+   "id": "ext-1293",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -44541,7 +44508,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1295",
+   "id": "ext-1294",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -44574,7 +44541,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1296",
+   "id": "ext-1295",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "MSI",
@@ -44607,7 +44574,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1297",
+   "id": "ext-1296",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -44640,7 +44607,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1298",
+   "id": "ext-1297",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -44673,7 +44640,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1299",
+   "id": "ext-1298",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -44706,7 +44673,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1300",
+   "id": "ext-1299",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -44739,7 +44706,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1301",
+   "id": "ext-1300",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -44772,7 +44739,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1302",
+   "id": "ext-1301",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -44805,7 +44772,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1303",
+   "id": "ext-1302",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -44838,7 +44805,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1304",
+   "id": "ext-1303",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -44871,7 +44838,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1305",
+   "id": "ext-1304",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Acer",
@@ -44904,7 +44871,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1306",
+   "id": "ext-1305",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -44937,7 +44904,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1307",
+   "id": "ext-1306",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -44970,7 +44937,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1308",
+   "id": "ext-1307",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Razer",
@@ -45003,7 +44970,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1309",
+   "id": "ext-1308",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -45036,7 +45003,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1310",
+   "id": "ext-1309",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -45069,7 +45036,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1311",
+   "id": "ext-1310",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -45102,7 +45069,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1312",
+   "id": "ext-1311",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Microsoft",
@@ -45135,7 +45102,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1313",
+   "id": "ext-1312",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Microsoft",
@@ -45168,7 +45135,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1314",
+   "id": "ext-1313",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Microsoft",
@@ -45201,7 +45168,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1315",
+   "id": "ext-1314",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Microsoft",
@@ -45234,7 +45201,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1316",
+   "id": "ext-1315",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Microsoft",
@@ -45267,7 +45234,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1317",
+   "id": "ext-1316",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Microsoft",
@@ -45300,7 +45267,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1318",
+   "id": "ext-1317",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Microsoft",
@@ -45333,7 +45300,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1319",
+   "id": "ext-1318",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Microsoft",
@@ -45366,7 +45333,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1320",
+   "id": "ext-1319",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Microsoft",
@@ -45399,7 +45366,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1321",
+   "id": "ext-1320",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Microsoft",
@@ -45432,7 +45399,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1322",
+   "id": "ext-1321",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Microsoft",
@@ -45465,7 +45432,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1323",
+   "id": "ext-1322",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -45498,7 +45465,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1324",
+   "id": "ext-1323",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Dell",
@@ -45531,7 +45498,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1325",
+   "id": "ext-1324",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Acer",
@@ -45564,7 +45531,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1326",
+   "id": "ext-1325",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Microsoft",
@@ -45597,7 +45564,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1327",
+   "id": "ext-1326",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -45630,7 +45597,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1328",
+   "id": "ext-1327",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -45663,7 +45630,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1329",
+   "id": "ext-1328",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -45696,7 +45663,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1330",
+   "id": "ext-1329",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "MSI",
@@ -45729,7 +45696,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1331",
+   "id": "ext-1330",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Acer",
@@ -45762,7 +45729,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1332",
+   "id": "ext-1331",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -45795,7 +45762,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1333",
+   "id": "ext-1332",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -45828,7 +45795,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1334",
+   "id": "ext-1333",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -45861,7 +45828,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1335",
+   "id": "ext-1334",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Microsoft",
@@ -45894,7 +45861,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1336",
+   "id": "ext-1335",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -45927,7 +45894,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1337",
+   "id": "ext-1336",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -45960,7 +45927,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1338",
+   "id": "ext-1337",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -45993,7 +45960,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1339",
+   "id": "ext-1338",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Dell",
@@ -46026,7 +45993,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1340",
+   "id": "ext-1339",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Acer",
@@ -46059,7 +46026,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1341",
+   "id": "ext-1340",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -46092,7 +46059,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1342",
+   "id": "ext-1341",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -46125,7 +46092,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1343",
+   "id": "ext-1342",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Acer",
@@ -46158,7 +46125,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1344",
+   "id": "ext-1343",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -46191,7 +46158,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1345",
+   "id": "ext-1344",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -46224,7 +46191,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1346",
+   "id": "ext-1345",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -46257,7 +46224,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1347",
+   "id": "ext-1346",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -46290,7 +46257,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1348",
+   "id": "ext-1347",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -46323,7 +46290,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1349",
+   "id": "ext-1348",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -46356,7 +46323,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1350",
+   "id": "ext-1349",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -46389,7 +46356,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1351",
+   "id": "ext-1350",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -46422,7 +46389,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1352",
+   "id": "ext-1351",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -46455,7 +46422,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1353",
+   "id": "ext-1352",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -46488,7 +46455,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1354",
+   "id": "ext-1353",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -46521,7 +46488,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1355",
+   "id": "ext-1354",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -46554,7 +46521,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1356",
+   "id": "ext-1355",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -46587,7 +46554,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1357",
+   "id": "ext-1356",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -46620,7 +46587,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1358",
+   "id": "ext-1357",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -46653,7 +46620,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1359",
+   "id": "ext-1358",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -46686,7 +46653,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1360",
+   "id": "ext-1359",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -46719,7 +46686,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1361",
+   "id": "ext-1360",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -46752,7 +46719,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1362",
+   "id": "ext-1361",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -46785,7 +46752,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1363",
+   "id": "ext-1362",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -46818,7 +46785,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1364",
+   "id": "ext-1363",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -46851,7 +46818,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1365",
+   "id": "ext-1364",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -46884,7 +46851,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1366",
+   "id": "ext-1365",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -46917,7 +46884,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1367",
+   "id": "ext-1366",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -46950,7 +46917,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1368",
+   "id": "ext-1367",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -46983,7 +46950,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1369",
+   "id": "ext-1368",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -47016,7 +46983,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1370",
+   "id": "ext-1369",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -47049,7 +47016,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1371",
+   "id": "ext-1370",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -47082,7 +47049,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1372",
+   "id": "ext-1371",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -47115,7 +47082,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1373",
+   "id": "ext-1372",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -47148,7 +47115,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1374",
+   "id": "ext-1373",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -47181,7 +47148,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1375",
+   "id": "ext-1374",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -47214,7 +47181,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1376",
+   "id": "ext-1375",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -47247,7 +47214,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1377",
+   "id": "ext-1376",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -47280,7 +47247,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1378",
+   "id": "ext-1377",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -47313,7 +47280,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1379",
+   "id": "ext-1378",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -47346,7 +47313,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1380",
+   "id": "ext-1379",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -47379,7 +47346,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1381",
+   "id": "ext-1380",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -47412,7 +47379,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1382",
+   "id": "ext-1381",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -47445,7 +47412,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1383",
+   "id": "ext-1382",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -47478,7 +47445,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1384",
+   "id": "ext-1383",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -47511,7 +47478,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1385",
+   "id": "ext-1384",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -47544,7 +47511,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1386",
+   "id": "ext-1385",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Dell",
@@ -47577,7 +47544,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1387",
+   "id": "ext-1386",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Dell",
@@ -47610,7 +47577,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1388",
+   "id": "ext-1387",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Dell",
@@ -47643,7 +47610,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1389",
+   "id": "ext-1388",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -47676,7 +47643,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1390",
+   "id": "ext-1389",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -47709,7 +47676,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1391",
+   "id": "ext-1390",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Aspire",
@@ -47742,7 +47709,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1392",
+   "id": "ext-1391",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -47775,7 +47742,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1393",
+   "id": "ext-1392",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -47808,7 +47775,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1394",
+   "id": "ext-1393",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -47841,7 +47808,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1395",
+   "id": "ext-1394",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -47874,7 +47841,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1396",
+   "id": "ext-1395",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -47907,7 +47874,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1397",
+   "id": "ext-1396",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Galaxy",
@@ -47940,7 +47907,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1398",
+   "id": "ext-1397",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -47973,7 +47940,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1399",
+   "id": "ext-1398",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -48006,7 +47973,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1400",
+   "id": "ext-1399",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Microsoft",
@@ -48039,7 +48006,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1401",
+   "id": "ext-1400",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -48072,7 +48039,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1402",
+   "id": "ext-1401",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -48105,7 +48072,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1403",
+   "id": "ext-1402",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -48138,7 +48105,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1404",
+   "id": "ext-1403",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -48171,7 +48138,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1405",
+   "id": "ext-1404",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -48204,7 +48171,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1406",
+   "id": "ext-1405",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -48237,7 +48204,7 @@ window.SPECS_DATA = {
    "storageType": "HDD"
   },
   {
-   "id": "ext-1407",
+   "id": "ext-1406",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -48270,7 +48237,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1408",
+   "id": "ext-1407",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -48303,7 +48270,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1409",
+   "id": "ext-1408",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -48336,7 +48303,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1410",
+   "id": "ext-1409",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Acer",
@@ -48369,7 +48336,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1411",
+   "id": "ext-1410",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -48402,7 +48369,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1412",
+   "id": "ext-1411",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Acer",
@@ -48435,7 +48402,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1413",
+   "id": "ext-1412",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -48468,7 +48435,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1414",
+   "id": "ext-1413",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -48501,7 +48468,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1415",
+   "id": "ext-1414",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -48534,7 +48501,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1416",
+   "id": "ext-1415",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -48567,7 +48534,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1417",
+   "id": "ext-1416",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -48600,7 +48567,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1418",
+   "id": "ext-1417",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -48633,7 +48600,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1419",
+   "id": "ext-1418",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -48666,7 +48633,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1420",
+   "id": "ext-1419",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -48699,7 +48666,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1421",
+   "id": "ext-1420",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Samsung",
@@ -48732,7 +48699,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1422",
+   "id": "ext-1421",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -48765,7 +48732,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1423",
+   "id": "ext-1422",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -48798,7 +48765,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1424",
+   "id": "ext-1423",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -48831,7 +48798,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1425",
+   "id": "ext-1424",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -48864,7 +48831,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1426",
+   "id": "ext-1425",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -48897,7 +48864,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1427",
+   "id": "ext-1426",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -48930,7 +48897,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1428",
+   "id": "ext-1427",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -48963,7 +48930,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1429",
+   "id": "ext-1428",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -48996,7 +48963,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1430",
+   "id": "ext-1429",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -49029,7 +48996,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1431",
+   "id": "ext-1430",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -49062,7 +49029,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1432",
+   "id": "ext-1431",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -49095,7 +49062,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1433",
+   "id": "ext-1432",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -49128,7 +49095,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1434",
+   "id": "ext-1433",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -49161,7 +49128,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1435",
+   "id": "ext-1434",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -49194,7 +49161,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1436",
+   "id": "ext-1435",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -49227,7 +49194,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1437",
+   "id": "ext-1436",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -49260,7 +49227,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1438",
+   "id": "ext-1437",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -49293,7 +49260,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1439",
+   "id": "ext-1438",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -49326,7 +49293,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1440",
+   "id": "ext-1439",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Acer",
@@ -49359,7 +49326,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1441",
+   "id": "ext-1440",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -49392,7 +49359,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1442",
+   "id": "ext-1441",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -49425,7 +49392,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1443",
+   "id": "ext-1442",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -49458,7 +49425,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1444",
+   "id": "ext-1443",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -49491,7 +49458,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1445",
+   "id": "ext-1444",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -49524,7 +49491,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1446",
+   "id": "ext-1445",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -49557,7 +49524,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1447",
+   "id": "ext-1446",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Acer",
@@ -49590,7 +49557,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1448",
+   "id": "ext-1447",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -49623,7 +49590,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1449",
+   "id": "ext-1448",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -49656,7 +49623,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1450",
+   "id": "ext-1449",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -49689,7 +49656,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1451",
+   "id": "ext-1450",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -49722,7 +49689,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1452",
+   "id": "ext-1451",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -49755,7 +49722,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1453",
+   "id": "ext-1452",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -49788,7 +49755,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1454",
+   "id": "ext-1453",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Dell",
@@ -49821,7 +49788,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1455",
+   "id": "ext-1454",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -49854,7 +49821,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1456",
+   "id": "ext-1455",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -49887,7 +49854,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1457",
+   "id": "ext-1456",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -49920,7 +49887,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1458",
+   "id": "ext-1457",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -49953,7 +49920,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1459",
+   "id": "ext-1458",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -49986,7 +49953,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1460",
+   "id": "ext-1459",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Nec",
@@ -50019,7 +49986,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1461",
+   "id": "ext-1460",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -50052,7 +50019,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1462",
+   "id": "ext-1461",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Razer",
@@ -50085,7 +50052,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1463",
+   "id": "ext-1462",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -50118,7 +50085,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1464",
+   "id": "ext-1463",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -50151,7 +50118,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1465",
+   "id": "ext-1464",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -50184,7 +50151,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1466",
+   "id": "ext-1465",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "MSI",
@@ -50217,7 +50184,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1467",
+   "id": "ext-1466",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -50250,7 +50217,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1468",
+   "id": "ext-1467",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -50283,7 +50250,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1469",
+   "id": "ext-1468",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -50316,7 +50283,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1470",
+   "id": "ext-1469",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Acer",
@@ -50349,7 +50316,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1471",
+   "id": "ext-1470",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -50382,7 +50349,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1472",
+   "id": "ext-1471",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -50415,7 +50382,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1473",
+   "id": "ext-1472",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -50448,7 +50415,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1474",
+   "id": "ext-1473",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -50481,7 +50448,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1475",
+   "id": "ext-1474",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -50514,7 +50481,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1476",
+   "id": "ext-1475",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -50547,7 +50514,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1477",
+   "id": "ext-1476",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -50580,7 +50547,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1478",
+   "id": "ext-1477",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -50613,7 +50580,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1479",
+   "id": "ext-1478",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -50646,7 +50613,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1480",
+   "id": "ext-1479",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -50679,7 +50646,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1481",
+   "id": "ext-1480",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -50712,7 +50679,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1482",
+   "id": "ext-1481",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -50745,7 +50712,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1483",
+   "id": "ext-1482",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Gigabyte",
@@ -50778,7 +50745,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1484",
+   "id": "ext-1483",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -50811,7 +50778,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1485",
+   "id": "ext-1484",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -50844,7 +50811,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1486",
+   "id": "ext-1485",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Razer",
@@ -50877,7 +50844,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1487",
+   "id": "ext-1486",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -50910,7 +50877,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1488",
+   "id": "ext-1487",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -50943,7 +50910,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1489",
+   "id": "ext-1488",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -50976,7 +50943,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1490",
+   "id": "ext-1489",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -51009,7 +50976,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1491",
+   "id": "ext-1490",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -51042,7 +51009,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1492",
+   "id": "ext-1491",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -51075,7 +51042,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1493",
+   "id": "ext-1492",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -51108,7 +51075,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1494",
+   "id": "ext-1493",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -51141,7 +51108,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1495",
+   "id": "ext-1494",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -51174,7 +51141,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1496",
+   "id": "ext-1495",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -51207,7 +51174,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1497",
+   "id": "ext-1496",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -51240,7 +51207,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1498",
+   "id": "ext-1497",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -51273,7 +51240,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1499",
+   "id": "ext-1498",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -51306,7 +51273,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1500",
+   "id": "ext-1499",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -51339,7 +51306,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1501",
+   "id": "ext-1500",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -51372,7 +51339,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1502",
+   "id": "ext-1501",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -51405,7 +51372,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1503",
+   "id": "ext-1502",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -51438,7 +51405,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1504",
+   "id": "ext-1503",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Acer",
@@ -51471,7 +51438,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1505",
+   "id": "ext-1504",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -51504,7 +51471,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1506",
+   "id": "ext-1505",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -51537,7 +51504,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1507",
+   "id": "ext-1506",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Dell",
@@ -51570,7 +51537,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1508",
+   "id": "ext-1507",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -51603,7 +51570,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1509",
+   "id": "ext-1508",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -51636,7 +51603,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1510",
+   "id": "ext-1509",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -51669,7 +51636,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1511",
+   "id": "ext-1510",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -51702,7 +51669,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1512",
+   "id": "ext-1511",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -51735,7 +51702,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1513",
+   "id": "ext-1512",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -51768,7 +51735,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1514",
+   "id": "ext-1513",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -51801,7 +51768,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1515",
+   "id": "ext-1514",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -51834,7 +51801,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1516",
+   "id": "ext-1515",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -51867,7 +51834,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1517",
+   "id": "ext-1516",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -51900,7 +51867,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1518",
+   "id": "ext-1517",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -51933,7 +51900,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1519",
+   "id": "ext-1518",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Dell",
@@ -51966,7 +51933,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1520",
+   "id": "ext-1519",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -51999,7 +51966,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1521",
+   "id": "ext-1520",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -52032,7 +51999,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1522",
+   "id": "ext-1521",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -52065,7 +52032,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1523",
+   "id": "ext-1522",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -52098,7 +52065,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1524",
+   "id": "ext-1523",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -52131,7 +52098,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1525",
+   "id": "ext-1524",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -52164,7 +52131,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1526",
+   "id": "ext-1525",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -52197,7 +52164,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1527",
+   "id": "ext-1526",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -52230,7 +52197,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1528",
+   "id": "ext-1527",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -52263,7 +52230,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1529",
+   "id": "ext-1528",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -52296,7 +52263,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1530",
+   "id": "ext-1529",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -52329,7 +52296,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1531",
+   "id": "ext-1530",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -52362,7 +52329,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1532",
+   "id": "ext-1531",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -52395,7 +52362,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1533",
+   "id": "ext-1532",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -52428,7 +52395,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1534",
+   "id": "ext-1533",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -52461,7 +52428,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1535",
+   "id": "ext-1534",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -52494,7 +52461,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1536",
+   "id": "ext-1535",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -52527,7 +52494,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1537",
+   "id": "ext-1536",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Microsoft",
@@ -52560,7 +52527,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1538",
+   "id": "ext-1537",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -52593,7 +52560,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1539",
+   "id": "ext-1538",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Acer",
@@ -52626,7 +52593,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1540",
+   "id": "ext-1539",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -52659,7 +52626,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1541",
+   "id": "ext-1540",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "LG",
@@ -52692,7 +52659,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1542",
+   "id": "ext-1541",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -52725,7 +52692,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1543",
+   "id": "ext-1542",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -52758,7 +52725,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1544",
+   "id": "ext-1543",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -52791,7 +52758,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1545",
+   "id": "ext-1544",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -52824,7 +52791,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1546",
+   "id": "ext-1545",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -52857,7 +52824,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1547",
+   "id": "ext-1546",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -52890,7 +52857,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1548",
+   "id": "ext-1547",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -52923,7 +52890,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1549",
+   "id": "ext-1548",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -52956,7 +52923,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1550",
+   "id": "ext-1549",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -52989,7 +52956,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1551",
+   "id": "ext-1550",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -53022,7 +52989,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1552",
+   "id": "ext-1551",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -53055,7 +53022,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1553",
+   "id": "ext-1552",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -53088,7 +53055,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1554",
+   "id": "ext-1553",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -53121,7 +53088,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1555",
+   "id": "ext-1554",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -53154,7 +53121,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1556",
+   "id": "ext-1555",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -53187,7 +53154,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1557",
+   "id": "ext-1556",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -53220,7 +53187,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1558",
+   "id": "ext-1557",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -53253,7 +53220,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1559",
+   "id": "ext-1558",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -53286,7 +53253,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1560",
+   "id": "ext-1559",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -53319,7 +53286,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1561",
+   "id": "ext-1560",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Samsung",
@@ -53352,7 +53319,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1562",
+   "id": "ext-1561",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -53385,7 +53352,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1563",
+   "id": "ext-1562",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -53418,7 +53385,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1564",
+   "id": "ext-1563",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -53451,7 +53418,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1565",
+   "id": "ext-1564",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -53484,7 +53451,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1566",
+   "id": "ext-1565",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "MSI",
@@ -53517,7 +53484,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1567",
+   "id": "ext-1566",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -53550,7 +53517,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1568",
+   "id": "ext-1567",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -53583,7 +53550,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1569",
+   "id": "ext-1568",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -53616,7 +53583,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1570",
+   "id": "ext-1569",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -53649,7 +53616,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1571",
+   "id": "ext-1570",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -53682,7 +53649,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1572",
+   "id": "ext-1571",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -53715,7 +53682,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1573",
+   "id": "ext-1572",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -53748,7 +53715,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1574",
+   "id": "ext-1573",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Microsoft",
@@ -53781,7 +53748,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1575",
+   "id": "ext-1574",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -53814,7 +53781,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1576",
+   "id": "ext-1575",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Microsoft",
@@ -53847,7 +53814,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1577",
+   "id": "ext-1576",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Microsoft",
@@ -53880,7 +53847,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1578",
+   "id": "ext-1577",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -53913,7 +53880,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1579",
+   "id": "ext-1578",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -53946,7 +53913,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1580",
+   "id": "ext-1579",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -53979,7 +53946,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1581",
+   "id": "ext-1580",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -54012,7 +53979,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1582",
+   "id": "ext-1581",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Microsoft",
@@ -54045,7 +54012,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1583",
+   "id": "ext-1582",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -54078,7 +54045,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1584",
+   "id": "ext-1583",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -54111,7 +54078,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1585",
+   "id": "ext-1584",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -54144,7 +54111,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1586",
+   "id": "ext-1585",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -54177,7 +54144,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1587",
+   "id": "ext-1586",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -54210,7 +54177,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1588",
+   "id": "ext-1587",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -54243,7 +54210,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1589",
+   "id": "ext-1588",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -54276,7 +54243,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1590",
+   "id": "ext-1589",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -54309,7 +54276,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1591",
+   "id": "ext-1590",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -54342,7 +54309,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1592",
+   "id": "ext-1591",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -54375,7 +54342,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1593",
+   "id": "ext-1592",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -54408,7 +54375,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1594",
+   "id": "ext-1593",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -54441,7 +54408,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1595",
+   "id": "ext-1594",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -54474,7 +54441,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1596",
+   "id": "ext-1595",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -54507,7 +54474,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1597",
+   "id": "ext-1596",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -54540,7 +54507,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1598",
+   "id": "ext-1597",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -54573,7 +54540,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1599",
+   "id": "ext-1598",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -54606,7 +54573,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1600",
+   "id": "ext-1599",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -54639,7 +54606,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1601",
+   "id": "ext-1600",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -54672,7 +54639,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1602",
+   "id": "ext-1601",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -54705,7 +54672,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1603",
+   "id": "ext-1602",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -54738,7 +54705,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1604",
+   "id": "ext-1603",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -54771,7 +54738,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1605",
+   "id": "ext-1604",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Acer",
@@ -54804,7 +54771,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1606",
+   "id": "ext-1605",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -54837,7 +54804,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1607",
+   "id": "ext-1606",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -54870,7 +54837,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1608",
+   "id": "ext-1607",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Dell",
@@ -54903,7 +54870,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1609",
+   "id": "ext-1608",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Microsoft",
@@ -54936,7 +54903,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1610",
+   "id": "ext-1609",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Microsoft",
@@ -54969,7 +54936,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1611",
+   "id": "ext-1610",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Microsoft",
@@ -55002,7 +54969,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1612",
+   "id": "ext-1611",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -55035,7 +55002,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1613",
+   "id": "ext-1612",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Microsoft",
@@ -55068,7 +55035,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1614",
+   "id": "ext-1613",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Microsoft",
@@ -55101,7 +55068,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1615",
+   "id": "ext-1614",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Microsoft",
@@ -55134,7 +55101,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1616",
+   "id": "ext-1615",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Microsoft",
@@ -55167,7 +55134,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1617",
+   "id": "ext-1616",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -55200,7 +55167,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1618",
+   "id": "ext-1617",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -55233,7 +55200,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1619",
+   "id": "ext-1618",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -55266,7 +55233,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1620",
+   "id": "ext-1619",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Razer",
@@ -55299,7 +55266,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1621",
+   "id": "ext-1620",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Microsoft",
@@ -55332,7 +55299,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1622",
+   "id": "ext-1621",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Microsoft",
@@ -55365,7 +55332,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1623",
+   "id": "ext-1622",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -55398,7 +55365,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1624",
+   "id": "ext-1623",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -55431,7 +55398,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1625",
+   "id": "ext-1624",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -55464,7 +55431,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1626",
+   "id": "ext-1625",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -55497,7 +55464,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1627",
+   "id": "ext-1626",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -55530,7 +55497,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1628",
+   "id": "ext-1627",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -55563,7 +55530,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1629",
+   "id": "ext-1628",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -55596,7 +55563,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1630",
+   "id": "ext-1629",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -55629,7 +55596,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1631",
+   "id": "ext-1630",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -55662,7 +55629,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1632",
+   "id": "ext-1631",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -55695,7 +55662,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1633",
+   "id": "ext-1632",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Razer",
@@ -55728,7 +55695,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1634",
+   "id": "ext-1633",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -55761,7 +55728,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1635",
+   "id": "ext-1634",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Dell",
@@ -55794,7 +55761,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1636",
+   "id": "ext-1635",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -55827,7 +55794,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1637",
+   "id": "ext-1636",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -55860,7 +55827,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1638",
+   "id": "ext-1637",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -55893,7 +55860,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1639",
+   "id": "ext-1638",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -55926,7 +55893,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1640",
+   "id": "ext-1639",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -55959,7 +55926,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1641",
+   "id": "ext-1640",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -55992,7 +55959,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1642",
+   "id": "ext-1641",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -56025,7 +55992,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1643",
+   "id": "ext-1642",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -56058,7 +56025,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1644",
+   "id": "ext-1643",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -56091,7 +56058,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1645",
+   "id": "ext-1644",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -56124,7 +56091,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1646",
+   "id": "ext-1645",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -56157,7 +56124,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1647",
+   "id": "ext-1646",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -56190,7 +56157,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1648",
+   "id": "ext-1647",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -56223,7 +56190,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1649",
+   "id": "ext-1648",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -56256,7 +56223,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1650",
+   "id": "ext-1649",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -56289,7 +56256,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1651",
+   "id": "ext-1650",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -56322,7 +56289,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1652",
+   "id": "ext-1651",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -56355,7 +56322,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1653",
+   "id": "ext-1652",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -56388,7 +56355,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1654",
+   "id": "ext-1653",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -56421,7 +56388,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1655",
+   "id": "ext-1654",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -56454,7 +56421,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1656",
+   "id": "ext-1655",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -56487,7 +56454,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1657",
+   "id": "ext-1656",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -56520,7 +56487,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1658",
+   "id": "ext-1657",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Microsoft",
@@ -56553,7 +56520,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1659",
+   "id": "ext-1658",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Microsoft",
@@ -56586,7 +56553,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1660",
+   "id": "ext-1659",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Microsoft",
@@ -56619,7 +56586,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1661",
+   "id": "ext-1660",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Microsoft",
@@ -56652,7 +56619,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1662",
+   "id": "ext-1661",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -56685,7 +56652,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1663",
+   "id": "ext-1662",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -56718,7 +56685,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1664",
+   "id": "ext-1663",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -56751,7 +56718,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1665",
+   "id": "ext-1664",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -56784,7 +56751,7 @@ window.SPECS_DATA = {
    "storageType": "HDD"
   },
   {
-   "id": "ext-1666",
+   "id": "ext-1665",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -56817,7 +56784,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1667",
+   "id": "ext-1666",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -56850,7 +56817,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1668",
+   "id": "ext-1667",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -56883,7 +56850,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1669",
+   "id": "ext-1668",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -56916,7 +56883,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1670",
+   "id": "ext-1669",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -56949,7 +56916,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1671",
+   "id": "ext-1670",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -56982,7 +56949,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1672",
+   "id": "ext-1671",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -57015,7 +56982,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1673",
+   "id": "ext-1672",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -57048,7 +57015,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1674",
+   "id": "ext-1673",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -57081,7 +57048,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1675",
+   "id": "ext-1674",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -57114,7 +57081,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1676",
+   "id": "ext-1675",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -57147,7 +57114,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1677",
+   "id": "ext-1676",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -57180,7 +57147,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1678",
+   "id": "ext-1677",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -57213,7 +57180,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1679",
+   "id": "ext-1678",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -57246,7 +57213,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1680",
+   "id": "ext-1679",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -57279,7 +57246,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1681",
+   "id": "ext-1680",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -57312,7 +57279,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1682",
+   "id": "ext-1681",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -57345,7 +57312,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1683",
+   "id": "ext-1682",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -57378,7 +57345,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1684",
+   "id": "ext-1683",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -57411,7 +57378,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1685",
+   "id": "ext-1684",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -57444,7 +57411,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1686",
+   "id": "ext-1685",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -57477,7 +57444,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1687",
+   "id": "ext-1686",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -57510,7 +57477,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1688",
+   "id": "ext-1687",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -57543,7 +57510,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1689",
+   "id": "ext-1688",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -57576,7 +57543,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1690",
+   "id": "ext-1689",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -57609,7 +57576,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1691",
+   "id": "ext-1690",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -57642,7 +57609,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1692",
+   "id": "ext-1691",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -57675,7 +57642,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1693",
+   "id": "ext-1692",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -57708,7 +57675,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1694",
+   "id": "ext-1693",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -57741,7 +57708,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1695",
+   "id": "ext-1694",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -57774,7 +57741,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1696",
+   "id": "ext-1695",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -57807,7 +57774,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1697",
+   "id": "ext-1696",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -57840,7 +57807,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1698",
+   "id": "ext-1697",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -57873,7 +57840,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1699",
+   "id": "ext-1698",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -57906,7 +57873,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1700",
+   "id": "ext-1699",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -57939,7 +57906,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1701",
+   "id": "ext-1700",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -57972,7 +57939,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1702",
+   "id": "ext-1701",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -58005,7 +57972,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1703",
+   "id": "ext-1702",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -58038,7 +58005,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1704",
+   "id": "ext-1703",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Microsoft",
@@ -58071,7 +58038,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1705",
+   "id": "ext-1704",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -58104,7 +58071,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1706",
+   "id": "ext-1705",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -58137,7 +58104,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1707",
+   "id": "ext-1706",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -58170,7 +58137,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1708",
+   "id": "ext-1707",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -58203,7 +58170,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1709",
+   "id": "ext-1708",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -58236,7 +58203,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1710",
+   "id": "ext-1709",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -58269,7 +58236,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1711",
+   "id": "ext-1710",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -58302,7 +58269,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1712",
+   "id": "ext-1711",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -58335,7 +58302,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1713",
+   "id": "ext-1712",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -58368,7 +58335,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1714",
+   "id": "ext-1713",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -58401,7 +58368,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1715",
+   "id": "ext-1714",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -58434,7 +58401,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1716",
+   "id": "ext-1715",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -58467,7 +58434,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1717",
+   "id": "ext-1716",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -58500,7 +58467,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1718",
+   "id": "ext-1717",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -58533,7 +58500,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1719",
+   "id": "ext-1718",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -58566,7 +58533,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1720",
+   "id": "ext-1719",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -58599,7 +58566,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1721",
+   "id": "ext-1720",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -58632,7 +58599,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1722",
+   "id": "ext-1721",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Thinkbook",
@@ -58665,7 +58632,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1723",
+   "id": "ext-1722",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Thinkbook",
@@ -58698,7 +58665,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1724",
+   "id": "ext-1723",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -58731,7 +58698,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1725",
+   "id": "ext-1724",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -58764,7 +58731,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1726",
+   "id": "ext-1725",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -58797,7 +58764,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1727",
+   "id": "ext-1726",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -58830,7 +58797,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1728",
+   "id": "ext-1727",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -58863,7 +58830,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1729",
+   "id": "ext-1728",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "MSI",
@@ -58896,7 +58863,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1730",
+   "id": "ext-1729",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -58929,7 +58896,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1731",
+   "id": "ext-1730",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -58962,7 +58929,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1732",
+   "id": "ext-1731",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -58995,7 +58962,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1733",
+   "id": "ext-1732",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -59028,7 +58995,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1734",
+   "id": "ext-1733",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -59061,7 +59028,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1735",
+   "id": "ext-1734",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -59094,7 +59061,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1736",
+   "id": "ext-1735",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Microsoft",
@@ -59127,7 +59094,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1737",
+   "id": "ext-1736",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -59160,7 +59127,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1738",
+   "id": "ext-1737",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Microsoft",
@@ -59193,7 +59160,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1739",
+   "id": "ext-1738",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Microsoft",
@@ -59226,7 +59193,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1740",
+   "id": "ext-1739",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -59259,7 +59226,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1741",
+   "id": "ext-1740",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -59292,7 +59259,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1742",
+   "id": "ext-1741",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -59325,7 +59292,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1743",
+   "id": "ext-1742",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -59358,7 +59325,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1744",
+   "id": "ext-1743",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -59391,7 +59358,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1745",
+   "id": "ext-1744",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -59424,7 +59391,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1746",
+   "id": "ext-1745",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -59457,7 +59424,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1747",
+   "id": "ext-1746",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -59490,7 +59457,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1748",
+   "id": "ext-1747",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -59523,7 +59490,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1749",
+   "id": "ext-1748",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -59556,7 +59523,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1750",
+   "id": "ext-1749",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -59589,7 +59556,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1751",
+   "id": "ext-1750",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -59622,7 +59589,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1752",
+   "id": "ext-1751",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -59655,7 +59622,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1753",
+   "id": "ext-1752",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -59688,7 +59655,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1754",
+   "id": "ext-1753",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -59721,7 +59688,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1755",
+   "id": "ext-1754",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -59754,7 +59721,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1756",
+   "id": "ext-1755",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -59787,7 +59754,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1757",
+   "id": "ext-1756",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -59820,7 +59787,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1758",
+   "id": "ext-1757",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -59853,7 +59820,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1759",
+   "id": "ext-1758",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -59886,7 +59853,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1760",
+   "id": "ext-1759",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -59919,7 +59886,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1761",
+   "id": "ext-1760",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -59952,7 +59919,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1762",
+   "id": "ext-1761",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -59985,7 +59952,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1763",
+   "id": "ext-1762",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "MSI",
@@ -60018,7 +59985,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1764",
+   "id": "ext-1763",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Microsoft",
@@ -60051,7 +60018,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1765",
+   "id": "ext-1764",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -60084,7 +60051,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1766",
+   "id": "ext-1765",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Dell",
@@ -60117,7 +60084,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1767",
+   "id": "ext-1766",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -60150,7 +60117,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1768",
+   "id": "ext-1767",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -60183,7 +60150,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1769",
+   "id": "ext-1768",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -60216,7 +60183,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1770",
+   "id": "ext-1769",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -60249,7 +60216,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1771",
+   "id": "ext-1770",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -60282,7 +60249,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1772",
+   "id": "ext-1771",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -60315,7 +60282,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1773",
+   "id": "ext-1772",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -60348,7 +60315,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1774",
+   "id": "ext-1773",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -60381,7 +60348,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1775",
+   "id": "ext-1774",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -60414,7 +60381,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1776",
+   "id": "ext-1775",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "MSI",
@@ -60447,7 +60414,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1777",
+   "id": "ext-1776",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -60480,7 +60447,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1778",
+   "id": "ext-1777",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -60513,7 +60480,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1779",
+   "id": "ext-1778",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -60546,7 +60513,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1780",
+   "id": "ext-1779",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -60579,7 +60546,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1781",
+   "id": "ext-1780",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -60612,7 +60579,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1782",
+   "id": "ext-1781",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Acer",
@@ -60645,7 +60612,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1783",
+   "id": "ext-1782",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -60678,7 +60645,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1784",
+   "id": "ext-1783",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -60711,7 +60678,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1785",
+   "id": "ext-1784",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -60744,7 +60711,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1786",
+   "id": "ext-1785",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -60777,7 +60744,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1787",
+   "id": "ext-1786",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Microsoft",
@@ -60810,7 +60777,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1788",
+   "id": "ext-1787",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -60843,7 +60810,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1789",
+   "id": "ext-1788",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -60876,7 +60843,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1790",
+   "id": "ext-1789",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -60909,7 +60876,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1791",
+   "id": "ext-1790",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -60942,7 +60909,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1792",
+   "id": "ext-1791",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -60975,7 +60942,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1793",
+   "id": "ext-1792",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -61008,7 +60975,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1794",
+   "id": "ext-1793",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "MSI",
@@ -61041,7 +61008,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1795",
+   "id": "ext-1794",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "MSI",
@@ -61074,7 +61041,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1796",
+   "id": "ext-1795",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "MSI",
@@ -61107,7 +61074,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1797",
+   "id": "ext-1796",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -61140,7 +61107,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1798",
+   "id": "ext-1797",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -61173,7 +61140,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1799",
+   "id": "ext-1798",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -61206,7 +61173,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1800",
+   "id": "ext-1799",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -61239,7 +61206,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1801",
+   "id": "ext-1800",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -61272,7 +61239,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1802",
+   "id": "ext-1801",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -61305,7 +61272,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1803",
+   "id": "ext-1802",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -61338,7 +61305,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1804",
+   "id": "ext-1803",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -61371,7 +61338,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1805",
+   "id": "ext-1804",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -61404,7 +61371,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1806",
+   "id": "ext-1805",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -61437,7 +61404,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1807",
+   "id": "ext-1806",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -61470,7 +61437,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1808",
+   "id": "ext-1807",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -61503,7 +61470,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1809",
+   "id": "ext-1808",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -61536,7 +61503,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1810",
+   "id": "ext-1809",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Microsoft",
@@ -61569,7 +61536,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1811",
+   "id": "ext-1810",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -61602,7 +61569,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1812",
+   "id": "ext-1811",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -61635,7 +61602,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1813",
+   "id": "ext-1812",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -61668,7 +61635,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1814",
+   "id": "ext-1813",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Razer",
@@ -61701,7 +61668,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1815",
+   "id": "ext-1814",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -61734,7 +61701,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1816",
+   "id": "ext-1815",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -61767,7 +61734,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1817",
+   "id": "ext-1816",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -61800,7 +61767,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1818",
+   "id": "ext-1817",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -61833,7 +61800,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1819",
+   "id": "ext-1818",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -61866,7 +61833,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1820",
+   "id": "ext-1819",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Dell",
@@ -61899,7 +61866,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1821",
+   "id": "ext-1820",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -61932,7 +61899,7 @@ window.SPECS_DATA = {
    "storageType": "HDD"
   },
   {
-   "id": "ext-1822",
+   "id": "ext-1821",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -61965,7 +61932,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1823",
+   "id": "ext-1822",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -61998,7 +61965,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1824",
+   "id": "ext-1823",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -62031,7 +61998,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1825",
+   "id": "ext-1824",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -62064,7 +62031,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1826",
+   "id": "ext-1825",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -62097,7 +62064,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1827",
+   "id": "ext-1826",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Razer",
@@ -62130,7 +62097,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1828",
+   "id": "ext-1827",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -62163,7 +62130,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1829",
+   "id": "ext-1828",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -62196,7 +62163,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1830",
+   "id": "ext-1829",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Vivcbook",
@@ -62229,7 +62196,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1831",
+   "id": "ext-1830",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -62262,7 +62229,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1832",
+   "id": "ext-1831",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -62295,7 +62262,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1833",
+   "id": "ext-1832",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -62328,7 +62295,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1834",
+   "id": "ext-1833",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Zenbook-14",
@@ -62361,7 +62328,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1835",
+   "id": "ext-1834",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -62394,7 +62361,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1836",
+   "id": "ext-1835",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -62427,7 +62394,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1837",
+   "id": "ext-1836",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -62460,7 +62427,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1838",
+   "id": "ext-1837",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -62493,7 +62460,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1839",
+   "id": "ext-1838",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -62526,7 +62493,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1840",
+   "id": "ext-1839",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -62559,7 +62526,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1841",
+   "id": "ext-1840",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -62592,7 +62559,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1842",
+   "id": "ext-1841",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Microsoft",
@@ -62625,7 +62592,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1843",
+   "id": "ext-1842",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Microsoft",
@@ -62658,7 +62625,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1844",
+   "id": "ext-1843",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Stealth",
@@ -62691,7 +62658,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1845",
+   "id": "ext-1844",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Yoga",
@@ -62724,7 +62691,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1846",
+   "id": "ext-1845",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -62757,7 +62724,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1847",
+   "id": "ext-1846",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -62790,7 +62757,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1848",
+   "id": "ext-1847",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -62823,7 +62790,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1849",
+   "id": "ext-1848",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Thinkbook",
@@ -62856,7 +62823,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1850",
+   "id": "ext-1849",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -62889,7 +62856,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1851",
+   "id": "ext-1850",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -62922,7 +62889,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1852",
+   "id": "ext-1851",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -62955,7 +62922,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1853",
+   "id": "ext-1852",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -62988,7 +62955,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1854",
+   "id": "ext-1853",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Microsoft",
@@ -63021,7 +62988,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1855",
+   "id": "ext-1854",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -63054,7 +63021,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1856",
+   "id": "ext-1855",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -63087,7 +63054,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1857",
+   "id": "ext-1856",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -63120,7 +63087,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1858",
+   "id": "ext-1857",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -63153,7 +63120,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1859",
+   "id": "ext-1858",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -63186,7 +63153,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1860",
+   "id": "ext-1859",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -63219,7 +63186,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1861",
+   "id": "ext-1860",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -63252,7 +63219,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1862",
+   "id": "ext-1861",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -63285,7 +63252,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1863",
+   "id": "ext-1862",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -63318,7 +63285,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1864",
+   "id": "ext-1863",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Microsoft",
@@ -63351,7 +63318,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1865",
+   "id": "ext-1864",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -63384,7 +63351,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1866",
+   "id": "ext-1865",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -63417,7 +63384,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1867",
+   "id": "ext-1866",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Acer",
@@ -63450,7 +63417,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1868",
+   "id": "ext-1867",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -63483,7 +63450,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1869",
+   "id": "ext-1868",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -63516,7 +63483,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1870",
+   "id": "ext-1869",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -63549,7 +63516,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1871",
+   "id": "ext-1870",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -63582,7 +63549,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1872",
+   "id": "ext-1871",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -63615,7 +63582,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1873",
+   "id": "ext-1872",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -63648,7 +63615,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1874",
+   "id": "ext-1873",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -63681,7 +63648,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1875",
+   "id": "ext-1874",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -63714,7 +63681,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1876",
+   "id": "ext-1875",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -63747,7 +63714,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1877",
+   "id": "ext-1876",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -63780,7 +63747,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1878",
+   "id": "ext-1877",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -63813,7 +63780,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1879",
+   "id": "ext-1878",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -63846,7 +63813,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1880",
+   "id": "ext-1879",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Acer",
@@ -63879,7 +63846,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1881",
+   "id": "ext-1880",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Dell",
@@ -63912,7 +63879,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1882",
+   "id": "ext-1881",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -63945,7 +63912,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1883",
+   "id": "ext-1882",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -63978,7 +63945,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1884",
+   "id": "ext-1883",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -64011,7 +63978,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1885",
+   "id": "ext-1884",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -64044,7 +64011,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1886",
+   "id": "ext-1885",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -64077,7 +64044,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1887",
+   "id": "ext-1886",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -64110,7 +64077,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1888",
+   "id": "ext-1887",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -64143,7 +64110,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1889",
+   "id": "ext-1888",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -64176,7 +64143,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1890",
+   "id": "ext-1889",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -64209,7 +64176,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1891",
+   "id": "ext-1890",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "MSI",
@@ -64242,7 +64209,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1892",
+   "id": "ext-1891",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -64275,7 +64242,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1893",
+   "id": "ext-1892",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Acer",
@@ -64308,7 +64275,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1894",
+   "id": "ext-1893",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -64341,7 +64308,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1895",
+   "id": "ext-1894",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -64374,7 +64341,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1896",
+   "id": "ext-1895",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -64407,7 +64374,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1897",
+   "id": "ext-1896",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Acer",
@@ -64440,7 +64407,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1898",
+   "id": "ext-1897",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Acer",
@@ -64473,7 +64440,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1899",
+   "id": "ext-1898",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -64506,7 +64473,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1900",
+   "id": "ext-1899",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -64539,7 +64506,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1901",
+   "id": "ext-1900",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -64572,7 +64539,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1902",
+   "id": "ext-1901",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -64605,7 +64572,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1903",
+   "id": "ext-1902",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -64638,7 +64605,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1904",
+   "id": "ext-1903",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -64671,7 +64638,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1905",
+   "id": "ext-1904",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -64704,7 +64671,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1906",
+   "id": "ext-1905",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -64737,7 +64704,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1907",
+   "id": "ext-1906",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "MSI",
@@ -64770,7 +64737,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1908",
+   "id": "ext-1907",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "MSI",
@@ -64803,7 +64770,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1909",
+   "id": "ext-1908",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -64836,7 +64803,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1910",
+   "id": "ext-1909",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -64869,7 +64836,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1911",
+   "id": "ext-1910",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -64902,7 +64869,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1912",
+   "id": "ext-1911",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -64935,7 +64902,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1913",
+   "id": "ext-1912",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -64968,7 +64935,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1914",
+   "id": "ext-1913",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -65001,7 +64968,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1915",
+   "id": "ext-1914",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -65034,7 +65001,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1916",
+   "id": "ext-1915",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -65067,7 +65034,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1917",
+   "id": "ext-1916",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -65100,7 +65067,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1918",
+   "id": "ext-1917",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -65133,7 +65100,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1919",
+   "id": "ext-1918",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -65166,7 +65133,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1920",
+   "id": "ext-1919",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -65199,7 +65166,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1921",
+   "id": "ext-1920",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Acer",
@@ -65232,7 +65199,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1922",
+   "id": "ext-1921",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -65265,7 +65232,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1923",
+   "id": "ext-1922",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -65298,7 +65265,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1924",
+   "id": "ext-1923",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -65331,7 +65298,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1925",
+   "id": "ext-1924",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -65364,7 +65331,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1926",
+   "id": "ext-1925",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -65397,7 +65364,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1927",
+   "id": "ext-1926",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -65430,7 +65397,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1928",
+   "id": "ext-1927",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -65463,7 +65430,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1929",
+   "id": "ext-1928",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -65496,7 +65463,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1930",
+   "id": "ext-1929",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Acer",
@@ -65529,7 +65496,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1931",
+   "id": "ext-1930",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -65562,7 +65529,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1932",
+   "id": "ext-1931",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -65595,7 +65562,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1933",
+   "id": "ext-1932",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -65628,7 +65595,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1934",
+   "id": "ext-1933",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -65661,7 +65628,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1935",
+   "id": "ext-1934",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -65694,7 +65661,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1936",
+   "id": "ext-1935",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -65727,7 +65694,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1937",
+   "id": "ext-1936",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -65760,7 +65727,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1938",
+   "id": "ext-1937",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -65793,7 +65760,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1939",
+   "id": "ext-1938",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -65826,7 +65793,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1940",
+   "id": "ext-1939",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -65859,7 +65826,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1941",
+   "id": "ext-1940",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -65892,7 +65859,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1942",
+   "id": "ext-1941",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -65925,7 +65892,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1943",
+   "id": "ext-1942",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -65958,7 +65925,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1944",
+   "id": "ext-1943",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -65991,7 +65958,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1945",
+   "id": "ext-1944",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -66024,7 +65991,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1946",
+   "id": "ext-1945",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -66057,7 +66024,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1947",
+   "id": "ext-1946",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -66090,7 +66057,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1948",
+   "id": "ext-1947",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -66123,7 +66090,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1949",
+   "id": "ext-1948",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -66156,7 +66123,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1950",
+   "id": "ext-1949",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -66189,7 +66156,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1951",
+   "id": "ext-1950",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -66222,7 +66189,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1952",
+   "id": "ext-1951",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -66255,7 +66222,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1953",
+   "id": "ext-1952",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -66288,7 +66255,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1954",
+   "id": "ext-1953",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -66321,7 +66288,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1955",
+   "id": "ext-1954",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -66354,7 +66321,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1956",
+   "id": "ext-1955",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -66387,7 +66354,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1957",
+   "id": "ext-1956",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -66420,7 +66387,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1958",
+   "id": "ext-1957",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Gigabyte",
@@ -66453,7 +66420,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1959",
+   "id": "ext-1958",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Acer",
@@ -66486,7 +66453,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1960",
+   "id": "ext-1959",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -66519,7 +66486,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1961",
+   "id": "ext-1960",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -66552,7 +66519,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1962",
+   "id": "ext-1961",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -66585,7 +66552,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1963",
+   "id": "ext-1962",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Dell",
@@ -66618,7 +66585,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1964",
+   "id": "ext-1963",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -66651,7 +66618,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1965",
+   "id": "ext-1964",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -66684,7 +66651,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1966",
+   "id": "ext-1965",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -66717,7 +66684,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1967",
+   "id": "ext-1966",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -66750,7 +66717,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1968",
+   "id": "ext-1967",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -66783,7 +66750,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1969",
+   "id": "ext-1968",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Dell",
@@ -66816,7 +66783,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1970",
+   "id": "ext-1969",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -66849,7 +66816,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1971",
+   "id": "ext-1970",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -66882,7 +66849,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1972",
+   "id": "ext-1971",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -66915,7 +66882,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1973",
+   "id": "ext-1972",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -66948,7 +66915,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1974",
+   "id": "ext-1973",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -66981,7 +66948,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1975",
+   "id": "ext-1974",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -67014,7 +66981,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1976",
+   "id": "ext-1975",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -67047,7 +67014,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1977",
+   "id": "ext-1976",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -67080,7 +67047,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1978",
+   "id": "ext-1977",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -67113,7 +67080,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1979",
+   "id": "ext-1978",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -67146,7 +67113,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1980",
+   "id": "ext-1979",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -67179,7 +67146,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1981",
+   "id": "ext-1980",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Samsung",
@@ -67212,7 +67179,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1982",
+   "id": "ext-1981",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "MSI",
@@ -67245,7 +67212,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1983",
+   "id": "ext-1982",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -67278,7 +67245,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1984",
+   "id": "ext-1983",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -67311,7 +67278,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1985",
+   "id": "ext-1984",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "MSI",
@@ -67344,7 +67311,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1986",
+   "id": "ext-1985",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "MSI",
@@ -67377,7 +67344,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-1987",
+   "id": "ext-1986",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Acer",
@@ -67410,7 +67377,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1988",
+   "id": "ext-1987",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -67443,7 +67410,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1989",
+   "id": "ext-1988",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -67476,7 +67443,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1990",
+   "id": "ext-1989",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -67509,7 +67476,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1991",
+   "id": "ext-1990",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -67542,7 +67509,7 @@ window.SPECS_DATA = {
    "storageType": "HDD"
   },
   {
-   "id": "ext-1992",
+   "id": "ext-1991",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "MSI",
@@ -67575,7 +67542,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1993",
+   "id": "ext-1992",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "MSI",
@@ -67608,7 +67575,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1994",
+   "id": "ext-1993",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -67641,7 +67608,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1995",
+   "id": "ext-1994",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -67674,7 +67641,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1996",
+   "id": "ext-1995",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -67707,7 +67674,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1997",
+   "id": "ext-1996",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -67740,7 +67707,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1998",
+   "id": "ext-1997",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -67773,7 +67740,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-1999",
+   "id": "ext-1998",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -67806,7 +67773,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2000",
+   "id": "ext-1999",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Dell",
@@ -67839,7 +67806,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2001",
+   "id": "ext-2000",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -67872,7 +67839,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2002",
+   "id": "ext-2001",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -67905,7 +67872,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2003",
+   "id": "ext-2002",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -67938,7 +67905,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2004",
+   "id": "ext-2003",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -67971,7 +67938,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2005",
+   "id": "ext-2004",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -68004,7 +67971,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2006",
+   "id": "ext-2005",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -68037,7 +68004,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2007",
+   "id": "ext-2006",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -68070,7 +68037,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2008",
+   "id": "ext-2007",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -68103,7 +68070,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2009",
+   "id": "ext-2008",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -68136,7 +68103,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2010",
+   "id": "ext-2009",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -68169,7 +68136,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2011",
+   "id": "ext-2010",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -68202,7 +68169,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2012",
+   "id": "ext-2011",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -68235,7 +68202,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2013",
+   "id": "ext-2012",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -68268,7 +68235,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2014",
+   "id": "ext-2013",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Samsung",
@@ -68301,7 +68268,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2015",
+   "id": "ext-2014",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -68334,7 +68301,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2016",
+   "id": "ext-2015",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -68367,7 +68334,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2017",
+   "id": "ext-2016",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -68400,7 +68367,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2018",
+   "id": "ext-2017",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -68433,7 +68400,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2019",
+   "id": "ext-2018",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -68466,7 +68433,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2020",
+   "id": "ext-2019",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -68499,7 +68466,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2021",
+   "id": "ext-2020",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -68532,7 +68499,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2022",
+   "id": "ext-2021",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -68565,7 +68532,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2023",
+   "id": "ext-2022",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -68598,7 +68565,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2024",
+   "id": "ext-2023",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -68631,7 +68598,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2025",
+   "id": "ext-2024",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -68664,7 +68631,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2026",
+   "id": "ext-2025",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -68697,7 +68664,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2027",
+   "id": "ext-2026",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -68730,7 +68697,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2028",
+   "id": "ext-2027",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -68763,7 +68730,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2029",
+   "id": "ext-2028",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -68796,7 +68763,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2030",
+   "id": "ext-2029",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -68829,7 +68796,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2031",
+   "id": "ext-2030",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Acer",
@@ -68862,7 +68829,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2032",
+   "id": "ext-2031",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -68895,7 +68862,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2033",
+   "id": "ext-2032",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -68928,7 +68895,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2034",
+   "id": "ext-2033",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -68961,7 +68928,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2035",
+   "id": "ext-2034",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -68994,7 +68961,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2036",
+   "id": "ext-2035",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -69027,7 +68994,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2037",
+   "id": "ext-2036",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -69060,7 +69027,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2038",
+   "id": "ext-2037",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -69093,7 +69060,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2039",
+   "id": "ext-2038",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -69126,7 +69093,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2040",
+   "id": "ext-2039",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -69159,7 +69126,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2041",
+   "id": "ext-2040",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -69192,7 +69159,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2042",
+   "id": "ext-2041",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -69225,7 +69192,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2043",
+   "id": "ext-2042",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Acer",
@@ -69258,7 +69225,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2044",
+   "id": "ext-2043",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Acer",
@@ -69291,7 +69258,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2045",
+   "id": "ext-2044",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -69324,7 +69291,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2046",
+   "id": "ext-2045",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -69357,7 +69324,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2047",
+   "id": "ext-2046",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -69390,7 +69357,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2048",
+   "id": "ext-2047",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -69423,7 +69390,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2049",
+   "id": "ext-2048",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -69456,7 +69423,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2050",
+   "id": "ext-2049",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -69489,7 +69456,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2051",
+   "id": "ext-2050",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -69522,7 +69489,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2052",
+   "id": "ext-2051",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -69555,7 +69522,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2053",
+   "id": "ext-2052",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -69588,7 +69555,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2054",
+   "id": "ext-2053",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -69621,7 +69588,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2055",
+   "id": "ext-2054",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -69654,7 +69621,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2056",
+   "id": "ext-2055",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -69687,7 +69654,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2057",
+   "id": "ext-2056",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -69720,7 +69687,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2058",
+   "id": "ext-2057",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Acer",
@@ -69753,7 +69720,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2059",
+   "id": "ext-2058",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -69786,7 +69753,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2060",
+   "id": "ext-2059",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -69819,7 +69786,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2061",
+   "id": "ext-2060",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -69852,7 +69819,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2062",
+   "id": "ext-2061",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -69885,7 +69852,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2063",
+   "id": "ext-2062",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -69918,7 +69885,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2064",
+   "id": "ext-2063",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -69951,7 +69918,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2065",
+   "id": "ext-2064",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -69984,7 +69951,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2066",
+   "id": "ext-2065",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -70017,7 +69984,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2067",
+   "id": "ext-2066",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -70050,73 +70017,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2068",
-   "form": "Laptop",
-   "use": "Everyday & Business",
-   "brand": "Lenovo",
-   "name": "Legion M3 Wired Gaming Mouse",
-   "ram": null,
-   "storage": null,
-   "screen": null,
-   "screenIn": null,
-   "touch": false,
-   "oled": false,
-   "extras": null,
-   "price": null,
-   "store": "DSLR Zone",
-   "seller": "DSLR Zone",
-   "condition": "New",
-   "link": "https://www.dslr-zone.com/product/lenovo-legion-m3-wired-gaming-mouse-8000-dpi-paw3327-sensor-rgb-black/",
-   "linkIsListing": true,
-   "note": null,
-   "cpuVendor": "Apple",
-   "cpuFamily": "Apple M3",
-   "cpuModel": null,
-   "cpu": "Apple M3",
-   "gpuKind": "Integrated",
-   "gpuVendor": "Apple",
-   "gpuModel": "Apple GPU",
-   "gpu": "Apple GPU (integrated)",
-   "gpuRank": 10,
-   "ramGB": null,
-   "storageGB": null,
-   "storageType": null
-  },
-  {
-   "id": "ext-2069",
-   "form": "Laptop",
-   "use": "Everyday & Business",
-   "brand": "Lenovo",
-   "name": "Legion M3 Wired Gaming Mouse",
-   "ram": null,
-   "storage": null,
-   "screen": null,
-   "screenIn": null,
-   "touch": false,
-   "oled": false,
-   "extras": null,
-   "price": null,
-   "store": "DSLR Zone",
-   "seller": "DSLR Zone",
-   "condition": "New",
-   "link": "https://www.dslr-zone.com/product/lenovo-legion-m3-wired-gaming-mouse-8000-dpi-paw3327-sensor-rgb-white/",
-   "linkIsListing": true,
-   "note": null,
-   "cpuVendor": "Apple",
-   "cpuFamily": "Apple M3",
-   "cpuModel": null,
-   "cpu": "Apple M3",
-   "gpuKind": "Integrated",
-   "gpuVendor": "Apple",
-   "gpuModel": "Apple GPU",
-   "gpu": "Apple GPU (integrated)",
-   "gpuRank": 10,
-   "ramGB": null,
-   "storageGB": null,
-   "storageType": null
-  },
-  {
-   "id": "ext-2070",
+   "id": "ext-2067",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -70149,7 +70050,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2071",
+   "id": "ext-2068",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -70182,7 +70083,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2072",
+   "id": "ext-2069",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -70215,7 +70116,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2073",
+   "id": "ext-2070",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -70248,7 +70149,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2074",
+   "id": "ext-2071",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -70281,7 +70182,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2075",
+   "id": "ext-2072",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -70314,7 +70215,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2076",
+   "id": "ext-2073",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -70347,7 +70248,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2077",
+   "id": "ext-2074",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -70380,7 +70281,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2078",
+   "id": "ext-2075",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -70413,7 +70314,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2079",
+   "id": "ext-2076",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -70446,7 +70347,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2080",
+   "id": "ext-2077",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Acer",
@@ -70479,7 +70380,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2081",
+   "id": "ext-2078",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -70512,7 +70413,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2082",
+   "id": "ext-2079",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -70545,7 +70446,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2083",
+   "id": "ext-2080",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -70578,7 +70479,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2084",
+   "id": "ext-2081",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -70611,7 +70512,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2085",
+   "id": "ext-2082",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -70644,7 +70545,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2086",
+   "id": "ext-2083",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -70677,7 +70578,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2087",
+   "id": "ext-2084",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -70710,7 +70611,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2088",
+   "id": "ext-2085",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -70743,7 +70644,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2089",
+   "id": "ext-2086",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -70776,7 +70677,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2090",
+   "id": "ext-2087",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -70809,7 +70710,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2091",
+   "id": "ext-2088",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -70842,7 +70743,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2092",
+   "id": "ext-2089",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -70875,7 +70776,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2093",
+   "id": "ext-2090",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -70908,7 +70809,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2094",
+   "id": "ext-2091",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -70941,7 +70842,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2095",
+   "id": "ext-2092",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -70974,7 +70875,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2096",
+   "id": "ext-2093",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -71007,7 +70908,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2097",
+   "id": "ext-2094",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -71040,7 +70941,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2098",
+   "id": "ext-2095",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -71073,7 +70974,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-2099",
+   "id": "ext-2096",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "MSI",
@@ -71106,7 +71007,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2100",
+   "id": "ext-2097",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -71139,7 +71040,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2101",
+   "id": "ext-2098",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -71172,7 +71073,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2102",
+   "id": "ext-2099",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -71205,7 +71106,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2103",
+   "id": "ext-2100",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -71238,7 +71139,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2104",
+   "id": "ext-2101",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -71271,7 +71172,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2105",
+   "id": "ext-2102",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -71304,7 +71205,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2106",
+   "id": "ext-2103",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -71337,7 +71238,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2107",
+   "id": "ext-2104",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -71370,7 +71271,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2108",
+   "id": "ext-2105",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -71403,7 +71304,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2109",
+   "id": "ext-2106",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -71436,7 +71337,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2110",
+   "id": "ext-2107",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -71469,7 +71370,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2111",
+   "id": "ext-2108",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -71502,7 +71403,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2112",
+   "id": "ext-2109",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -71535,7 +71436,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2113",
+   "id": "ext-2110",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -71568,7 +71469,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2114",
+   "id": "ext-2111",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Acer",
@@ -71601,7 +71502,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2115",
+   "id": "ext-2112",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -71634,7 +71535,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2116",
+   "id": "ext-2113",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -71667,7 +71568,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2117",
+   "id": "ext-2114",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -71700,7 +71601,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2118",
+   "id": "ext-2115",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -71733,7 +71634,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2119",
+   "id": "ext-2116",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -71766,7 +71667,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2120",
+   "id": "ext-2117",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -71799,7 +71700,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2121",
+   "id": "ext-2118",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -71832,7 +71733,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2122",
+   "id": "ext-2119",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -71865,7 +71766,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2123",
+   "id": "ext-2120",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -71898,7 +71799,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2124",
+   "id": "ext-2121",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Microsoft",
@@ -71931,7 +71832,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2125",
+   "id": "ext-2122",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -71964,7 +71865,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2126",
+   "id": "ext-2123",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -71997,7 +71898,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2127",
+   "id": "ext-2124",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -72030,7 +71931,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2128",
+   "id": "ext-2125",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -72063,7 +71964,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2129",
+   "id": "ext-2126",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -72096,7 +71997,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2130",
+   "id": "ext-2127",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -72129,7 +72030,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2131",
+   "id": "ext-2128",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -72162,7 +72063,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2132",
+   "id": "ext-2129",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -72195,7 +72096,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2133",
+   "id": "ext-2130",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -72228,7 +72129,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2134",
+   "id": "ext-2131",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -72261,7 +72162,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2135",
+   "id": "ext-2132",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Acer",
@@ -72294,7 +72195,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2136",
+   "id": "ext-2133",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Acer",
@@ -72327,7 +72228,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2137",
+   "id": "ext-2134",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -72360,7 +72261,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2138",
+   "id": "ext-2135",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -72393,7 +72294,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2139",
+   "id": "ext-2136",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -72426,7 +72327,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2140",
+   "id": "ext-2137",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "LG",
@@ -72459,7 +72360,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2141",
+   "id": "ext-2138",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -72492,7 +72393,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2142",
+   "id": "ext-2139",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -72525,7 +72426,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2143",
+   "id": "ext-2140",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -72558,7 +72459,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2144",
+   "id": "ext-2141",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -72591,7 +72492,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2145",
+   "id": "ext-2142",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -72624,7 +72525,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2146",
+   "id": "ext-2143",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -72657,7 +72558,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2147",
+   "id": "ext-2144",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -72690,7 +72591,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2148",
+   "id": "ext-2145",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -72723,7 +72624,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2149",
+   "id": "ext-2146",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Dell",
@@ -72756,7 +72657,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2150",
+   "id": "ext-2147",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Dell",
@@ -72789,7 +72690,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2151",
+   "id": "ext-2148",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -72822,7 +72723,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2152",
+   "id": "ext-2149",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -72855,7 +72756,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2153",
+   "id": "ext-2150",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -72888,7 +72789,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2154",
+   "id": "ext-2151",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -72921,7 +72822,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2155",
+   "id": "ext-2152",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -72954,7 +72855,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2156",
+   "id": "ext-2153",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -72987,7 +72888,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2157",
+   "id": "ext-2154",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -73020,7 +72921,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2158",
+   "id": "ext-2155",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -73053,7 +72954,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2159",
+   "id": "ext-2156",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -73086,40 +72987,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2160",
-   "form": "Laptop",
-   "use": "Everyday & Business",
-   "brand": "Powerology",
-   "name": "Smartcase Pro+ Keyboard Case 13”",
-   "ram": null,
-   "storage": null,
-   "screen": "13\"",
-   "screenIn": 13.0,
-   "touch": false,
-   "oled": false,
-   "extras": null,
-   "price": 119.0,
-   "store": "DSLR Zone",
-   "seller": "DSLR Zone",
-   "condition": "New",
-   "link": "https://www.dslr-zone.com/product/powerology-smartcase-pro-keyboard-case-13/",
-   "linkIsListing": true,
-   "note": null,
-   "cpuVendor": "Apple",
-   "cpuFamily": "Apple M4",
-   "cpuModel": null,
-   "cpu": "Apple M4",
-   "gpuKind": "Integrated",
-   "gpuVendor": "Apple",
-   "gpuModel": null,
-   "gpu": "Apple integrated graphics",
-   "gpuRank": 10,
-   "ramGB": null,
-   "storageGB": null,
-   "storageType": null
-  },
-  {
-   "id": "ext-2161",
+   "id": "ext-2157",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Acer",
@@ -73152,7 +73020,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2162",
+   "id": "ext-2158",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -73185,40 +73053,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2163",
-   "form": "Laptop",
-   "use": "Everyday & Business",
-   "brand": "Logitech",
-   "name": "Combo Touch Case 13″",
-   "ram": null,
-   "storage": null,
-   "screen": "13\" touch",
-   "screenIn": 13.0,
-   "touch": true,
-   "oled": false,
-   "extras": null,
-   "price": 262.0,
-   "store": "DSLR Zone",
-   "seller": "DSLR Zone",
-   "condition": "New",
-   "link": "https://www.dslr-zone.com/product/logitech-combo-touch-case-13%e2%80%b3/",
-   "linkIsListing": true,
-   "note": null,
-   "cpuVendor": "Apple",
-   "cpuFamily": "Apple M2",
-   "cpuModel": null,
-   "cpu": "Apple M2",
-   "gpuKind": "Integrated",
-   "gpuVendor": "Apple",
-   "gpuModel": null,
-   "gpu": "Apple integrated graphics",
-   "gpuRank": 10,
-   "ramGB": null,
-   "storageGB": null,
-   "storageType": null
-  },
-  {
-   "id": "ext-2164",
+   "id": "ext-2159",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Nec",
@@ -73251,106 +73086,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2165",
-   "form": "Laptop",
-   "use": "Everyday & Business",
-   "brand": "Samsung",
-   "name": "Galaxy Tab S9+ 12.4\"",
-   "ram": "12GB",
-   "storage": null,
-   "screen": "12.4\"",
-   "screenIn": 12.4,
-   "touch": false,
-   "oled": false,
-   "extras": null,
-   "price": 799.0,
-   "store": "DSLR Zone",
-   "seller": "DSLR Zone",
-   "condition": "New",
-   "link": "https://www.dslr-zone.com/product/samsung-galaxy-tab-6/",
-   "linkIsListing": true,
-   "note": null,
-   "cpuVendor": "Qualcomm",
-   "cpuFamily": "Snapdragon X",
-   "cpuModel": null,
-   "cpu": "Qualcomm Snapdragon",
-   "gpuKind": "Integrated",
-   "gpuVendor": "Qualcomm",
-   "gpuModel": "Adreno",
-   "gpu": "Qualcomm Adreno (integrated)",
-   "gpuRank": 10,
-   "ramGB": 12,
-   "storageGB": null,
-   "storageType": null
-  },
-  {
-   "id": "ext-2166",
-   "form": "Laptop",
-   "use": "Everyday & Business",
-   "brand": "Samsung",
-   "name": "Galaxy Tab S9+",
-   "ram": "12GB",
-   "storage": "512GB SSD",
-   "screen": "12.4\"",
-   "screenIn": 12.4,
-   "touch": false,
-   "oled": false,
-   "extras": null,
-   "price": 949.0,
-   "store": "DSLR Zone",
-   "seller": "DSLR Zone",
-   "condition": "New",
-   "link": "https://www.dslr-zone.com/product/samsung-galaxy-tab-4/",
-   "linkIsListing": true,
-   "note": null,
-   "cpuVendor": "Qualcomm",
-   "cpuFamily": "Snapdragon X",
-   "cpuModel": null,
-   "cpu": "Qualcomm Snapdragon",
-   "gpuKind": "Integrated",
-   "gpuVendor": "Qualcomm",
-   "gpuModel": "Adreno",
-   "gpu": "Qualcomm Adreno (integrated)",
-   "gpuRank": 10,
-   "ramGB": 12,
-   "storageGB": 512,
-   "storageType": "SSD"
-  },
-  {
-   "id": "ext-2167",
-   "form": "Laptop",
-   "use": "Everyday & Business",
-   "brand": "Samsung",
-   "name": "Galaxy Tab S9",
-   "ram": "16GB",
-   "storage": "1TB SSD",
-   "screen": "14.6\"",
-   "screenIn": 14.6,
-   "touch": false,
-   "oled": false,
-   "extras": null,
-   "price": 925.0,
-   "store": "DSLR Zone",
-   "seller": "DSLR Zone",
-   "condition": "New",
-   "link": "https://www.dslr-zone.com/product/samsung-galaxy-tab/",
-   "linkIsListing": true,
-   "note": null,
-   "cpuVendor": "Qualcomm",
-   "cpuFamily": "Snapdragon X",
-   "cpuModel": null,
-   "cpu": "Qualcomm Snapdragon",
-   "gpuKind": "Integrated",
-   "gpuVendor": "Qualcomm",
-   "gpuModel": "Adreno",
-   "gpu": "Qualcomm Adreno (integrated)",
-   "gpuRank": 10,
-   "ramGB": 16,
-   "storageGB": 1024,
-   "storageType": "SSD"
-  },
-  {
-   "id": "ext-2168",
+   "id": "ext-2160",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -73383,7 +73119,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2169",
+   "id": "ext-2161",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -73416,7 +73152,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-2170",
+   "id": "ext-2162",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -73449,7 +73185,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2171",
+   "id": "ext-2163",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -73482,7 +73218,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2172",
+   "id": "ext-2164",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -73515,7 +73251,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2173",
+   "id": "ext-2165",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -73548,7 +73284,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2174",
+   "id": "ext-2166",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Microsoft",
@@ -73581,7 +73317,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2175",
+   "id": "ext-2167",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -73614,7 +73350,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2176",
+   "id": "ext-2168",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -73647,7 +73383,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-2177",
+   "id": "ext-2169",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -73680,7 +73416,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2178",
+   "id": "ext-2170",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -73713,7 +73449,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2179",
+   "id": "ext-2171",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -73746,7 +73482,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2180",
+   "id": "ext-2172",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -73779,7 +73515,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2181",
+   "id": "ext-2173",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -73812,7 +73548,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2182",
+   "id": "ext-2174",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -73845,7 +73581,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2183",
+   "id": "ext-2175",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -73878,7 +73614,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2184",
+   "id": "ext-2176",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -73911,7 +73647,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2185",
+   "id": "ext-2177",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Acer",
@@ -73944,7 +73680,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-2186",
+   "id": "ext-2178",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -73977,7 +73713,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2187",
+   "id": "ext-2179",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -74010,7 +73746,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2188",
+   "id": "ext-2180",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -74043,7 +73779,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2189",
+   "id": "ext-2181",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -74076,7 +73812,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2190",
+   "id": "ext-2182",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -74109,7 +73845,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2191",
+   "id": "ext-2183",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -74142,7 +73878,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2192",
+   "id": "ext-2184",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -74175,7 +73911,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2193",
+   "id": "ext-2185",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -74208,7 +73944,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2194",
+   "id": "ext-2186",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -74241,7 +73977,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2195",
+   "id": "ext-2187",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -74274,7 +74010,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2196",
+   "id": "ext-2188",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -74307,7 +74043,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2197",
+   "id": "ext-2189",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -74340,7 +74076,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2198",
+   "id": "ext-2190",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -74373,7 +74109,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2199",
+   "id": "ext-2191",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -74406,7 +74142,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2200",
+   "id": "ext-2192",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -74439,7 +74175,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2201",
+   "id": "ext-2193",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -74472,7 +74208,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2202",
+   "id": "ext-2194",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -74505,7 +74241,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2203",
+   "id": "ext-2195",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -74538,7 +74274,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2204",
+   "id": "ext-2196",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -74571,7 +74307,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2205",
+   "id": "ext-2197",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -74604,7 +74340,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2206",
+   "id": "ext-2198",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -74637,7 +74373,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2207",
+   "id": "ext-2199",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -74670,7 +74406,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2208",
+   "id": "ext-2200",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -74703,7 +74439,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2209",
+   "id": "ext-2201",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -74736,7 +74472,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2210",
+   "id": "ext-2202",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -74769,7 +74505,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2211",
+   "id": "ext-2203",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -74802,7 +74538,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2212",
+   "id": "ext-2204",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -74835,7 +74571,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2213",
+   "id": "ext-2205",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -74868,7 +74604,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2214",
+   "id": "ext-2206",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -74901,7 +74637,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2215",
+   "id": "ext-2207",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -74934,7 +74670,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2216",
+   "id": "ext-2208",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -74967,7 +74703,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2217",
+   "id": "ext-2209",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -75000,7 +74736,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-2218",
+   "id": "ext-2210",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Toshiba",
@@ -75033,7 +74769,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-2219",
+   "id": "ext-2211",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -75066,7 +74802,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2220",
+   "id": "ext-2212",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -75099,7 +74835,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2221",
+   "id": "ext-2213",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -75132,7 +74868,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2222",
+   "id": "ext-2214",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -75165,7 +74901,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2223",
+   "id": "ext-2215",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -75198,7 +74934,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2224",
+   "id": "ext-2216",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -75231,7 +74967,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2225",
+   "id": "ext-2217",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -75264,7 +75000,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2226",
+   "id": "ext-2218",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -75297,7 +75033,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2227",
+   "id": "ext-2219",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -75330,7 +75066,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2228",
+   "id": "ext-2220",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -75363,7 +75099,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2229",
+   "id": "ext-2221",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -75396,7 +75132,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2230",
+   "id": "ext-2222",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -75429,7 +75165,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2231",
+   "id": "ext-2223",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -75462,7 +75198,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2232",
+   "id": "ext-2224",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -75495,7 +75231,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2233",
+   "id": "ext-2225",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -75528,7 +75264,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2234",
+   "id": "ext-2226",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -75561,7 +75297,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2235",
+   "id": "ext-2227",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -75594,7 +75330,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2236",
+   "id": "ext-2228",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -75627,7 +75363,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2237",
+   "id": "ext-2229",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -75660,7 +75396,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2238",
+   "id": "ext-2230",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -75693,7 +75429,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2239",
+   "id": "ext-2231",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -75726,7 +75462,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2240",
+   "id": "ext-2232",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -75759,7 +75495,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2241",
+   "id": "ext-2233",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -75792,7 +75528,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2242",
+   "id": "ext-2234",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -75825,7 +75561,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2243",
+   "id": "ext-2235",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -75858,7 +75594,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2244",
+   "id": "ext-2236",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -75891,7 +75627,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2245",
+   "id": "ext-2237",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -75924,7 +75660,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2246",
+   "id": "ext-2238",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -75957,7 +75693,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2247",
+   "id": "ext-2239",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -75990,7 +75726,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2248",
+   "id": "ext-2240",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -76023,7 +75759,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2249",
+   "id": "ext-2241",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -76056,7 +75792,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2250",
+   "id": "ext-2242",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -76089,7 +75825,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2251",
+   "id": "ext-2243",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -76122,7 +75858,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2252",
+   "id": "ext-2244",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Acer",
@@ -76155,7 +75891,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2253",
+   "id": "ext-2245",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -76188,7 +75924,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2254",
+   "id": "ext-2246",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -76221,7 +75957,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2255",
+   "id": "ext-2247",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -76254,7 +75990,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2256",
+   "id": "ext-2248",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -76287,7 +76023,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2257",
+   "id": "ext-2249",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -76320,7 +76056,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2258",
+   "id": "ext-2250",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -76353,7 +76089,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2259",
+   "id": "ext-2251",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -76386,7 +76122,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2260",
+   "id": "ext-2252",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -76419,7 +76155,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2261",
+   "id": "ext-2253",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -76452,7 +76188,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2262",
+   "id": "ext-2254",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -76485,7 +76221,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2263",
+   "id": "ext-2255",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -76518,7 +76254,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2264",
+   "id": "ext-2256",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -76551,7 +76287,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2265",
+   "id": "ext-2257",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -76584,7 +76320,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2266",
+   "id": "ext-2258",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -76617,7 +76353,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2267",
+   "id": "ext-2259",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -76650,7 +76386,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2268",
+   "id": "ext-2260",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Acer",
@@ -76683,7 +76419,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2269",
+   "id": "ext-2261",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Acer",
@@ -76716,7 +76452,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2270",
+   "id": "ext-2262",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -76749,7 +76485,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2271",
+   "id": "ext-2263",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -76782,7 +76518,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2272",
+   "id": "ext-2264",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -76815,7 +76551,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2273",
+   "id": "ext-2265",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -76848,7 +76584,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2274",
+   "id": "ext-2266",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -76881,7 +76617,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2275",
+   "id": "ext-2267",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Acer",
@@ -76914,7 +76650,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2276",
+   "id": "ext-2268",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -76947,7 +76683,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2277",
+   "id": "ext-2269",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -76980,7 +76716,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2278",
+   "id": "ext-2270",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -77013,7 +76749,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2279",
+   "id": "ext-2271",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -77046,7 +76782,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2280",
+   "id": "ext-2272",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -77079,7 +76815,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2281",
+   "id": "ext-2273",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -77112,7 +76848,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2282",
+   "id": "ext-2274",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -77145,7 +76881,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2283",
+   "id": "ext-2275",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -77178,7 +76914,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2284",
+   "id": "ext-2276",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -77211,7 +76947,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2285",
+   "id": "ext-2277",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -77244,7 +76980,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2286",
+   "id": "ext-2278",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -77277,7 +77013,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2287",
+   "id": "ext-2279",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -77310,7 +77046,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2288",
+   "id": "ext-2280",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -77343,7 +77079,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2289",
+   "id": "ext-2281",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -77376,7 +77112,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2290",
+   "id": "ext-2282",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -77409,7 +77145,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2291",
+   "id": "ext-2283",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -77442,7 +77178,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2292",
+   "id": "ext-2284",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -77475,7 +77211,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2293",
+   "id": "ext-2285",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -77508,7 +77244,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2294",
+   "id": "ext-2286",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -77541,7 +77277,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2295",
+   "id": "ext-2287",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -77574,7 +77310,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2296",
+   "id": "ext-2288",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -77607,7 +77343,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2297",
+   "id": "ext-2289",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -77640,7 +77376,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2298",
+   "id": "ext-2290",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -77673,7 +77409,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2299",
+   "id": "ext-2291",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -77706,7 +77442,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2300",
+   "id": "ext-2292",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -77739,7 +77475,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2301",
+   "id": "ext-2293",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -77772,7 +77508,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2302",
+   "id": "ext-2294",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -77805,7 +77541,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2303",
+   "id": "ext-2295",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -77838,7 +77574,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2304",
+   "id": "ext-2296",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -77871,7 +77607,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2305",
+   "id": "ext-2297",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -77904,7 +77640,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2306",
+   "id": "ext-2298",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -77937,7 +77673,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2307",
+   "id": "ext-2299",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -77970,7 +77706,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2308",
+   "id": "ext-2300",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -78003,7 +77739,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2309",
+   "id": "ext-2301",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -78036,7 +77772,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2310",
+   "id": "ext-2302",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -78069,7 +77805,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2311",
+   "id": "ext-2303",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -78102,7 +77838,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2312",
+   "id": "ext-2304",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -78135,7 +77871,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2313",
+   "id": "ext-2305",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -78168,7 +77904,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2314",
+   "id": "ext-2306",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -78201,7 +77937,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2315",
+   "id": "ext-2307",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -78234,7 +77970,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2316",
+   "id": "ext-2308",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Toshiba",
@@ -78267,7 +78003,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2317",
+   "id": "ext-2309",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -78300,7 +78036,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2318",
+   "id": "ext-2310",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -78333,7 +78069,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2319",
+   "id": "ext-2311",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -78366,7 +78102,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2320",
+   "id": "ext-2312",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Toshiba",
@@ -78399,7 +78135,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2321",
+   "id": "ext-2313",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Toshiba",
@@ -78432,7 +78168,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2322",
+   "id": "ext-2314",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -78465,7 +78201,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2323",
+   "id": "ext-2315",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Acer",
@@ -78498,7 +78234,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-2324",
+   "id": "ext-2316",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -78531,7 +78267,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2325",
+   "id": "ext-2317",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -78564,7 +78300,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2326",
+   "id": "ext-2318",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -78597,7 +78333,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-2327",
+   "id": "ext-2319",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -78630,7 +78366,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2328",
+   "id": "ext-2320",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -78663,7 +78399,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2329",
+   "id": "ext-2321",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -78696,7 +78432,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2330",
+   "id": "ext-2322",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -78729,7 +78465,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2331",
+   "id": "ext-2323",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -78762,7 +78498,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2332",
+   "id": "ext-2324",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -78795,7 +78531,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2333",
+   "id": "ext-2325",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -78828,7 +78564,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2334",
+   "id": "ext-2326",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -78861,7 +78597,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2335",
+   "id": "ext-2327",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Microsoft",
@@ -78894,7 +78630,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2336",
+   "id": "ext-2328",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -78927,7 +78663,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2337",
+   "id": "ext-2329",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -78960,7 +78696,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2338",
+   "id": "ext-2330",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -78993,7 +78729,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2339",
+   "id": "ext-2331",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -79026,7 +78762,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2340",
+   "id": "ext-2332",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -79059,7 +78795,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2341",
+   "id": "ext-2333",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -79092,7 +78828,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2342",
+   "id": "ext-2334",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -79125,7 +78861,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2343",
+   "id": "ext-2335",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -79158,7 +78894,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2344",
+   "id": "ext-2336",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -79191,7 +78927,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2345",
+   "id": "ext-2337",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -79224,7 +78960,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2346",
+   "id": "ext-2338",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -79257,7 +78993,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2347",
+   "id": "ext-2339",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -79290,7 +79026,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2348",
+   "id": "ext-2340",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -79323,7 +79059,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2349",
+   "id": "ext-2341",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -79356,7 +79092,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2350",
+   "id": "ext-2342",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -79389,7 +79125,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2351",
+   "id": "ext-2343",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -79422,7 +79158,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2352",
+   "id": "ext-2344",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -79455,7 +79191,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2353",
+   "id": "ext-2345",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Huawei",
@@ -79488,7 +79224,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2354",
+   "id": "ext-2346",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -79521,7 +79257,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2355",
+   "id": "ext-2347",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -79554,7 +79290,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2356",
+   "id": "ext-2348",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -79587,7 +79323,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2357",
+   "id": "ext-2349",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -79620,7 +79356,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2358",
+   "id": "ext-2350",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -79653,7 +79389,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2359",
+   "id": "ext-2351",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -79686,7 +79422,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2360",
+   "id": "ext-2352",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -79719,7 +79455,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2361",
+   "id": "ext-2353",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Acer",
@@ -79752,7 +79488,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2362",
+   "id": "ext-2354",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Dell",
@@ -79785,7 +79521,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2363",
+   "id": "ext-2355",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Gigabyte",
@@ -79818,7 +79554,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2364",
+   "id": "ext-2356",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -79851,7 +79587,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2365",
+   "id": "ext-2357",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -79884,7 +79620,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2366",
+   "id": "ext-2358",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Acer",
@@ -79917,7 +79653,7 @@ window.SPECS_DATA = {
    "storageType": "HDD"
   },
   {
-   "id": "ext-2367",
+   "id": "ext-2359",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -79950,7 +79686,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2368",
+   "id": "ext-2360",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -79983,7 +79719,7 @@ window.SPECS_DATA = {
    "storageType": "HDD"
   },
   {
-   "id": "ext-2369",
+   "id": "ext-2361",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -80016,7 +79752,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2370",
+   "id": "ext-2362",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -80049,7 +79785,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2371",
+   "id": "ext-2363",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -80082,7 +79818,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2372",
+   "id": "ext-2364",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -80115,7 +79851,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2373",
+   "id": "ext-2365",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -80148,7 +79884,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2374",
+   "id": "ext-2366",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -80181,7 +79917,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2375",
+   "id": "ext-2367",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -80214,7 +79950,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2376",
+   "id": "ext-2368",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -80247,7 +79983,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2377",
+   "id": "ext-2369",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -80280,7 +80016,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2378",
+   "id": "ext-2370",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -80313,7 +80049,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2379",
+   "id": "ext-2371",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -80346,7 +80082,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2380",
+   "id": "ext-2372",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -80379,7 +80115,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2381",
+   "id": "ext-2373",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -80412,7 +80148,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2382",
+   "id": "ext-2374",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -80445,7 +80181,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2383",
+   "id": "ext-2375",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -80478,7 +80214,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2384",
+   "id": "ext-2376",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -80511,7 +80247,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2385",
+   "id": "ext-2377",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -80544,7 +80280,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2386",
+   "id": "ext-2378",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -80577,7 +80313,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2387",
+   "id": "ext-2379",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -80610,7 +80346,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2388",
+   "id": "ext-2380",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -80643,7 +80379,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2389",
+   "id": "ext-2381",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -80676,7 +80412,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2390",
+   "id": "ext-2382",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -80709,7 +80445,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2391",
+   "id": "ext-2383",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -80742,7 +80478,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2392",
+   "id": "ext-2384",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -80775,7 +80511,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2393",
+   "id": "ext-2385",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -80808,7 +80544,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2394",
+   "id": "ext-2386",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -80841,7 +80577,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2395",
+   "id": "ext-2387",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -80874,7 +80610,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2396",
+   "id": "ext-2388",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -80907,7 +80643,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2397",
+   "id": "ext-2389",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -80940,7 +80676,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2398",
+   "id": "ext-2390",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -80973,7 +80709,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2399",
+   "id": "ext-2391",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Acer",
@@ -81006,7 +80742,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2400",
+   "id": "ext-2392",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Acer",
@@ -81039,7 +80775,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2401",
+   "id": "ext-2393",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -81072,7 +80808,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2402",
+   "id": "ext-2394",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -81105,7 +80841,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2403",
+   "id": "ext-2395",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -81138,7 +80874,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2404",
+   "id": "ext-2396",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -81171,7 +80907,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2405",
+   "id": "ext-2397",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -81204,7 +80940,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2406",
+   "id": "ext-2398",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -81237,7 +80973,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2407",
+   "id": "ext-2399",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -81270,7 +81006,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2408",
+   "id": "ext-2400",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -81303,7 +81039,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2409",
+   "id": "ext-2401",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -81336,7 +81072,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2410",
+   "id": "ext-2402",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -81369,7 +81105,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2411",
+   "id": "ext-2403",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -81402,7 +81138,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2412",
+   "id": "ext-2404",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -81435,7 +81171,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2413",
+   "id": "ext-2405",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -81468,7 +81204,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2414",
+   "id": "ext-2406",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -81501,7 +81237,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2415",
+   "id": "ext-2407",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -81534,7 +81270,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2416",
+   "id": "ext-2408",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -81567,7 +81303,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2417",
+   "id": "ext-2409",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -81600,7 +81336,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2418",
+   "id": "ext-2410",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Acer",
@@ -81633,7 +81369,7 @@ window.SPECS_DATA = {
    "storageType": "HDD"
   },
   {
-   "id": "ext-2419",
+   "id": "ext-2411",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -81666,7 +81402,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2420",
+   "id": "ext-2412",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -81699,7 +81435,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2421",
+   "id": "ext-2413",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -81732,7 +81468,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2422",
+   "id": "ext-2414",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -81765,7 +81501,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2423",
+   "id": "ext-2415",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -81798,7 +81534,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2424",
+   "id": "ext-2416",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -81831,7 +81567,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2425",
+   "id": "ext-2417",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -81864,7 +81600,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2426",
+   "id": "ext-2418",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -81897,7 +81633,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2427",
+   "id": "ext-2419",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Acer",
@@ -81930,7 +81666,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2428",
+   "id": "ext-2420",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Gigabyte",
@@ -81963,7 +81699,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2429",
+   "id": "ext-2421",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -81996,7 +81732,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2430",
+   "id": "ext-2422",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -82029,7 +81765,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2431",
+   "id": "ext-2423",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -82062,7 +81798,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2432",
+   "id": "ext-2424",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -82095,7 +81831,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2433",
+   "id": "ext-2425",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -82128,7 +81864,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2434",
+   "id": "ext-2426",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -82161,7 +81897,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2435",
+   "id": "ext-2427",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -82194,7 +81930,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2436",
+   "id": "ext-2428",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -82227,7 +81963,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2437",
+   "id": "ext-2429",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -82260,7 +81996,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2438",
+   "id": "ext-2430",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -82293,7 +82029,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2439",
+   "id": "ext-2431",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -82326,7 +82062,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2440",
+   "id": "ext-2432",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -82359,7 +82095,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2441",
+   "id": "ext-2433",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -82392,7 +82128,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2442",
+   "id": "ext-2434",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -82425,7 +82161,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2443",
+   "id": "ext-2435",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -82458,7 +82194,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2444",
+   "id": "ext-2436",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -82491,7 +82227,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2445",
+   "id": "ext-2437",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Dell",
@@ -82524,7 +82260,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2446",
+   "id": "ext-2438",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -82557,7 +82293,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2447",
+   "id": "ext-2439",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -82590,7 +82326,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2448",
+   "id": "ext-2440",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -82623,7 +82359,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2449",
+   "id": "ext-2441",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -82656,7 +82392,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2450",
+   "id": "ext-2442",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -82689,7 +82425,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2451",
+   "id": "ext-2443",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -82722,7 +82458,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2452",
+   "id": "ext-2444",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -82755,7 +82491,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2453",
+   "id": "ext-2445",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -82788,7 +82524,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2454",
+   "id": "ext-2446",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -82821,7 +82557,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2455",
+   "id": "ext-2447",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -82854,7 +82590,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2456",
+   "id": "ext-2448",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -82887,7 +82623,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2457",
+   "id": "ext-2449",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -82920,7 +82656,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2458",
+   "id": "ext-2450",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -82953,7 +82689,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2459",
+   "id": "ext-2451",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Samsung",
@@ -82986,7 +82722,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2460",
+   "id": "ext-2452",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Samsung",
@@ -83019,7 +82755,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2461",
+   "id": "ext-2453",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dynabook",
@@ -83052,7 +82788,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2462",
+   "id": "ext-2454",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -83085,7 +82821,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2463",
+   "id": "ext-2455",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -83118,7 +82854,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2464",
+   "id": "ext-2456",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -83151,7 +82887,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2465",
+   "id": "ext-2457",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -83184,7 +82920,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2466",
+   "id": "ext-2458",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -83217,7 +82953,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2467",
+   "id": "ext-2459",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -83250,7 +82986,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2468",
+   "id": "ext-2460",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -83283,7 +83019,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2469",
+   "id": "ext-2461",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -83316,7 +83052,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2470",
+   "id": "ext-2462",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Acer",
@@ -83349,7 +83085,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2471",
+   "id": "ext-2463",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -83382,7 +83118,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2472",
+   "id": "ext-2464",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -83415,7 +83151,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2473",
+   "id": "ext-2465",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -83448,7 +83184,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2474",
+   "id": "ext-2466",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -83481,7 +83217,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2475",
+   "id": "ext-2467",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -83514,7 +83250,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2476",
+   "id": "ext-2468",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -83547,7 +83283,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2477",
+   "id": "ext-2469",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -83580,7 +83316,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2478",
+   "id": "ext-2470",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -83613,7 +83349,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2479",
+   "id": "ext-2471",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -83646,7 +83382,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2480",
+   "id": "ext-2472",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -83679,7 +83415,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2481",
+   "id": "ext-2473",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -83712,7 +83448,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2482",
+   "id": "ext-2474",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -83745,7 +83481,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2483",
+   "id": "ext-2475",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -83778,7 +83514,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2484",
+   "id": "ext-2476",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Gigabyte",
@@ -83811,7 +83547,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2485",
+   "id": "ext-2477",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Microsoft",
@@ -83844,7 +83580,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2486",
+   "id": "ext-2478",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -83877,7 +83613,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2487",
+   "id": "ext-2479",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -83910,7 +83646,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2488",
+   "id": "ext-2480",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -83943,7 +83679,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2489",
+   "id": "ext-2481",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -83976,7 +83712,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2490",
+   "id": "ext-2482",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -84009,7 +83745,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2491",
+   "id": "ext-2483",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Acer",
@@ -84042,7 +83778,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2492",
+   "id": "ext-2484",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -84075,7 +83811,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2493",
+   "id": "ext-2485",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -84108,7 +83844,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2494",
+   "id": "ext-2486",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -84141,7 +83877,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2495",
+   "id": "ext-2487",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -84174,7 +83910,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2496",
+   "id": "ext-2488",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -84207,7 +83943,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2497",
+   "id": "ext-2489",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -84240,7 +83976,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2498",
+   "id": "ext-2490",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -84273,7 +84009,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2499",
+   "id": "ext-2491",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -84306,7 +84042,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2500",
+   "id": "ext-2492",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Acer",
@@ -84339,7 +84075,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2501",
+   "id": "ext-2493",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -84372,7 +84108,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2502",
+   "id": "ext-2494",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -84405,7 +84141,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2503",
+   "id": "ext-2495",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -84438,7 +84174,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2504",
+   "id": "ext-2496",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -84471,7 +84207,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2505",
+   "id": "ext-2497",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -84504,7 +84240,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2506",
+   "id": "ext-2498",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -84537,7 +84273,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2507",
+   "id": "ext-2499",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -84570,7 +84306,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2508",
+   "id": "ext-2500",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -84603,7 +84339,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2509",
+   "id": "ext-2501",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -84636,7 +84372,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2510",
+   "id": "ext-2502",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -84669,7 +84405,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2511",
+   "id": "ext-2503",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -84702,7 +84438,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2512",
+   "id": "ext-2504",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -84735,7 +84471,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2513",
+   "id": "ext-2505",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -84768,7 +84504,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2514",
+   "id": "ext-2506",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -84801,7 +84537,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2515",
+   "id": "ext-2507",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -84834,7 +84570,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2516",
+   "id": "ext-2508",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -84867,7 +84603,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2517",
+   "id": "ext-2509",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -84900,7 +84636,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2518",
+   "id": "ext-2510",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -84933,7 +84669,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2519",
+   "id": "ext-2511",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -84966,7 +84702,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2520",
+   "id": "ext-2512",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -84999,7 +84735,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2521",
+   "id": "ext-2513",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -85032,7 +84768,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2522",
+   "id": "ext-2514",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -85065,7 +84801,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2523",
+   "id": "ext-2515",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -85098,7 +84834,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2524",
+   "id": "ext-2516",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -85131,7 +84867,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2525",
+   "id": "ext-2517",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -85164,7 +84900,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2526",
+   "id": "ext-2518",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "MSI",
@@ -85197,7 +84933,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2527",
+   "id": "ext-2519",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -85230,7 +84966,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2528",
+   "id": "ext-2520",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -85263,7 +84999,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2529",
+   "id": "ext-2521",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -85296,7 +85032,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2530",
+   "id": "ext-2522",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -85329,7 +85065,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2531",
+   "id": "ext-2523",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -85362,7 +85098,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2532",
+   "id": "ext-2524",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -85395,7 +85131,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2533",
+   "id": "ext-2525",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -85428,7 +85164,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2534",
+   "id": "ext-2526",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Razer",
@@ -85461,7 +85197,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2535",
+   "id": "ext-2527",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Razer",
@@ -85494,7 +85230,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2536",
+   "id": "ext-2528",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Gigabyte",
@@ -85527,7 +85263,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2537",
+   "id": "ext-2529",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Acer",
@@ -85560,7 +85296,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2538",
+   "id": "ext-2530",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Acer",
@@ -85593,7 +85329,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2539",
+   "id": "ext-2531",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Acer",
@@ -85626,7 +85362,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2540",
+   "id": "ext-2532",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Acer",
@@ -85659,7 +85395,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2541",
+   "id": "ext-2533",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -85692,7 +85428,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2542",
+   "id": "ext-2534",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -85725,7 +85461,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2543",
+   "id": "ext-2535",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -85758,7 +85494,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2544",
+   "id": "ext-2536",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Dell",
@@ -85791,7 +85527,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2545",
+   "id": "ext-2537",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Dell",
@@ -85824,7 +85560,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2546",
+   "id": "ext-2538",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Dell",
@@ -85857,7 +85593,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2547",
+   "id": "ext-2539",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Dell",
@@ -85890,7 +85626,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2548",
+   "id": "ext-2540",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Dell",
@@ -85923,7 +85659,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2549",
+   "id": "ext-2541",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -85956,7 +85692,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2550",
+   "id": "ext-2542",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -85989,7 +85725,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2551",
+   "id": "ext-2543",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Dell",
@@ -86022,7 +85758,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2552",
+   "id": "ext-2544",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Dell",
@@ -86055,7 +85791,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2553",
+   "id": "ext-2545",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -86088,7 +85824,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2554",
+   "id": "ext-2546",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -86121,7 +85857,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2555",
+   "id": "ext-2547",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -86154,7 +85890,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2556",
+   "id": "ext-2548",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -86187,7 +85923,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2557",
+   "id": "ext-2549",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Dell",
@@ -86220,7 +85956,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2558",
+   "id": "ext-2550",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -86253,7 +85989,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2559",
+   "id": "ext-2551",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -86286,7 +86022,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2560",
+   "id": "ext-2552",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -86319,7 +86055,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2561",
+   "id": "ext-2553",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -86352,7 +86088,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2562",
+   "id": "ext-2554",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -86385,7 +86121,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2563",
+   "id": "ext-2555",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -86418,7 +86154,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2564",
+   "id": "ext-2556",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Microsoft",
@@ -86451,7 +86187,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2565",
+   "id": "ext-2557",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -86484,7 +86220,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2566",
+   "id": "ext-2558",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -86517,7 +86253,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2567",
+   "id": "ext-2559",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -86550,7 +86286,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2568",
+   "id": "ext-2560",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -86583,7 +86319,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2569",
+   "id": "ext-2561",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -86616,7 +86352,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2570",
+   "id": "ext-2562",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -86649,7 +86385,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2571",
+   "id": "ext-2563",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -86682,7 +86418,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2572",
+   "id": "ext-2564",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -86715,7 +86451,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2573",
+   "id": "ext-2565",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -86748,7 +86484,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2574",
+   "id": "ext-2566",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -86781,7 +86517,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2575",
+   "id": "ext-2567",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -86814,7 +86550,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2576",
+   "id": "ext-2568",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -86847,7 +86583,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2577",
+   "id": "ext-2569",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -86880,7 +86616,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2578",
+   "id": "ext-2570",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -86913,7 +86649,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2579",
+   "id": "ext-2571",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -86946,7 +86682,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2580",
+   "id": "ext-2572",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -86979,7 +86715,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2581",
+   "id": "ext-2573",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -87012,7 +86748,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2582",
+   "id": "ext-2574",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -87045,7 +86781,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2583",
+   "id": "ext-2575",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -87078,7 +86814,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2584",
+   "id": "ext-2576",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -87111,7 +86847,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2585",
+   "id": "ext-2577",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -87144,7 +86880,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2586",
+   "id": "ext-2578",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -87177,7 +86913,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2587",
+   "id": "ext-2579",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -87210,7 +86946,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2588",
+   "id": "ext-2580",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Microsoft",
@@ -87243,7 +86979,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2589",
+   "id": "ext-2581",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -87276,7 +87012,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2590",
+   "id": "ext-2582",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -87309,7 +87045,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2591",
+   "id": "ext-2583",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -87342,7 +87078,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2592",
+   "id": "ext-2584",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -87375,7 +87111,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2593",
+   "id": "ext-2585",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -87408,7 +87144,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2594",
+   "id": "ext-2586",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -87441,7 +87177,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2595",
+   "id": "ext-2587",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -87474,7 +87210,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2596",
+   "id": "ext-2588",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -87507,7 +87243,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2597",
+   "id": "ext-2589",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -87540,7 +87276,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2598",
+   "id": "ext-2590",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -87573,7 +87309,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2599",
+   "id": "ext-2591",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -87606,7 +87342,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2600",
+   "id": "ext-2592",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -87639,7 +87375,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2601",
+   "id": "ext-2593",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -87672,7 +87408,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2602",
+   "id": "ext-2594",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -87705,7 +87441,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2603",
+   "id": "ext-2595",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -87738,7 +87474,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2604",
+   "id": "ext-2596",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -87771,7 +87507,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2605",
+   "id": "ext-2597",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -87804,7 +87540,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2606",
+   "id": "ext-2598",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -87837,7 +87573,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2607",
+   "id": "ext-2599",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -87870,7 +87606,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2608",
+   "id": "ext-2600",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -87903,7 +87639,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2609",
+   "id": "ext-2601",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -87936,7 +87672,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2610",
+   "id": "ext-2602",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -87969,7 +87705,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2611",
+   "id": "ext-2603",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -88002,7 +87738,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2612",
+   "id": "ext-2604",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -88035,7 +87771,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2613",
+   "id": "ext-2605",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -88068,7 +87804,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2614",
+   "id": "ext-2606",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -88101,7 +87837,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2615",
+   "id": "ext-2607",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -88134,7 +87870,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2616",
+   "id": "ext-2608",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -88167,7 +87903,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2617",
+   "id": "ext-2609",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -88200,7 +87936,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2618",
+   "id": "ext-2610",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -88233,7 +87969,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2619",
+   "id": "ext-2611",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Dell",
@@ -88266,7 +88002,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2620",
+   "id": "ext-2612",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "MSI",
@@ -88299,7 +88035,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2621",
+   "id": "ext-2613",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -88332,7 +88068,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2622",
+   "id": "ext-2614",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -88365,7 +88101,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2623",
+   "id": "ext-2615",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -88398,7 +88134,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2624",
+   "id": "ext-2616",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -88431,7 +88167,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2625",
+   "id": "ext-2617",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -88464,7 +88200,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2626",
+   "id": "ext-2618",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -88497,7 +88233,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2627",
+   "id": "ext-2619",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -88530,7 +88266,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2628",
+   "id": "ext-2620",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -88563,7 +88299,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2629",
+   "id": "ext-2621",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -88596,7 +88332,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2630",
+   "id": "ext-2622",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -88629,7 +88365,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2631",
+   "id": "ext-2623",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -88662,7 +88398,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2632",
+   "id": "ext-2624",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -88695,7 +88431,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2633",
+   "id": "ext-2625",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -88728,7 +88464,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2634",
+   "id": "ext-2626",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -88761,7 +88497,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2635",
+   "id": "ext-2627",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -88794,7 +88530,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2636",
+   "id": "ext-2628",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -88827,7 +88563,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2637",
+   "id": "ext-2629",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -88860,7 +88596,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2638",
+   "id": "ext-2630",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -88893,7 +88629,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2639",
+   "id": "ext-2631",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -88926,7 +88662,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2640",
+   "id": "ext-2632",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -88959,7 +88695,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2641",
+   "id": "ext-2633",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -88992,7 +88728,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2642",
+   "id": "ext-2634",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -89025,7 +88761,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2643",
+   "id": "ext-2635",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -89058,7 +88794,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-2644",
+   "id": "ext-2636",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -89091,7 +88827,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2645",
+   "id": "ext-2637",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -89124,7 +88860,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2646",
+   "id": "ext-2638",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -89157,7 +88893,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2647",
+   "id": "ext-2639",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -89190,7 +88926,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2648",
+   "id": "ext-2640",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -89223,7 +88959,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2649",
+   "id": "ext-2641",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -89256,7 +88992,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2650",
+   "id": "ext-2642",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -89289,7 +89025,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2651",
+   "id": "ext-2643",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -89322,7 +89058,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2652",
+   "id": "ext-2644",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -89355,7 +89091,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2653",
+   "id": "ext-2645",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -89388,7 +89124,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2654",
+   "id": "ext-2646",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -89421,7 +89157,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2655",
+   "id": "ext-2647",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -89454,7 +89190,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2656",
+   "id": "ext-2648",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -89487,7 +89223,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2657",
+   "id": "ext-2649",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -89520,7 +89256,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2658",
+   "id": "ext-2650",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -89553,7 +89289,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2659",
+   "id": "ext-2651",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -89586,7 +89322,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2660",
+   "id": "ext-2652",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -89619,7 +89355,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2661",
+   "id": "ext-2653",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -89652,7 +89388,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2662",
+   "id": "ext-2654",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -89685,7 +89421,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2663",
+   "id": "ext-2655",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -89718,7 +89454,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2664",
+   "id": "ext-2656",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -89751,7 +89487,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2665",
+   "id": "ext-2657",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -89784,7 +89520,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2666",
+   "id": "ext-2658",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "MSI",
@@ -89817,7 +89553,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2667",
+   "id": "ext-2659",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -89850,7 +89586,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2668",
+   "id": "ext-2660",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Dell",
@@ -89883,7 +89619,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2669",
+   "id": "ext-2661",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Acer",
@@ -89916,7 +89652,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2670",
+   "id": "ext-2662",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Acer",
@@ -89949,7 +89685,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2671",
+   "id": "ext-2663",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Acer",
@@ -89982,7 +89718,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2672",
+   "id": "ext-2664",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Gigabyte",
@@ -90015,7 +89751,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2673",
+   "id": "ext-2665",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -90048,7 +89784,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2674",
+   "id": "ext-2666",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -90081,7 +89817,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2675",
+   "id": "ext-2667",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -90114,7 +89850,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2676",
+   "id": "ext-2668",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -90147,7 +89883,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2677",
+   "id": "ext-2669",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -90180,7 +89916,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2678",
+   "id": "ext-2670",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -90213,7 +89949,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2679",
+   "id": "ext-2671",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -90246,7 +89982,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2680",
+   "id": "ext-2672",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -90279,7 +90015,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2681",
+   "id": "ext-2673",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -90312,7 +90048,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2682",
+   "id": "ext-2674",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -90345,7 +90081,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2683",
+   "id": "ext-2675",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -90378,7 +90114,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2684",
+   "id": "ext-2676",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -90411,7 +90147,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2685",
+   "id": "ext-2677",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -90444,7 +90180,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2686",
+   "id": "ext-2678",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -90477,7 +90213,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2687",
+   "id": "ext-2679",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -90510,7 +90246,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2688",
+   "id": "ext-2680",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -90543,7 +90279,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2689",
+   "id": "ext-2681",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -90576,7 +90312,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2690",
+   "id": "ext-2682",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -90609,7 +90345,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2691",
+   "id": "ext-2683",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -90642,7 +90378,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2692",
+   "id": "ext-2684",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -90675,7 +90411,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2693",
+   "id": "ext-2685",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -90708,7 +90444,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2694",
+   "id": "ext-2686",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -90741,7 +90477,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2695",
+   "id": "ext-2687",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -90774,7 +90510,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2696",
+   "id": "ext-2688",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -90807,7 +90543,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2697",
+   "id": "ext-2689",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -90840,7 +90576,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2698",
+   "id": "ext-2690",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -90873,7 +90609,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2699",
+   "id": "ext-2691",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -90906,7 +90642,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2700",
+   "id": "ext-2692",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -90939,7 +90675,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2701",
+   "id": "ext-2693",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -90972,7 +90708,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2702",
+   "id": "ext-2694",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Acer",
@@ -91005,7 +90741,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2703",
+   "id": "ext-2695",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Acer",
@@ -91038,7 +90774,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2704",
+   "id": "ext-2696",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Acer",
@@ -91071,7 +90807,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2705",
+   "id": "ext-2697",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -91104,7 +90840,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2706",
+   "id": "ext-2698",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -91137,7 +90873,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2707",
+   "id": "ext-2699",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -91170,7 +90906,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2708",
+   "id": "ext-2700",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -91203,7 +90939,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2709",
+   "id": "ext-2701",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -91236,7 +90972,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2710",
+   "id": "ext-2702",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -91269,7 +91005,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2711",
+   "id": "ext-2703",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -91302,7 +91038,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2712",
+   "id": "ext-2704",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -91335,7 +91071,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2713",
+   "id": "ext-2705",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -91368,7 +91104,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2714",
+   "id": "ext-2706",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -91401,7 +91137,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2715",
+   "id": "ext-2707",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -91434,7 +91170,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2716",
+   "id": "ext-2708",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -91467,7 +91203,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2717",
+   "id": "ext-2709",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -91500,7 +91236,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2718",
+   "id": "ext-2710",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -91533,7 +91269,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2719",
+   "id": "ext-2711",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -91566,7 +91302,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2720",
+   "id": "ext-2712",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -91599,7 +91335,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2721",
+   "id": "ext-2713",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -91632,7 +91368,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2722",
+   "id": "ext-2714",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -91665,7 +91401,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2723",
+   "id": "ext-2715",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -91698,7 +91434,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2724",
+   "id": "ext-2716",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -91731,7 +91467,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2725",
+   "id": "ext-2717",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -91764,7 +91500,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2726",
+   "id": "ext-2718",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -91797,7 +91533,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2727",
+   "id": "ext-2719",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -91830,7 +91566,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2728",
+   "id": "ext-2720",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -91863,7 +91599,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2729",
+   "id": "ext-2721",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -91896,7 +91632,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2730",
+   "id": "ext-2722",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Gigabyte",
@@ -91929,7 +91665,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2731",
+   "id": "ext-2723",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Samsung",
@@ -91962,7 +91698,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2732",
+   "id": "ext-2724",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Microsoft",
@@ -91995,7 +91731,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2733",
+   "id": "ext-2725",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -92028,7 +91764,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2734",
+   "id": "ext-2726",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -92061,7 +91797,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2735",
+   "id": "ext-2727",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -92094,7 +91830,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2736",
+   "id": "ext-2728",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -92127,7 +91863,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2737",
+   "id": "ext-2729",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -92160,7 +91896,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2738",
+   "id": "ext-2730",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -92193,7 +91929,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2739",
+   "id": "ext-2731",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -92226,40 +91962,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2740",
-   "form": "Laptop",
-   "use": "Everyday & Business",
-   "brand": "Apple",
-   "name": "Magic Keyboard",
-   "ram": null,
-   "storage": null,
-   "screen": "11\"",
-   "screenIn": 11.0,
-   "touch": false,
-   "oled": false,
-   "extras": null,
-   "price": 300.0,
-   "store": "M2",
-   "seller": "M2",
-   "condition": "New",
-   "link": "https://www.m2.com.lb/shop/apple/accessories/apple-accessories/apple-magic-keyboard-m3-11-inch-13-inch/",
-   "linkIsListing": true,
-   "note": null,
-   "cpuVendor": "Apple",
-   "cpuFamily": "Apple M3",
-   "cpuModel": null,
-   "cpu": "Apple M3",
-   "gpuKind": "Integrated",
-   "gpuVendor": "Apple",
-   "gpuModel": null,
-   "gpu": "Apple integrated graphics",
-   "gpuRank": 10,
-   "ramGB": null,
-   "storageGB": null,
-   "storageType": null
-  },
-  {
-   "id": "ext-2741",
+   "id": "ext-2732",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -92292,7 +91995,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2742",
+   "id": "ext-2733",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -92325,7 +92028,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2743",
+   "id": "ext-2734",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -92358,7 +92061,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2744",
+   "id": "ext-2735",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -92391,7 +92094,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2745",
+   "id": "ext-2736",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -92424,7 +92127,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2746",
+   "id": "ext-2737",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -92457,7 +92160,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2747",
+   "id": "ext-2738",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -92490,7 +92193,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2748",
+   "id": "ext-2739",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -92523,7 +92226,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2749",
+   "id": "ext-2740",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -92556,7 +92259,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2750",
+   "id": "ext-2741",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -92589,7 +92292,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2751",
+   "id": "ext-2742",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -92622,7 +92325,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2752",
+   "id": "ext-2743",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -92655,7 +92358,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2753",
+   "id": "ext-2744",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -92688,7 +92391,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2754",
+   "id": "ext-2745",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -92721,7 +92424,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2755",
+   "id": "ext-2746",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -92754,7 +92457,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2756",
+   "id": "ext-2747",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -92787,7 +92490,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2757",
+   "id": "ext-2748",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -92820,7 +92523,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2758",
+   "id": "ext-2749",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -92853,7 +92556,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2759",
+   "id": "ext-2750",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -92886,7 +92589,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2760",
+   "id": "ext-2751",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -92919,7 +92622,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2761",
+   "id": "ext-2752",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -92952,7 +92655,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2762",
+   "id": "ext-2753",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -92985,7 +92688,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2763",
+   "id": "ext-2754",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -93018,7 +92721,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2764",
+   "id": "ext-2755",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -93051,7 +92754,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2765",
+   "id": "ext-2756",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -93084,7 +92787,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2766",
+   "id": "ext-2757",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -93117,7 +92820,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2767",
+   "id": "ext-2758",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -93150,7 +92853,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2768",
+   "id": "ext-2759",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -93183,7 +92886,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2769",
+   "id": "ext-2760",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -93216,7 +92919,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-2770",
+   "id": "ext-2761",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -93249,7 +92952,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-2771",
+   "id": "ext-2762",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -93282,7 +92985,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2772",
+   "id": "ext-2763",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -93315,7 +93018,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2773",
+   "id": "ext-2764",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -93348,7 +93051,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-2774",
+   "id": "ext-2765",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -93381,7 +93084,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-2775",
+   "id": "ext-2766",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -93414,7 +93117,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-2776",
+   "id": "ext-2767",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -93447,7 +93150,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-2777",
+   "id": "ext-2768",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -93480,7 +93183,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2778",
+   "id": "ext-2769",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -93513,7 +93216,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2779",
+   "id": "ext-2770",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -93546,7 +93249,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-2780",
+   "id": "ext-2771",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -93579,7 +93282,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2781",
+   "id": "ext-2772",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -93612,7 +93315,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-2782",
+   "id": "ext-2773",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -93645,7 +93348,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-2783",
+   "id": "ext-2774",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -93678,7 +93381,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2784",
+   "id": "ext-2775",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -93711,7 +93414,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2785",
+   "id": "ext-2776",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "MSI",
@@ -93744,7 +93447,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-2786",
+   "id": "ext-2777",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -93777,7 +93480,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2787",
+   "id": "ext-2778",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -93810,7 +93513,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2788",
+   "id": "ext-2779",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Snapdragon",
@@ -93843,7 +93546,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-2789",
+   "id": "ext-2780",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -93876,7 +93579,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-2790",
+   "id": "ext-2781",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -93909,7 +93612,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2791",
+   "id": "ext-2782",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -93942,7 +93645,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-2792",
+   "id": "ext-2783",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -93975,7 +93678,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2793",
+   "id": "ext-2784",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "MSI",
@@ -94008,7 +93711,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2794",
+   "id": "ext-2785",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Stealth",
@@ -94041,7 +93744,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-2795",
+   "id": "ext-2786",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -94074,7 +93777,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-2796",
+   "id": "ext-2787",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -94107,7 +93810,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2797",
+   "id": "ext-2788",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -94140,7 +93843,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-2798",
+   "id": "ext-2789",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -94173,7 +93876,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2799",
+   "id": "ext-2790",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -94206,7 +93909,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2800",
+   "id": "ext-2791",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -94239,7 +93942,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2801",
+   "id": "ext-2792",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -94272,7 +93975,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2802",
+   "id": "ext-2793",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "LG",
@@ -94305,7 +94008,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2803",
+   "id": "ext-2794",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -94338,7 +94041,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2804",
+   "id": "ext-2795",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Acer",
@@ -94371,7 +94074,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-2805",
+   "id": "ext-2796",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -94404,7 +94107,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-2806",
+   "id": "ext-2797",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -94437,7 +94140,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-2807",
+   "id": "ext-2798",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -94470,7 +94173,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2808",
+   "id": "ext-2799",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Microsoft",
@@ -94503,7 +94206,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2809",
+   "id": "ext-2800",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -94536,7 +94239,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2810",
+   "id": "ext-2801",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -94569,7 +94272,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2811",
+   "id": "ext-2802",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -94602,7 +94305,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-2812",
+   "id": "ext-2803",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -94635,7 +94338,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2813",
+   "id": "ext-2804",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -94668,7 +94371,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-2814",
+   "id": "ext-2805",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -94701,7 +94404,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-2815",
+   "id": "ext-2806",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Microsoft",
@@ -94734,7 +94437,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-2816",
+   "id": "ext-2807",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -94767,7 +94470,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2817",
+   "id": "ext-2808",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Microsoft",
@@ -94800,7 +94503,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2818",
+   "id": "ext-2809",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -94833,7 +94536,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2819",
+   "id": "ext-2810",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -94866,7 +94569,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2820",
+   "id": "ext-2811",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -94899,7 +94602,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2821",
+   "id": "ext-2812",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -94932,7 +94635,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2822",
+   "id": "ext-2813",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -94965,7 +94668,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-2823",
+   "id": "ext-2814",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -94998,7 +94701,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-2824",
+   "id": "ext-2815",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -95031,7 +94734,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2825",
+   "id": "ext-2816",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -95064,7 +94767,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2826",
+   "id": "ext-2817",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -95097,7 +94800,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-2827",
+   "id": "ext-2818",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -95130,7 +94833,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2828",
+   "id": "ext-2819",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -95163,7 +94866,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-2829",
+   "id": "ext-2820",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -95196,7 +94899,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2830",
+   "id": "ext-2821",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -95229,7 +94932,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2831",
+   "id": "ext-2822",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -95262,7 +94965,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-2832",
+   "id": "ext-2823",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -95295,7 +94998,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2833",
+   "id": "ext-2824",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -95328,7 +95031,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2834",
+   "id": "ext-2825",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -95361,7 +95064,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-2835",
+   "id": "ext-2826",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Dell",
@@ -95394,7 +95097,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-2836",
+   "id": "ext-2827",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Dell",
@@ -95427,7 +95130,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-2837",
+   "id": "ext-2828",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -95460,7 +95163,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2838",
+   "id": "ext-2829",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -95493,7 +95196,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2839",
+   "id": "ext-2830",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -95526,7 +95229,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2840",
+   "id": "ext-2831",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -95559,7 +95262,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2841",
+   "id": "ext-2832",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -95592,7 +95295,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2842",
+   "id": "ext-2833",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Microsoft",
@@ -95625,7 +95328,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2843",
+   "id": "ext-2834",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -95658,7 +95361,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2844",
+   "id": "ext-2835",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dynabook",
@@ -95691,7 +95394,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2845",
+   "id": "ext-2836",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -95724,7 +95427,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2846",
+   "id": "ext-2837",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -95757,7 +95460,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2847",
+   "id": "ext-2838",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -95790,7 +95493,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2848",
+   "id": "ext-2839",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -95823,7 +95526,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2849",
+   "id": "ext-2840",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Acer",
@@ -95856,7 +95559,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2850",
+   "id": "ext-2841",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -95889,7 +95592,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2851",
+   "id": "ext-2842",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -95922,7 +95625,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2852",
+   "id": "ext-2843",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -95955,7 +95658,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2853",
+   "id": "ext-2844",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -95988,7 +95691,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2854",
+   "id": "ext-2845",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -96021,7 +95724,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-2855",
+   "id": "ext-2846",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -96054,7 +95757,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-2856",
+   "id": "ext-2847",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -96087,7 +95790,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2857",
+   "id": "ext-2848",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -96120,7 +95823,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-2858",
+   "id": "ext-2849",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -96153,7 +95856,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-2859",
+   "id": "ext-2850",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -96186,7 +95889,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2860",
+   "id": "ext-2851",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Dell",
@@ -96219,7 +95922,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-2861",
+   "id": "ext-2852",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Dell",
@@ -96252,7 +95955,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-2862",
+   "id": "ext-2853",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -96285,7 +95988,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-2863",
+   "id": "ext-2854",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -96318,7 +96021,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2864",
+   "id": "ext-2855",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -96351,7 +96054,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-2865",
+   "id": "ext-2856",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -96384,7 +96087,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-2866",
+   "id": "ext-2857",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -96417,7 +96120,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2867",
+   "id": "ext-2858",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -96450,7 +96153,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-2868",
+   "id": "ext-2859",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -96483,7 +96186,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-2869",
+   "id": "ext-2860",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -96516,7 +96219,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-2870",
+   "id": "ext-2861",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -96549,7 +96252,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-2871",
+   "id": "ext-2862",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -96582,7 +96285,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-2872",
+   "id": "ext-2863",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -96615,7 +96318,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2873",
+   "id": "ext-2864",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -96648,7 +96351,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2874",
+   "id": "ext-2865",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Dell",
@@ -96681,7 +96384,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2875",
+   "id": "ext-2866",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -96714,7 +96417,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2876",
+   "id": "ext-2867",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -96747,7 +96450,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2877",
+   "id": "ext-2868",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -96780,7 +96483,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-2878",
+   "id": "ext-2869",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -96813,7 +96516,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-2879",
+   "id": "ext-2870",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -96846,7 +96549,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2880",
+   "id": "ext-2871",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -96879,7 +96582,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-2881",
+   "id": "ext-2872",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Razer",
@@ -96912,7 +96615,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-2882",
+   "id": "ext-2873",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Dell",
@@ -96945,7 +96648,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-2883",
+   "id": "ext-2874",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -96978,7 +96681,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-2884",
+   "id": "ext-2875",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -97011,7 +96714,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-2885",
+   "id": "ext-2876",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Dell",
@@ -97044,7 +96747,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-2886",
+   "id": "ext-2877",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -97077,7 +96780,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-2887",
+   "id": "ext-2878",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -97110,7 +96813,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-2888",
+   "id": "ext-2879",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -97143,7 +96846,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-2889",
+   "id": "ext-2880",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -97176,7 +96879,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-2890",
+   "id": "ext-2881",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Razer",
@@ -97209,7 +96912,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-2891",
+   "id": "ext-2882",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -97242,7 +96945,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-2892",
+   "id": "ext-2883",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -97275,7 +96978,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-2893",
+   "id": "ext-2884",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -97308,7 +97011,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-2894",
+   "id": "ext-2885",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -97341,7 +97044,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-2895",
+   "id": "ext-2886",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Acer",
@@ -97374,7 +97077,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-2896",
+   "id": "ext-2887",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -97407,7 +97110,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2897",
+   "id": "ext-2888",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Gigabyte",
@@ -97440,7 +97143,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2898",
+   "id": "ext-2889",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Acer",
@@ -97473,7 +97176,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-2899",
+   "id": "ext-2890",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -97506,7 +97209,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-2900",
+   "id": "ext-2891",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -97539,7 +97242,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2901",
+   "id": "ext-2892",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -97572,7 +97275,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2902",
+   "id": "ext-2893",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Dell",
@@ -97605,7 +97308,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2903",
+   "id": "ext-2894",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -97638,7 +97341,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2904",
+   "id": "ext-2895",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -97671,7 +97374,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2905",
+   "id": "ext-2896",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -97704,7 +97407,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2906",
+   "id": "ext-2897",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -97737,7 +97440,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2907",
+   "id": "ext-2898",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -97770,7 +97473,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2908",
+   "id": "ext-2899",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -97803,7 +97506,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2909",
+   "id": "ext-2900",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -97836,7 +97539,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2910",
+   "id": "ext-2901",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -97869,7 +97572,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2911",
+   "id": "ext-2902",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -97902,7 +97605,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2912",
+   "id": "ext-2903",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Acer",
@@ -97935,7 +97638,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2913",
+   "id": "ext-2904",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Acer",
@@ -97968,7 +97671,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2914",
+   "id": "ext-2905",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Acer",
@@ -98001,7 +97704,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2915",
+   "id": "ext-2906",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -98034,7 +97737,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2916",
+   "id": "ext-2907",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -98067,7 +97770,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2917",
+   "id": "ext-2908",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -98100,7 +97803,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2918",
+   "id": "ext-2909",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -98133,7 +97836,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2919",
+   "id": "ext-2910",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -98166,7 +97869,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2920",
+   "id": "ext-2911",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -98199,7 +97902,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2921",
+   "id": "ext-2912",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -98232,7 +97935,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2922",
+   "id": "ext-2913",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -98265,7 +97968,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2923",
+   "id": "ext-2914",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -98298,7 +98001,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2924",
+   "id": "ext-2915",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -98331,7 +98034,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2925",
+   "id": "ext-2916",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -98364,7 +98067,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2926",
+   "id": "ext-2917",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -98397,7 +98100,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2927",
+   "id": "ext-2918",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Acer",
@@ -98430,7 +98133,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2928",
+   "id": "ext-2919",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Dell",
@@ -98463,7 +98166,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2929",
+   "id": "ext-2920",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -98496,7 +98199,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2930",
+   "id": "ext-2921",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Acer",
@@ -98529,7 +98232,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2931",
+   "id": "ext-2922",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -98562,7 +98265,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2932",
+   "id": "ext-2923",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -98595,7 +98298,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2933",
+   "id": "ext-2924",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Gateway",
@@ -98628,7 +98331,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2934",
+   "id": "ext-2925",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -98661,7 +98364,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2935",
+   "id": "ext-2926",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -98694,7 +98397,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2936",
+   "id": "ext-2927",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -98727,7 +98430,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2937",
+   "id": "ext-2928",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -98760,7 +98463,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2938",
+   "id": "ext-2929",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -98793,7 +98496,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2939",
+   "id": "ext-2930",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -98826,7 +98529,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2940",
+   "id": "ext-2931",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -98859,7 +98562,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2941",
+   "id": "ext-2932",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -98892,7 +98595,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2942",
+   "id": "ext-2933",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -98925,7 +98628,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2943",
+   "id": "ext-2934",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Acer",
@@ -98958,7 +98661,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2944",
+   "id": "ext-2935",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -98991,7 +98694,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2945",
+   "id": "ext-2936",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Gateway",
@@ -99024,7 +98727,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2946",
+   "id": "ext-2937",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -99057,7 +98760,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2947",
+   "id": "ext-2938",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -99090,7 +98793,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2948",
+   "id": "ext-2939",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -99123,7 +98826,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2949",
+   "id": "ext-2940",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -99156,7 +98859,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2950",
+   "id": "ext-2941",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -99189,7 +98892,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2951",
+   "id": "ext-2942",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -99222,7 +98925,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2952",
+   "id": "ext-2943",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -99255,7 +98958,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2953",
+   "id": "ext-2944",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -99288,7 +98991,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2954",
+   "id": "ext-2945",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -99321,7 +99024,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2955",
+   "id": "ext-2946",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -99354,7 +99057,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2956",
+   "id": "ext-2947",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -99387,7 +99090,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2957",
+   "id": "ext-2948",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -99420,7 +99123,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2958",
+   "id": "ext-2949",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -99453,7 +99156,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2959",
+   "id": "ext-2950",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -99486,7 +99189,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2960",
+   "id": "ext-2951",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -99519,7 +99222,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2961",
+   "id": "ext-2952",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -99552,7 +99255,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2962",
+   "id": "ext-2953",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -99585,7 +99288,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2963",
+   "id": "ext-2954",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -99618,7 +99321,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2964",
+   "id": "ext-2955",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -99651,7 +99354,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2965",
+   "id": "ext-2956",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Acer",
@@ -99684,7 +99387,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2966",
+   "id": "ext-2957",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -99717,7 +99420,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2967",
+   "id": "ext-2958",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -99750,7 +99453,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2968",
+   "id": "ext-2959",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -99783,7 +99486,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2969",
+   "id": "ext-2960",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -99816,7 +99519,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2970",
+   "id": "ext-2961",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -99849,7 +99552,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2971",
+   "id": "ext-2962",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -99882,7 +99585,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2972",
+   "id": "ext-2963",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -99915,7 +99618,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2973",
+   "id": "ext-2964",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -99948,7 +99651,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2974",
+   "id": "ext-2965",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -99981,7 +99684,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2975",
+   "id": "ext-2966",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -100014,7 +99717,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2976",
+   "id": "ext-2967",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -100047,7 +99750,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2977",
+   "id": "ext-2968",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -100080,7 +99783,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2978",
+   "id": "ext-2969",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -100113,7 +99816,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2979",
+   "id": "ext-2970",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -100146,7 +99849,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2980",
+   "id": "ext-2971",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -100179,7 +99882,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2981",
+   "id": "ext-2972",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -100212,7 +99915,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2982",
+   "id": "ext-2973",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -100245,7 +99948,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2983",
+   "id": "ext-2974",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -100278,7 +99981,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2984",
+   "id": "ext-2975",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -100311,7 +100014,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2985",
+   "id": "ext-2976",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -100344,7 +100047,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2986",
+   "id": "ext-2977",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -100377,7 +100080,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2987",
+   "id": "ext-2978",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -100410,7 +100113,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2988",
+   "id": "ext-2979",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -100443,7 +100146,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2989",
+   "id": "ext-2980",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -100476,7 +100179,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2990",
+   "id": "ext-2981",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -100509,7 +100212,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2991",
+   "id": "ext-2982",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -100542,7 +100245,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2992",
+   "id": "ext-2983",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -100575,7 +100278,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2993",
+   "id": "ext-2984",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -100608,7 +100311,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2994",
+   "id": "ext-2985",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -100641,7 +100344,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2995",
+   "id": "ext-2986",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -100674,7 +100377,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2996",
+   "id": "ext-2987",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -100707,7 +100410,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2997",
+   "id": "ext-2988",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -100740,7 +100443,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2998",
+   "id": "ext-2989",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -100773,7 +100476,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-2999",
+   "id": "ext-2990",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -100806,7 +100509,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3000",
+   "id": "ext-2991",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "MSI",
@@ -100839,7 +100542,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3001",
+   "id": "ext-2992",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -100872,7 +100575,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3002",
+   "id": "ext-2993",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -100905,7 +100608,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3003",
+   "id": "ext-2994",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -100938,7 +100641,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3004",
+   "id": "ext-2995",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -100971,7 +100674,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3005",
+   "id": "ext-2996",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -101004,7 +100707,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3006",
+   "id": "ext-2997",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -101037,7 +100740,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-3007",
+   "id": "ext-2998",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -101070,7 +100773,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3008",
+   "id": "ext-2999",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -101103,7 +100806,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3009",
+   "id": "ext-3000",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Acer",
@@ -101136,7 +100839,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3010",
+   "id": "ext-3001",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -101169,7 +100872,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3011",
+   "id": "ext-3002",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -101202,7 +100905,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3012",
+   "id": "ext-3003",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -101235,7 +100938,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3013",
+   "id": "ext-3004",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -101268,7 +100971,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-3014",
+   "id": "ext-3005",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -101301,7 +101004,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3015",
+   "id": "ext-3006",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -101334,7 +101037,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3016",
+   "id": "ext-3007",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -101367,7 +101070,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3017",
+   "id": "ext-3008",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "MSI",
@@ -101400,7 +101103,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3018",
+   "id": "ext-3009",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -101433,7 +101136,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3019",
+   "id": "ext-3010",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -101466,7 +101169,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3020",
+   "id": "ext-3011",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -101499,7 +101202,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3021",
+   "id": "ext-3012",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -101532,7 +101235,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3022",
+   "id": "ext-3013",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -101565,7 +101268,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3023",
+   "id": "ext-3014",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -101598,7 +101301,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3024",
+   "id": "ext-3015",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -101631,7 +101334,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3025",
+   "id": "ext-3016",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -101664,7 +101367,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3026",
+   "id": "ext-3017",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -101697,7 +101400,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3027",
+   "id": "ext-3018",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -101730,7 +101433,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3028",
+   "id": "ext-3019",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -101763,7 +101466,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3029",
+   "id": "ext-3020",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -101796,7 +101499,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3030",
+   "id": "ext-3021",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -101829,7 +101532,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3031",
+   "id": "ext-3022",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -101862,7 +101565,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3032",
+   "id": "ext-3023",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -101895,7 +101598,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3033",
+   "id": "ext-3024",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -101928,7 +101631,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3034",
+   "id": "ext-3025",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -101961,7 +101664,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3035",
+   "id": "ext-3026",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -101994,7 +101697,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3036",
+   "id": "ext-3027",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -102027,7 +101730,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3037",
+   "id": "ext-3028",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -102060,7 +101763,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3038",
+   "id": "ext-3029",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -102093,7 +101796,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3039",
+   "id": "ext-3030",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -102126,7 +101829,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3040",
+   "id": "ext-3031",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -102159,7 +101862,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3041",
+   "id": "ext-3032",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -102192,7 +101895,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3042",
+   "id": "ext-3033",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -102225,7 +101928,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3043",
+   "id": "ext-3034",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -102258,7 +101961,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3044",
+   "id": "ext-3035",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -102291,7 +101994,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3045",
+   "id": "ext-3036",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -102324,7 +102027,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3046",
+   "id": "ext-3037",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -102357,7 +102060,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3047",
+   "id": "ext-3038",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "MSI",
@@ -102390,7 +102093,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3048",
+   "id": "ext-3039",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -102423,7 +102126,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3049",
+   "id": "ext-3040",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -102456,7 +102159,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3050",
+   "id": "ext-3041",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -102489,7 +102192,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3051",
+   "id": "ext-3042",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -102522,7 +102225,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3052",
+   "id": "ext-3043",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -102555,7 +102258,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3053",
+   "id": "ext-3044",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Microsoft",
@@ -102588,7 +102291,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3054",
+   "id": "ext-3045",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -102621,7 +102324,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3055",
+   "id": "ext-3046",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -102654,7 +102357,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3056",
+   "id": "ext-3047",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Acer",
@@ -102687,7 +102390,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3057",
+   "id": "ext-3048",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -102720,7 +102423,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3058",
+   "id": "ext-3049",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -102753,7 +102456,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3059",
+   "id": "ext-3050",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -102786,7 +102489,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3060",
+   "id": "ext-3051",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Gateway",
@@ -102819,7 +102522,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3061",
+   "id": "ext-3052",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -102852,7 +102555,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3062",
+   "id": "ext-3053",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -102885,7 +102588,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3063",
+   "id": "ext-3054",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -102918,7 +102621,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3064",
+   "id": "ext-3055",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -102951,7 +102654,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3065",
+   "id": "ext-3056",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -102984,7 +102687,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3066",
+   "id": "ext-3057",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -103017,7 +102720,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3067",
+   "id": "ext-3058",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -103050,7 +102753,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3068",
+   "id": "ext-3059",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -103083,7 +102786,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3069",
+   "id": "ext-3060",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -103116,7 +102819,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3070",
+   "id": "ext-3061",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -103149,7 +102852,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3071",
+   "id": "ext-3062",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -103182,7 +102885,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3072",
+   "id": "ext-3063",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -103215,7 +102918,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3073",
+   "id": "ext-3064",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -103248,7 +102951,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3074",
+   "id": "ext-3065",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -103281,7 +102984,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3075",
+   "id": "ext-3066",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -103314,7 +103017,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3076",
+   "id": "ext-3067",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -103347,7 +103050,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-3077",
+   "id": "ext-3068",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "MSI",
@@ -103380,7 +103083,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3078",
+   "id": "ext-3069",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "MSI",
@@ -103413,7 +103116,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3079",
+   "id": "ext-3070",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -103446,7 +103149,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3080",
+   "id": "ext-3071",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -103479,7 +103182,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-3081",
+   "id": "ext-3072",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -103512,7 +103215,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3082",
+   "id": "ext-3073",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -103545,7 +103248,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3083",
+   "id": "ext-3074",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -103578,7 +103281,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3084",
+   "id": "ext-3075",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -103611,7 +103314,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3085",
+   "id": "ext-3076",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -103644,7 +103347,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3086",
+   "id": "ext-3077",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -103677,7 +103380,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3087",
+   "id": "ext-3078",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -103710,7 +103413,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3088",
+   "id": "ext-3079",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -103743,7 +103446,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3089",
+   "id": "ext-3080",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -103776,7 +103479,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3090",
+   "id": "ext-3081",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -103809,7 +103512,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3091",
+   "id": "ext-3082",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -103842,7 +103545,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3092",
+   "id": "ext-3083",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -103875,7 +103578,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3093",
+   "id": "ext-3084",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -103908,7 +103611,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3094",
+   "id": "ext-3085",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -103941,7 +103644,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3095",
+   "id": "ext-3086",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -103974,7 +103677,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3096",
+   "id": "ext-3087",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -104007,7 +103710,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3097",
+   "id": "ext-3088",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -104040,7 +103743,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3098",
+   "id": "ext-3089",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -104073,7 +103776,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3099",
+   "id": "ext-3090",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -104106,7 +103809,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3100",
+   "id": "ext-3091",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -104139,7 +103842,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3101",
+   "id": "ext-3092",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -104172,7 +103875,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3102",
+   "id": "ext-3093",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -104205,7 +103908,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3103",
+   "id": "ext-3094",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -104238,7 +103941,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3104",
+   "id": "ext-3095",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -104271,7 +103974,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-3105",
+   "id": "ext-3096",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -104304,7 +104007,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3106",
+   "id": "ext-3097",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -104337,7 +104040,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-3107",
+   "id": "ext-3098",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -104370,7 +104073,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-3108",
+   "id": "ext-3099",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -104403,7 +104106,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3109",
+   "id": "ext-3100",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -104436,7 +104139,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3110",
+   "id": "ext-3101",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -104469,7 +104172,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-3111",
+   "id": "ext-3102",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -104502,7 +104205,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3112",
+   "id": "ext-3103",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -104535,7 +104238,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-3113",
+   "id": "ext-3104",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -104568,7 +104271,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3114",
+   "id": "ext-3105",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -104601,7 +104304,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3115",
+   "id": "ext-3106",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -104634,7 +104337,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3116",
+   "id": "ext-3107",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -104667,7 +104370,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3117",
+   "id": "ext-3108",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -104700,7 +104403,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3118",
+   "id": "ext-3109",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Microsoft",
@@ -104733,7 +104436,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-3119",
+   "id": "ext-3110",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -104766,7 +104469,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3120",
+   "id": "ext-3111",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Microsoft",
@@ -104799,7 +104502,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-3121",
+   "id": "ext-3112",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Microsoft",
@@ -104832,7 +104535,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3122",
+   "id": "ext-3113",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Microsoft",
@@ -104865,7 +104568,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-3123",
+   "id": "ext-3114",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Microsoft",
@@ -104898,7 +104601,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-3124",
+   "id": "ext-3115",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -104931,7 +104634,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3125",
+   "id": "ext-3116",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -104964,7 +104667,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3126",
+   "id": "ext-3117",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -104997,7 +104700,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3127",
+   "id": "ext-3118",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -105030,7 +104733,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-3128",
+   "id": "ext-3119",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -105063,7 +104766,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-3129",
+   "id": "ext-3120",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -105096,7 +104799,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-3130",
+   "id": "ext-3121",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -105129,7 +104832,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3131",
+   "id": "ext-3122",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -105162,7 +104865,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3132",
+   "id": "ext-3123",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -105195,7 +104898,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3133",
+   "id": "ext-3124",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -105228,7 +104931,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3134",
+   "id": "ext-3125",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -105261,7 +104964,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3135",
+   "id": "ext-3126",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -105294,7 +104997,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3136",
+   "id": "ext-3127",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -105327,7 +105030,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3137",
+   "id": "ext-3128",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -105360,7 +105063,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3138",
+   "id": "ext-3129",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -105393,7 +105096,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3139",
+   "id": "ext-3130",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -105426,7 +105129,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3140",
+   "id": "ext-3131",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -105459,7 +105162,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3141",
+   "id": "ext-3132",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -105492,7 +105195,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3142",
+   "id": "ext-3133",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -105525,7 +105228,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3143",
+   "id": "ext-3134",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -105558,7 +105261,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3144",
+   "id": "ext-3135",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -105591,7 +105294,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3145",
+   "id": "ext-3136",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -105624,7 +105327,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3146",
+   "id": "ext-3137",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -105657,7 +105360,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3147",
+   "id": "ext-3138",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -105690,7 +105393,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3148",
+   "id": "ext-3139",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -105723,7 +105426,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3149",
+   "id": "ext-3140",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -105756,7 +105459,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3150",
+   "id": "ext-3141",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -105789,7 +105492,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3151",
+   "id": "ext-3142",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -105822,7 +105525,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3152",
+   "id": "ext-3143",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -105855,7 +105558,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3153",
+   "id": "ext-3144",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -105888,7 +105591,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3154",
+   "id": "ext-3145",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -105921,7 +105624,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3155",
+   "id": "ext-3146",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -105954,7 +105657,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3156",
+   "id": "ext-3147",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -105987,7 +105690,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3157",
+   "id": "ext-3148",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -106020,7 +105723,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3158",
+   "id": "ext-3149",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -106053,7 +105756,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3159",
+   "id": "ext-3150",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -106086,7 +105789,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3160",
+   "id": "ext-3151",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -106119,7 +105822,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3161",
+   "id": "ext-3152",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -106152,7 +105855,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3162",
+   "id": "ext-3153",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -106185,7 +105888,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3163",
+   "id": "ext-3154",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Samsung",
@@ -106218,7 +105921,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3164",
+   "id": "ext-3155",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -106251,7 +105954,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3165",
+   "id": "ext-3156",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -106284,7 +105987,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3166",
+   "id": "ext-3157",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Acer",
@@ -106317,7 +106020,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3167",
+   "id": "ext-3158",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -106350,7 +106053,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3168",
+   "id": "ext-3159",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -106383,7 +106086,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3169",
+   "id": "ext-3160",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -106416,7 +106119,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3170",
+   "id": "ext-3161",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -106449,7 +106152,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3171",
+   "id": "ext-3162",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -106482,7 +106185,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3172",
+   "id": "ext-3163",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -106515,7 +106218,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3173",
+   "id": "ext-3164",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -106548,7 +106251,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3174",
+   "id": "ext-3165",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -106581,7 +106284,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3175",
+   "id": "ext-3166",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -106614,7 +106317,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3176",
+   "id": "ext-3167",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -106647,7 +106350,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3177",
+   "id": "ext-3168",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -106680,7 +106383,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3178",
+   "id": "ext-3169",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -106713,7 +106416,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3179",
+   "id": "ext-3170",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Acer",
@@ -106746,7 +106449,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3180",
+   "id": "ext-3171",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -106779,7 +106482,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3181",
+   "id": "ext-3172",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -106812,7 +106515,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3182",
+   "id": "ext-3173",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -106845,7 +106548,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3183",
+   "id": "ext-3174",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -106878,7 +106581,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3184",
+   "id": "ext-3175",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -106911,7 +106614,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3185",
+   "id": "ext-3176",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -106944,7 +106647,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3186",
+   "id": "ext-3177",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -106977,7 +106680,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3187",
+   "id": "ext-3178",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -107010,7 +106713,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3188",
+   "id": "ext-3179",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -107043,7 +106746,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3189",
+   "id": "ext-3180",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -107076,7 +106779,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3190",
+   "id": "ext-3181",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -107109,7 +106812,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3191",
+   "id": "ext-3182",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -107142,7 +106845,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3192",
+   "id": "ext-3183",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -107175,7 +106878,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3193",
+   "id": "ext-3184",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -107208,7 +106911,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3194",
+   "id": "ext-3185",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -107241,7 +106944,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3195",
+   "id": "ext-3186",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -107274,7 +106977,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3196",
+   "id": "ext-3187",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -107307,7 +107010,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3197",
+   "id": "ext-3188",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -107340,7 +107043,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3198",
+   "id": "ext-3189",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -107373,7 +107076,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3199",
+   "id": "ext-3190",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -107406,7 +107109,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3200",
+   "id": "ext-3191",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -107439,7 +107142,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3201",
+   "id": "ext-3192",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -107472,7 +107175,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3202",
+   "id": "ext-3193",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -107505,7 +107208,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3203",
+   "id": "ext-3194",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -107538,7 +107241,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3204",
+   "id": "ext-3195",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -107571,7 +107274,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3205",
+   "id": "ext-3196",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -107604,7 +107307,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3206",
+   "id": "ext-3197",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -107637,7 +107340,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3207",
+   "id": "ext-3198",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -107670,7 +107373,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3208",
+   "id": "ext-3199",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -107703,7 +107406,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3209",
+   "id": "ext-3200",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -107736,7 +107439,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3210",
+   "id": "ext-3201",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -107769,7 +107472,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3211",
+   "id": "ext-3202",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -107802,7 +107505,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3212",
+   "id": "ext-3203",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -107835,7 +107538,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3213",
+   "id": "ext-3204",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -107868,7 +107571,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3214",
+   "id": "ext-3205",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -107901,7 +107604,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3215",
+   "id": "ext-3206",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -107934,7 +107637,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3216",
+   "id": "ext-3207",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -107967,7 +107670,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3217",
+   "id": "ext-3208",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -108000,7 +107703,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3218",
+   "id": "ext-3209",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -108033,7 +107736,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3219",
+   "id": "ext-3210",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -108066,7 +107769,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3220",
+   "id": "ext-3211",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -108099,7 +107802,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3221",
+   "id": "ext-3212",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -108132,7 +107835,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3222",
+   "id": "ext-3213",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -108165,7 +107868,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3223",
+   "id": "ext-3214",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -108198,7 +107901,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3224",
+   "id": "ext-3215",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -108231,7 +107934,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3225",
+   "id": "ext-3216",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -108264,7 +107967,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3226",
+   "id": "ext-3217",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "LG",
@@ -108297,7 +108000,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3227",
+   "id": "ext-3218",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -108330,7 +108033,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3228",
+   "id": "ext-3219",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -108363,7 +108066,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3229",
+   "id": "ext-3220",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -108396,7 +108099,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3230",
+   "id": "ext-3221",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -108429,7 +108132,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3231",
+   "id": "ext-3222",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -108462,7 +108165,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3232",
+   "id": "ext-3223",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -108495,7 +108198,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3233",
+   "id": "ext-3224",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -108528,7 +108231,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3234",
+   "id": "ext-3225",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -108561,7 +108264,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3235",
+   "id": "ext-3226",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Acer",
@@ -108594,7 +108297,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3236",
+   "id": "ext-3227",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -108627,7 +108330,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3237",
+   "id": "ext-3228",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Acer",
@@ -108660,7 +108363,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3238",
+   "id": "ext-3229",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -108693,7 +108396,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3239",
+   "id": "ext-3230",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -108726,7 +108429,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3240",
+   "id": "ext-3231",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -108759,7 +108462,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3241",
+   "id": "ext-3232",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -108792,7 +108495,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3242",
+   "id": "ext-3233",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -108825,7 +108528,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3243",
+   "id": "ext-3234",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -108858,7 +108561,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3244",
+   "id": "ext-3235",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -108891,7 +108594,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3245",
+   "id": "ext-3236",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -108924,7 +108627,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3246",
+   "id": "ext-3237",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -108957,7 +108660,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3247",
+   "id": "ext-3238",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -108990,7 +108693,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3248",
+   "id": "ext-3239",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -109023,7 +108726,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3249",
+   "id": "ext-3240",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -109056,7 +108759,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3250",
+   "id": "ext-3241",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -109089,7 +108792,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3251",
+   "id": "ext-3242",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -109122,7 +108825,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3252",
+   "id": "ext-3243",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -109155,7 +108858,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3253",
+   "id": "ext-3244",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -109188,7 +108891,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3254",
+   "id": "ext-3245",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -109221,7 +108924,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3255",
+   "id": "ext-3246",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -109254,7 +108957,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3256",
+   "id": "ext-3247",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -109287,7 +108990,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3257",
+   "id": "ext-3248",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Dell",
@@ -109320,7 +109023,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3258",
+   "id": "ext-3249",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -109353,7 +109056,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3259",
+   "id": "ext-3250",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -109386,7 +109089,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3260",
+   "id": "ext-3251",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -109419,7 +109122,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3261",
+   "id": "ext-3252",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -109452,7 +109155,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3262",
+   "id": "ext-3253",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -109485,7 +109188,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3263",
+   "id": "ext-3254",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Dell",
@@ -109518,7 +109221,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3264",
+   "id": "ext-3255",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -109551,7 +109254,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3265",
+   "id": "ext-3256",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -109584,7 +109287,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3266",
+   "id": "ext-3257",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -109617,7 +109320,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3267",
+   "id": "ext-3258",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -109650,7 +109353,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3268",
+   "id": "ext-3259",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -109683,7 +109386,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3269",
+   "id": "ext-3260",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -109716,7 +109419,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3270",
+   "id": "ext-3261",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -109749,7 +109452,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3271",
+   "id": "ext-3262",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Dell",
@@ -109782,7 +109485,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3272",
+   "id": "ext-3263",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -109815,7 +109518,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3273",
+   "id": "ext-3264",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -109848,7 +109551,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3274",
+   "id": "ext-3265",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -109881,7 +109584,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3275",
+   "id": "ext-3266",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -109914,7 +109617,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3276",
+   "id": "ext-3267",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -109947,7 +109650,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3277",
+   "id": "ext-3268",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -109980,7 +109683,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3278",
+   "id": "ext-3269",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -110013,7 +109716,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3279",
+   "id": "ext-3270",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -110046,7 +109749,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3280",
+   "id": "ext-3271",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -110079,7 +109782,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3281",
+   "id": "ext-3272",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -110112,7 +109815,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3282",
+   "id": "ext-3273",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Intel",
@@ -110145,7 +109848,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-3283",
+   "id": "ext-3274",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -110178,7 +109881,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-3284",
+   "id": "ext-3275",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -110211,7 +109914,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3285",
+   "id": "ext-3276",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -110244,7 +109947,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3286",
+   "id": "ext-3277",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -110277,7 +109980,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3287",
+   "id": "ext-3278",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -110310,7 +110013,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3288",
+   "id": "ext-3279",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -110343,7 +110046,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3289",
+   "id": "ext-3280",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -110376,7 +110079,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3290",
+   "id": "ext-3281",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Gigabyte",
@@ -110409,7 +110112,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3291",
+   "id": "ext-3282",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -110442,7 +110145,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3292",
+   "id": "ext-3283",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -110475,7 +110178,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3293",
+   "id": "ext-3284",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -110508,73 +110211,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3294",
-   "form": "Laptop",
-   "use": "Everyday & Business",
-   "brand": "Apple",
-   "name": "Keyboard Protector Film for Apple MacBook Pro",
-   "ram": null,
-   "storage": null,
-   "screen": null,
-   "screenIn": null,
-   "touch": false,
-   "oled": false,
-   "extras": null,
-   "price": null,
-   "store": "OutGeeked",
-   "seller": "OutGeeked",
-   "condition": "New",
-   "link": "https://outgeeked.net/products/keyboard-protector-film-for-apple-macbook-pro",
-   "linkIsListing": true,
-   "note": null,
-   "cpuVendor": "Apple",
-   "cpuFamily": "Apple M4",
-   "cpuModel": null,
-   "cpu": "Apple M4",
-   "gpuKind": "Integrated",
-   "gpuVendor": "Apple",
-   "gpuModel": "Apple GPU",
-   "gpu": "Apple GPU (integrated)",
-   "gpuRank": 10,
-   "ramGB": null,
-   "storageGB": null,
-   "storageType": null
-  },
-  {
-   "id": "ext-3295",
-   "form": "Laptop",
-   "use": "Everyday & Business",
-   "brand": "Apple",
-   "name": "Keyboard Protector Film for Apple MacBook Air",
-   "ram": null,
-   "storage": null,
-   "screen": null,
-   "screenIn": null,
-   "touch": false,
-   "oled": false,
-   "extras": null,
-   "price": null,
-   "store": "OutGeeked",
-   "seller": "OutGeeked",
-   "condition": "New",
-   "link": "https://outgeeked.net/products/keyboard-protector-film-for-apple-macbook-air",
-   "linkIsListing": true,
-   "note": null,
-   "cpuVendor": "Apple",
-   "cpuFamily": "Apple M4",
-   "cpuModel": null,
-   "cpu": "Apple M4",
-   "gpuKind": "Integrated",
-   "gpuVendor": "Apple",
-   "gpuModel": "Apple GPU",
-   "gpu": "Apple GPU (integrated)",
-   "gpuRank": 10,
-   "ramGB": null,
-   "storageGB": null,
-   "storageType": null
-  },
-  {
-   "id": "ext-3296",
+   "id": "ext-3285",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -110607,7 +110244,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3297",
+   "id": "ext-3286",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -110640,7 +110277,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3298",
+   "id": "ext-3287",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -110673,7 +110310,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3299",
+   "id": "ext-3288",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -110706,7 +110343,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3300",
+   "id": "ext-3289",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -110739,7 +110376,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3301",
+   "id": "ext-3290",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -110772,7 +110409,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3302",
+   "id": "ext-3291",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -110805,7 +110442,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3303",
+   "id": "ext-3292",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Samsung",
@@ -110838,7 +110475,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3304",
+   "id": "ext-3293",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -110871,7 +110508,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3305",
+   "id": "ext-3294",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -110904,7 +110541,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3306",
+   "id": "ext-3295",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -110937,7 +110574,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3307",
+   "id": "ext-3296",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -110970,7 +110607,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3308",
+   "id": "ext-3297",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -111003,7 +110640,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3309",
+   "id": "ext-3298",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -111036,7 +110673,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3310",
+   "id": "ext-3299",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -111069,7 +110706,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3311",
+   "id": "ext-3300",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -111102,7 +110739,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3312",
+   "id": "ext-3301",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Acer",
@@ -111135,7 +110772,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3313",
+   "id": "ext-3302",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Acer",
@@ -111168,7 +110805,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3314",
+   "id": "ext-3303",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -111201,7 +110838,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3315",
+   "id": "ext-3304",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -111234,7 +110871,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3316",
+   "id": "ext-3305",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -111267,7 +110904,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3317",
+   "id": "ext-3306",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -111300,7 +110937,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3318",
+   "id": "ext-3307",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -111333,7 +110970,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3319",
+   "id": "ext-3308",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -111366,7 +111003,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3320",
+   "id": "ext-3309",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -111399,7 +111036,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3321",
+   "id": "ext-3310",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -111432,7 +111069,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3322",
+   "id": "ext-3311",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -111465,7 +111102,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3323",
+   "id": "ext-3312",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -111498,7 +111135,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3324",
+   "id": "ext-3313",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -111531,7 +111168,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3325",
+   "id": "ext-3314",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -111564,7 +111201,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3326",
+   "id": "ext-3315",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -111597,7 +111234,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3327",
+   "id": "ext-3316",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -111630,7 +111267,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3328",
+   "id": "ext-3317",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -111663,7 +111300,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3329",
+   "id": "ext-3318",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -111696,7 +111333,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3330",
+   "id": "ext-3319",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -111729,7 +111366,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3331",
+   "id": "ext-3320",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -111762,7 +111399,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3332",
+   "id": "ext-3321",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -111795,7 +111432,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3333",
+   "id": "ext-3322",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -111828,7 +111465,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3334",
+   "id": "ext-3323",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -111861,7 +111498,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3335",
+   "id": "ext-3324",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -111894,7 +111531,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3336",
+   "id": "ext-3325",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -111927,7 +111564,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3337",
+   "id": "ext-3326",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -111960,7 +111597,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3338",
+   "id": "ext-3327",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -111993,7 +111630,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3339",
+   "id": "ext-3328",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -112026,7 +111663,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3340",
+   "id": "ext-3329",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -112059,7 +111696,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3341",
+   "id": "ext-3330",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -112092,7 +111729,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3342",
+   "id": "ext-3331",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -112125,7 +111762,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3343",
+   "id": "ext-3332",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -112158,7 +111795,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3344",
+   "id": "ext-3333",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -112191,7 +111828,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3345",
+   "id": "ext-3334",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -112224,7 +111861,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3346",
+   "id": "ext-3335",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -112257,7 +111894,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3347",
+   "id": "ext-3336",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -112290,7 +111927,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3348",
+   "id": "ext-3337",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -112323,7 +111960,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3349",
+   "id": "ext-3338",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -112356,7 +111993,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3350",
+   "id": "ext-3339",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -112389,7 +112026,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3351",
+   "id": "ext-3340",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -112422,7 +112059,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3352",
+   "id": "ext-3341",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Acer",
@@ -112455,7 +112092,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3353",
+   "id": "ext-3342",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -112488,7 +112125,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3354",
+   "id": "ext-3343",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -112521,7 +112158,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3355",
+   "id": "ext-3344",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -112554,7 +112191,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3356",
+   "id": "ext-3345",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -112587,7 +112224,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3357",
+   "id": "ext-3346",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -112620,7 +112257,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3358",
+   "id": "ext-3347",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -112653,7 +112290,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3359",
+   "id": "ext-3348",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -112686,7 +112323,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3360",
+   "id": "ext-3349",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -112719,7 +112356,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3361",
+   "id": "ext-3350",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -112752,7 +112389,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3362",
+   "id": "ext-3351",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -112785,7 +112422,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3363",
+   "id": "ext-3352",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -112818,7 +112455,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3364",
+   "id": "ext-3353",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -112851,7 +112488,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3365",
+   "id": "ext-3354",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -112884,7 +112521,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3366",
+   "id": "ext-3355",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -112917,7 +112554,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3367",
+   "id": "ext-3356",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -112950,7 +112587,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3368",
+   "id": "ext-3357",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -112983,7 +112620,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3369",
+   "id": "ext-3358",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -113016,7 +112653,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3370",
+   "id": "ext-3359",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -113049,7 +112686,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3371",
+   "id": "ext-3360",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -113082,7 +112719,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3372",
+   "id": "ext-3361",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -113115,7 +112752,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3373",
+   "id": "ext-3362",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -113148,7 +112785,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3374",
+   "id": "ext-3363",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -113181,7 +112818,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-3375",
+   "id": "ext-3364",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -113214,7 +112851,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-3376",
+   "id": "ext-3365",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -113247,7 +112884,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-3377",
+   "id": "ext-3366",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -113280,7 +112917,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-3378",
+   "id": "ext-3367",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -113313,7 +112950,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-3379",
+   "id": "ext-3368",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -113346,7 +112983,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-3380",
+   "id": "ext-3369",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -113379,7 +113016,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3381",
+   "id": "ext-3370",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -113412,7 +113049,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3382",
+   "id": "ext-3371",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -113445,7 +113082,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3383",
+   "id": "ext-3372",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -113478,7 +113115,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3384",
+   "id": "ext-3373",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -113511,7 +113148,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3385",
+   "id": "ext-3374",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Huawei",
@@ -113544,7 +113181,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3386",
+   "id": "ext-3375",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -113577,7 +113214,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3387",
+   "id": "ext-3376",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -113610,7 +113247,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3388",
+   "id": "ext-3377",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -113643,7 +113280,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3389",
+   "id": "ext-3378",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -113676,7 +113313,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3390",
+   "id": "ext-3379",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -113709,7 +113346,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3391",
+   "id": "ext-3380",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -113742,7 +113379,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3392",
+   "id": "ext-3381",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -113775,7 +113412,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3393",
+   "id": "ext-3382",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -113808,7 +113445,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3394",
+   "id": "ext-3383",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -113841,7 +113478,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3395",
+   "id": "ext-3384",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -113874,7 +113511,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3396",
+   "id": "ext-3385",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -113907,7 +113544,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3397",
+   "id": "ext-3386",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Acer",
@@ -113940,7 +113577,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3398",
+   "id": "ext-3387",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -113973,7 +113610,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3399",
+   "id": "ext-3388",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -114006,7 +113643,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-3400",
+   "id": "ext-3389",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -114039,7 +113676,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-3401",
+   "id": "ext-3390",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -114072,7 +113709,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-3402",
+   "id": "ext-3391",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -114105,7 +113742,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-3403",
+   "id": "ext-3392",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -114138,7 +113775,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-3404",
+   "id": "ext-3393",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -114171,7 +113808,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3405",
+   "id": "ext-3394",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -114204,7 +113841,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-3406",
+   "id": "ext-3395",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -114237,7 +113874,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-3407",
+   "id": "ext-3396",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -114270,7 +113907,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-3408",
+   "id": "ext-3397",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -114303,7 +113940,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-3409",
+   "id": "ext-3398",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Dell",
@@ -114336,7 +113973,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-3410",
+   "id": "ext-3399",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -114369,7 +114006,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-3411",
+   "id": "ext-3400",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -114402,7 +114039,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-3412",
+   "id": "ext-3401",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -114435,7 +114072,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-3413",
+   "id": "ext-3402",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -114468,7 +114105,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-3414",
+   "id": "ext-3403",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Acer",
@@ -114501,7 +114138,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-3415",
+   "id": "ext-3404",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Acer",
@@ -114534,7 +114171,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-3416",
+   "id": "ext-3405",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "MSI",
@@ -114567,7 +114204,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3417",
+   "id": "ext-3406",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -114600,7 +114237,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3418",
+   "id": "ext-3407",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -114633,7 +114270,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3419",
+   "id": "ext-3408",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -114666,7 +114303,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-3420",
+   "id": "ext-3409",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -114699,7 +114336,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3421",
+   "id": "ext-3410",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -114732,7 +114369,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3422",
+   "id": "ext-3411",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "MSI",
@@ -114765,7 +114402,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-3423",
+   "id": "ext-3412",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "MSI",
@@ -114798,7 +114435,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-3424",
+   "id": "ext-3413",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -114831,7 +114468,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-3425",
+   "id": "ext-3414",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -114864,7 +114501,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-3426",
+   "id": "ext-3415",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Samsung",
@@ -114897,7 +114534,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-3427",
+   "id": "ext-3416",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -114930,7 +114567,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-3428",
+   "id": "ext-3417",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -114963,7 +114600,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-3429",
+   "id": "ext-3418",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -114996,7 +114633,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-3430",
+   "id": "ext-3419",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -115029,7 +114666,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-3431",
+   "id": "ext-3420",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -115062,7 +114699,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-3432",
+   "id": "ext-3421",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -115095,7 +114732,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-3433",
+   "id": "ext-3422",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -115128,7 +114765,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-3434",
+   "id": "ext-3423",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -115161,7 +114798,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-3435",
+   "id": "ext-3424",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -115194,7 +114831,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-3436",
+   "id": "ext-3425",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -115227,7 +114864,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-3437",
+   "id": "ext-3426",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -115260,7 +114897,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-3438",
+   "id": "ext-3427",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -115293,7 +114930,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-3439",
+   "id": "ext-3428",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -115326,7 +114963,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-3440",
+   "id": "ext-3429",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Acer",
@@ -115359,7 +114996,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-3441",
+   "id": "ext-3430",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Dell",
@@ -115392,7 +115029,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-3442",
+   "id": "ext-3431",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -115425,7 +115062,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-3443",
+   "id": "ext-3432",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Gigabyte",
@@ -115458,7 +115095,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-3444",
+   "id": "ext-3433",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -115491,7 +115128,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-3445",
+   "id": "ext-3434",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -115524,7 +115161,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-3446",
+   "id": "ext-3435",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "MSI",
@@ -115557,7 +115194,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-3447",
+   "id": "ext-3436",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -115590,7 +115227,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-3448",
+   "id": "ext-3437",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -115623,7 +115260,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-3449",
+   "id": "ext-3438",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Acer",
@@ -115656,7 +115293,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-3450",
+   "id": "ext-3439",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -115689,7 +115326,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3451",
+   "id": "ext-3440",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -115722,7 +115359,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-3452",
+   "id": "ext-3441",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -115755,7 +115392,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-3453",
+   "id": "ext-3442",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -115788,7 +115425,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-3454",
+   "id": "ext-3443",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -115821,7 +115458,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-3455",
+   "id": "ext-3444",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -115854,7 +115491,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-3456",
+   "id": "ext-3445",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -115887,7 +115524,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-3457",
+   "id": "ext-3446",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -115920,7 +115557,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-3458",
+   "id": "ext-3447",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -115953,7 +115590,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-3459",
+   "id": "ext-3448",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -115986,7 +115623,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-3460",
+   "id": "ext-3449",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -116019,7 +115656,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-3461",
+   "id": "ext-3450",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -116052,7 +115689,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-3462",
+   "id": "ext-3451",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -116085,7 +115722,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-3463",
+   "id": "ext-3452",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Acer",
@@ -116118,7 +115755,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-3464",
+   "id": "ext-3453",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -116151,7 +115788,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-3465",
+   "id": "ext-3454",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -116184,7 +115821,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-3466",
+   "id": "ext-3455",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -116217,7 +115854,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-3467",
+   "id": "ext-3456",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -116250,7 +115887,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-3468",
+   "id": "ext-3457",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -116283,7 +115920,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-3469",
+   "id": "ext-3458",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -116316,7 +115953,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-3470",
+   "id": "ext-3459",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -116349,7 +115986,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-3471",
+   "id": "ext-3460",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -116382,7 +116019,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-3472",
+   "id": "ext-3461",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -116415,7 +116052,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-3473",
+   "id": "ext-3462",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -116448,7 +116085,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-3474",
+   "id": "ext-3463",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Acer",
@@ -116481,7 +116118,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-3475",
+   "id": "ext-3464",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -116514,7 +116151,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-3476",
+   "id": "ext-3465",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -116547,7 +116184,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-3477",
+   "id": "ext-3466",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "MSI",
@@ -116580,7 +116217,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-3478",
+   "id": "ext-3467",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -116613,7 +116250,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-3479",
+   "id": "ext-3468",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -116646,7 +116283,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-3480",
+   "id": "ext-3469",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -116679,7 +116316,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-3481",
+   "id": "ext-3470",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -116712,7 +116349,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3482",
+   "id": "ext-3471",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Acer",
@@ -116745,7 +116382,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-3483",
+   "id": "ext-3472",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -116778,7 +116415,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3484",
+   "id": "ext-3473",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -116811,7 +116448,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3485",
+   "id": "ext-3474",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -116844,7 +116481,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3486",
+   "id": "ext-3475",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -116877,7 +116514,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3487",
+   "id": "ext-3476",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Acer",
@@ -116910,7 +116547,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3488",
+   "id": "ext-3477",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -116943,7 +116580,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3489",
+   "id": "ext-3478",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -116976,7 +116613,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3490",
+   "id": "ext-3479",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -117009,7 +116646,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3491",
+   "id": "ext-3480",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -117042,7 +116679,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3492",
+   "id": "ext-3481",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "MSI",
@@ -117075,7 +116712,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3493",
+   "id": "ext-3482",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -117108,7 +116745,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3494",
+   "id": "ext-3483",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -117141,7 +116778,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3495",
+   "id": "ext-3484",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -117174,7 +116811,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3496",
+   "id": "ext-3485",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Acer",
@@ -117207,7 +116844,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3497",
+   "id": "ext-3486",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -117240,7 +116877,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3498",
+   "id": "ext-3487",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -117273,7 +116910,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3499",
+   "id": "ext-3488",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -117306,7 +116943,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3500",
+   "id": "ext-3489",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -117339,7 +116976,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3501",
+   "id": "ext-3490",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -117372,7 +117009,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3502",
+   "id": "ext-3491",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -117405,7 +117042,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3503",
+   "id": "ext-3492",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -117438,7 +117075,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3504",
+   "id": "ext-3493",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -117471,7 +117108,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3505",
+   "id": "ext-3494",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -117504,7 +117141,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3506",
+   "id": "ext-3495",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -117537,7 +117174,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3507",
+   "id": "ext-3496",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -117570,7 +117207,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3508",
+   "id": "ext-3497",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -117603,7 +117240,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3509",
+   "id": "ext-3498",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -117636,7 +117273,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3510",
+   "id": "ext-3499",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -117669,7 +117306,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3511",
+   "id": "ext-3500",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -117702,7 +117339,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3512",
+   "id": "ext-3501",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -117735,7 +117372,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3513",
+   "id": "ext-3502",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -117768,7 +117405,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3514",
+   "id": "ext-3503",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -117801,7 +117438,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3515",
+   "id": "ext-3504",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -117834,7 +117471,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3516",
+   "id": "ext-3505",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -117867,7 +117504,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3517",
+   "id": "ext-3506",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -117900,7 +117537,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3518",
+   "id": "ext-3507",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -117933,7 +117570,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3519",
+   "id": "ext-3508",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -117966,7 +117603,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3520",
+   "id": "ext-3509",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -117999,7 +117636,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3521",
+   "id": "ext-3510",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -118032,7 +117669,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3522",
+   "id": "ext-3511",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -118065,7 +117702,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3523",
+   "id": "ext-3512",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -118098,7 +117735,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3524",
+   "id": "ext-3513",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Toshiba",
@@ -118131,7 +117768,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3525",
+   "id": "ext-3514",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -118164,7 +117801,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3526",
+   "id": "ext-3515",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -118197,7 +117834,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3527",
+   "id": "ext-3516",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -118230,7 +117867,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3528",
+   "id": "ext-3517",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -118263,7 +117900,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3529",
+   "id": "ext-3518",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -118296,7 +117933,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3530",
+   "id": "ext-3519",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -118329,7 +117966,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3531",
+   "id": "ext-3520",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -118362,7 +117999,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3532",
+   "id": "ext-3521",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Toshiba",
@@ -118395,7 +118032,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3533",
+   "id": "ext-3522",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -118428,7 +118065,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3534",
+   "id": "ext-3523",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -118461,7 +118098,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3535",
+   "id": "ext-3524",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -118494,7 +118131,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3536",
+   "id": "ext-3525",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -118527,7 +118164,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3537",
+   "id": "ext-3526",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -118560,7 +118197,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3538",
+   "id": "ext-3527",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -118593,7 +118230,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3539",
+   "id": "ext-3528",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -118626,7 +118263,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3540",
+   "id": "ext-3529",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -118659,7 +118296,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3541",
+   "id": "ext-3530",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Acer",
@@ -118692,7 +118329,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3542",
+   "id": "ext-3531",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -118725,7 +118362,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3543",
+   "id": "ext-3532",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -118758,7 +118395,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3544",
+   "id": "ext-3533",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -118791,7 +118428,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3545",
+   "id": "ext-3534",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -118824,7 +118461,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3546",
+   "id": "ext-3535",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -118857,7 +118494,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3547",
+   "id": "ext-3536",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -118890,7 +118527,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3548",
+   "id": "ext-3537",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -118923,7 +118560,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3549",
+   "id": "ext-3538",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -118956,7 +118593,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3550",
+   "id": "ext-3539",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -118989,7 +118626,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3551",
+   "id": "ext-3540",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -119022,7 +118659,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3552",
+   "id": "ext-3541",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -119055,7 +118692,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3553",
+   "id": "ext-3542",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -119088,7 +118725,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3554",
+   "id": "ext-3543",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -119121,7 +118758,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3555",
+   "id": "ext-3544",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -119154,7 +118791,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3556",
+   "id": "ext-3545",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -119187,7 +118824,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3557",
+   "id": "ext-3546",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -119220,7 +118857,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3558",
+   "id": "ext-3547",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -119253,7 +118890,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3559",
+   "id": "ext-3548",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -119286,7 +118923,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3560",
+   "id": "ext-3549",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -119319,7 +118956,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3561",
+   "id": "ext-3550",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -119352,7 +118989,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3562",
+   "id": "ext-3551",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -119385,7 +119022,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3563",
+   "id": "ext-3552",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -119418,7 +119055,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3564",
+   "id": "ext-3553",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -119451,7 +119088,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3565",
+   "id": "ext-3554",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -119484,7 +119121,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3566",
+   "id": "ext-3555",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -119517,7 +119154,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3567",
+   "id": "ext-3556",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -119550,7 +119187,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3568",
+   "id": "ext-3557",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -119583,7 +119220,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3569",
+   "id": "ext-3558",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -119616,7 +119253,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3570",
+   "id": "ext-3559",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -119649,7 +119286,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3571",
+   "id": "ext-3560",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -119682,7 +119319,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3572",
+   "id": "ext-3561",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -119715,7 +119352,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3573",
+   "id": "ext-3562",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -119748,7 +119385,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3574",
+   "id": "ext-3563",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -119781,7 +119418,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3575",
+   "id": "ext-3564",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -119814,7 +119451,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3576",
+   "id": "ext-3565",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -119847,7 +119484,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3577",
+   "id": "ext-3566",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -119880,7 +119517,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3578",
+   "id": "ext-3567",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -119913,7 +119550,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3579",
+   "id": "ext-3568",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -119946,7 +119583,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3580",
+   "id": "ext-3569",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Voltrax",
@@ -119979,7 +119616,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3581",
+   "id": "ext-3570",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -120012,7 +119649,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3582",
+   "id": "ext-3571",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -120045,7 +119682,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3583",
+   "id": "ext-3572",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -120078,7 +119715,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3584",
+   "id": "ext-3573",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -120111,7 +119748,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3585",
+   "id": "ext-3574",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -120144,7 +119781,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3586",
+   "id": "ext-3575",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -120177,7 +119814,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3587",
+   "id": "ext-3576",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -120210,7 +119847,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3588",
+   "id": "ext-3577",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -120243,7 +119880,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3589",
+   "id": "ext-3578",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -120276,7 +119913,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3590",
+   "id": "ext-3579",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -120309,7 +119946,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3591",
+   "id": "ext-3580",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -120342,7 +119979,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3592",
+   "id": "ext-3581",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -120375,7 +120012,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3593",
+   "id": "ext-3582",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -120408,7 +120045,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3594",
+   "id": "ext-3583",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -120441,7 +120078,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3595",
+   "id": "ext-3584",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -120474,7 +120111,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3596",
+   "id": "ext-3585",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -120507,7 +120144,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3597",
+   "id": "ext-3586",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -120540,7 +120177,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3598",
+   "id": "ext-3587",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -120573,7 +120210,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3599",
+   "id": "ext-3588",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -120606,7 +120243,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3600",
+   "id": "ext-3589",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -120639,7 +120276,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3601",
+   "id": "ext-3590",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Microsoft",
@@ -120672,7 +120309,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3602",
+   "id": "ext-3591",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -120705,7 +120342,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3603",
+   "id": "ext-3592",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -120738,7 +120375,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3604",
+   "id": "ext-3593",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -120771,7 +120408,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3605",
+   "id": "ext-3594",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -120804,7 +120441,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3606",
+   "id": "ext-3595",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -120837,7 +120474,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3607",
+   "id": "ext-3596",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -120870,7 +120507,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3608",
+   "id": "ext-3597",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -120903,7 +120540,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3609",
+   "id": "ext-3598",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -120936,7 +120573,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3610",
+   "id": "ext-3599",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -120969,7 +120606,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3611",
+   "id": "ext-3600",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -121002,7 +120639,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3612",
+   "id": "ext-3601",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -121035,7 +120672,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3613",
+   "id": "ext-3602",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -121068,7 +120705,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3614",
+   "id": "ext-3603",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -121101,7 +120738,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3615",
+   "id": "ext-3604",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -121134,7 +120771,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3616",
+   "id": "ext-3605",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -121167,7 +120804,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3617",
+   "id": "ext-3606",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -121200,7 +120837,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3618",
+   "id": "ext-3607",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Acer",
@@ -121233,7 +120870,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3619",
+   "id": "ext-3608",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -121266,7 +120903,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3620",
+   "id": "ext-3609",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -121299,7 +120936,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3621",
+   "id": "ext-3610",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -121332,7 +120969,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3622",
+   "id": "ext-3611",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -121365,7 +121002,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3623",
+   "id": "ext-3612",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -121398,7 +121035,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3624",
+   "id": "ext-3613",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Acer",
@@ -121431,7 +121068,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3625",
+   "id": "ext-3614",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -121464,7 +121101,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3626",
+   "id": "ext-3615",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -121497,7 +121134,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3627",
+   "id": "ext-3616",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -121530,7 +121167,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3628",
+   "id": "ext-3617",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -121563,7 +121200,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3629",
+   "id": "ext-3618",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -121596,7 +121233,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3630",
+   "id": "ext-3619",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -121629,7 +121266,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3631",
+   "id": "ext-3620",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -121662,7 +121299,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3632",
+   "id": "ext-3621",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -121695,7 +121332,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3633",
+   "id": "ext-3622",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -121728,7 +121365,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3634",
+   "id": "ext-3623",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -121761,7 +121398,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3635",
+   "id": "ext-3624",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -121794,7 +121431,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3636",
+   "id": "ext-3625",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -121827,7 +121464,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3637",
+   "id": "ext-3626",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Brand",
@@ -121860,7 +121497,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3638",
+   "id": "ext-3627",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -121893,7 +121530,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3639",
+   "id": "ext-3628",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -121926,7 +121563,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3640",
+   "id": "ext-3629",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -121959,7 +121596,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3641",
+   "id": "ext-3630",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -121992,7 +121629,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3642",
+   "id": "ext-3631",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -122025,7 +121662,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3643",
+   "id": "ext-3632",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -122058,7 +121695,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3644",
+   "id": "ext-3633",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -122091,7 +121728,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3645",
+   "id": "ext-3634",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -122124,7 +121761,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3646",
+   "id": "ext-3635",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -122157,7 +121794,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3647",
+   "id": "ext-3636",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -122190,7 +121827,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3648",
+   "id": "ext-3637",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -122223,7 +121860,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3649",
+   "id": "ext-3638",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -122256,7 +121893,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3650",
+   "id": "ext-3639",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -122289,7 +121926,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3651",
+   "id": "ext-3640",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -122322,7 +121959,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3652",
+   "id": "ext-3641",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -122355,7 +121992,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3653",
+   "id": "ext-3642",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -122388,7 +122025,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3654",
+   "id": "ext-3643",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Acer",
@@ -122421,7 +122058,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3655",
+   "id": "ext-3644",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -122454,7 +122091,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3656",
+   "id": "ext-3645",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "MSI",
@@ -122487,7 +122124,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3657",
+   "id": "ext-3646",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -122520,7 +122157,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3658",
+   "id": "ext-3647",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -122553,7 +122190,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3659",
+   "id": "ext-3648",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -122586,7 +122223,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3660",
+   "id": "ext-3649",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -122619,7 +122256,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3661",
+   "id": "ext-3650",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "LG",
@@ -122652,7 +122289,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3662",
+   "id": "ext-3651",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -122685,7 +122322,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3663",
+   "id": "ext-3652",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -122718,7 +122355,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3664",
+   "id": "ext-3653",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -122751,7 +122388,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3665",
+   "id": "ext-3654",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -122784,7 +122421,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3666",
+   "id": "ext-3655",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -122817,7 +122454,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3667",
+   "id": "ext-3656",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -122850,7 +122487,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3668",
+   "id": "ext-3657",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Intel",
@@ -122883,7 +122520,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3669",
+   "id": "ext-3658",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -122916,7 +122553,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3670",
+   "id": "ext-3659",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -122949,7 +122586,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3671",
+   "id": "ext-3660",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -122982,7 +122619,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3672",
+   "id": "ext-3661",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -123015,7 +122652,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3673",
+   "id": "ext-3662",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -123048,7 +122685,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3674",
+   "id": "ext-3663",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -123081,7 +122718,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3675",
+   "id": "ext-3664",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -123114,7 +122751,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3676",
+   "id": "ext-3665",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Used",
@@ -123147,7 +122784,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3677",
+   "id": "ext-3666",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -123180,7 +122817,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3678",
+   "id": "ext-3667",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -123213,7 +122850,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3679",
+   "id": "ext-3668",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -123246,7 +122883,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3680",
+   "id": "ext-3669",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -123279,7 +122916,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3704",
+   "id": "ext-3693",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -123312,7 +122949,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3712",
+   "id": "ext-3701",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -123345,7 +122982,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3713",
+   "id": "ext-3702",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -123378,7 +123015,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3714",
+   "id": "ext-3703",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -123411,7 +123048,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3717",
+   "id": "ext-3706",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -123444,7 +123081,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3718",
+   "id": "ext-3707",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Apple",
@@ -123477,7 +123114,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3771",
+   "id": "ext-3760",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -123510,7 +123147,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3776",
+   "id": "ext-3765",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -123543,7 +123180,7 @@ window.SPECS_DATA = {
    "storageType": "NVMe SSD"
   },
   {
-   "id": "ext-3809",
+   "id": "ext-3798",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -123576,7 +123213,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3817",
+   "id": "ext-3806",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -123609,7 +123246,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3824",
+   "id": "ext-3813",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -123642,7 +123279,7 @@ window.SPECS_DATA = {
    "storageType": "NVMe SSD"
   },
   {
-   "id": "ext-3829",
+   "id": "ext-3818",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -123675,7 +123312,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3830",
+   "id": "ext-3819",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -123708,7 +123345,7 @@ window.SPECS_DATA = {
    "storageType": null
   },
   {
-   "id": "ext-3832",
+   "id": "ext-3821",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -123741,7 +123378,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3833",
+   "id": "ext-3822",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -123774,7 +123411,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3907",
+   "id": "ext-3896",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -123807,7 +123444,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3921",
+   "id": "ext-3910",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -123840,7 +123477,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-3953",
+   "id": "ext-3942",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -123873,7 +123510,7 @@ window.SPECS_DATA = {
    "storageType": "NVMe SSD"
   },
   {
-   "id": "ext-3963",
+   "id": "ext-3952",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Acer",
@@ -123906,7 +123543,7 @@ window.SPECS_DATA = {
    "storageType": "NVMe SSD"
   },
   {
-   "id": "ext-3995",
+   "id": "ext-3984",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Dell",
@@ -123939,7 +123576,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-4020",
+   "id": "ext-4009",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -123972,7 +123609,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-4022",
+   "id": "ext-4011",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Microsoft",
@@ -124005,7 +123642,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-4071",
+   "id": "ext-4060",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "ASUS",
@@ -124038,7 +123675,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-4076",
+   "id": "ext-4065",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "ASUS",
@@ -124071,40 +123708,7 @@ window.SPECS_DATA = {
    "storageType": "NVMe SSD"
   },
   {
-   "id": "ext-4077",
-   "form": "Laptop",
-   "use": "Gaming",
-   "brand": "ASUS",
-   "name": "ROG Zephyrus G16 GU605CR-QR161",
-   "ram": "64GB",
-   "storage": "1TB NVMe",
-   "screen": "16\"",
-   "screenIn": 16.0,
-   "touch": false,
-   "oled": false,
-   "extras": null,
-   "price": null,
-   "store": "Mediatech",
-   "seller": "Mediatech",
-   "condition": "New",
-   "link": "https://mediatechlb.com/product/asus-rog-zephyrus-gu605cr-qr161-intel-core-ultra-9-285h-64gb-1tb-nvme-16-2-5k-wqxga-2560-x-1600-240hz-rtx-5070ti-12gb-win11p-rog-impact-gaming-mouse-rog-zephyrus-g16-sleeve-laptop-in/",
-   "linkIsListing": true,
-   "note": null,
-   "cpuVendor": "Intel",
-   "cpuFamily": "Intel Core Ultra 9",
-   "cpuModel": "Core Ultra 9 285H",
-   "cpu": "Intel Core Ultra 9 285H",
-   "gpuKind": "Dedicated",
-   "gpuVendor": "NVIDIA",
-   "gpuModel": "RTX 5070 Ti",
-   "gpu": "NVIDIA GeForce RTX 5070 Ti 12GB",
-   "gpuRank": 90,
-   "ramGB": 64,
-   "storageGB": 1024,
-   "storageType": "NVMe SSD"
-  },
-  {
-   "id": "ext-4079",
+   "id": "ext-4067",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -124137,7 +123741,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-4144",
+   "id": "ext-4132",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Lenovo",
@@ -124170,7 +123774,7 @@ window.SPECS_DATA = {
    "storageType": "NVMe SSD"
   },
   {
-   "id": "ext-4145",
+   "id": "ext-4133",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -124203,7 +123807,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-4146",
+   "id": "ext-4134",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "HP",
@@ -124236,7 +123840,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-4147",
+   "id": "ext-4135",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Microsoft",
@@ -124269,7 +123873,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-4148",
+   "id": "ext-4136",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -124302,7 +123906,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-4149",
+   "id": "ext-4137",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "HP",
@@ -124335,7 +123939,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-4174",
+   "id": "ext-4162",
    "form": "Laptop",
    "use": "Everyday & Business",
    "brand": "Acer",
@@ -124368,7 +123972,7 @@ window.SPECS_DATA = {
    "storageType": "NVMe SSD"
   },
   {
-   "id": "ext-4175",
+   "id": "ext-4163",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "MSI",
@@ -124401,7 +124005,7 @@ window.SPECS_DATA = {
    "storageType": "SSD"
   },
   {
-   "id": "ext-4176",
+   "id": "ext-4164",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
@@ -124434,7 +124038,7 @@ window.SPECS_DATA = {
    "storageType": "NVMe SSD"
   },
   {
-   "id": "ext-4177",
+   "id": "ext-4165",
    "form": "Laptop",
    "use": "Gaming",
    "brand": "Lenovo",
