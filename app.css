@@ -491,3 +491,31 @@ body.matrix { --bg: #000; --surface: #031503; --ink: #3bff5c; --muted: #1fae3a; 
 .bt .hl-btns { flex-wrap: wrap; } .bt .hl-btns .btn { font-size: var(--step-0); padding: 10px 14px; }
 .game-q { width: 100%; margin: 4px 0 12px; padding: 10px 14px; border-radius: 12px; border: 1px solid var(--line); background: var(--bg); color: var(--ink); font: inherit; }
 .quiz-opt[hidden] { display: none; }
+
+/* gamer mode quiz */
+.quiz-opts.many { grid-template-columns: repeat(2, 1fr); }
+.quiz-opts.many .quiz-opt { padding: 12px 8px; } .quiz-opts.many .quiz-opt span { font-size: 26px; }
+.pick-h { margin: 16px 0 8px; font: 800 var(--step-0) var(--font-display); }
+.fun-dialog.gamer {
+  --g1: #22d3ee; --g2: #a855f7; --g3: #f43f5e;
+  background: radial-gradient(120% 80% at 0% 0%, #1e1b4b 0%, #0b1020 55%, #050814 100%); color: #e2e8f0; border: 2px solid transparent;
+  background-clip: padding-box; box-shadow: 0 0 0 2px var(--g2), 0 0 30px rgb(168 85 247 / .55), 0 0 60px rgb(34 211 238 / .25);
+}
+.fun-dialog.gamer .dlg-head { border-color: rgb(168 85 247 / .4); }
+.fun-dialog.gamer #fun-title { background: linear-gradient(90deg, var(--g1), var(--g2), var(--g3)); -webkit-background-clip: text; background-clip: text; color: transparent; letter-spacing: .02em; }
+.fun-dialog.gamer .quiz-n, .fun-dialog.gamer p { color: #a5b4fc; }
+.fun-dialog.gamer h4 { color: #fff; text-shadow: 0 0 12px rgb(168 85 247 / .6); }
+.fun-dialog.gamer .quiz-prog { background: rgb(255 255 255 / .1); }
+.fun-dialog.gamer .quiz-prog i { background: linear-gradient(90deg, var(--g1), var(--g2), var(--g3)); box-shadow: 0 0 12px var(--g2); }
+.fun-dialog.gamer .quiz-opt { background: rgb(15 23 42 / .85); color: #e2e8f0; border: 2px solid rgb(99 102 241 / .45); text-transform: uppercase; letter-spacing: .04em; font-size: 13px; }
+.fun-dialog.gamer .quiz-opt:hover { border-color: var(--g1); box-shadow: 0 0 16px rgb(34 211 238 / .6), inset 0 0 12px rgb(34 211 238 / .2); transform: translateY(-3px) scale(1.03); }
+.fun-dialog.gamer .btn { background: rgb(15 23 42); color: #e2e8f0; border-color: var(--g2); }
+.fun-dialog.gamer .btn.primary { background: linear-gradient(90deg, var(--g2), var(--g3)); border: 0; color: #fff; box-shadow: 0 0 18px rgb(244 63 94 / .5); }
+.fun-dialog.gamer .card { border-color: rgb(168 85 247 / .5); box-shadow: 0 0 18px rgb(168 85 247 / .25); }
+@media (prefers-reduced-motion: no-preference) {
+  .fun-dialog.gamer { animation: neon 3s ease-in-out infinite; }
+  @keyframes neon { 50% { box-shadow: 0 0 0 2px var(--g1), 0 0 34px rgb(34 211 238 / .55), 0 0 70px rgb(244 63 94 / .25); } }
+}
+.fun-dialog.gamer { --surface: #0f172a; --bg: #0b1020; --ink: #e2e8f0; --muted: #94a3b8; --line: #334155; }
+.fun-dialog.gamer .dlg-head { background: transparent; }
+.fun-dialog.gamer .card { background: rgb(15 23 42 / .92); }
