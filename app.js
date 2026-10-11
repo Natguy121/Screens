@@ -689,8 +689,56 @@
         COND_Q,
       ] },
   };
+  // Follow-up questions that appear only after a specific answer.
+  const HZ = { q: "What refresh rate are you aiming for?", a: [["🙂", "60 FPS is fine", {}], ["⚡", "144 Hz smooth", { boost: 8 }], ["🏆", "240 Hz+ like the pros", { boost: 18 }]] };
+  const FOLLOW = {
+    "Valorant": [{ q: "How seriously do you play Valorant?", a: [["🎲", "Unrated & Spike Rush for fun", {}], ["📈", "Ranked grind (Gold–Diamond)", { boost: 6 }], ["👑", "Immortal / Radiant dreams", { boost: 12 }]] }, HZ],
+    "Counter-Strike 2": [{ q: "Which CS2 do you play most?", a: [["🎯", "Premier / FACEIT competitive", { boost: 10 }], ["💥", "Deathmatch & casual", {}], ["🗺️", "Workshop maps, surf & KZ", { ram: 16 }]] }, HZ,
+      { q: "Will you run CS2 with other stuff open?", a: [["💬", "Discord + browser at the same time", { ram: 16 }], ["🔴", "Discord + OBS recording", { ram: 32, boost: 6 }], ["🎮", "Just CS2", {}]] }],
+    "Fortnite": [{ q: "How do you play Fortnite?", a: [["🏗️", "Build battles & competitive", { boost: 8 }], ["🚫", "Zero Build chill", {}], ["🎨", "Creative & LEGO maps", { ram: 16 }]] },
+      { q: "Which graphics mode?", a: [["⚡", "Performance mode (max FPS)", {}], ["✨", "DirectX 12 with Lumen & ray tracing", { boost: 18 }]] }],
+    "Minecraft": [{ q: "How do you play Minecraft?", a: [["🟩", "Vanilla", {}], ["🧩", "Big modpacks (100+ mods)", { ram: 16, rank: 24 }], ["🌅", "Shaders / RTX", { rank: 50, pcOnly: true }]] }],
+    "EA Sports FC": [{ q: "Which mode do you play?", a: [["🃏", "Ultimate Team online", { boost: 6 }], ["🏆", "Career mode", {}], ["👥", "Couch co-op with friends", { size: "l" }]] }],
+    "Call of Duty: Warzone": [{ q: "Which Warzone?", a: [["🪂", "Battle Royale (big map)", { ram: 16, boost: 6 }], ["⚡", "Resurgence (small map)", { ram: 16 }]] }, HZ],
+    "GTA V": [{ q: "What do you do in GTA?", a: [["📖", "Story mode", {}], ["🌐", "GTA Online", { ram: 16 }], ["👮", "Roleplay servers (FiveM)", { ram: 16, boost: 14 }], ["🛠️", "Graphics mods (NaturalVision)", { ram: 32, rank: 64 }]] }],
+    "Big new games (Cyberpunk, Wukong…)": [{ q: "Which one do you want most?", a: [["🌆", "Cyberpunk 2077 with path tracing", { rank: 90 }], ["🐒", "Black Myth: Wukong", { rank: 80 }], ["🤠", "Red Dead Redemption 2", { rank: 60 }], ["🪄", "Hogwarts Legacy", { rank: 64 }]] }],
+    "Engineering / architecture": [{ q: "Which software does your course use?", a: [["📏", "AutoCAD 2D drawings", { rank: 24 }], ["🏢", "Revit / 3ds Max / Lumion", { rank: 60, ram: 32, ded: true }], ["⚙️", "SolidWorks / ANSYS / MATLAB", { rank: 46, ram: 16, ded: true }], ["🤷", "Not sure yet", { rank: 38 }]] }],
+    "Computer science / IT": [{ q: "What will you code in your degree?", a: [["🌐", "Web & apps", {}], ["🤖", "AI / machine learning projects", { rank: 55, ram: 32, ded: true }], ["🐧", "Linux, networks, VMs", { ram: 32 }]] }],
+    "Art / design / media": [{ q: "What kind of design?", a: [["🖌️", "Photoshop / Illustrator", { ram: 16 }], ["🎬", "Video & animation", { rank: 46, ram: 16 }], ["🧊", "3D & motion design", { rank: 60, ram: 32 }], ["✏️", "Drawing with a pen", { touch: true }]] }],
+    "Medicine / science": [{ q: "How do you study?", a: [["📑", "Lots of PDFs & slides", { sizeSoft: "m" }], ["🏥", "Carry it to hospital & labs", { size: "s" }], ["🧪", "Lab software & statistics (SPSS, R)", { ram: 16 }]] }],
+    "Big Excel files, data, finance": [{ q: "How big are your spreadsheets?", a: [["📄", "A few thousand rows", {}], ["📚", "Hundreds of thousands of rows", { ram: 16 }], ["🐘", "Millions + Power BI / Python", { ram: 32 }]] }],
+    "Engineering & CAD": [{ q: "Which CAD do you use?", a: [["📏", "AutoCAD 2D", { rank: 24, ram: 16 }], ["🏢", "Revit / BIM", { rank: 60, ram: 32 }], ["⚙️", "SolidWorks / Inventor", { rank: 55, ram: 32 }], ["🌍", "GIS & civil (Civil 3D)", { rank: 50, ram: 32 }]] }],
+    "Sales, always on the road": [{ q: "What matters most on the road?", a: [["🪶", "As light as possible", { size: "s" }], ["🔋", "Battery that lasts all day", { size: "s", noGamer: true }], ["🛡️", "Tough build that survives travel", { brands: ["Lenovo", "Dell", "HP"] }]] }],
+    "Video editing": [{ q: "Highest resolution you edit?", a: [["📱", "1080p, Reels & TikTok", { rank: 46 }], ["🎥", "4K YouTube & client work", { rank: 60, ram: 32 }], ["🎞️", "6K–8K RAW / colour grading", { rank: 80, ram: 64 }]] }],
+    "3D modelling & rendering": [{ q: "How do you render?", a: [["🟠", "Blender Cycles on the GPU", { rank: 72 }], ["🎮", "Real-time (Unreal, Twinmotion, D5)", { rank: 72, ram: 32 }], ["🖥️", "V-Ray / Corona on the CPU", { rank: 46, ram: 32 }], ["🧩", "Just modelling, little rendering", { rank: 46 }]] }],
+    "Architecture & interior (CAD/BIM)": [{ q: "What's your main tool?", a: [["🏠", "SketchUp + V-Ray", { rank: 55, ram: 32 }], ["🏢", "Revit + Enscape / Lumion", { rank: 64, ram: 32 }], ["📏", "AutoCAD drawings mostly", { rank: 24, ram: 16 }]] }],
+    "Photo editing": [{ q: "What kind of photos?", a: [["📱", "Phone photos & social media", {}], ["📷", "RAW photos from a real camera", { ram: 16, oledSoft: true }], ["🖼️", "Huge print files, 100+ layers", { ram: 32 }]] }],
+    "Music production": [{ q: "How big are your sessions?", a: [["🎹", "A few tracks & plugins", { ram: 16 }], ["🎛️", "Orchestral libraries, 100+ tracks", { ram: 32 }], ["🎙️", "Recording live with an audio interface", { ram: 16 }]] }],
+    "AI & machine learning": [{ q: "How will you run AI models?", a: [["☁️", "Mostly cloud / APIs", { rank: 0, ded: false, ram: 16 }], ["🧪", "Small models locally", { rank: 64, ram: 32 }], ["🔥", "Train big models locally", { rank: 90, ram: 64 }]] }],
+    "Games (Unity / Unreal)": [{ q: "Which engine?", a: [["🟦", "Unity", { rank: 55 }], ["⬛", "Unreal Engine 5", { rank: 72, ram: 32 }], ["🟩", "Godot / 2D games", { rank: 24 }]] }],
+    "Mobile apps (Android/iOS)": [{ q: "Which phones do you build for?", a: [["🤖", "Android (emulator needs RAM)", { ram: 16, apple: "no" }], ["🍏", "iPhone (needs a Mac)", { apple: "only" }], ["🔀", "Both with Flutter / React Native", { ram: 16 }]] }],
+  };
   let quizAns = [], quizFlow = [Q_USE], quizPath = null;
+  // The flow is the path's questions plus the follow-ups of the answers given so far.
+  function buildFlow() {
+    const queue = [Q_USE, ...(quizPath ? PATHS[quizPath].qs() : [])], out = [];
+    while (queue.length) {
+      const q = queue.shift();
+      out.push(q);
+      const pick = quizAns[out.length - 1];
+      if (pick && pick.label && FOLLOW[pick.label]) queue.unshift(...FOLLOW[pick.label]);
+    }
+    return out;
+  }
   const pathOf = () => (quizPath ? PATHS[quizPath] : null);
+  // Label of the answer that brought in question i, if it is a follow-up.
+  function FOLLOW_OF(i) {
+    for (let j = i - 1; j >= 1; j--) {
+      const pick = quizAns[j];
+      if (pick && pick.label && FOLLOW[pick.label] && FOLLOW[pick.label].includes(quizFlow[i])) return pick.label;
+    }
+    return null;
+  }
   function quizStep(i) {
     if (i >= quizFlow.length) return quizDone();
     const st = quizFlow[i], P = pathOf();
@@ -698,6 +746,7 @@
       <p class="quiz-n">${P ? P.step : "Question"} ${i + 1}${P ? " of " + quizFlow.length : ""}</p><h4>${st.q}</h4>
       <div class="quiz-opts${st.a.length > 4 ? " many" : ""}">${st.a.map((a, j) => `<button type="button" class="quiz-opt" data-qi="${i}" data-qa="${j}"><span>${a[0]}</span>${esc(a[1])}</button>`).join("")}</div>
       ${i > 0 ? `<p style="text-align:center;margin:12px 0 0"><button type="button" class="linkbtn" data-qback="${i - 1}">← Back</button></p>` : ""}</div>`);
+    if (FOLLOW_OF(i)) $("fun-body").querySelector(".quiz-n").insertAdjacentHTML("beforeend", ` <span class="qf">✨ follow-up for “${esc(FOLLOW_OF(i))}”</span>`);
     if (P) FD.classList.add(P.cls);
   }
   function quizDone() {
@@ -705,6 +754,10 @@
     const E = { rank: 0, ram: 0, boost: 0, brands: [] };
     quizAns.forEach((a) => {
       Object.entries(a).forEach(([k, v]) => {
+        if (k === "label" || k === "oledSoft" || k === "touch" || k === "noGamer") return;
+        if (k === "rank" && v === 0) { E.rank = 0; E.cloud = true; return; }
+        if (k === "ded" && v === false) { E.ded = false; return; }
+        if ((k === "rank" || k === "ram") && E.cloud && k === "rank") return;
         if (k === "rank" || k === "ram" || k === "pmaxSoft") E[k] = Math.max(E[k] || 0, v);
         else if (k === "boost") E.boost += v;
         else if (k === "brands") E.brands = v;
@@ -757,10 +810,11 @@
   $("fun-body").addEventListener("click", (e) => {
     const o = e.target.closest("[data-qi]");
     if (o) {
-      const i = +o.dataset.qi, eff = quizFlow[i].a[+o.dataset.qa][2];
+      const i = +o.dataset.qi, opt = quizFlow[i].a[+o.dataset.qa];
       quizAns = quizAns.slice(0, i);
-      if (i === 0) { quizPath = eff.path; quizFlow = [Q_USE, ...PATHS[quizPath].qs()]; quizAns.push({}); }
-      else quizAns.push(eff);
+      if (i === 0) { quizPath = opt[2].path; quizAns.push({}); }
+      else quizAns.push({ ...opt[2], label: opt[1] });
+      quizFlow = buildFlow();
       return quizStep(i + 1);
     }
     const bk = e.target.closest("[data-qback]");
