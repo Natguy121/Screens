@@ -32,7 +32,7 @@
   const blank = () => ({
     q: "", form: "All", stores: new Set(), brands: new Set(), cpus: new Set(), gpus: new Set(),
     uses: new Set(), conds: new Set(), gpuKind: "any", ramMin: 0, storageMin: 0, screen: "any",
-    pmin: null, pmax: null, pricedOnly: false, steals: false, favs: false, game: null,
+    pmin: null, pmax: null, pricedOnly: false, steals: false, favs: false, game: null, oled: false, apple: null,
   });
   let S = blank();
   let sort = "price-asc";
@@ -83,6 +83,9 @@
     if (skip !== "form" && S.form !== "All" && p.form !== S.form) return false;
     if (S.steals && !p.steal) return false;
     if (S.favs && !favs.has(p.id)) return false;
+    if (S.oled && !p.oled) return false;
+    if (S.apple === "only" && p.cpuVendor !== "Apple") return false;
+    if (S.apple === "no" && p.cpuVendor === "Apple") return false;
     if (S.game && !((p.gpuRank || 0) >= S.game.good && !(p.cpuVendor === "Apple" && S.game.pcOnly))) return false;
     if (skip !== "store" && S.stores.size && !S.stores.has(p.store)) return false;
     if (skip !== "brand" && S.brands.size && !S.brands.has(p.brand)) return false;
@@ -330,7 +333,9 @@
     if (S.screen !== "any") add(SCREENS.find((s) => s.id === S.screen).label, () => { S.screen = "any"; });
     if (S.pmin != null) add(`From ${money(S.pmin)}`, () => { S.pmin = null; $("pmin").value = ""; });
     if (S.pmax != null) add(`Up to ${money(S.pmax)}`, () => { S.pmax = null; $("pmax").value = ""; });
-    if (S.game) add(S.game.name === "your games" ? "🎮 Strong enough for your games" : `🎮 Runs ${S.game.name} smoothly`, () => { S.game = null; });
+    if (S.game) add(S.game.name === "your needs" ? "💪 Strong enough for your work" : S.game.name === "your games" ? "🎮 Strong enough for your games" : `🎮 Runs ${S.game.name} smoothly`, () => { S.game = null; });
+    if (S.oled) add("OLED screen", () => { S.oled = false; });
+    if (S.apple) add(S.apple === "only" ? "Mac only" : "No Mac", () => { S.apple = null; });
     if (S.favs) add("❤️ Favourites", () => { S.favs = false; });
     if (S.steals) add("🔥 Steals only", () => { S.steals = false; });
     if (S.pricedOnly) add("Priced only", () => { S.pricedOnly = false; $("priced").checked = false; });
@@ -576,7 +581,7 @@
 
   const FD = $("fun-dialog");
   function openFun(title, html) {
-    FD.classList.remove("gamer");
+    FD.classList.remove("gamer", "t-school", "t-work", "t-create", "t-code");
     $("fun-title").textContent = title;
     $("fun-body").innerHTML = html;
     if (!FD.open) FD.showModal ? FD.showModal() : FD.setAttribute("open", "");
@@ -624,83 +629,143 @@
     if (p) setTimeout(() => openFun("Someone shared this laptop with you 👀", `<div class="grid one">${card(p)}</div>`), 300);
   })();
 
-  // ---- Find my laptop quiz (gamers get their own questions) ----
-  const Q_USE = { q: "What will you mostly do with it?", k: "use", a: [["🎮", "Gaming", "game"], ["📚", "School & browsing", "school"], ["💼", "Work & office", "work"], ["🎨", "Video, photo & 3D", "create"]] };
-  const Q_REST = [
-    Q_USE,
-    { q: "What's your budget?", k: "budget", a: [["🪙", "Under $500", 500], ["💵", "Up to $900", 900], ["💰", "Up to $1,500", 1500], ["🤑", "Money is no object", null]] },
-    { q: "Which size feels right?", k: "size", a: [["🎒", "Small & light (14\" or less)", "s"], ["💻", "Standard (15–16\")", "m"], ["🖥️", "Big screen (17\"+)", "l"], ["🤷", "Don't care", "any"]] },
-    { q: "New or second-hand?", k: "cond", a: [["✨", "Brand new only", "new"], ["♻️", "Used is fine if cheaper", "any"]] },
-  ];
-  const gameOpt = (name) => { const g = GAMES.find((x) => x.name === name); return [g.ico, g.name, g.good]; };
-  const qGame = () => [
-    Q_USE,
-    { q: "What do you play the most?", k: "need", a: [gameOpt("Valorant"), gameOpt("Counter-Strike 2"), gameOpt("Fortnite"), gameOpt("Minecraft"), gameOpt("EA Sports FC"), gameOpt("Call of Duty: Warzone"), gameOpt("GTA V"), ["🌆", "Big new games (Cyberpunk, Wukong…)", 72]] },
-    { q: "What matters more to you?", k: "boost", a: [["⚡", "Max FPS: I play competitive", 10], ["🎨", "Max graphics: it must look amazing", 18], ["👍", "Just let it run well", 0]] },
-    { q: "What's your gaming budget?", k: "budget", a: [["🪙", "Under $900", 900], ["💵", "Up to $1,300", 1300], ["💰", "Up to $1,800", 1800], ["💎", "Up to $2,500", 2500], ["🤑", "Sky's the limit", null]] },
-    { q: "Pick your size", k: "size", a: [["🎒", "15–16\": I carry it around", "m"], ["🖥️", "17–18\": big-screen battlestation", "l"], ["🤷", "Don't care", "any"]] },
-    { q: "Choose your team", k: "team", a: [["🦅", "ASUS ROG / TUF", "ASUS"], ["⚔️", "Lenovo Legion / LOQ", "Lenovo"], ["🐉", "MSI", "MSI"], ["🌀", "HP Omen / Victus", "HP"], ["🔺", "Acer Nitro / Predator", "Acer"], ["👽", "Dell Alienware", "Dell"], ["🤝", "No favourite", null]] },
-    { q: "New or second-hand?", k: "cond", a: [["✨", "Brand new only", "new"], ["♻️", "Used is fine if cheaper", "any"]] },
-  ];
-  let quizAns = {}, quizFlow = Q_REST;
-  const gamer = () => quizAns.use === "game";
+  // ---- Find my laptop quiz: every path has its own look and questions ----
+  // Each answer is a set of effects: rank (min graphics power), ram, ded (dedicated GPU),
+  // pmax, size, brands, cond, oled, apple ("only"/"no"), pcOnly.
+  const Q_USE = { q: "What will you mostly do with it?", k: "use", a: [
+    ["🎮", "Gaming", { path: "game" }], ["📚", "School & university", { path: "school" }], ["💼", "Work & office", { path: "work" }],
+    ["🎨", "3D, design & video", { path: "create" }], ["👨‍💻", "Programming", { path: "code" }]] };
+  const gameOpt = (name) => { const g = GAMES.find((x) => x.name === name); return [g.ico, g.name, { rank: g.good, pcOnly: !!g.pcOnly }]; };
+  const COND_Q = { q: "New or second-hand?", a: [["✨", "Brand new only", { cond: "new" }], ["♻️", "Used is fine if cheaper", {}]] };
+  const PATHS = {
+    game: { cls: "gamer", title: "🎮 Gamer mode: find your rig", step: "Level", done: "🏆 GG! Your gaming rigs", second: "🐉 Most powerful in your budget", fail: ["💀 Game over", "🔁 Respawn"], rain: "🎮",
+      qs: () => [
+        { q: "What do you play the most?", a: [gameOpt("Valorant"), gameOpt("Counter-Strike 2"), gameOpt("Fortnite"), gameOpt("Minecraft"), gameOpt("EA Sports FC"), gameOpt("Call of Duty: Warzone"), gameOpt("GTA V"), ["🌆", "Big new games (Cyberpunk, Wukong…)", { rank: 72, pcOnly: true }]] },
+        { q: "What matters more to you?", a: [["⚡", "Max FPS: I play competitive", { boost: 10 }], ["🎨", "Max graphics: it must look amazing", { boost: 18 }], ["👍", "Just let it run well", {}]] },
+        { q: "Do you stream or record your games?", a: [["🔴", "Yes, I stream on Twitch / TikTok", { ram: 32, boost: 6 }], ["🎬", "Sometimes I record clips", { ram: 16 }], ["🙅", "No, I just play", {}]] },
+        { q: "What's your gaming budget?", a: [["🪙", "Under $900", { pmax: 900 }], ["💵", "Up to $1,300", { pmax: 1300 }], ["💰", "Up to $1,800", { pmax: 1800 }], ["💎", "Up to $2,500", { pmax: 2500 }], ["🤑", "Sky's the limit", {}]] },
+        { q: "Pick your size", a: [["🎒", "15–16\": I carry it around", { size: "m" }], ["🖥️", "17–18\": big-screen battlestation", { size: "l" }], ["🤷", "Don't care", {}]] },
+        { q: "Choose your team", a: [["🦅", "ASUS ROG / TUF", { brands: ["ASUS"] }], ["⚔️", "Lenovo Legion / LOQ", { brands: ["Lenovo"] }], ["🐉", "MSI", { brands: ["MSI"] }], ["🌀", "HP Omen / Victus", { brands: ["HP"] }], ["🔺", "Acer Nitro / Predator", { brands: ["Acer"] }], ["👽", "Dell Alienware", { brands: ["Dell"] }], ["🤝", "No favourite", {}]] },
+        COND_Q,
+      ] },
+    school: { cls: "t-school", title: "📒 Back to school: find your laptop", step: "Page", done: "🎓 Your study buddies", second: "🏅 Top of the class (best in your budget)", fail: ["📝 Nothing fits yet", "✏️ Try again"], rain: "📚",
+      qs: () => [
+        { q: "Where do you study?", a: [["🏫", "School", { pmaxSoft: 700 }], ["🎓", "University", {}], ["🧑‍🏫", "Online courses at home", {}]] },
+        { q: "What do you study?", a: [["📐", "Engineering / architecture", { ram: 16, ded: true, rank: 38 }], ["💻", "Computer science / IT", { ram: 16 }], ["🩺", "Medicine / science", { ram: 8 }], ["📊", "Business / economics", { ram: 8 }], ["🎨", "Art / design / media", { ram: 16, rank: 24 }], ["📖", "Literature / languages / other", {}]] },
+        { q: "Will you carry it all day?", a: [["🎒", "Yes, it must be light", { size: "s" }], ["🚌", "Sometimes", { sizeSoft: "m" }], ["🏠", "No, it stays on my desk", {}]] },
+        { q: "How many tabs and apps do you keep open?", a: [["🐢", "A few, one thing at a time", {}], ["🐇", "Lots of tabs + Word + Teams", { ram: 16 }], ["🚀", "Everything, all the time", { ram: 32 }]] },
+        { q: "Any gaming after homework?", a: [["🎮", "Yes, some gaming too", { rank: 38, pcOnly: true }], ["🙂", "Light games like Minecraft", {}], ["📚", "No, just studying", {}]] },
+        { q: "Mac or Windows?", a: [["🍎", "MacBook", { apple: "only" }], ["🪟", "Windows", { apple: "no" }], ["🤷", "Either is fine", {}]] },
+        { q: "What's your budget?", a: [["🪙", "Under $400", { pmax: 400 }], ["💵", "Up to $600", { pmax: 600 }], ["💰", "Up to $900", { pmax: 900 }], ["💎", "Up to $1,400", { pmax: 1400 }], ["🤑", "Parents are paying 😎", {}]] },
+        COND_Q,
+      ] },
+    work: { cls: "t-work", title: "💼 Work mode: find your work laptop", step: "Step", done: "📈 Your shortlist", second: "🚀 Power user pick", fail: ["📉 No match", "🔁 Start over"], rain: "💼",
+      qs: () => [
+        { q: "What's your job like?", a: [["📧", "Email, Word, Excel, meetings", { ram: 8 }], ["📊", "Big Excel files, data, finance", { ram: 16 }], ["🧾", "Accounting software & ERP", { ram: 16 }], ["📞", "Sales, always on the road", { size: "s" }], ["🏗️", "Engineering & CAD", { ram: 32, ded: true, rank: 50 }], ["🎤", "Presentations & clients", { ram: 16 }]] },
+        { q: "How many video calls a day?", a: [["📵", "Almost none", {}], ["📹", "A few", {}], ["🎥", "All day long on Zoom/Teams", { ram: 16 }]] },
+        { q: "How often do you travel with it?", a: [["✈️", "Every week", { size: "s" }], ["🚗", "Between office and home", { sizeSoft: "m" }], ["🪑", "It stays on my desk", {}]] },
+        { q: "Business-grade build?", a: [["🛡️", "Yes: ThinkPad / Latitude / EliteBook class", { brands: ["Lenovo", "Dell", "HP"] }], ["💡", "Any good laptop is fine", {}]] },
+        { q: "Screen size you prefer?", a: [["📱", "Compact (14\" or less)", { size: "s" }], ["💻", "15–16\"", { size: "m" }], ["🖥️", "Big 17\"+ for spreadsheets", { size: "l" }], ["🤷", "Don't mind", {}]] },
+        { q: "Who's paying?", a: [["🪙", "Me, under $600", { pmax: 600 }], ["💵", "Up to $1,000", { pmax: 1000 }], ["💰", "Up to $1,600", { pmax: 1600 }], ["🏢", "The company 😏", {}]] },
+        COND_Q,
+      ] },
+    create: { cls: "t-create", title: "🎨 Creator studio: find your machine", step: "Layer", done: "✨ Your creative machines", second: "🎨 Creative powerhouse in your budget", fail: ["🖌️ Blank canvas", "🔁 Try again"], rain: "🎨",
+      qs: () => [
+        { q: "What do you create?", a: [["🖼️", "Photo editing", { ram: 16, rank: 12 }], ["🖌️", "Graphic design & illustration", { ram: 16, rank: 12 }], ["🎬", "Video editing", { ram: 16, rank: 46, ded: true }], ["🧊", "3D modelling & rendering", { ram: 32, rank: 60, ded: true }], ["🏛️", "Architecture & interior (CAD/BIM)", { ram: 32, rank: 55, ded: true }], ["🎧", "Music production", { ram: 16 }]] },
+        { q: "Which software do you use most?", a: [["🅰️", "Adobe Photoshop / Illustrator", {}], ["🎞️", "Premiere / DaVinci Resolve", { rank: 50 }], ["🟠", "Blender / Cinema 4D", { rank: 60, ram: 32 }], ["📐", "AutoCAD / Revit / SketchUp", { rank: 50, ram: 16 }], ["🎹", "FL Studio / Ableton / Logic", {}], ["🤷", "A bit of everything", { rank: 46 }]] },
+        { q: "How big are your projects?", a: [["🌱", "Small: social posts, short clips", {}], ["🌳", "Medium: client work, YouTube", { ram: 16, boost: 6 }], ["🏔️", "Huge: 4K/8K, heavy 3D scenes", { ram: 32, boost: 14 }]] },
+        { q: "How important is the screen?", a: [["🌈", "Must be OLED, perfect colours", { oled: true }], ["🖥️", "Big screen, 16\" or more", { size: "big" }], ["👌", "Any good screen", {}]] },
+        { q: "Mac or Windows?", a: [["🍎", "MacBook (great for creators)", { apple: "only", macOk: true }], ["🪟", "Windows with a real graphics card", { apple: "no" }], ["🤷", "Either", { macOk: true }]] },
+        { q: "What's your budget?", a: [["💵", "Up to $1,000", { pmax: 1000 }], ["💰", "Up to $1,600", { pmax: 1600 }], ["💎", "Up to $2,500", { pmax: 2500 }], ["🤑", "Whatever it takes", {}]] },
+        COND_Q,
+      ] },
+    code: { cls: "t-code", title: "👨‍💻 Dev mode: find your coding machine", step: "Commit", done: "✅ Build passed: your laptops", second: "🧠 Beast for heavy builds", fail: ["❌ Build failed", "🔁 git reset"], rain: "💾",
+      qs: () => [
+        { q: "What do you build?", a: [["🌐", "Websites & web apps", { ram: 16 }], ["📱", "Mobile apps (Android/iOS)", { ram: 16 }], ["🎮", "Games (Unity / Unreal)", { ram: 32, rank: 55, ded: true }], ["🤖", "AI & machine learning", { ram: 32, rank: 60, ded: true }], ["🖥️", "Backend, servers, Docker", { ram: 32 }], ["📚", "Learning to code", { ram: 8 }]] },
+        { q: "Do you build iPhone apps?", a: [["🍏", "Yes, I need Xcode (Mac)", { apple: "only" }], ["🐧", "No, I prefer Windows/Linux", { apple: "no" }], ["🤷", "Not sure", {}]] },
+        { q: "How many things run at once?", a: [["🧘", "Editor + browser", {}], ["🐳", "Editor, browser, Docker, emulator", { ram: 32 }], ["🔥", "Everything + VMs", { ram: 64 }]] },
+        { q: "Where do you code?", a: [["☕", "Cafés & university: needs to be light", { size: "s" }], ["🏠", "Mostly at my desk", {}], ["🔀", "Both", { sizeSoft: "m" }]] },
+        { q: "What's your budget?", a: [["🪙", "Under $700", { pmax: 700 }], ["💵", "Up to $1,200", { pmax: 1200 }], ["💰", "Up to $2,000", { pmax: 2000 }], ["🤑", "Ship it, no limit", {}]] },
+        COND_Q,
+      ] },
+  };
+  let quizAns = [], quizFlow = [Q_USE], quizPath = null;
+  const pathOf = () => (quizPath ? PATHS[quizPath] : null);
   function quizStep(i) {
     if (i >= quizFlow.length) return quizDone();
-    const st = quizFlow[i];
-    openFun(gamer() ? "🎮 Gamer mode: find your rig" : "🧭 Find my laptop", `<div class="quiz"><div class="quiz-prog"><i style="width:${(i / quizFlow.length) * 100}%"></i></div>
-      <p class="quiz-n">${gamer() ? "Level" : "Question"} ${i + 1} of ${quizFlow.length}</p><h4>${st.q}</h4>
-      <div class="quiz-opts${st.a.length > 4 ? " many" : ""}">${st.a.map((a, j) => `<button type="button" class="quiz-opt" data-qi="${i}" data-qa="${j}"><span>${a[0]}</span>${esc(a[1])}</button>`).join("")}</div></div>`);
-    FD.classList.toggle("gamer", gamer());
+    const st = quizFlow[i], P = pathOf();
+    openFun(P ? P.title : "🧭 Find my laptop", `<div class="quiz"><div class="quiz-prog"><i style="width:${(i / quizFlow.length) * 100}%"></i></div>
+      <p class="quiz-n">${P ? P.step : "Question"} ${i + 1}${P ? " of " + quizFlow.length : ""}</p><h4>${st.q}</h4>
+      <div class="quiz-opts${st.a.length > 4 ? " many" : ""}">${st.a.map((a, j) => `<button type="button" class="quiz-opt" data-qi="${i}" data-qa="${j}"><span>${a[0]}</span>${esc(a[1])}</button>`).join("")}</div>
+      ${i > 0 ? `<p style="text-align:center;margin:12px 0 0"><button type="button" class="linkbtn" data-qback="${i - 1}">← Back</button></p>` : ""}</div>`);
+    if (P) FD.classList.add(P.cls);
   }
   function quizDone() {
-    const a = quizAns, game = gamer();
+    const P = pathOf();
+    const E = { rank: 0, ram: 0, boost: 0, brands: [] };
+    quizAns.forEach((a) => {
+      Object.entries(a).forEach(([k, v]) => {
+        if (k === "rank" || k === "ram" || k === "pmaxSoft") E[k] = Math.max(E[k] || 0, v);
+        else if (k === "boost") E.boost += v;
+        else if (k === "brands") E.brands = v;
+        else E[k] = v;
+      });
+    });
     S = blank(); $("q").value = ""; $("pmin").value = ""; $("priced").checked = false;
-    if (game) {
-      const need = Math.min(MAX_RANK, (a.need || 36) + (a.boost || 0));
-      S.game = { name: "your games", good: need, pcOnly: true };
-      if (a.team) S.brands.add(a.team);
-    }
-    if (a.use === "school") S.uses.add("Everyday & Business");
-    if (a.use === "work") { S.uses.add("Everyday & Business"); S.ramMin = 8; }
-    if (a.use === "create") { S.ramMin = 16; S.gpuKind = "Dedicated"; }
-    S.pmax = a.budget; $("pmax").value = a.budget || "";
-    S.screen = a.size;
-    if (a.cond === "new") S.conds.add("New");
+    const need = E.rank ? Math.min(MAX_RANK, E.rank + E.boost) : 0;
+    if (need > 10) S.game = { name: quizPath === "game" ? "your games" : "your needs", good: need, pcOnly: !!E.pcOnly && !E.macOk };
+    if (E.ded && E.apple !== "only") S.gpuKind = "Dedicated";
+    if (E.ram) S.ramMin = Math.min(64, E.ram);
+    if (E.apple) S.apple = E.apple;
+    if (E.apple === "only") { S.game = null; S.gpuKind = "any"; }
+    if (E.oled) S.oled = true;
+    if (E.brands.length) E.brands.forEach((b) => S.brands.add(b));
+    S.pmax = E.pmax || null; $("pmax").value = S.pmax || "";
+    S.screen = E.size === "big" ? "any" : E.size || E.sizeSoft || "any";
+    if (E.cond === "new") S.conds.add("New");
     S.pricedOnly = true; $("priced").checked = true;
-    sort = game ? "price-asc" : a.use === "create" ? "gpu" : "price-asc"; $("sort").value = sort;
-    let list = ALL.filter((p) => matches(p));
-    if (!list.length && S.screen !== "any") { S.screen = "any"; list = ALL.filter((p) => matches(p)); }
-    if (!list.length && S.brands.size) { S.brands.clear(); list = ALL.filter((p) => matches(p)); }
+    sort = "price-asc"; $("sort").value = sort;
+    const relax = [
+      () => E.sizeSoft && S.screen === E.sizeSoft && (S.screen = "any"),
+      () => S.oled && !(S.oled = false),
+      () => S.brands.size && (S.brands.clear(), true),
+      () => S.screen !== "any" && (S.screen = "any"),
+      () => S.ramMin > 16 && (S.ramMin = 16),
+    ];
+    let list = ALL.filter((p) => matches(p) && (E.size !== "big" || (p.screenIn || 0) >= 15.9));
+    for (const r of relax) { if (list.length) break; if (r()) list = ALL.filter((p) => matches(p)); }
     render();
     const best = list.sort(SORTS[sort])[0];
-    const beast = game && list.length > 1 ? list.slice().sort((x, y) => (y.gpuRank || 0) - (x.gpuRank || 0) || x.price - y.price)[0] : null;
+    const score = (x) => (x.gpuRank || 0) * 3 + (x.ramGB || 0) + (x.storageGB || 0) / 256;
+    const top = list.length > 1 ? list.slice().sort((x, y) => score(y) - score(x) || x.price - y.price)[0] : null;
+    const cls = P ? P.cls : "";
     if (!best) {
-      openFun(game ? "💀 Game over" : "😅 No match", `<p>${game ? "No laptop in that budget can handle it. Try a bigger budget, an easier game or ‘Just let it run well’." : "No laptop fits all of that right now. Try a bigger budget or another size."}</p><p style="text-align:center"><button type="button" class="btn primary" data-quiz>${game ? "🔁 Respawn" : "Try again"}</button></p>`);
-      FD.classList.toggle("gamer", game);
+      openFun(P ? P.fail[0] : "😅 No match", `<p>Nothing fits all of that right now. Try a bigger budget or fewer must-haves.</p><p style="text-align:center"><button type="button" class="btn primary" data-quiz>${P ? P.fail[1] : "Try again"}</button></p>`);
+      if (cls) FD.classList.add(cls);
       return;
     }
-    if (game) {
-      openFun("🏆 GG! Your gaming rigs", `<p class="quiz-n"><b>${list.length}</b> laptops can handle it. They're on the page now, cheapest first.</p>
-        <h4 class="pick-h">💸 Best value: cheapest that runs it</h4><div class="grid one">${card(best)}</div>
-        ${beast && beast !== best ? `<h4 class="pick-h">🐉 Most powerful in your budget</h4><div class="grid one">${card(beast)}</div>` : ""}
-        <p style="text-align:center"><button type="button" class="btn primary" data-see-all>See all ${list.length} rigs</button></p>`);
-      FD.classList.add("gamer");
-      if (!calm) rain("🎮", 24);
-    } else {
-      openFun("🎉 Your matches", `<p class="quiz-n"><b>${list.length}</b> laptops fit you. They're now shown on the page. Here's our top pick:</p><div class="grid one">${card(best)}</div><p style="text-align:center"><button type="button" class="btn primary" data-see-all>See all ${list.length} matches</button></p>`);
-    }
+    openFun(P ? P.done : "🎉 Your matches", `<p class="quiz-n"><b>${list.length}</b> ${list.length === 1 ? "laptop fits" : "laptops fit"} you. ${list.length === 1 ? "It's" : "They're"} on the page now${list.length === 1 ? "" : ", cheapest first"}.</p>
+      <h4 class="pick-h">💸 Best value: cheapest that fits</h4><div class="grid one">${card(best)}</div>
+      ${top && top !== best ? `<h4 class="pick-h">${P ? P.second : "⭐ Best in your budget"}</h4><div class="grid one">${card(top)}</div>` : ""}
+      <p style="text-align:center"><button type="button" class="btn primary" data-see-all>See all ${list.length}</button></p>`);
+    if (cls) FD.classList.add(cls);
+    if (P && !calm) rain(P.rain, 24);
     const r = $("fun-body").getBoundingClientRect(); confetti(r.left + r.width / 2, r.top + 40); ach("quiz");
   }
-  $("quiz-btn").addEventListener("click", () => { quizAns = {}; quizFlow = Q_REST; quizStep(0); });
+  const startQuiz = () => { quizAns = []; quizFlow = [Q_USE]; quizPath = null; quizStep(0); };
+  $("quiz-btn").addEventListener("click", startQuiz);
   $("fun-body").addEventListener("click", (e) => {
     const o = e.target.closest("[data-qi]");
     if (o) {
-      const i = +o.dataset.qi, st = quizFlow[i];
-      quizAns[st.k] = st.a[+o.dataset.qa][2];
-      if (st.k === "use") quizFlow = quizAns.use === "game" ? qGame() : Q_REST;
+      const i = +o.dataset.qi, eff = quizFlow[i].a[+o.dataset.qa][2];
+      quizAns = quizAns.slice(0, i);
+      if (i === 0) { quizPath = eff.path; quizFlow = [Q_USE, ...PATHS[quizPath].qs()]; quizAns.push({}); }
+      else quizAns.push(eff);
       return quizStep(i + 1);
     }
-    if (e.target.closest("[data-quiz]")) { quizAns = {}; quizFlow = Q_REST; return quizStep(0); }
+    const bk = e.target.closest("[data-qback]");
+    if (bk) return quizStep(+bk.dataset.qback);
+    if (e.target.closest("[data-quiz]")) return startQuiz();
     if (e.target.closest("[data-see-all]")) { closeFun(); $("summary").scrollIntoView({ behavior: calm ? "auto" : "smooth", block: "center" }); return; }
     const g = e.target.closest("[data-guess]");
     if (g) return guess(g.dataset.guess);
