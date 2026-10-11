@@ -330,7 +330,7 @@
     if (S.screen !== "any") add(SCREENS.find((s) => s.id === S.screen).label, () => { S.screen = "any"; });
     if (S.pmin != null) add(`From ${money(S.pmin)}`, () => { S.pmin = null; $("pmin").value = ""; });
     if (S.pmax != null) add(`Up to ${money(S.pmax)}`, () => { S.pmax = null; $("pmax").value = ""; });
-    if (S.game) add(`🎮 Runs ${S.game.name} smoothly`, () => { S.game = null; });
+    if (S.game) add(S.game.name === "your games" ? "🎮 Strong enough for your games" : `🎮 Runs ${S.game.name} smoothly`, () => { S.game = null; });
     if (S.favs) add("❤️ Favourites", () => { S.favs = false; });
     if (S.steals) add("🔥 Steals only", () => { S.steals = false; });
     if (S.pricedOnly) add("Priced only", () => { S.pricedOnly = false; $("priced").checked = false; });
@@ -576,6 +576,7 @@
 
   const FD = $("fun-dialog");
   function openFun(title, html) {
+    FD.classList.remove("gamer");
     $("fun-title").textContent = title;
     $("fun-body").innerHTML = html;
     if (!FD.open) FD.showModal ? FD.showModal() : FD.setAttribute("open", "");
@@ -623,25 +624,42 @@
     if (p) setTimeout(() => openFun("Someone shared this laptop with you 👀", `<div class="grid one">${card(p)}</div>`), 300);
   })();
 
-  // ---- Find my laptop quiz ----
-  const QUIZ = [
-    { q: "What will you mostly do with it?", k: "use", a: [["🎮", "Gaming", "game"], ["📚", "School & browsing", "school"], ["💼", "Work & office", "work"], ["🎨", "Video, photo & 3D", "create"]] },
+  // ---- Find my laptop quiz (gamers get their own questions) ----
+  const Q_USE = { q: "What will you mostly do with it?", k: "use", a: [["🎮", "Gaming", "game"], ["📚", "School & browsing", "school"], ["💼", "Work & office", "work"], ["🎨", "Video, photo & 3D", "create"]] };
+  const Q_REST = [
+    Q_USE,
     { q: "What's your budget?", k: "budget", a: [["🪙", "Under $500", 500], ["💵", "Up to $900", 900], ["💰", "Up to $1,500", 1500], ["🤑", "Money is no object", null]] },
     { q: "Which size feels right?", k: "size", a: [["🎒", "Small & light (14\" or less)", "s"], ["💻", "Standard (15–16\")", "m"], ["🖥️", "Big screen (17\"+)", "l"], ["🤷", "Don't care", "any"]] },
     { q: "New or second-hand?", k: "cond", a: [["✨", "Brand new only", "new"], ["♻️", "Used is fine if cheaper", "any"]] },
   ];
-  let quizAns = {};
+  const gameOpt = (name) => { const g = GAMES.find((x) => x.name === name); return [g.ico, g.name, g.good]; };
+  const qGame = () => [
+    Q_USE,
+    { q: "What do you play the most?", k: "need", a: [gameOpt("Valorant"), gameOpt("Counter-Strike 2"), gameOpt("Fortnite"), gameOpt("Minecraft"), gameOpt("EA Sports FC"), gameOpt("Call of Duty: Warzone"), gameOpt("GTA V"), ["🌆", "Big new games (Cyberpunk, Wukong…)", 72]] },
+    { q: "What matters more to you?", k: "boost", a: [["⚡", "Max FPS: I play competitive", 10], ["🎨", "Max graphics: it must look amazing", 18], ["👍", "Just let it run well", 0]] },
+    { q: "What's your gaming budget?", k: "budget", a: [["🪙", "Under $900", 900], ["💵", "Up to $1,300", 1300], ["💰", "Up to $1,800", 1800], ["💎", "Up to $2,500", 2500], ["🤑", "Sky's the limit", null]] },
+    { q: "Pick your size", k: "size", a: [["🎒", "15–16\": I carry it around", "m"], ["🖥️", "17–18\": big-screen battlestation", "l"], ["🤷", "Don't care", "any"]] },
+    { q: "Choose your team", k: "team", a: [["🦅", "ASUS ROG / TUF", "ASUS"], ["⚔️", "Lenovo Legion / LOQ", "Lenovo"], ["🐉", "MSI", "MSI"], ["🌀", "HP Omen / Victus", "HP"], ["🔺", "Acer Nitro / Predator", "Acer"], ["👽", "Dell Alienware", "Dell"], ["🤝", "No favourite", null]] },
+    { q: "New or second-hand?", k: "cond", a: [["✨", "Brand new only", "new"], ["♻️", "Used is fine if cheaper", "any"]] },
+  ];
+  let quizAns = {}, quizFlow = Q_REST;
+  const gamer = () => quizAns.use === "game";
   function quizStep(i) {
-    if (i >= QUIZ.length) return quizDone();
-    const st = QUIZ[i];
-    openFun("🧭 Find my laptop", `<div class="quiz"><div class="quiz-prog"><i style="width:${(i / QUIZ.length) * 100}%"></i></div>
-      <p class="quiz-n">Question ${i + 1} of ${QUIZ.length}</p><h4>${st.q}</h4>
-      <div class="quiz-opts">${st.a.map((a, j) => `<button type="button" class="quiz-opt" data-qi="${i}" data-qa="${j}"><span>${a[0]}</span>${esc(a[1])}</button>`).join("")}</div></div>`);
+    if (i >= quizFlow.length) return quizDone();
+    const st = quizFlow[i];
+    openFun(gamer() ? "🎮 Gamer mode: find your rig" : "🧭 Find my laptop", `<div class="quiz"><div class="quiz-prog"><i style="width:${(i / quizFlow.length) * 100}%"></i></div>
+      <p class="quiz-n">${gamer() ? "Level" : "Question"} ${i + 1} of ${quizFlow.length}</p><h4>${st.q}</h4>
+      <div class="quiz-opts${st.a.length > 4 ? " many" : ""}">${st.a.map((a, j) => `<button type="button" class="quiz-opt" data-qi="${i}" data-qa="${j}"><span>${a[0]}</span>${esc(a[1])}</button>`).join("")}</div></div>`);
+    FD.classList.toggle("gamer", gamer());
   }
   function quizDone() {
-    const a = quizAns;
+    const a = quizAns, game = gamer();
     S = blank(); $("q").value = ""; $("pmin").value = ""; $("priced").checked = false;
-    if (a.use === "game") { S.uses.add("Gaming"); S.gpuKind = "Dedicated"; }
+    if (game) {
+      const need = Math.min(MAX_RANK, (a.need || 36) + (a.boost || 0));
+      S.game = { name: "your games", good: need, pcOnly: true };
+      if (a.team) S.brands.add(a.team);
+    }
     if (a.use === "school") S.uses.add("Everyday & Business");
     if (a.use === "work") { S.uses.add("Everyday & Business"); S.ramMin = 8; }
     if (a.use === "create") { S.ramMin = 16; S.gpuKind = "Dedicated"; }
@@ -649,21 +667,40 @@
     S.screen = a.size;
     if (a.cond === "new") S.conds.add("New");
     S.pricedOnly = true; $("priced").checked = true;
-    sort = a.use === "game" || a.use === "create" ? "gpu" : "price-asc"; $("sort").value = sort;
+    sort = game ? "price-asc" : a.use === "create" ? "gpu" : "price-asc"; $("sort").value = sort;
     let list = ALL.filter((p) => matches(p));
     if (!list.length && S.screen !== "any") { S.screen = "any"; list = ALL.filter((p) => matches(p)); }
+    if (!list.length && S.brands.size) { S.brands.clear(); list = ALL.filter((p) => matches(p)); }
     render();
     const best = list.sort(SORTS[sort])[0];
-    openFun("🎉 Your matches", best
-      ? `<p class="quiz-n"><b>${list.length}</b> laptops fit you. They're now shown on the page. Here's our top pick:</p><div class="grid one">${card(best)}</div><p style="text-align:center"><button type="button" class="btn primary" data-see-all>See all ${list.length} matches</button></p>`
-      : `<p>No laptop fits all of that right now 😅. Try a bigger budget or another size.</p><p style="text-align:center"><button type="button" class="btn primary" data-quiz>Try again</button></p>`);
-    if (best) { const r = $("fun-body").getBoundingClientRect(); confetti(r.left + r.width / 2, r.top + 40); ach("quiz"); }
+    const beast = game && list.length > 1 ? list.slice().sort((x, y) => (y.gpuRank || 0) - (x.gpuRank || 0) || x.price - y.price)[0] : null;
+    if (!best) {
+      openFun(game ? "💀 Game over" : "😅 No match", `<p>${game ? "No laptop in that budget can handle it. Try a bigger budget, an easier game or ‘Just let it run well’." : "No laptop fits all of that right now. Try a bigger budget or another size."}</p><p style="text-align:center"><button type="button" class="btn primary" data-quiz>${game ? "🔁 Respawn" : "Try again"}</button></p>`);
+      FD.classList.toggle("gamer", game);
+      return;
+    }
+    if (game) {
+      openFun("🏆 GG! Your gaming rigs", `<p class="quiz-n"><b>${list.length}</b> laptops can handle it. They're on the page now, cheapest first.</p>
+        <h4 class="pick-h">💸 Best value: cheapest that runs it</h4><div class="grid one">${card(best)}</div>
+        ${beast && beast !== best ? `<h4 class="pick-h">🐉 Most powerful in your budget</h4><div class="grid one">${card(beast)}</div>` : ""}
+        <p style="text-align:center"><button type="button" class="btn primary" data-see-all>See all ${list.length} rigs</button></p>`);
+      FD.classList.add("gamer");
+      if (!calm) rain("🎮", 24);
+    } else {
+      openFun("🎉 Your matches", `<p class="quiz-n"><b>${list.length}</b> laptops fit you. They're now shown on the page. Here's our top pick:</p><div class="grid one">${card(best)}</div><p style="text-align:center"><button type="button" class="btn primary" data-see-all>See all ${list.length} matches</button></p>`);
+    }
+    const r = $("fun-body").getBoundingClientRect(); confetti(r.left + r.width / 2, r.top + 40); ach("quiz");
   }
-  $("quiz-btn").addEventListener("click", () => { quizAns = {}; quizStep(0); });
+  $("quiz-btn").addEventListener("click", () => { quizAns = {}; quizFlow = Q_REST; quizStep(0); });
   $("fun-body").addEventListener("click", (e) => {
     const o = e.target.closest("[data-qi]");
-    if (o) { const i = +o.dataset.qi; quizAns[QUIZ[i].k] = QUIZ[i].a[+o.dataset.qa][2]; return quizStep(i + 1); }
-    if (e.target.closest("[data-quiz]")) { quizAns = {}; return quizStep(0); }
+    if (o) {
+      const i = +o.dataset.qi, st = quizFlow[i];
+      quizAns[st.k] = st.a[+o.dataset.qa][2];
+      if (st.k === "use") quizFlow = quizAns.use === "game" ? qGame() : Q_REST;
+      return quizStep(i + 1);
+    }
+    if (e.target.closest("[data-quiz]")) { quizAns = {}; quizFlow = Q_REST; return quizStep(0); }
     if (e.target.closest("[data-see-all]")) { closeFun(); $("summary").scrollIntoView({ behavior: calm ? "auto" : "smooth", block: "center" }); return; }
     const g = e.target.closest("[data-guess]");
     if (g) return guess(g.dataset.guess);
