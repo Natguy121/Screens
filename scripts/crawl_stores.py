@@ -78,7 +78,7 @@ LAPTOP_WORDS = re.compile(
 NOT_LAPTOP = re.compile(
     r"desktop|\btower\b|all[- ]in[- ]one|\baio\b|mini[- ]?pc|\bnuc\b|ideacentre|thinkcentre|optiplex|monitor|"
     r"gaming[- ]pc\b|\bbarebone|motherboard|\bbag\b|backpack|sleeve|charger|adapter|battery|cooling[- ]pad|"
-    r"replacement|compatible|screen[- ]protector|\bipad\b|\btablet\b|smartwatch|\bwatch\b|handheld|\bclaw\b|\bskin\b|keyboard[- ]cover|\bhinge\b|\bfan\b|\blcd\b", re.I)
+    r"replacement|compatible|screen[- ]protector|\bipad\b|\btablet\b|\bpos\b|pos system|hardshell|power bank|price checker|customer display|case for|laptop case|magic keyboard|smartwatch|\bwatch\b|handheld|\bclaw\b|\bskin\b|keyboard[- ]cover|\bhinge\b|\bfan\b|\blcd\b", re.I)
 CPU_HINT = re.compile(r"\bi[3579]\b|i[3579][- ]?\d{4}|ultra[- ]?[3579]|ryzen|core[- ]?[3579]\b|\bm[1-5]\b|snapdragon|"
                       r"celeron|pentium|\bn[12]00\b|i3[- ]n\d{3}|apple", re.I)
 
