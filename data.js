@@ -63489,7 +63489,7 @@ window.SPECS_DATA = {
    "brand": "Dell",
    "name": "Inspiron 7845SLV-PL",
    "ram": "32GB",
-   "storage": "41TB SSD",
+   "storage": "1TB SSD",
    "screen": null,
    "screenIn": null,
    "touch": false,
@@ -63512,7 +63512,7 @@ window.SPECS_DATA = {
    "gpu": "NVIDIA GeForce MX330",
    "gpuRank": 12,
    "ramGB": 32,
-   "storageGB": 41984,
+   "storageGB": 1024,
    "storageType": "SSD"
   },
   {
@@ -118170,7 +118170,7 @@ window.SPECS_DATA = {
    "brand": "Lenovo",
    "name": "THINKPAD E16 G3",
    "ram": "16GB",
-   "storage": "512TB SSD",
+   "storage": "512GB SSD",
    "screen": "16\"",
    "screenIn": 16.0,
    "touch": false,
@@ -118193,7 +118193,7 @@ window.SPECS_DATA = {
    "gpu": "Intel integrated graphics",
    "gpuRank": 10,
    "ramGB": 16,
-   "storageGB": 524288,
+   "storageGB": 512,
    "storageType": "SSD"
   },
   {
