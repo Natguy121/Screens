@@ -239,6 +239,8 @@ def storage_of(t):
     for m in re.finditer(r"(\d(?:\.\d)?|\d{2,4})\s*(gb|tb)\s*(?:pcie\s*|gen\s*\d\s*|m\.2\s*)*(ssd|nvme|hdd|emmc|storage)", t, re.I):
         if m.group(2).lower() == "gb" and float(m.group(1)) < 32:
             continue
+        if m.group(2).lower() == "tb" and float(m.group(1)) > 8:  # "512TB" is a typo for 512GB
+            return f"{m.group(1)}GB SSD" if m.group(1) in ("128", "256", "512") else None
         kind = "HDD" if m.group(3).lower() == "hdd" else "SSD"
         return f"{m.group(1)}{m.group(2).upper()} {kind}"
     m = re.search(r"\b(1|2|4)\s*tb\b", t, re.I)
